@@ -1,0 +1,989 @@
+name,location,stars,amount_conv,Rating,NumReviews,Airport,Pool,Breakfast,Family_Rooms,Parking,Restaurant,size_m2,Pets,Month,Location
+Skipper Beachfront Suites,"87 Agias Paraskevis, Limenas Hersonissou, Hersonissos, 70014, Greece",3.0,678.0,9.0,9 ,False,False,True,True,True,True,23.0,False,July,Crete
+Elektra Beach Hotel,"Kalamaki, Kalamaki, 73100, Greece",3.0,768.75,9.0,621 ,True,True,False,True,True,False,26.0,False,July,Crete
+Dedalos Beach Hotel,"Sfakaki, Sfakaki, 74100, Greece",3.0,600.6944444444445,8.3, 52 ,True,True,True,False,True,True,22.0,False,July,Crete
+Lena Beach Hotel,"Kalathas, Kalathas, 73100, Greece",,691.588785046729,8.9,380 ,True,True,True,False,True,True,19.0,False,July,Crete
+Falasarna Bay,"Falasarna, Falasarna, 73400, Greece",,628.0373831775701,8.7,"1,129 ",True,False,True,True,True,False,35.0,False,July,Crete
+Eva Suites & Apartments,"Agia Marina Chania Crete, Galatás, 73014, Greece",,585.0467289719626,,,False,True,False,True,False,False,30.0,False,July,Crete
+Hotel Orama-Matala,"Matala-Crete 0, Matala, 70200, Greece",3.0,597.9910714285713,8.5, 706 ,False,True,False,True,True,False,50.0,False,July,Crete
+Eleana Nature & Art,"Eparchiaki Odos Vrison-Sfakion 6, Hora Sfakion, 73011, Greece",3.0,573.0,9.4,406 ,True,False,False,True,True,False,20.0,True,July,Crete
+Galini Studios & Apartments,"Sougia, Sougia, 73009, Greece",3.0,600.0,9.1,391 ,False,False,False,True,True,False,30.0,False,July,Crete
+Dedalos Hotel,"11 Odissea Eliti, Malia, 70007, Greece",,579.4392523364486,8.5, 292 ,True,True,False,False,True,True,19.0,True,July,Crete
+Blue Dream Hotel,"Stavromenos, Stavromenos, 74100, Greece",3.0,525.0,8.3, 251 ,True,True,True,False,True,True,27.0,True,July,Crete
+Tarra,"Ayia Roumeli, Agia Roumeli, 73011, Greece",,721.4953271028037,8.6,196 ,False,False,True,False,True,True,19.0,False,July,Crete
+Palladion,"Adelianos Kampos, Adelianos Kampos, 74100, Greece",,625.233644859813,8.1, 163 ,False,True,False,True,True,True,,False,July,Crete
+Idomeneas Apartments,"Sougia , Sougia, 73009, Greece",3.0,630.0,9.3,343 ,False,False,False,True,True,False,32.0,True,July,Crete
+Consolas Gavdos Studios,"Sarakinito, Gavdos, 73001, Greece",,598.1308411214953,8.1, 158 ,False,False,False,True,True,False,19.0,True,July,Crete
+Sofia Hotel,"Odos Oneiron 25, Plakias, 74060, Greece",3.0,524.5017763749752,8.9,324 ,True,False,False,False,True,False,17.0,True,July,Crete
+George Seaside House,"Makrygialos, Pilalímata, 72055, Greece",,481.30841121495325,,,False,False,False,True,True,False,75.0,False,July,Crete
+Callista,"Emmanouil Kastrinaki 6, Kissamos, 73400, Greece",,568.2242990654205,9.3,284 ,True,False,False,False,True,False,22.0,False,July,Crete
+Hermes Hotel,"Iroon Polytechniou 94, 73400 Kissamos, Kissamos, 73400, Greece",,598.1308411214953,8.0, 618 ,True,True,True,False,True,True,15.0,True,July,Crete
+FUTURA APARTMENTS,"Maleme, Chania, 73100, Greece",3.0,569.2033156804052,,,False,True,False,True,False,True,50.0,False,July,Crete
+Kolimbito Sea Side,"Falasarna Kissamos Chania, Falasarna, 73400, Greece",,591.588785046729,9.3,328 ,True,False,False,True,True,False,27.0,False,July,Crete
+Villa Aliki,"Mirtos, Myrtos, 72056, Greece",3.0,583.9285714285713,9.1,95 ,True,False,False,True,True,False,54.0,True,July,Crete
+Lefka Ori,"Chora Sfakíon, Hora Sfakion, 73100, Greece",3.0,840.0,7.9,451 ,True,False,True,True,True,True,44.0,False,July,Crete
+Solon Apartments,"Maleme, Maleme, 73100, Greece",,697.196261682243,9.7,132 ,True,True,True,True,True,False,40.0,False,July,Crete
+Ekavi Hotel,"Sfakaki, Sfakaki, 74100, Greece",,571.0280373831775,8.4, 101 ,False,True,False,True,True,True,27.0,False,July,Crete
+Monachus Monachus,"Fragokastello, Frangokastello, 73011, Greece",3.0,527.0,9.0,336 ,False,True,False,True,True,False,55.0,False,July,Crete
+Stella Beach Hotel,"Panormos Rethymno, Panormos Rethymno, 74057, Greece",3.0,495.34883720930236,8.7,103 ,False,True,True,False,False,True,20.0,False,July,Crete
+Corali Studios & Portobello Apartments,"Elounda, Elounda, 70014, Greece",3.0,528.4722222222223,8.9,207 ,True,True,True,True,True,False,28.0,False,July,Crete
+Sunrise Hotel & Apartments,"Rodakino, Rodakino, 74060, Greece",3.0,356.0,8.0, 151 ,True,True,True,True,True,True,35.0,False,July,Crete
+Villa Koutsakis,"Kali Limenes, Chrysostomos, Kaloi Limenes, 70400, Greece",3.0,617.4097664543524,8.3, 295 ,False,False,True,True,True,True,28.0,True,July,Crete
+Villea Village,"Analipsi, Makry Gialos, 72055, Greece",,595.3271028037383,8.3, 264 ,False,True,True,True,True,True,23.0,False,July,Crete
+Falasarna Bay,"Falasarna, Falasarna, 73400, Greece",3.0,627.7777777777778,8.7,"1,129 ",True,False,True,True,True,False,35.0,False,July,Crete
+Sunny Bay Hotel,"Kasteli Kissamou, Kissamos, 73400, Greece",,776.6355140186915,8.8,355 ,True,True,True,False,True,True,27.0,True,July,Crete
+Thalia deco City & Beach Hotel,"El. Venizelou 176, Limenas Hersonissou, Hersonissos, 70014, Greece",3.0,635.0678733031674,9.2,338 ,True,True,True,True,True,True,19.0,True,July,Crete
+Villa Rita Apartments A,"Tavronitis, Tavronitis, 73006, Greece",,528.9719626168225,8.6,92 ,True,False,True,True,True,False,35.0,False,July,Crete
+Apollon Hotel Apartments,"Neas Fokeas St., Platanes, 74100, Greece",3.0,578.0,8.7,112 ,True,True,True,True,True,False,30.0,False,July,Crete
+Ammoudi Hotel,"Lefkogia, Damnoni, 74060, Greece",,570.0934579439252,7.6,155 ,True,False,False,True,True,True,40.0,True,July,Crete
+Castro Hotel,"A.Papandreou str. 301, Amoudara Herakliou, 71414, Greece",,0.0,8.2, 522 ,False,True,True,True,True,True,,False,July,Crete
+Mirtilos Studios & Apartments,"Kissamos, Kissamos, 73400, Greece",,661.6822429906541,8.7,420 ,True,True,True,True,True,False,30.0,False,July,Crete
+Horizon Beach Hotel,"West End on coast, Plakias, 74060, Greece",3.0,653.1447963800905,8.9,429 ,False,False,True,True,True,False,18.0,True,July,Crete
+Asterina Seaside Apartments,"Kalyves, Kalyves, 73003, Greece",3.0,141187.8504672897,9.1,120 ,True,False,False,True,True,False,32.0,False,July,Crete
+Sea Breeze,"Kalamaki, Chania, Kalamaki, 73100, Greece",3.0,632.0,8.8,152 ,True,False,False,True,True,False,20.0,True,July,Crete
+Niros Beachfront Aparthotel,"Eleftheriou venizelou, Kokkini Khanion, 71500, Greece",,601.8691588785047,8.1, 115 ,False,True,True,True,False,False,40.0,True,July,Crete
+Anastasia Hotel Stalis,"Main Street, Stalís, 70007, Greece",3.0,733.0,8.9,90 ,True,False,True,False,True,True,20.0,False,July,Crete
+Hotel Tsagarakis Beach,"Konstantinou Mitsotaki, Amoudara Herakliou, 71414, Greece",,601.8691588785047,7.7,103 ,False,True,False,False,True,False,18.0,False,July,Crete
+Villa Thalia,"Beach, Milatos, 72400, Greece",3.0,531.0,8.6,80 ,True,False,True,True,True,True,50.0,False,July,Crete
+Hotel Orama-Matala,"Matala-Crete 0, Matala, 70200, Greece",3.0,596.0,8.5, 706 ,False,True,False,True,True,False,50.0,False,July,Crete
+Cosy Country Villa,"Συκια Σητειας μονοκατοικια, Pappayiannádhes, 72300, Greece",3.0,597.0,8.4, 8 ,False,False,False,True,True,False,100.0,False,July,Crete
+Aspros Potamos,"Aspros Potamos, Makry Gialos, 72055, Greece",,571.0280373831775,9.0,254 ,False,False,False,True,True,False,35.0,True,July,Crete
+Lines Concept Accommodation,"N. Askoutsi & Kalliergi 4, Rethymno, 74132, Greece",,673.8317757009345,9.7,47 ,True,False,False,True,False,False,26.0,False,July,Crete
+Mardinik Hotel Apartments,"28th of October Str,7, Rethymno Town, Rethymno, 74100, Greece",3.0,811.9592875318066,9.4,229 ,True,False,False,True,True,False,40.0,False,July,Crete
+Marvel Deluxe Rooms,"Agiou Fanouriou 15, Heraklio, 71601, Greece",,703.7383177570093,8.4," 1,034 ",False,False,True,True,True,False,19.0,False,July,Crete
+Ammoudara Beach Hotel Apartments,"Ammoudara, Agios Nikolaos, 72100, Greece",3.0,872.0,8.1, 501 ,False,True,True,True,True,False,58.0,False,July,Crete
+Paloma Garden Hotel,"Irinis 38, Stalís, 70007, Greece",,816.822429906542,8.5, 20 ,True,True,False,True,True,True,18.0,False,July,Crete
+Areti Aparthotel,"Aptera, Megala Khorafia, Áptera, 73200, Greece",3.0,655.8139534883721,8.5, 276 ,False,True,True,True,True,False,44.0,True,July,Crete
+Elounda Krini Hotel,"Andrea Papandreou, Elounda, 72053, Greece",,640.1869158878504,8.1, 400 ,True,True,True,True,True,True,15.0,False,July,Crete
+Eleana Nature & Art,"Eparchiaki Odos Vrison-Sfakion 6, Hora Sfakion, 73011, Greece",,691.588785046729,9.4,406 ,True,False,False,True,True,False,19.0,True,July,Crete
+Marita's Apartments,"Agia Marina, Agia Marina Nea Kydonias, 73100, Greece",,863.5514018691588,8.7,189 ,True,False,False,True,True,False,35.0,False,July,Crete
+IRIDA Studios Hotel & Pool,"Plakias, Plakias, 74060, Greece",3.0,551.2297557679019,8.5, 128 ,True,True,True,True,True,True,25.0,True,July,Crete
+Narkissos 'SUPERB',"Kondilaki 15, Chania, 73100, Greece",,893.4579439252336,8.3, 644 ,False,False,True,True,False,False,37.0,False,July,Crete
+Theo Star Beach Hotel,"Nikolaou Grammatikaki, Malia, 70007, Greece",,844.8598130841121,8.5, 93 ,True,True,True,True,True,True,18.0,False,July,Crete
+Dedalos Hotel,"11 Odissea Eliti, Malia, 70007, Greece",3.0,605.0,8.5, 292 ,True,True,False,False,True,True,20.0,True,July,Crete
+Artion Boutique by Enorme,"Monis Kardiotissis 40, Heraklio, 71201, Greece",3.0,708.0,9.3,573 ,False,False,False,False,False,False,22.0,False,July,Crete
+Blue Dream Hotel,"Stavromenos, Stavromenos, 74100, Greece",,601.8691588785047,8.3, 251 ,True,True,True,False,True,True,27.0,True,July,Crete
+Creta Verano Hotel,"El. Venizelou 183 Str., Malia, 70007, Greece",3.0,607.0,8.1, 37 ,False,True,True,True,True,True,24.0,False,July,Crete
+Vranas Ambiance Hotel,"Mitropoleos Sq.& Agion Deka, Chania, 73100, Greece",3.0,679.2442788717403,9.1,552 ,False,False,False,False,False,False,20.0,False,July,Crete
+Maritime Suites by Enorme,"22 Theotokopoulou Str., Limenas Hersonissou, Hersonissos, 70014, Greece",3.0,531.0,8.5, 230 ,True,False,False,True,True,False,22.0,False,July,Crete
+Tarra,"Ayia Roumeli, Agia Roumeli, 73011, Greece",,721.4953271028037,8.6,196 ,False,False,True,False,True,True,19.0,False,July,Crete
+Fodele Beachfront Apts,"Fodele, Fodele, 71500, Greece",3.0,719.7674418604652,9.1,27 ,False,False,False,True,True,False,24.0,False,July,Crete
+Olympic Palladium,"42 Themistokli Moatsou Str., Rethymno, 74100, Greece",3.0,609.9521021820117,8.0, 577 ,False,True,False,False,False,True,20.0,False,July,Crete
+Monte Vardia,"Odyssea Elyti 2-4, Chania, 73133, Greece",3.0,853.6426048123709,9.2,424 ,False,True,False,True,True,True,34.0,False,July,Crete
+Palladion,"Adelianos Kampos, Adelianos Kampos, 74100, Greece",3.0,572.0038101835815,8.1, 163 ,False,True,False,True,True,True,,False,July,Crete
+Emilio's House,"Agia Paraskevi, Agia Paraskevi, 74055, Greece",3.0,617.0,9.0,11 ,False,False,False,True,False,False,80.0,True,July,Crete
+Idomeneas Apartments,"Sougia , Sougia, 73009, Greece",,661.6822429906541,9.3,343 ,False,False,False,True,True,False,31.0,True,July,Crete
+Consolas Gavdos Studios,"Sarakinito, Gavdos, 73001, Greece",3.0,712.7232142857142,8.1, 158 ,False,False,False,True,True,False,50.0,True,July,Crete
+Revekka Rooms,"Telonio Beach, Kissamos, 73400, Greece",3.0,465.0,9.2,485 ,True,False,True,True,True,False,21.0,False,July,Crete
+Theos Holidays Apartments,"Kato Makri Toixos , Kato Daratso, 73135, Greece",,657.0093457943925,9.1,210 ,False,True,False,True,True,False,30.0,False,July,Crete
+Aurora apartments,"37 Leoforos Kazantzaki, Chania, 73131, Greece",,942.9906542056074,9.5,38 ,True,True,False,True,True,False,40.0,False,July,Crete
+Alexena Apartments,"Agia galini, Agia Galini, 74056, Greece",,782.2429906542055,9.4,116 ,False,False,False,True,True,False,74.0,True,July,Crete
+Fodele Beachfront Apts,"Fodele, Fodele, 71500, Greece",,613.0841121495326,9.1,27 ,False,False,False,True,True,False,24.0,False,July,Crete
+Kliklis Apartment,"1866 Number 11 ,2nd floor, Heraklio, 71201, Greece",3.0,513.8888888888889,9.3,95 ,False,False,False,True,False,False,40.0,False,July,Crete
+Cozy Corner VS Beachfront,"kato Stalos, Stalos, 73100, Greece",3.0,693.0,1.0,1 ,True,True,False,False,False,False,18.0,False,July,Crete
+Country Hotel Velani,"Avdou Pediados, Avdou, 70005, Greece",3.0,838.9027149321266,9.4,90 ,False,False,True,True,True,True,33.0,True,July,Crete
+Alianthos Beach Hotel,"Plakias, Plakias, 74060, Greece",,649.5327102803737,8.2, 175 ,True,True,True,False,True,True,19.0,False,July,Crete
+Cretan Sun,"20 Imvrou Str, Platanes, 74100, Greece",,571.0280373831775,7.9,151 ,False,False,True,True,True,False,30.0,True,July,Crete
+Idomeneas Apartments,"Sougia , Sougia, 73009, Greece",3.0,610.0,9.3,343 ,False,False,False,True,True,False,32.0,True,July,Crete
+Marika Hotel,"Platanias, Platanias, 73014, Greece",3.0,712.5,8.8,242 ,True,False,True,True,True,True,18.0,False,July,Crete
+Selena Village Hotel Elounda,"Main Street, Elounda, 72053, Greece",,753.2710280373832,7.9,130 ,True,False,True,False,True,True,30.0,False,July,Crete
+Elea Terra Hotel,"Matala 0, Matala, 70200, Greece",,372.8971962616822,7.8,100 ,False,True,True,True,True,True,23.0,False,July,Crete
+Poppy Beloni,"Selinou 149, Chania, 73131, Greece",3.0,524.4186046511628,8.3, 231 ,False,False,False,False,False,False,24.0,False,July,Crete
+Ekavi Apartments,"Agia Marina, Agia Marina Nea Kydonias, 73103, Greece",3.0,781.25,8.6,122 ,False,False,False,True,False,False,35.0,False,July,Crete
+Quince city center,"9 Κυδωνίας, Heraklio, 71202, Greece",3.0,551.123108711591,9.0,164 ,True,False,False,True,False,False,60.0,False,July,Crete
+Minos Boutique Hotel,"Agia Galini, Agia Galini, 74056, Greece",,674.7663551401869,9.4,133 ,True,False,True,True,True,False,27.0,False,July,Crete
+Panormo Beach Hotel,"Main Street, Panormos Rethymno, 74057, Greece",3.0,596.2749493008859,8.3, 171 ,True,True,True,True,True,False,27.0,False,July,Crete
+Monachus Monachus,"Fragokastello, Frangokastello, 73011, Greece",3.0,527.9383576368638,9.0,336 ,False,True,False,True,True,False,55.0,False,July,Crete
+Loggia Traditional Suites,"Xanthoudidou 23, Rethymno, 74100, Greece",3.0,573.3257918552035,9.3,370 ,True,False,False,False,True,False,36.0,False,July,Crete
+Aneria Suites,"Main Street, Episkopi, 74100, Greece",3.0,690.9722222222223,9.7,45 ,False,False,True,True,True,False,35.0,False,July,Crete
+Blazis House,"Almirida Apokoronou, Almyrida, 73008, Greece",,631.7757009345794,8.8,29 ,False,True,False,True,True,False,44.0,False,July,Crete
+Nontas suites,"Main Street, Kato Daratso, 73100, Greece",3.0,520.6862562271892,7.6,22 ,False,True,True,True,True,False,35.0,False,July,Crete
+Pension Eva,"1 Theofanous & Zambeliou Str, Chania, 73100, Greece",3.0,602.3370941745337,9.0,74 ,True,False,False,False,False,False,17.0,False,July,Crete
+Anchris Paleochora,"Palaiochora, Palaiochora, 73001, Greece",,514.018691588785,9.5,113 ,True,False,False,True,True,False,32.0,False,July,Crete
+Fantastic Matala 2,"Matala, Matala, 70200, Greece",3.0,419.959266802444,9.0,198 ,False,False,False,True,True,False,15.0,True,July,Crete
+Almyra Apartments,"Sfakaki, Sfakaki, 74100, Greece",,505.607476635514,8.9,53 ,True,True,False,True,True,False,35.0,False,July,Crete
+Villa Amalia,"Kouremenos, Palekastron, 72300, Greece",3.0,441.0,8.8,41 ,False,False,False,True,True,False,40.0,False,July,Crete
+Irinoula Dreams,"Main Street, Kolymvari, 73100, Greece",3.0,514.0027966570193,9.2,138 ,False,True,True,True,False,False,26.0,False,July,Crete
+Edelweiss,"Τsoutsouros , Tsoutsouros, 70100, Greece",3.0,276.0,8.8,116 ,True,False,False,True,True,False,20.0,True,July,Crete
+Kallicrates Village,"Fragokastello, Frangokastello, 73011, Greece",3.0,480.5555555555556,9.2,180 ,True,True,True,True,True,False,35.0,True,July,Crete
+Simon Studios and Apartments,"Petras, Sitia, 72300, Greece",3.0,417.0,9.4,168 ,False,False,False,True,True,False,35.0,True,July,Crete
+Nikos Apartments,"Kritis 3, Stalís, 70 007, Greece",,541.1214953271028,8.5, 73 ,True,True,True,True,True,False,32.0,False,July,Crete
+Vrachos Villas,"Agia Paraskevi, Agia Paraskevi, 74053, Greece",3.0,462.0,9.2,83 ,False,True,True,True,True,True,45.0,True,July,Crete
+Dimitra Hotel & Apartments,"Kokkíni Khánion, Kokkini Khanion, 71500, Greece",,514.018691588785,8.7,21 ,False,True,True,True,True,False,22.0,False,July,Crete
+Galaxy Hotel,"Kato Stalos, Stalos, 73100, Greece",,439.2523364485981,8.3, 83 ,False,True,False,True,True,False,18.0,False,July,Crete
+Villa Kastri,"Gavdos, Gavdos, 73001, Greece",3.0,497.0,8.9,27 ,True,False,False,False,True,False,50.0,False,July,Crete
+Hotel Anna Apartments,"Palaia Ethniki Odos, Kokkini Khanion, 71500, Greece",,474.7663551401869,8.4, 68 ,True,False,True,True,True,False,27.0,True,July,Crete
+Ambelos,"Mononaftis, Agia Pelagia, 71500, Greece",3.0,419.3361327734453,9.4,111 ,False,True,False,True,True,False,20.0,False,July,Crete
+Lefteris Rooms,"Kampos, Elafonissi, Kámbos, 73012, Greece",3.0,442.0,9.4,140 ,False,False,False,False,True,True,50.0,False,July,Crete
+Creta home in Heraklion center,"19 Περατζάκη 0, Bendevís, 71202, Greece",,451.40186915887847,10,1 ,False,False,False,False,True,False,37.0,False,July,Crete
+Niki Apartments,"Makry Gialos, Makry Gialos, 71205, Greece",,441.12149532710276,9.1,36 ,False,False,False,True,True,False,31.0,True,July,Crete
+Preveli Apartments,"Filikon 9A, Rethymno, 74100, Greece",3.0,389.0,9.2,355 ,False,False,False,False,False,False,35.0,False,July,Crete
+Nostos,"Matala, Matala, 70200, Greece",3.0,450.69444444444446,8.4, 344 ,False,False,False,True,True,False,30.0,False,July,Crete
+Fabrica,"Vamos, Vamos, 73008, Greece",3.0,469.0,8.7,31 ,False,False,False,True,True,False,48.0,True,July,Crete
+Urban Studios,"ΤΡΑΝΤΑΛΛΙΔΟΥ 13- 15, Rethymno, 74100, Greece",3.0,475.0,8.8,49 ,True,False,False,False,True,False,61.0,False,July,Crete
+Morpheas Rooms,"Kountoura Selinou, Kountoura Selino, 73001, Greece",3.0,449.6240601503759,9.3,282 ,False,False,False,True,True,False,15.0,True,July,Crete
+Troulis Apartments,"Kalymnou, Amoudara Herakliou, 71500, Greece",3.0,372.7254549090182,8.4, 313 ,False,False,True,True,True,False,16.0,False,July,Crete
+Villa Kastri,"Gavdos, Gavdos, 73001, Greece",3.0,652.409592810261,8.9,27 ,True,False,False,False,True,False,100.0,False,July,Crete
+Hotel Anna Apartments,"Palaia Ethniki Odos, Kokkini Khanion, 71500, Greece",,595.3271028037383,8.4, 68 ,True,False,True,True,True,False,44.0,True,July,Crete
+Gramvoussa Bay,"Gramvoussa, Kissamos, 73400, Greece",,785.0467289719626,8.9,266 ,True,False,False,True,True,False,27.0,False,July,Crete
+Aphea Village,"Kolymvari, Kolymvari, 74006, Greece",3.0,640.0,7.8,171 ,False,True,False,True,False,True,40.0,False,July,Crete
+Melitti Hotel,"12 Sgourafogianni Str. (Perivolia), Rethymno, 74100, Greece",3.0,700.7518796992481,8.7,398 ,False,True,True,True,True,False,28.0,True,July,Crete
+Semiso Beach Suites,"Κουρνάς 0, Kournás, 73007, Greece",,655.1401869158879,9.7,31 ,True,False,False,True,True,False,60.0,True,July,Crete
+Pleasure Beach Hotel,"Afenti Christou, Malia, 70007, Greece",3.0,644.0,8.5, 156 ,True,True,True,True,True,True,20.0,False,July,Crete
+Troulis Apartments,"Kalymnou, Amoudara Herakliou, 71500, Greece",3.0,427.77777777777777,8.4, 313 ,False,False,True,True,True,False,16.0,False,July,Crete
+Yiannis Manos Hotel Resort,"Knossou Street, Malia, 70007, Greece",3.0,549.0,8.9,342 ,True,False,True,True,True,True,25.0,False,July,Crete
+Paradise Studios,"Mirtos, Ierapetra, Myrtos, 72056, Greece",3.0,589.0,6.7,154 ,True,False,False,True,False,False,250.0,True,July,Crete
+Cost Mari Almyrida New by ZAGO Boutiqe hotels,"Almirída, Almyrida, 73008, Greece",,793.4579439252336,9.0,62 ,False,True,False,True,True,False,19.0,False,July,Crete
+Villa Stella Apartments,"Agiou Ioanni, Stalís, 70007, Greece",3.0,562.2398190045249,9.5,44 ,True,False,False,True,False,False,23.0,False,July,Crete
+Incognito Creta Luxury Suites and More,"Δημοτικη Οδος, Kolymvari, 73006, Greece",3.0,841.9847328244274,9.6,142 ,False,True,False,True,False,False,30.0,False,July,Crete
+Kritamos Beach Apartments,"Frangokastello, Frangokastello, 73011, Greece",3.0,549.0,9.5,144 ,True,False,False,True,True,False,35.0,True,July,Crete
+Paradise Matala Hotel,"Matala 1, Matala, 70200, Greece",3.0,600.6944444444445,8.3, 512 ,True,True,True,True,True,False,30.0,True,July,Crete
+Nikis Apartments Kisamos,"Drapanias 0 Ground Floor, Drapaniás, 73400, Greece",3.0,757.0,9.4,22 ,True,True,False,True,True,False,25.0,False,July,Crete
+Kavos Bay Apartments Elounda,"Sxima Eloundas, Elounda, 72053, Greece",3.0,572.0930232558139,9.0,186 ,True,True,True,True,True,False,40.0,True,July,Crete
+Anna Maria Village,"Anissaras, Anissaras, Hersonissos, 70014, Greece",,0.0,9.0,326 ,True,False,True,True,True,True,,False,July,Crete
+Amazones Villas Apartments,"359, Irinis Road Stalis, Stalís, 70007, Greece",,622.4299065420561,8.6,10 ,True,True,True,True,True,True,37.0,True,July,Crete
+FabView Studio Apartments,"Εθνική Οδός Ρεθύμνου Ηρακλείου, Panormos Rethymno, 74057, Greece",,578.5046728971962,8.2, 22 ,True,False,False,True,True,False,40.0,True,July,Crete
+Sea Breeze Hotel,"Antoniou Kassaveti & 25 Martiou, 17, Limenas Hersonissou, Hersonissos, 700 14, Greece",,785.0467289719626,9.1,217 ,True,False,True,True,True,False,15.0,False,July,Crete
+Cleopatra Apartments,"3, Kosti Palama, Limenas Hersonissou, Hersonissos, 70014, Greece",3.0,599.624060150376,9.1,110 ,True,True,False,True,True,False,27.0,True,July,Crete
+Eftihia Studios,"Paleochora, Palaiochora, 73001, Greece",3.0,739.8253682596813,8.3, 322 ,False,False,False,True,True,False,30.0,False,July,Crete
+Musela Studios,"Episkopi, Episkopi, 74055, Greece",,594.3925233644859,8.9,151 ,True,True,False,False,True,False,24.0,True,July,Crete
+Arocaria Apartments,"Akti Kanari 13, Chania, 73100, Greece",3.0,717.2124483756626,9.1,239 ,True,False,False,True,False,True,20.0,False,July,Crete
+Endless View Apartment to Heraklion city,"ΡΟΔΙΑΣ, Gázion, 71414, Greece",3.0,580.0,9.0,5 ,False,False,False,True,True,False,70.0,False,July,Crete
+Alexena Apartments,"Agia galini, Agia Galini, 74056, Greece",,782.2429906542055,9.4,116 ,False,False,False,True,True,False,74.0,True,July,Crete
+Cozy Corner VS Beachfront,"kato Stalos, Stalos, 73100, Greece",3.0,689.0950226244344,1.0,1 ,True,True,False,False,False,False,18.0,False,July,Crete
+Country Hotel Velani,"Avdou Pediados, Avdou, 70005, Greece",3.0,771.5723521962274,9.4,90 ,False,False,True,True,True,True,33.0,True,July,Crete
+Sunrise Hotel & Apartments,"Rodakino, Rodakino, 74060, Greece",,357.0093457943925,8.0, 151 ,True,True,True,True,True,True,35.0,False,July,Crete
+Alianthos Beach Hotel,"Plakias, Plakias, 74060, Greece",3.0,565.4535759514764,8.2, 175 ,True,True,True,False,True,True,20.0,False,July,Crete
+Marika Hotel,"Platanias, Platanias, 73014, Greece",3.0,621.1157768446311,8.8,242 ,True,False,True,True,True,True,18.0,False,July,Crete
+Elea Terra Hotel,"Matala 0, Matala, 70200, Greece",3.0,371.69042769857435,7.8,100 ,False,True,True,True,True,True,23.0,False,July,Crete
+Albatros Studios & Apartments,"Plakias, Plakias, 74060, Greece",3.0,609.3023255813954,8.2, 68 ,True,False,False,True,True,False,31.0,True,July,Crete
+Poppy Beloni,"Selinou 149, Chania, 73131, Greece",3.0,632.4545245222197,8.3, 231 ,False,False,False,False,False,False,25.0,False,July,Crete
+Ermis Suites,"Main Street, Platanias, 73014, Greece",3.0,873.3939673037071,8.8,154 ,True,False,False,True,True,False,35.0,False,July,Crete
+Evriali Comfort Living,"Παλαιόχωρα, Palaiochora, 73001, Greece",3.0,800.0,9.4,70 ,False,False,False,True,True,False,39.0,False,July,Crete
+Ekavi Apartments,"Agia Marina, Agia Marina Nea Kydonias, 73103, Greece",,782.2429906542055,8.6,122 ,False,False,False,True,False,False,35.0,False,July,Crete
+Minos Boutique Hotel,"Agia Galini, Agia Galini, 74056, Greece",,674.7663551401869,9.4,133 ,True,False,True,True,True,False,27.0,False,July,Crete
+Corali Studios,"Plakias, Plakias, 74060, Greece",3.0,394.4853787704352,8.4, 47 ,True,False,False,True,True,False,25.0,True,July,Crete
+Pennystella Apartments,"Main Road, Agia Pelagia, 71500, Greece",,657.0093457943925,9.0,82 ,True,True,False,True,True,True,24.0,True,July,Crete
+Xidas Garden,"Bali, Bali, 74057, Greece",3.0,628.0,8.4, 81 ,True,False,True,False,True,True,15.0,False,July,Crete
+Iason Studios,"32, Aggelou Street, Chania, 73131, Greece",,842.0560747663551,9.3,134 ,True,False,False,True,False,False,18.0,True,July,Crete
+Loggia Traditional Suites,"Xanthoudidou 23, Rethymno, 74100, Greece",,655.1401869158879,9.3,370 ,True,False,False,False,True,False,36.0,False,July,Crete
+Aneria Suites,"Main Street, Episkopi, 74100, Greece",3.0,635.0,9.7,45 ,False,False,True,True,True,False,35.0,False,July,Crete
+Blazis House,"Almirida Apokoronou, Almyrida, 73008, Greece",3.0,584.375,8.8,29 ,False,True,False,True,True,False,45.0,False,July,Crete
+Thirty8 Heritage House,"38 Eleftheriou Venizelou, Chania, 73132, Greece",3.0,735.0515463917526,9.4,33 ,False,False,False,False,True,False,25.0,False,July,Crete
+Sunshine Studios & Apartments,"Kanavos 2, Stalís, 70007, Greece",3.0,634.8837209302326,9.3,35 ,True,False,True,True,True,False,37.0,False,July,Crete
+Nontas suites,"Main Street, Kato Daratso, 73100, Greece",,660.7476635514018,7.6,22 ,False,True,True,True,True,False,35.0,False,July,Crete
+Sunset View,"68 Λεβήνου, Thérissos, 71304, Greece",3.0,677.8625954198473,10,1 ,True,False,False,False,False,False,75.0,False,July,Crete
+Nontas suites,"Main Street, Kato Daratso, 73100, Greece",3.0,606.0,7.6,22 ,False,True,True,True,True,False,35.0,False,July,Crete
+Pegasus Hotel,"Kato Stalos, Stalos, 73100, Greece",,632.7102803738318,8.5, 119 ,False,False,True,True,True,True,24.0,False,July,Crete
+Linda Apartments Platanias,"Platanias, Platanias, 73014, Greece",,600.0,9.2,155 ,True,False,False,True,True,False,27.0,False,July,Crete
+Villea Village,"Analipsi, Makry Gialos, 72055, Greece",,671.0280373831775,8.3, 264 ,False,True,True,True,True,True,23.0,False,July,Crete
+Panorama Luxury Rooms,"Spili, Agios Vasilios, Spílion, 74053, Greece",3.0,659.7222222222223,9.7,93 ,False,False,True,True,True,False,30.0,False,July,Crete
+Karteros Hotel,"Karteros, Karteros, 71500, Greece",,601.8691588785047,8.1, 317 ,False,True,True,True,True,False,23.0,True,July,Crete
+The City Hotel & Suites,"24 Dimokratias, Rethymno, 74100, Greece",3.0,836.046511627907,9.1,339 ,True,True,True,False,True,False,27.0,False,July,Crete
+Mylos Hotel Apartments,"Platanias, Platanias, 73014, Greece",3.0,691.8604651162791,8.6,72 ,False,True,False,False,True,True,26.0,False,July,Crete
+Aris Studios,"Parlama 6, Limenas Hersonissou, Hersonissos, 70014, Greece",3.0,614.0158371040724,9.4,130 ,True,False,True,True,True,True,27.0,True,July,Crete
+Falasarna Bay,"Falasarna, Falasarna, 73400, Greece",3.0,612.0535714285713,8.7,"1,129 ",True,False,True,True,True,False,35.0,False,July,Crete
+Haridimos Apartments,"Tavroniti, Tavronitis, 73006, Greece",3.0,631.0030642405836,8.6,81 ,True,False,True,True,True,True,45.0,False,July,Crete
+Katerina Traditional Rooms,"Skoufon 14-16, Chania, 73131, Greece",3.0,606.0,9.1,115 ,True,False,True,False,False,False,20.0,False,July,Crete
+Ourania Apartments Hotel,"Gouves, Gouves, 70014, Greece",3.0,713.0,8.8,51 ,False,True,True,True,True,False,40.0,True,July,Crete
+Calma Apartments & Studios,"Plakias, Plakias, 74060, Greece",3.0,572.0,9.3,120 ,True,False,False,True,True,False,45.0,True,July,Crete
+Emorfia's Apartments,"165 Λεωφόρος Μάχης Κρήτης, Platanes, 74100, Greece",,657.0093457943925,9.5,54 ,True,False,False,True,True,False,51.0,False,July,Crete
+Villa Diktynna,"Seferi 1, Koutouloufari, Hersonissos, 70014, Greece",3.0,721.0,8.8,125 ,True,True,False,True,True,False,40.0,False,July,Crete
+Hotel Malia Holidays,"4, Math. Zahariadi St., Malia, 70007, Greece",3.0,599.2194570135746,7.8,87 ,True,True,False,True,True,False,18.0,True,July,Crete
+Villa Maria Apts,"Ariadnis & Daidalou corner, Kato Gouves, 70014, Greece",,601.8691588785047,7.4,47 ,True,True,False,True,False,False,31.0,True,July,Crete
+Irini Hotel,"4, Idomeneos Str., Heraklio, 71202, Greece",3.0,671.0,8.0, 586 ,False,False,True,True,False,False,18.0,False,July,Crete
+Bella Mare Luxury Apartments,"Kalamaki, Kalamaki, 70200, Greece",,899.0654205607476,9.1,88 ,True,False,False,True,True,False,65.0,False,July,Crete
+Seaside House in Ravdouha,"Ραβδούχα, Ravdhoúkha, 73006, Greece",3.0,763.0,10,1 ,False,False,False,True,False,False,50.0,False,July,Crete
+Maridatis Apartments,"Palaikastron, Palekastron, 72300, Greece",3.0,662.5719548699057,9.3,31 ,False,False,False,True,True,True,55.0,False,July,Crete
+Eurycleia Studios,"55 Τζανέ Μπουνιαλή, Rethymno, 74100, Greece",,721.4953271028037,8.7,80 ,False,False,False,False,False,False,54.0,False,July,Crete
+Lithos Traditional Guest Houses,"Xerokampos, Xerokampos, 72300, Greece",3.0,828.0,9.8,149 ,False,False,False,True,True,False,55.0,True,July,Crete
+Sunrise Hotel & Apartments,"Rodakino, Rodakino, 74060, Greece",,357.0093457943925,8.0, 151 ,True,True,True,True,True,True,35.0,False,July,Crete
+Villa Castello,"Istro, Istro, 72100, Greece",,0.0,8.9,35 ,False,True,False,True,True,False,,False,July,Crete
+City Center Studios,"Meramvellou 12, Heraklio, 71202, Greece",3.0,450.0,7.8,649 ,False,False,False,False,False,False,20.0,False,July,Crete
+Alexandros Studios & Apartments,"Selinou 123 & Monis Gonias 37, Chania, 73131, Greece",3.0,597.678124288641,9.4,162 ,False,False,False,True,True,False,40.0,False,July,Crete
+Asterina Seaside Apartments,"Kalyves, Kalyves, 73003, Greece",3.0,392.0,9.1,120 ,True,False,False,True,True,False,32.0,False,July,Crete
+Maridatis Apartments,"Palaikastron, Palekastron, 72300, Greece",3.0,582.0,9.3,31 ,False,False,False,True,True,True,55.0,False,July,Crete
+Eurycleia Studios,"55 Τζανέ Μπουνιαλή, Rethymno, 74100, Greece",,451.40186915887847,8.7,80 ,False,False,False,False,False,False,26.0,False,July,Crete
+Stella Maria,"Tsagkaraki Street, Malia, 70007, Greece",,427.10280373831773,8.0, 141 ,True,True,True,True,True,False,19.0,False,July,Crete
+Bali Seaside Sailor,"Λιμάνι, Bali, 74052, Greece",3.0,451.7499424361041,8.6,68 ,True,False,True,True,False,True,20.0,True,July,Crete
+OV Suites,"Analipsi, Analipsi, Hersonissos, 70014, Greece",,564.4859813084112,7.9,198 ,False,True,False,True,True,True,35.0,True,July,Crete
+Villa Thalia,"Beach, Milatos, 72400, Greece",3.0,456.25,8.6,80 ,True,False,True,True,True,True,50.0,False,July,Crete
+Nicole Rooms,"Paxia Ammos, Palaiochora, Palaiochora, 73001, Greece",3.0,496.15384615384613,8.2, 203 ,True,False,False,True,False,True,20.0,False,July,Crete
+Hotel Elida,"13, Gioulounta str., Platanes, 74100, Greece",3.0,400.0,7.9,42 ,True,True,False,True,True,False,30.0,False,July,Crete
+Monastiraki Traditional Guest House,"Monastiraki Village Pachia Ammos, Monastirákion, 72200, Greece",3.0,531.9444444444445,9.0,24 ,False,False,False,True,True,False,45.0,True,July,Crete
+Zorbas Hotel,"Georgioupoli, Georgioupolis, 73007, Greece",,528.9719626168225,8.4, 8 ,False,True,True,True,True,True,40.0,True,July,Crete
+Ilios Malia Hotel Resort,"Mattheou Zachariadi 43, Malia, 70007, Greece",,428.03738317757006,7.7,91 ,True,True,True,True,True,False,24.0,False,July,Crete
+Ammoudi Hotel,"Lefkogia, Damnoni, 74060, Greece",3.0,397.0,7.6,155 ,True,False,False,True,True,True,20.0,True,July,Crete
+Mirtos Luxury apartment,"Mirtos Crete, Myrtos, 72056, Greece",,488.7850467289719,9.7,18 ,False,False,False,False,False,False,44.0,False,July,Crete
+Chouzourakis Studios,"Keratókambos, Keratokampos, 70004, Greece",3.0,443.6090225563909,9.4,25 ,False,False,False,True,True,False,40.0,False,July,Crete
+Santa Elena Boutique Rooms,"13, Kondilaki street, Chania, 73131, Greece",,633.644859813084,9.3,297 ,True,False,False,True,False,False,14.0,False,July,Crete
+La Santre Villa,"Evropis 26 Str., Amoudara Herakliou, 71414, Greece",,349.5327102803738,9.3,208 ,False,False,False,True,True,False,19.0,False,July,Crete
+Regina Hotel,"Kissamos, Kissamos, 73400, Greece",,486.91588785046724,7.0,241 ,True,True,True,True,True,False,24.0,False,July,Crete
+Theoni Apartments,"Eleftheriou Venizelou 179, Malia, 70007, Greece",3.0,375.5813953488372,8.7,83 ,True,True,True,True,True,True,24.0,False,July,Crete
+Ariadni's House,"Lavreos 4 , Knosós, 71409, Greece",3.0,524.0,9.4,62 ,False,False,False,False,True,False,40.0,False,July,Crete
+Le Palme,"Mattheou Zachariadi, Malia, 70007, Greece",3.0,444.44444444444446,8.4, 48 ,True,True,True,False,False,True,30.0,False,July,Crete
+Villa Katerina Holiday Apartments,"Agia Fotia, Sitias, Agia Fotia, 72300, Greece",,553.2710280373832,8.4, 17 ,False,False,False,True,True,False,49.0,True,July,Crete
+Kissamia Rooms,"Telonio Beach, Kissamos, 73400, Greece",,473.83177570093454,8.7,386 ,True,False,True,False,True,True,18.0,False,July,Crete
+Christina Boutique Studios Elounda,"Vlychadaki, Elounda, 72053, Greece",,568.2242990654205,8.8,83 ,False,False,True,False,False,False,24.0,True,July,Crete
+Ionio Star Hotel,"Koutsouras, Makry Gialos, 72055, Greece",,577.5700934579439,8.0, 84 ,False,False,True,True,False,True,53.0,False,July,Crete
+Mirtilos Studios & Apartments,"Kissamos, Kissamos, 73400, Greece",3.0,658.6482171367749,8.7,420 ,True,True,True,True,True,False,30.0,False,July,Crete
+Mira Mare Luxury Residence,"Bali, Rethymno, Bali, 74057, Greece",,642.0560747663551,9.1,79 ,False,False,False,False,False,False,,False,July,Crete
+Beach View Matala,"Matala, Matala, 70200, Greece",3.0,720.8333333333334,8.5, 86 ,True,False,False,False,False,False,42.0,False,July,Crete
+Villa Mimagia Apartments,"Daskalogianni, Palaiochora, 73001, Greece",3.0,565.6488549618321,8.3, 76 ,False,False,False,True,True,False,35.0,False,July,Crete
+Babis Apartments,"Platanias Kydonias Chanion, Platanias, 73100, Greece",3.0,630.5555555555555,9.4,31 ,True,False,False,True,True,False,70.0,False,July,Crete
+Skouros Villa 2,"Kastri, Kastrí, 70004, Greece",,585.981308411215,8.4, 24 ,False,False,False,True,True,False,80.0,True,July,Crete
+Lygaria Beach Apts,"Αγια Πελαγια, Ligaria, 71500, Greece",3.0,729.0,8.6,21 ,True,True,False,True,True,False,52.0,False,July,Crete
+Ierapetra Suites & Studios,"Ανδρέα Παπανδρέου 82 και Χαριλάου Τρικούπη Γωνία, Ierapetra, 72200, Greece",,562.6168224299065,9.0,18 ,True,False,False,False,True,False,40.0,False,July,Crete
+Jason Hotel Apartments,"Giampoudaki 48, Rethymno, 74100, Greece",,642.0560747663551,8.8,135 ,True,True,True,True,False,False,34.0,False,July,Crete
+3A Seaside Luxury Suite,"16 Μαχητών Σχολής Χωροφυλακής, Rethymno, 74100, Greece",3.0,663.0,,,True,False,False,True,True,False,60.0,False,July,Crete
+Spyros Apartments with Pool,"Kalamaki, Kalamaki, 70200, Greece",3.0,582.2588072760765,9.2,100 ,True,True,False,True,True,False,40.0,False,July,Crete
+Niko Elen,"Grammatikaki, Stalís, 70014, Greece",,577.5700934579439,8.1, 37 ,False,False,True,False,False,False,18.0,False,July,Crete
+Lito Beach Hotel,"Gerani, Gerani, 73100, Greece",3.0,729.0,8.9,91 ,True,True,True,True,False,True,28.0,False,July,Crete
+Villa Eleni Seaside Apartments,"Nearchou 77 Street, Platanias, 73014, Greece",3.0,540.6452042924749,9.1,21 ,False,False,False,True,True,False,65.0,True,July,Crete
+Naiades Hotel by Estia,"ΙΚΑΡΟΥ, Kato Gouves, 70014, Greece",3.0,573.0025328114207,8.8,76 ,True,True,True,False,True,False,27.0,True,July,Crete
+Uni Island - City Center Suites,"14 Zoudianou, Heraklio, 71201, Greece",3.0,544.0,9.5,98 ,False,False,False,True,False,False,55.0,False,July,Crete
+Coral Apartments,"Papamastoraki 5, Ierapetra, 72200, Greece",3.0,584.2341913530913,8.4, 75 ,True,False,False,True,True,False,26.0,False,July,Crete
+Deluxe Hotel,"Antoniou Melidoni 36, Pezanou, Chania, 73100, Greece",,605.607476635514,8.4, 233 ,True,False,False,True,False,False,22.0,False,July,Crete
+Arodamos Guesthouse,"Krousón, Krousón, 70001, Greece",3.0,602.3370941745337,9.6,104 ,False,False,True,True,True,True,60.0,True,July,Crete
+Sea melody apartments,"Εθνική Οδός Ρεθύμνου Ηρακλείου, Stavromenos, 74100, Greece",,586.9158878504672,9.4,19 ,True,False,False,True,True,False,69.0,False,July,Crete
+VILLA CHRYSI,"Αγαλιανός, Agalianós, 74053, Greece",3.0,625.3615175613135,9.5,6 ,False,False,False,False,True,False,120.0,False,July,Crete
+Golden Sun Boutique,"Machis Kritis 24, Malia, 70007, Greece",3.0,490.0,8.9,97 ,True,True,True,True,True,False,30.0,False,July,Crete
+Arodamos Apts & Studios - Mavros Molos,"Kasteli , Kissamos, 73400, Greece",3.0,581.0,9.3,307 ,True,False,True,True,True,False,30.0,True,July,Crete
+Kioni Villas,"Lakkoi Skalotis Sfakion, Frangokastello, 73011, Greece",3.0,551.1627906976744,9.2,17 ,True,False,False,True,True,True,65.0,True,July,Crete
+Villa Giorgos,"Plataniás, Platanias, 73100, Greece",3.0,597.0,8.7,121 ,True,True,False,True,True,False,35.0,False,July,Crete
+Sea Breeze,"Kalamaki, Chania, Kalamaki, 73100, Greece",,649.5327102803737,8.8,152 ,True,False,False,True,True,False,19.0,True,July,Crete
+Kri-Kri Village Holiday Apts by Estia,"Gournes, Kokkini Khanion, 71500, Greece",3.0,655.0,8.1, 72 ,False,True,True,True,True,False,45.0,True,July,Crete
+Olga Studios,"Kokkini Chani, Heraklion, Kokkini Khanion, 71500, Greece",3.0,599.0,8.2, 72 ,True,True,True,False,True,True,45.0,False,July,Crete
+Archontiko Manias,"Manidiana, Axós, 74051, Greece",3.0,665.1162790697674,9.3,109 ,True,False,True,True,True,True,27.0,True,July,Crete
+"La Palma Apartments,a beachfront paradise!","Georgioupolis, Georgioupolis, 73007, Greece",,673.8317757009345,9.4,44 ,False,False,False,False,True,False,18.0,False,July,Crete
+Doma Apartments,"Falassarna, Falasarna, 73135, Greece",3.0,773.0,8.9,123 ,False,False,False,True,True,False,30.0,True,July,Crete
+Malia Mare Hotel,"10, Dimokratias St., Malia, 70007, Greece",,575.7009345794393,8.1, 84 ,True,True,False,True,False,False,30.0,False,July,Crete
+Ifigenia by Captain Michalis,"Antoniou Gampa and Salis Helidonakis 11, Chania, 73100, Greece",,721.4953271028037,8.8,354 ,False,False,True,True,True,False,48.0,True,July,Crete
+Real Palace,"19, Agiou Georgiou Street, Malia, 70007, Greece",,409.3457943925233,8.9,101 ,True,True,True,True,True,True,35.0,False,July,Crete
+Casa della Favola Boutique Hotel,"Πόρτου και Σκουφών, Chania, Greece, Chania, 73131, Greece",3.0,725.0,9.5,82 ,False,False,True,False,False,False,35.0,False,July,Crete
+Julies Studios,"Akti Miaouli 21, Chania, 73100, Greece",3.0,599.2194570135746,7.2,475 ,False,False,False,False,True,False,25.0,True,July,Crete
+Aegean Sky Hotel-Suites,"IL.Kasoυli 17, Malia, 70007, Greece",,631.7757009345794,8.6,11 ,True,True,True,True,True,False,24.0,False,July,Crete
+Gaitani Village,"Lentas, Lentas, 70400, Greece",3.0,723.0,8.2, 131 ,False,True,True,True,True,False,84.0,False,July,Crete
+Cavo Plako Villas,"Palekastro, Palekastron, 72300, Greece",3.0,603.0,8.6,91 ,True,True,False,True,True,False,40.0,False,July,Crete
+"Zervakis Apartments ""by Checkin""","Zervakis apartments, Ferma, Ferma, 72200, Greece",,577.5700934579439,8.4, 19 ,False,False,False,True,True,False,35.0,True,July,Crete
+24 Seven Boutique Hotel,"4 Pavlou Mela, Malia, 70007, Greece",,601.8691588785047,9.3,125 ,False,True,False,True,False,True,23.0,False,July,Crete
+Oneiro Residence,"Petrokefali, Petrokefálion, 70400, Greece",3.0,734.0,9.2,9 ,False,False,False,True,True,False,75.0,True,July,Crete
+Liberty Hotel,"Moatsou & Prevelaki Street, Rethymno, 74100, Greece",,388.78504672897196,7.9,169 ,False,True,True,True,False,True,19.0,False,July,Crete
+Christiana Apartments,"Gerani Chanion, Gerani, 73014, Greece",,588.7850467289719,8.7,46 ,False,True,False,True,True,False,35.0,True,July,Crete
+Παραδοσιακή κατοικία Μαργαρίτες,"Πηγουνιανά, Margarítai, 74052, Greece",,800.0,9.4,7 ,False,False,False,True,True,False,19.0,True,July,Crete
+Cavo Plako Villas,"Palekastro, Palekastron, 72300, Greece",3.0,603.0,8.6,91 ,True,True,False,True,True,False,40.0,False,July,Crete
+COSY APARTMENTS,"26 Λεωφόρος Καραμανλή 1, Chania, 73100, Greece",3.0,710.3355704697987,9.6,14 ,False,False,False,False,False,False,24.0,False,July,Crete
+"Zervakis Apartments ""by Checkin""","Zervakis apartments, Ferma, Ferma, 72200, Greece",3.0,529.0697674418604,8.4, 19 ,False,False,False,True,True,False,35.0,True,July,Crete
+24 Seven Boutique Hotel,"4 Pavlou Mela, Malia, 70007, Greece",3.0,552.0,9.3,125 ,False,True,False,True,False,True,24.0,False,July,Crete
+Niros Beachfront Aparthotel,"Eleftheriou venizelou, Kokkini Khanion, 71500, Greece",,601.8691588785047,8.1, 115 ,False,True,True,True,False,False,40.0,True,July,Crete
+Oneiro Residence,"Petrokefali, Petrokefálion, 70400, Greece",3.0,840.9722222222223,9.2,9 ,False,False,False,True,True,False,75.0,True,July,Crete
+Liberty Hotel,"Moatsou & Prevelaki Street, Rethymno, 74100, Greece",3.0,388.19444444444446,7.9,169 ,False,True,True,True,False,True,20.0,False,July,Crete
+Christiana Apartments,"Gerani Chanion, Gerani, 73014, Greece",,588.7850467289719,8.7,46 ,False,True,False,True,True,False,35.0,True,July,Crete
+Παραδοσιακή κατοικία Μαργαρίτες,"Πηγουνιανά, Margarítai, 74052, Greece",3.0,756.9019529427447,9.4,7 ,False,False,False,True,True,False,20.0,True,July,Crete
+Anemomili Village,"Drapanias, Kissamos, 73400, Greece",3.0,662.542196780306,8.2, 263 ,True,True,False,True,True,False,35.0,False,July,Crete
+Villa Thalia,"Beach, Milatos, 72400, Greece",,676.6355140186915,8.6,80 ,True,False,True,True,True,True,49.0,False,July,Crete
+Ariadni's apartment 4 Heraklion,"9 Ευκλείδου, Bendevís, 71305, Greece",3.0,485.0,,,False,False,False,False,False,False,30.0,False,July,Crete
+Kastro Studios Apartments,"Ierapetra - Arkalochoriou Road, Myrtos, 72056 , Greece",3.0,681.0,8.8,82 ,True,True,False,True,True,False,70.0,True,July,Crete
+Dictamus Homes,"Ψυχρό Άγιος Νικόλαος, Magoulás, 72052, Greece",,721.4953271028037,9.6,103 ,False,False,True,True,True,False,54.0,False,July,Crete
+Orange Central Studio Heraklion,"Thalita 11, Heraklio, 71202, Greece",,702.8037383177569,9.2,58 ,False,False,False,True,True,False,24.0,False,July,Crete
+Sophie's Village House,"Mirtos, Myrtos, 72200, Greece",,829.9065420560747,8.8,21 ,False,False,False,True,False,False,90.0,False,July,Crete
+Sunlight Hotel,"Eparchiaki Odos Agiou Nikolaou - Eloundas, Agios Nikolaos, 72100, Greece",3.0,664.4960166262556,9.1,180 ,False,True,False,False,True,False,15.0,False,July,Crete
+Makrygialos sun and sea home,"Makry Gialos, Makry Gialos, 72055, Greece",,601.8691588785047,9.5,18 ,False,False,False,True,True,False,79.0,False,July,Crete
+Athanasia Holiday House,"Asomatos, Asómatoi, 74060, Greece",3.0,658.8148302298655,9.7,4 ,False,False,False,True,True,False,70.0,True,July,Crete
+House in Organic Orgon farm,"Heraklion Apostoli, Apóstoloi, 70006, Greece",,751.4018691588784,9.6,22 ,False,False,False,False,True,False,54.0,True,July,Crete
+Katrina House,"Tsihli 1 & Radamanthous 33, Rethymno, 74100, Greece",3.0,599.2194570135746,8.3, 473 ,False,False,False,False,False,False,25.0,False,July,Crete
+My Cretan Village by Go4sea,"Akrotiri, Chorafakia, 73100, Greece",3.0,544.0,8.5, 2 ,False,False,False,True,True,False,35.0,True,July,Crete
+Perla Apartments,"Maricas Kapsi, Agia Pelagia, 71414, Greece",3.0,550.0,8.4, 129 ,False,True,True,True,True,False,55.0,True,July,Crete
+Tzoli Residence,"Kalamaki, Herakleion, Crete, Kalamaki, 70200, Greece",3.0,552.0,9.8,6 ,False,False,False,False,True,False,72.0,True,July,Crete
+Dimamiel Malia Inn,"Nikolaou Grammatikaki Street, Malia, 70007, Greece",3.0,614.3419313487793,9.4,97 ,True,True,False,True,True,False,18.0,False,July,Crete
+Mat Old Town Apartments A,"Βιβυλάκη Ρέθυμνο, Ελλάδα, Rethymno, 74100, Greece",3.0,650.0,8.3, 98 ,True,False,False,False,False,False,35.0,False,July,Crete
+Dimitra Apartments,"Main Street, Havania, Agios Nikolaos, 72100, Greece",3.0,883.3333333333334,8.7,96 ,False,True,False,True,True,False,49.0,False,July,Crete
+Joanna Apartments,"Balli, Bali, 74057, Greece",,971.0280373831775,8.9,156 ,False,False,False,True,False,False,71.0,False,July,Crete
+Kings Village,"Socratous 5, Malia, 70007, Greece",3.0,662.0535714285713,9.4,55 ,True,True,True,True,True,True,25.0,False,July,Crete
+George Airport Apartments,"Anapausaios & Nikiforou Foka, Heraklio, 71601, Greece",3.0,967.4665066986603,8.1," 1,155 ",False,False,False,True,True,False,100.0,True,July,Crete
+Kind of Blue Studios,"Κουτσουναρι 0, Koutsounari, 72200, Greece",,0.0,9.9,8 ,False,False,False,True,True,False,,False,July,Crete
+Skandalis Apartments,"Chorafakia, Chorafakia, 73100, Greece",3.0,788.5633484162895,8.5, 35 ,True,True,False,True,True,False,40.0,False,July,Crete
+Secret Nest,"Plakias, Plakias, 74060, Greece",3.0,731.9444444444445,8.6,89 ,False,False,False,False,True,False,50.0,False,July,Crete
+Vamos Palace Apartments,"Vamos, Vamos, 73008, Greece",,751.4018691588784,8.8,49 ,True,True,False,True,True,False,79.0,True,July,Crete
+Angela Apartments,"Kato Daratso, Kato Daratso, 73100, Greece",,751.4018691588784,8.9,142 ,True,False,False,True,True,False,43.0,False,July,Crete
+Mardinik Hotel Apartments,"28th of October Str,7, Rethymno Town, Rethymno, 74100, Greece",,812.1495327102804,9.4,229 ,True,False,False,True,True,False,40.0,False,July,Crete
+Vereniki Suites Chania,"10 Parodos Kondilaki 1, Chania, 73131, Greece",,691.588785046729,8.5, 25 ,False,False,False,False,False,True,30.0,False,July,Crete
+Frideriki Studios & Apartments,"Main Street, Platanias, 73014, Greece",,751.4018691588784,9.0,61 ,True,False,False,True,True,False,27.0,False,July,Crete
+Alkyonides Rooms,"12 Souri Str., Amoudara Herakliou, 71414, Greece",,728.0373831775701,9.0,95 ,False,False,False,True,True,False,15.0,False,July,Crete
+Blue Sky Hotel Apartments,"Ari Velouchioti 41, Rethymno, 74100, Greece",3.0,633.4752527940394,8.6,33 ,False,True,False,True,True,False,40.0,False,July,Crete
+VILLA ELAIONAS,"ΔΕΞΑΜΕΝΗΣ, Stérnai, 73100, Greece",3.0,911.0,9.7,3 ,False,True,False,True,True,False,55.0,False,July,Crete
+BLUE PHAISTOS No3,"ΠΑΡΑΛΙΑ ΜΑΤΑΛΑ, Matala, 70200, Greece",,721.4953271028037,8.3, 15 ,False,False,False,False,False,False,45.0,True,July,Crete
+Aloha Maisonette,"Dodekanisou 16, Chania, 73132, Greece",,691.588785046729,8.2, 91 ,False,False,False,True,True,False,40.0,False,July,Crete
+Villa Georgia Apartments & Suites,"Kalamaki, Kalamaki, 73100, Greece",,920.5607476635513,9.3,117 ,True,False,True,True,True,False,49.0,False,July,Crete
+Castri Village Hotel,"Palaikastro, Palekastron, 72300, Greece",3.0,753.0746967578291,8.5, 228 ,False,False,True,True,True,False,35.0,True,July,Crete
+Astron Aparthotel by Estia,"Ανάληψη, Analipsi, 70014, Greece",3.0,672.0,8.6,7 ,False,False,False,True,True,False,68.0,False,July,Crete
+Camelot Royal Beds by Estia,"Beach Road Stalida Malia, Malia, 70007, Greece",3.0,647.0361990950225,8.2, 81 ,True,False,False,True,True,True,26.0,True,July,Crete
+Palm Beach House,"Sfinari, Kissamos Sfinari, Kissamos, Sfinárion, 73400, Greece",3.0,877.8056806373397,8.7,16 ,True,False,False,True,True,False,80.0,False,July,Crete
+Bella Vista renovated,"Istro, Istro, 72100, Greece",3.0,635.0,8.4, 36 ,False,False,False,True,False,False,45.0,False,July,Crete
+Naiades Luxury Apartments,"Minoos, Kalathas, 73100, Greece",3.0,665.0,8.4, 67 ,False,True,False,True,True,False,58.0,False,July,Crete
+Panoramio Paleochora,"Eparchiaki Odos Tavronitis-Paleochoras, Palaiochora, 73001, Greece",,481.30841121495325,8.3, 157 ,False,False,False,True,True,False,35.0,False,July,Crete
+"Zervakis Apartments ""by Checkin""","Zervakis apartments, Ferma, Ferma, 72200, Greece",3.0,465.45272120834125,8.4, 19 ,False,False,False,True,True,False,30.0,True,July,Crete
+Anastasia Apartments,"Bali, Rethymno, Bali, 74057, Greece",3.0,481.86737278379,9.6,16 ,False,False,False,False,True,False,25.0,True,July,Crete
+Psaras Apartments,"Agiou Ioannou 116, Stalís, 70007, Greece",,541.1214953271028,8.7,89 ,True,False,False,True,True,False,35.0,False,July,Crete
+Cosy Country Villa,"Συκια Σητειας μονοκατοικια, Pappayiannádhes, 72300, Greece",3.0,597.2222222222223,8.4, 8 ,False,False,False,True,True,False,100.0,False,July,Crete
+Chrysa House Apartments,"Agias Pelagias, Agia Pelagia, 71500, Greece",,420.56074766355135,,,False,False,False,True,True,False,40.0,False,July,Crete
+Malia Star Apartments,"Emmanouel Tsagkaraki Street, Malia, 70007, Greece",,420.56074766355135,8.5, 54 ,False,False,True,True,True,True,27.0,False,July,Crete
+Meandros,"Almirída, Almyrida, 73100, Greece",,420.56074766355135,9.3,46 ,True,False,False,True,False,False,18.0,True,July,Crete
+24 Seven Boutique Hotel,"4 Pavlou Mela, Malia, 70007, Greece",,601.8691588785047,9.3,125 ,False,True,False,True,False,True,23.0,False,July,Crete
+Rousolakos Apartments,"Chiona Palaikastrou, Sitia, Palekastron, 72300, Greece",3.0,487.8885562974902,8.9,32 ,True,True,False,True,True,False,42.0,True,July,Crete
+Aspros Potamos,"Aspros Potamos, Makry Gialos, 72055, Greece",3.0,449.0,9.0,254 ,False,False,False,True,True,False,27.0,True,July,Crete
+Grameno Apartments,"Kountoura, Kountoura Selino, 73001, Greece",3.0,423.0,9.1,36 ,False,False,False,True,True,True,22.0,False,July,Crete
+Liberty Hotel,"Moatsou & Prevelaki Street, Rethymno, 74100, Greece",,388.78504672897196,7.9,169 ,False,True,True,True,False,True,19.0,False,July,Crete
+Christiana Apartments,"Gerani Chanion, Gerani, 73014, Greece",,535.5140186915887,8.7,46 ,False,True,False,True,True,False,35.0,True,July,Crete
+Anemomili Village,"Drapanias, Kissamos, 73400, Greece",3.0,664.0,8.2, 263 ,True,True,False,True,True,False,35.0,False,July,Crete
+Ariadni's apartment 4 Heraklion,"9 Ευκλείδου, Bendevís, 71305, Greece",3.0,455.2756115443578,,,False,False,False,False,False,False,30.0,False,July,Crete
+Kastro Studios Apartments,"Ierapetra - Arkalochoriou Road, Myrtos, 72056 , Greece",3.0,440.69767441860466,8.8,82 ,True,True,False,True,True,False,40.0,True,July,Crete
+Dictamus Homes,"Ψυχρό Άγιος Νικόλαος, Magoulás, 72052, Greece",3.0,540.9722222222223,9.6,103 ,False,False,True,True,True,False,40.0,False,July,Crete
+Makrygialos sun and sea home,"Makry Gialos, Makry Gialos, 72055, Greece",3.0,523.6607142857142,9.5,18 ,False,False,False,True,True,False,80.0,False,July,Crete
+Athanasia Holiday House,"Asomatos, Asómatoi, 74060, Greece",3.0,522.4285645305968,9.7,4 ,False,False,False,True,True,False,70.0,True,July,Crete
+Stelios Residence Apartments,"25is Martiou, Malia, Malia, 70007, Greece",,282.2429906542056,8.2, 44 ,True,True,True,True,True,False,14.0,False,July,Crete
+Katrina House,"Tsihli 1 & Radamanthous 33, Rethymno, 74100, Greece",3.0,603.0,8.3, 473 ,False,False,False,False,False,False,25.0,False,July,Crete
+My Cretan Village by Go4sea,"Akrotiri, Chorafakia, 73100, Greece",3.0,544.0,8.5, 2 ,False,False,False,True,True,False,35.0,True,July,Crete
+Perla Apartments,"Maricas Kapsi, Agia Pelagia, 71414, Greece",3.0,503.3371040723982,8.4, 129 ,False,True,True,True,True,False,45.0,True,July,Crete
+Tzoli Residence,"Kalamaki, Herakleion, Crete, Kalamaki, 70200, Greece",3.0,586.0416303938621,9.8,6 ,False,False,False,False,True,False,72.0,True,July,Crete
+Secret Nest,"Plakias, Plakias, 74060, Greece",3.0,573.8317757009346,8.6,89 ,False,False,False,False,True,False,50.0,False,July,Crete
+Vamos Palace Apartments,"Vamos, Vamos, 73008, Greece",3.0,524.4186046511628,8.8,49 ,True,True,False,True,True,False,40.0,True,July,Crete
+Angela Apartments,"Kato Daratso, Kato Daratso, 73100, Greece",3.0,549.0,8.9,142 ,True,False,False,True,True,False,45.0,False,July,Crete
+Vereniki Suites Chania,"10 Parodos Kondilaki 1, Chania, 73131, Greece",3.0,690.9722222222223,8.5, 25 ,False,False,False,False,False,True,30.0,False,July,Crete
+Maritime Suites by Enorme,"22 Theotokopoulou Str., Limenas Hersonissou, Hersonissos, 70014, Greece",3.0,527.1612344197827,8.5, 230 ,True,False,False,True,True,False,22.0,False,July,Crete
+Frideriki Studios & Apartments,"Main Street, Platanias, 73014, Greece",3.0,606.4027149321266,9.0,61 ,True,False,False,True,True,False,28.0,False,July,Crete
+Petrakis Sea View,"Paleochora, Palaiochora, 73001, Greece",,601.8691588785047,8.6,186 ,True,False,False,True,True,False,35.0,False,July,Crete
+Alkyonides Rooms,"12 Souri Str., Amoudara Herakliou, 71414, Greece",3.0,588.2799907897767,9.0,95 ,False,False,False,True,True,False,17.0,False,July,Crete
+Blue Sky Hotel Apartments,"Ari Velouchioti 41, Rethymno, 74100, Greece",3.0,555.0,8.6,33 ,False,True,False,True,True,False,40.0,False,July,Crete
+BLUE PHAISTOS No3,"ΠΑΡΑΛΙΑ ΜΑΤΑΛΑ, Matala, 70200, Greece",,721.4953271028037,8.3, 15 ,False,False,False,False,False,False,45.0,True,July,Crete
+Fodele Beachfront Apts,"Fodele, Fodele, 71500, Greece",3.0,720.8333333333334,9.1,27 ,False,False,False,True,True,False,25.0,False,July,Crete
+Aloha Maisonette,"Dodekanisou 16, Chania, 73132, Greece",3.0,600.6944444444445,8.2, 91 ,False,False,False,True,True,False,40.0,False,July,Crete
+Stelva Villas,"Piskopiano, Piskopiano, Hersonissos, 70014, Greece",,601.8691588785047,6.5,158 ,True,False,False,True,True,False,40.0,True,July,Crete
+Margarita Αpartments Sea View,"Palaiochóra, Chania, Palaiochora, 73001, Greece",3.0,597.381457891012,9.2,125 ,True,False,False,True,True,False,65.0,False,July,Crete
+Irene Villa,"City Beach Road Ierapetra to Makri Yialos Sitia, Ierapetra, 72200, Greece",,575.7009345794393,9.0,97 ,False,False,False,True,True,False,44.0,True,July,Crete
+Sunrise Apartments,"Machis Kritis 1, Kalathas, Kalathas, 73100, Greece",,661.6822429906541,6.7,283 ,False,False,False,True,True,False,30.0,True,July,Crete
+Astron Aparthotel by Estia,"Ανάληψη, Analipsi, 70014, Greece",3.0,661.6760630344374,8.6,7 ,False,False,False,True,True,False,68.0,False,July,Crete
+Camelot Royal Beds by Estia,"Beach Road Stalida Malia, Malia, 70007, Greece",3.0,543.2155112496953,8.2, 81 ,True,False,False,True,True,True,26.0,True,July,Crete
+The Sea View Apartments,"44 Sofokli Venizelou Str., Rethymno, 74100, Greece",3.0,545.7692307692307,9.1,137 ,True,False,False,True,False,False,19.0,False,July,Crete
+Bella Vista renovated,"Istro, Istro, 72100, Greece",3.0,599.624060150376,8.4, 36 ,False,False,False,True,False,False,45.0,False,July,Crete
+Naiades Luxury Apartments,"Minoos, Kalathas, 73100, Greece",3.0,662.7946127946128,8.4, 67 ,False,True,False,True,True,False,58.0,False,July,Crete
+The Little big apartment in the heart of Heraklion,"28 Dedalou, Heraklio, 71202, Greece",3.0,551.2782805429864,9.7,26 ,False,False,False,True,False,False,30.0,False,July,Crete
+Lilys Apartments,"Bitsentzou Kornanou 24, Rethymno, 74100, Greece",3.0,553.8653366583542,8.8,46 ,False,False,False,True,False,False,60.0,False,July,Crete
+Thea's apartments,"Αργυρούπολη, Argyroupolis, 74055, Greece",,611.214953271028,,,False,False,False,False,True,False,62.0,True,July,Crete
+Epavlis,"Ethniki Odos Agiou Nikolaou Sitias, Mirsíni, 72300, Greece",3.0,188251.40186915887,9.3,7 ,False,False,False,True,True,False,15.0,True,July,Crete
+Urban by Estia,"4 Marathonos, Agios Nikolaos, 72100, Greece",3.0,387.49999999999994,,,False,False,False,True,False,False,30.0,False,July,Crete
+Marena 1,"Επαρχιακή Οδός Ιεράπετρας – Σητείας, Makry Gialos, 72055, Greece",,0.0,9.9,20 ,False,False,False,True,True,False,,True,July,Crete
+Thea Villas,"Makry Gialos, Makry Gialos, 72055, Greece",,541.1214953271028,10,15 ,False,False,False,True,True,False,60.0,False,July,Crete
+Chania Rooms,"Kondilaki 29-31, Chania, 73131, Greece",3.0,470.9952102182012,7.1,220 ,False,False,False,False,False,True,25.0,False,July,Crete
+IRIDA Studios Hotel & Pool,"Plakias, Plakias, 74060, Greece",3.0,442.0,8.5, 128 ,True,True,True,True,True,True,25.0,True,July,Crete
+Vafes Traditional Stone Houses,"Different location in Vafés, Vafés, 73007, Greece",3.0,496.65178571428567,8.4, 96 ,True,False,True,True,True,False,70.0,True,July,Crete
+Filoxenia Apartments 2,"Palaiochóra, Palaiochora, 73001, Greece",3.0,423.0,8.4, 60 ,False,False,False,True,True,False,20.0,False,July,Crete
+Kouremenos Manolis apartment,"Kouremenos Palekastro, Palekastron, 72300, Greece",,481.30841121495325,9.6,28 ,True,False,False,True,True,False,49.0,False,July,Crete
+Raisakis Apartments,"Agia Marina, Agia Marina Nea Kydonias, 73000, Greece",3.0,456.9974554707379,9.6,46 ,False,True,False,True,True,False,40.0,False,July,Crete
+New Wave,"Eparchiaki Odos Tavronitis-Paleochoras, Palaiochora, 73001, Greece",3.0,483.7299206825302,7.8,124 ,False,False,False,True,True,False,60.0,True,July,Crete
+Maritime Suites by Enorme,"22 Theotokopoulou Str., Limenas Hersonissou, Hersonissos, 70014, Greece",,476.63551401869154,8.5, 230 ,True,False,False,True,True,False,22.0,False,July,Crete
+Paligremnos Studios,"Plakias, Plakias, 74060, Greece",3.0,456.0,8.6,112 ,True,False,False,True,True,False,25.0,True,July,Crete
+Ailamakis Apartements,"Ζάκρος Λασίθι Κρήτη, Zekros, 72300, Greece",,459.8130841121495,9.3,27 ,False,True,False,False,False,True,120.0,False,July,Crete
+Mat Old Town Apartments A,"Βιβυλάκη Ρέθυμνο, Ελλάδα, Rethymno, 74100, Greece",3.0,567.0,8.3, 98 ,True,False,False,False,False,False,35.0,False,July,Crete
+Chrissas Apartments,"Mahis Kritis 88, Missiria, Rethymno, 74100, Greece",3.0,450.0151377535574,9.0,180 ,True,False,True,True,True,False,35.0,False,July,Crete
+Kouriton House,"Margarites, Margarítai, 74052, Greece",3.0,419.3361327734453,8.7,20 ,False,False,False,True,True,False,26.0,False,July,Crete
+Dimitra Apartments,"Main Street, Havania, Agios Nikolaos, 72100, Greece",3.0,483.0,8.7,96 ,False,True,False,True,True,False,47.0,False,July,Crete
+On The Beach Apartments,"Chora Sfakion, Hora Sfakion, 73011, Greece",3.0,542.1022334791619,8.1, 53 ,True,False,False,False,True,False,30.0,False,July,Crete
+Joanna Apartments,"Balli, Bali, 74057, Greece",3.0,422.09302325581393,8.9,156 ,False,False,False,True,False,False,24.0,False,July,Crete
+Square Studios Georgia,"Ματαλών 2 studios, Matala, 70400, Greece",3.0,455.2756115443578,8.6,28 ,False,False,False,False,False,False,19.0,False,July,Crete
+Nikos & Joanna's appartments,"Μακρύ Γυαλός Καλαμοκανιάς, Makry Gialos, 72055, Greece",,420.56074766355135,8.3, 22 ,False,False,False,False,True,False,31.0,False,July,Crete
+City Studio 1 in the center of heraklion,"19 Ariadnis, Heraklio, 71202, Greece",3.0,597.7556109725687,7.3,9 ,False,False,False,True,False,False,50.0,False,July,Crete
+Blue Vista Cottage Sitia,"Petras-Karavopetra Karamanli 34, Sitia, 72300, Greece",3.0,486.0,9.2,6 ,False,False,False,True,True,False,44.0,True,July,Crete
+Vidakis Villas 2,"Sivas Main Road, Sivas Village, Heraklion, Crete, Sívas, Greece",3.0,386.0,,,False,False,False,False,True,False,63.0,True,July,Crete
+A&M Suite Apartment In Heraklion Center,"33 Καρτερού, Bendevís, 71201, Greece",3.0,458.77862595419845,,,False,False,False,False,True,False,45.0,False,July,Crete
+Happy Days,"G. Lapidis 18, Malia, 70007, Greece",3.0,527.0,8.1, 106 ,True,False,True,True,False,True,40.0,False,July,Crete
+Rethymnian Modern Apartment,"Αδελιανός Κάμπος, Adelianos Kampos, 74100, Greece",3.0,582.2588072760765,,,False,False,False,True,True,False,60.0,False,July,Crete
+Manos Beachside Apartments,"Αγίων Θεοδώρων, Agia Marina Nea Kydonias, 73014, Greece",,575.7009345794393,8.7,32 ,True,False,False,True,True,False,30.0,False,July,Crete
+Sunshine Garden Apts,"Stalis Beach Road, Malia, 70007, Greece",3.0,544.0,8.8,33 ,False,False,False,True,True,False,35.0,False,July,Crete
+Fodele Beachfront Apts,"Fodele, Fodele, 71500, Greece",,613.0841121495326,9.1,27 ,False,False,False,True,True,False,24.0,False,July,Crete
+Mare Blue Bliss,"35 Chortatson, Heraklio, 71202, Greece",3.0,602.0618556701031,,,True,False,False,True,False,False,25.0,False,July,Crete
+Villa Manios,"Pitsidia Herakleion Crete, Pitsidia, 70200, Greece",,601.8691588785047,8.6,8 ,False,False,False,False,True,False,109.0,True,July,Crete
+Yasemi Superb Two Floor Apartment,"1821 street 47, Heraklio, 71201, Greece",3.0,720.8333333333334,9.2,35 ,False,False,False,False,True,False,55.0,True,July,Crete
+Palazzo Arhontiko Apartments,"Akti Pagalou & Tselepi 18-Kitroplateia, Agios Nikolaos, 72100, Greece",3.0,776.0,9.0,133 ,False,False,True,True,False,False,40.0,True,July,Crete
+Korona Beach Apartments I,"Svaitser 4, Rethymno, 74100, Greece",3.0,623.4962406015037,7.0,8 ,True,False,False,True,False,False,57.0,False,July,Crete
+Emilio's House,"Agia Paraskevi, Agia Paraskevi, 74055, Greece",3.0,546.0,9.0,11 ,False,False,False,True,False,False,80.0,True,July,Crete
+Mikes Beach Lux,"Anissaras, Anissaras, Hersonissos, 70014, Greece",3.0,537.0,8.6,109 ,True,False,False,True,True,True,25.0,True,July,Crete
+Silia Suites,"Μιχελιδάκη, Malia, 70007, Greece",3.0,630.0,8.3, 14 ,False,True,True,True,True,False,30.0,True,July,Crete
+MOS Luxury City Suites,"Pavlou Mihelidaki 37, Chania, 73131, Greece",3.0,715.0,9.6,21 ,False,False,False,False,False,False,45.0,False,July,Crete
+Santa Maria Studios & Apartments,"Poseidonos, Plakias, 74060, Greece",3.0,557.1753764105232,8.5, 108 ,True,False,True,True,True,False,45.0,False,July,Crete
+Creta Aquamarine Hotel,"Platanes, Platanes, 74100, Greece",,619.626168224299,7.5,77 ,False,True,False,True,True,True,24.0,False,July,Crete
+Koroni House,"26 Ρωμανού Διογένη, Thérissos, 71305, Greece",3.0,652.409592810261,,,False,False,False,False,True,False,110.0,False,July,Crete
+Ariadni Apartments,"Sfinari, Sfinárion, 73400, Greece",3.0,606.4027149321266,8.7,32 ,False,False,False,True,True,False,55.0,True,July,Crete
+Blue Sky Beach,"Kokkini Hani, Heraklion, Kokkini Khanion, 71500, Greece",,536.4485981308411,6.8,104 ,False,True,True,True,True,False,44.0,True,July,Crete
+Sunset View,"Pitsidia, Pitsidia, 70200, Greece",3.0,524.4186046511628,,,True,False,False,False,False,False,109.0,False,July,Crete
+Giannis Playroom,"Mavredakidon, Kounoupidhianá, 73100, Greece",3.0,555.0,9.1,7 ,True,False,False,False,True,False,80.0,False,July,Crete
+Sunrise Apartment,"Pavlou Mela, Heraklio, 71304, Greece",3.0,623.4169928620769,9.4,51 ,True,False,False,False,False,False,48.0,False,July,Crete
+2 Bedroom Seaside apartment in Sitia,"Επαρχιακή Οδός Σητείας - Παλeκάστρου - Βαϊ, Petrás, 72300, Greece",,613.0841121495326,9.8,5 ,False,False,False,True,False,False,54.0,False,July,Crete
+Golden Bay Hotel Apartments,"10, Grammatikaki Str., Malia, 70007, Greece",3.0,729.2993630573249,8.3, 116 ,False,True,False,True,True,False,25.0,False,July,Crete
+Aquarius Apartments & Studios,"Emmanouil Parlama 4, Limenas Hersonissou, Hersonissos, 70014, Greece",3.0,552.0,7.0,42 ,False,True,False,True,True,False,40.0,False,July,Crete
+Galini Apartments,"Eparchiaki Odos Ierapetras - Sitias Αχλιά, Achlia, 72055, Greece",,570.0934579439252,7.5,8 ,True,True,False,True,True,False,44.0,False,July,Crete
+Hotel Anna Apartments,"Palaia Ethniki Odos, Kokkini Khanion, 71500, Greece",3.0,603.0,8.4, 68 ,True,False,True,True,True,False,45.0,True,July,Crete
+Daliani Cozy Studios,"Sorvolou 19, Chania, 73100, Greece",3.0,634.1507720254314,9.3,52 ,True,False,False,True,False,False,40.0,False,July,Crete
+Athena Hotel,"Georgioupoli, Georgioupolis, 73007, Greece",3.0,566.0,9.0,86 ,False,True,False,True,True,False,45.0,True,July,Crete
+Yiannis Manos Hotel Resort,"Knossou Street, Malia, 70007, Greece",3.0,546.0,8.9,342 ,True,False,True,True,True,True,25.0,False,July,Crete
+Laini Guest Houses,"Eparchiaki Odos Tavronitis-Paleochoras, Koulkouthianá, 73002, Greece",3.0,843.7499999999999,9.6,11 ,False,False,False,True,True,False,82.0,False,July,Crete
+Chania Sweet Ground-floor Apt,"75A Νικολάου Σκουλά, Chania, 73136, Greece",,0.0,9.7,7 ,False,False,False,True,False,False,,False,July,Crete
+Sunshine Suite Junior,"11 Σπύρου Περάκη, Chania, 73134, Greece",3.0,785.7642327357976,10,3 ,False,False,False,False,True,False,60.0,False,July,Crete
+Comfort House Mimosa 1,"Χορτάτζη 3, Palekastron, 72300, Greece",,639.252336448598,10,1 ,False,False,False,True,True,False,90.0,True,July,Crete
+Paradise Studios,"Mirtos, Ierapetra, Myrtos, 72056, Greece",3.0,607.0385922815437,6.7,154 ,True,False,False,True,False,False,250.0,True,July,Crete
+Ktima Tzamika,"Paralia Episkopis Rethymnou, Episkopi, 71035, Greece",,577.5700934579439,8.4, 11 ,False,False,False,True,True,False,44.0,False,July,Crete
+Aphea Village,"Kolymvari, Kolymvari, 74006, Greece",3.0,629.6007465173632,7.8,171 ,False,True,False,True,False,True,40.0,False,July,Crete
+Giorgos and Maria,"Damnoni, Plakias, 74060, Greece",3.0,610.0,9.3,61 ,False,False,False,True,True,False,45.0,False,July,Crete
+Seaside Apartments,"Μαραγκάκη, Limín Khersonísou, 70014, Greece",3.0,553.7946428571428,9.4,12 ,True,False,False,True,True,False,40.0,False,July,Crete
+Nikis Dream Comfy Apartments,"24 Alexandrou Minoti, Chania, 73133, Greece",3.0,571.0108220124338,9.7,83 ,True,False,False,False,True,False,38.0,False,July,Crete
+"GARDEN HOUSE,AYANNIS","36 Ιδαία, Mastambás, 71409, Greece",3.0,721.0,,,False,False,False,True,False,False,90.0,False,July,Crete
+Casa Thalos,"25 Ipirou, Chania, 73132, Greece",3.0,826.0,,,False,False,False,False,False,False,65.0,False,July,Crete
+Romantica Beach,"Drapanos-Plaka, Hersonissos, 70014, Greece",3.0,581.9444444444445,8.3, 52 ,True,True,False,True,True,False,30.0,False,July,Crete
+Villa Stella Apartments,"Agiou Ioanni, Stalís, 70007, Greece",3.0,562.2398190045249,9.5,44 ,True,False,False,True,False,False,23.0,False,July,Crete
+Triton Hotel,"Grammatikaki 311, Malia, 70007, Greece",,590.6542056074766,,,False,False,False,True,True,False,26.0,False,July,Crete
+Porto Orion Studios,"Epimenidou 1 1st floor, Chania, 73132, Greece",3.0,673.0,9.4,50 ,True,False,False,False,False,False,38.0,False,July,Crete
+"Apartments Aposperitis, Drosia","Axós, 74054, Greece",,557.9439252336448,,,False,True,False,False,True,False,40.0,True,July,Crete
+Angel Homes,"Unnamed Street, Marioú, 74060, Greece",,565.4205607476636,7.0,1 ,True,False,False,True,True,False,120.0,False,July,Crete
+Luxury Katsoulakis Apartments,"Alikianos, Alikianós, 73005, Greece",3.0,665.2736119442778,10,5 ,False,False,False,True,True,False,50.0,False,July,Crete
+Villa Manios,"Pitsidia Herakleion Crete, Pitsidia, 70200, Greece",3.0,540.0,8.6,8 ,False,False,False,False,True,False,110.0,True,July,Crete
+Platia Studios,"Platiea, Matala, 70200, Greece",3.0,420.83333333333337,8.2, 13 ,True,False,False,False,False,False,35.0,False,July,Crete
+Angela Apartments new listing,"Μαράθι 1,Μαράθι, Marathi, 73500, Greece",3.0,441.01809954751127,7.5,40 ,False,False,False,True,True,False,36.0,False,July,Crete
+House Margot,"Palaikastro, Palekastron, 72300, Greece",3.0,448.49923579720985,8.2, 111 ,True,False,False,True,True,False,26.0,False,July,Crete
+Callista,"Emmanouil Kastrinaki 6, Kissamos, 73400, Greece",3.0,571.875,9.3,284 ,True,False,False,False,True,False,22.0,False,July,Crete
+Silia Suites,"Μιχελιδάκη, Malia, 70007, Greece",3.0,426.945701357466,8.3, 14 ,False,True,True,True,True,False,30.0,True,July,Crete
+Villa Eleni,"Λιθίνες, Lithínai, 72300, Greece",3.0,420.83333333333337,9.7,6 ,False,False,False,False,False,False,80.0,False,July,Crete
+Santa Maria Studios & Apartments,"Poseidonos, Plakias, 74060, Greece",3.0,466.0,8.5, 108 ,True,False,True,True,True,False,45.0,False,July,Crete
+Creta Aquamarine Hotel,"Platanes, Platanes, 74100, Greece",3.0,414.06249999999994,7.5,77 ,False,True,False,True,True,True,25.0,False,July,Crete
+Minimalistic Studio Apartments,"38 Archiepiskopou Evgeniou, Heraklio, 71409, Greece",3.0,421.63251208841814,9.4,84 ,False,False,False,True,True,False,30.0,False,July,Crete
+Rozmari and Spa,"Main Street, Agia Galini, 74056, Greece",3.0,523.6111111111111,9.7,342 ,True,False,False,True,True,False,18.0,False,July,Crete
+Urban Beach Studio,"5 Kolokotroni, Rethymno, 74100, Greece",,541.1214953271028,7.6,12 ,True,False,False,False,True,False,24.0,False,July,Crete
+Anemoni Studios,"Plakias, Plakias, 74060, Greece",3.0,424.3303571428571,9.2,38 ,True,False,False,True,True,False,40.0,False,July,Crete
+Blue Sky Beach,"Kokkini Hani, Heraklion, Kokkini Khanion, 71500, Greece",3.0,429.0,6.8,104 ,False,True,True,True,True,False,30.0,True,July,Crete
+Oasis Studios,"Rodakino, Rodakino, 74060, Greece",,432.7102803738318,9.3,48 ,True,False,False,True,True,False,35.0,True,July,Crete
+Sunset View,"Pitsidia, Pitsidia, 70200, Greece",3.0,452.0475113122172,,,True,False,False,False,False,False,110.0,False,July,Crete
+Polymnia's apartment,"Matala Square, Matala, 70200, Greece",,525.233644859813,8.9,13 ,False,False,False,False,False,False,35.0,False,July,Crete
+Aerinos House,"Aerinos, Aërinós, 73012, Greece",3.0,438.8888888888889,9.8,19 ,False,False,False,False,True,False,60.0,False,July,Crete
+Villa Tzortzaki - Afroditi,"Παραλία Καλικοβρέχτη  Γδοχίων Ιεράπετρα Λασηθίου Κρήτης, Térsa, 72056, Greece",3.0,438.19444444444446,9.7,3 ,False,False,False,False,True,False,35.0,False,July,Crete
+Viva Elafonisi,"Eparchiaki Odos Kaloudianon-Chrisoskalitissas 12, Plokamianá, 73012, Greece",3.0,432.6388888888889,9.3,99 ,False,False,False,True,True,False,20.0,True,July,Crete
+Agrilos Οlive Τree Αpartment,"Ethniki Odos Agiou Nikolaou Sitias, Mirsíni, 720 57, Greece",3.0,407.94117647058823,9.5,6 ,False,False,False,False,True,False,68.0,False,July,Crete
+Giannis Playroom,"Mavredakidon, Kounoupidhianá, 73100, Greece",3.0,448.45360824742266,9.1,7 ,True,False,False,False,True,False,80.0,False,July,Crete
+Sunrise Apartment,"Pavlou Mela, Heraklio, 71304, Greece",3.0,486.04651162790697,9.4,51 ,True,False,False,False,False,False,48.0,False,July,Crete
+2 Bedroom Seaside apartment in Sitia,"Επαρχιακή Οδός Σητείας - Παλeκάστρου - Βαϊ, Petrás, 72300, Greece",,511.214953271028,9.8,5 ,False,False,False,True,False,False,54.0,False,July,Crete
+Lia Sofia Apartments,"Oulof Palme 6, Stalís, 70007, Greece",3.0,402.77777777777777,9.0,36 ,True,False,False,True,True,False,45.0,True,July,Crete
+"Premium, 2-bedroom Apartment!","Εθνικής Αντιστάσεως 12, Chania, 73133, Greece",3.0,856.25,9.7,4 ,False,False,False,True,True,False,95.0,False,July,Crete
+Anassa Suites 1,"Petropoulaki 6, Heraklio, 71201, Greece",3.0,773.6111111111111,9.4,18 ,True,False,False,True,False,False,70.0,False,July,Crete
+Nikos Apartments,"Palea Ethniki Odos Kissamou Chanion 45, Agia Marina Nea Kydonias, 73100, Greece",3.0,705.1123108711591,8.0, 1 ,True,False,False,True,True,False,50.0,False,July,Crete
+Πολυτελές οροφοδιαμέρισμα για ονειρικές διακοπές!,"17 Athanasiou Diakou, Chania, 73133, Greece",3.0,944.0,7.5,29 ,False,False,False,True,True,False,70.0,False,July,Crete
+Apollo Plakias,"Plakias, Plakias, 74060, Greece",3.0,638.0,7.5,253 ,True,True,True,False,True,False,25.0,True,July,Crete
+Viola,"Καμηλαρι, Kamilari, 70200, Greece",,881.3084112149533,9.6,7 ,False,False,False,False,False,False,74.0,False,July,Crete
+Males House,"Επαρχιακή Οδός Καλού Χωριού - Μεταξοχωρίου, Malles, 72056, Greece",,962.6168224299065,,,False,False,False,True,True,False,99.0,True,July,Crete
+Paradise House,"7 Ἰατροῦ Παπαγεωργίου, Ierapetra, 72200, Greece",3.0,781.25,9.9,15 ,False,False,False,True,True,False,120.0,False,July,Crete
+Renaissance Modern Central Home in Chania,"8b Τούρνεφορτ, Chania, 73132, Greece",3.0,800.4226712558902,,,False,False,False,False,False,False,67.0,False,July,Crete
+Economic Studios in Crete,"Michail Archaggelou 25, Heraklio, 71304, Greece",3.0,694.4444444444445,8.4, 68 ,False,False,False,True,False,False,35.0,False,July,Crete
+Katerini Apartments Hotel,"Maxi Kritis 167, Platanes, 74100, Greece",3.0,744.2194570135746,8.6,87 ,True,True,False,True,True,False,45.0,False,July,Crete
+Maria Apartments,"Main Street, Agia Pelagia, 71500, Greece",3.0,722.8068155652775,8.2, 6 ,False,False,False,True,True,False,45.0,True,July,Crete
+Mirma Halepa superior studio,"1 Αγίας Κυριακής, Chania, 73133, Greece",,938.3177570093458,10,4 ,True,False,False,True,False,False,37.0,False,July,Crete
+Ellis home with private entrance and nice veranda,"14 Βάμου, Chania, 73133, Greece",,692.5233644859812,,,False,False,False,False,False,False,35.0,False,July,Crete
+Helen suites,"Filonidou Zotou, Limenas Hersonissou, Hersonissos, 70014, Greece",,691.588785046729,8.3, 21 ,True,False,False,True,True,False,27.0,True,July,Crete
+"""Villa Kanavos"" apts","Villa Kanavos, Matala, 70200, Greece",3.0,578.4722222222223,8.6,39 ,True,True,False,True,True,False,80.0,False,July,Crete
+Villa Leondis,"Epar. Od. Peramatos - Exantis, Melidhónion, 74052, Greece",3.0,961.1111111111112,9.6,7 ,True,False,False,True,True,False,130.0,False,July,Crete
+Domus Creta,"Eleftheriou Venizelou 10, Galatas, Kato Daratso, 73100, Greece",,685.981308411215,8.7,12 ,False,False,False,True,True,False,65.0,False,July,Crete
+Rex Apartments,"10 Επισκόπου Χρυσάνθου, Chania, 73132, Greece",3.0,662.7906976744187,9.1,36 ,True,False,False,True,False,False,19.0,False,July,Crete
+Pela Apartments,"sissi, Sisi, 72400, Greece",3.0,860.0508905852417,9.6,16 ,True,False,False,True,True,False,44.0,False,July,Crete
+Litsa's Suite,"11 Thermopilon- Empedokli,  Katsampas, Heraklio, 71307, Greece",3.0,671.0,8.5, 92 ,True,False,True,True,True,False,40.0,False,July,Crete
+Queen Mary Beachfront Studios,"Agia Marina, Chania, 73100, Greece",3.0,593.0,8.0, 50 ,True,False,False,True,False,False,25.0,False,July,Crete
+Roussa's View Apartments,"Xanthou Plaka, Roussa Ekklisia,, Sitia, 72300, Greece",,703.7383177570093,9.4,55 ,False,False,False,True,True,False,44.0,False,July,Crete
+Harmony Country House - Live in the Nature,"Kounavoi, Kounávoi, 70100, Greece",3.0,673.8119042858095,9.1,14 ,True,False,False,True,True,False,80.0,False,July,Crete
+Casa.Costiera,"Παλαιόχωρα, Palaiochora, 73001, Greece",3.0,682.0,10,1 ,False,False,False,True,True,False,55.0,False,July,Crete
+Andi Vacation Home,"λευκωγεια, Lefkogeia, 74060, Greece",,842.0560747663551,9.5,2 ,False,False,False,True,True,False,74.0,True,July,Crete
+New Country House Salvia,"Επαρχιακή Οδός Σητείας - Παλαικάστρου - Βαϊ, Sitia, 72300, Greece",3.0,661.6279069767442,9.7,8 ,False,False,False,True,True,False,91.0,False,July,Crete
+Amazona,"Main Street, Agia Pelagia, 71200, Greece",,661.6822429906541,7.9,35 ,False,True,True,True,False,True,31.0,False,July,Crete
+Casa Ag.Apo,"Γιακουμάκη 3ος όροφος, Daratso, 73100, Greece",,571.0280373831775,9.5,2 ,False,False,False,False,True,False,41.0,True,July,Crete
+Effi Apartments,"Kazantzaki & Kydonias, Platanias, 73014, Greece",,676.6355140186915,9.6,110 ,True,False,False,True,True,False,22.0,False,July,Crete
+Poseidon Studios,"Main Street, Georgioupolis, 73007, Greece",3.0,590.4017857142857,6.1,163 ,False,False,True,True,True,True,28.0,False,July,Crete
+Tonia's Home,"32 Σφακίων, Chania, 73134, Greece",3.0,685.0,,,False,False,False,False,False,False,50.0,False,July,Crete
+Poseidon Studios & Apartments,"Palaiochóra, Palaiochora, 73100, Greece",,595.3271028037383,8.6,50 ,False,False,False,True,True,False,30.0,True,July,Crete
+Raimonda's House,"124 Markou Mpotsari, Chania, 73136, Greece",3.0,712.7906976744187,10,1 ,False,False,False,True,False,False,41.0,False,July,Crete
+Kolimbito Sea Side,"Falasarna Kissamos Chania, Falasarna, 73400, Greece",3.0,589.8444647758463,9.3,328 ,True,False,False,True,True,False,27.0,False,July,Crete
+Orange Fodele,"Fodele Beach, Fodele, 71500, Greece",3.0,553.6903575695337,8.4, 11 ,False,False,False,True,True,False,60.0,False,July,Crete
+Minoa 1890A Charming guesthouse in Crete,"Evaggelismos village, Moukhtároi, 70006, Greece",3.0,761.0,,,False,False,False,False,True,False,65.0,True,July,Crete
+FNK Apartments with Sea View,"Agia Pelagia, Agia Pelagia, 71500, Greece",3.0,441.0,9.6,40 ,True,False,False,True,False,False,48.0,False,July,Crete
+Sea Apartment,"22 Akti Miaouli, Chania, 73132, Greece",3.0,740.0,8.1, 7 ,False,False,False,False,False,False,60.0,False,July,Crete
+Nonna Irene,"Eleutheriou Venizelou 27, Rethymno, 74100, Greece",3.0,607.7589192933841,8.9,95 ,True,False,True,True,False,False,32.0,True,July,Crete
+Olympia apartments Heraklion center,"43 Κυρίλλου Λουκάρεως, Heraklio, 71201, Greece",3.0,542.1022334791619,9.1,7 ,False,False,False,False,False,False,50.0,False,July,Crete
+Cretan Nest Residence - Explore South Crete,"35.010202,24.952957, Apesokárion, 70012, Greece",3.0,626.5221170120305,,,True,False,False,True,True,False,80.0,False,July,Crete
+Chania Sweet Apts,"Νικολάου Σκουλά 75α,  1ος Όροφος, Chania, 73100, Greece",,697.196261682243,10,13 ,False,False,False,True,False,False,49.0,False,July,Crete
+Guests Apartments in Sissi Creta,"Sissi, Sisi, 72400, Greece",3.0,504.879024195161,8.8,30 ,True,False,False,True,True,False,35.0,False,July,Crete
+Triton Garden Hotel,"Old National Road Malia-Ag.nikolaos, Malia, 70007, Greece",3.0,486.0,7.3,15 ,False,True,False,False,True,True,,False,July,Crete
+Nidus 101,"101 Εθνάρχου Βενιζέλου, Souda, 73200, Greece",3.0,641.0,9.4,17 ,False,False,False,False,True,False,65.0,False,July,Crete
+Sea & Chess Apt Rental,"37 Gkerola, Chania, 73132, Greece",3.0,621.5277777777778,9.4,7 ,False,False,False,False,True,False,50.0,False,July,Crete
+SEPERI deep blue,"12 Ari Velouchioti, Rethymno, 74100, Greece",,0.0,9.4,30 ,True,False,False,True,False,False,,False,July,Crete
+Deodonum Luxury Apartments,"Odissias 22, Heraklio, 71304, Greece",,637.3831775700934,8.2, 122 ,True,False,False,True,True,False,90.0,True,July,Crete
+Rena House,"22 Dovardi, Kissamos, 73400, Greece",,0.0,10,2 ,False,False,False,True,True,False,,False,July,Crete
+Zoe's luxury home,"68 Δημητρίου Μιχελογιάννη, Chania, 73134, Greece",,730.8411214953271,10,3 ,False,False,False,True,True,False,74.0,False,July,Crete
+Galeana Beach Hotel,"Machis Kritis 196, Platanes, 74100, Greece",,703.7383177570093,7.5,24 ,False,False,True,True,True,True,36.0,False,July,Crete
+Blue Sea House-2 bedroom Villa,"Chorafakia, Chorafakia, 73100, Greece",3.0,738.0,9.5,4 ,False,False,False,True,True,False,120.0,False,July,Crete
+Marika Hotel,"Platanias, Platanias, 73014, Greece",3.0,653.9819004524886,8.8,242 ,True,False,True,True,True,True,18.0,False,July,Crete
+The Morus House with Private pool,"Μελιδονίου, Melidhónion, 73008, Greece",3.0,662.0,,,True,False,False,True,True,False,70.0,False,July,Crete
+VILLA CHRYSI,"Αγαλιανός, Agalianós, 74053, Greece",,676.6355140186915,9.5,6 ,False,False,False,False,True,False,120.0,False,July,Crete
+ARCHANES APPARTMENT,"ΚΑΠΕΤΑΝ ΠΑΝΑΣΣΑΝΟΥ 4, Archanes, 70100, Greece",3.0,620.0,8.4, 16 ,True,False,False,False,False,False,50.0,True,July,Crete
+Chronis Family Villas,"Krousonas, Krousón, 70001, Greece",3.0,587.6288659793814,10,9 ,False,False,False,False,True,False,70.0,False,July,Crete
+Magia Village Resort,"Zografou 5,  Koutouloufari , Crete, Hersonissos, 70014, Greece",3.0,658.3823529411765,8.1, 115 ,True,True,True,True,True,False,40.0,False,July,Crete
+Poppy Beloni,"Selinou 149, Chania, 73131, Greece",3.0,629.938900203666,8.3, 231 ,False,False,False,False,False,False,25.0,False,July,Crete
+ΑΝΙΤΑ'S HOUSE,"K. GERAKARI 16, Rethymno, 74100, Greece",,661.6822429906541,9.2,6 ,True,False,False,True,False,False,61.0,False,July,Crete
+Casa Patrikò,"187 Leoforos Kazantzaki, Perivólia, 73131, Greece",,624.2990654205607,9.0,17 ,False,False,False,True,True,False,36.0,False,July,Crete
+Anthoula Sunrise,"Κοκκινη Χάνι, Kokkini Khanion, 71500, Greece",,631.7757009345794,8.2, 14 ,False,False,False,True,False,False,35.0,True,July,Crete
+Patriko-Cozy villa on the foot of the mountains,"ΠΕΤΡΕΣ ΑΣΚΥΦΟΥ ΣΦΑΚΙΩΝ, Ammoudari, 73011, Greece",,589.7196261682243,8.0, 1 ,False,False,False,True,True,False,60.0,False,July,Crete
+Villa Aglaia Galia,"Γαλιά, Galiá, 70400, Greece",3.0,605.5555555555555,8.5, 2 ,False,False,False,True,True,False,85.0,True,July,Crete
+Spiros-Soula Family Hotel & Apartments,"Lygaria, Agia Pelagia, 71500, Greece",3.0,796.9570135746606,8.8,126 ,False,True,True,True,True,True,45.0,False,July,Crete
+Ikaros Studios,"Plakias, Plakias, 74060, Greece",3.0,138552.33644859813,8.4, 93 ,False,True,False,True,True,False,38.0,False,July,Crete
+Villa Athina - Irene Country House,"Kato Chorio, Ierapetra, 72200, Greece",,800.0,9.2,8 ,True,False,False,True,True,False,44.0,True,July,Crete
+Areti Apartment,"52 Tsikalarion, Souda, 73200, Greece",,719.626168224299,9.2,9 ,False,False,False,True,True,False,129.0,False,July,Crete
+Aris-Marie Apartments,"Μαχητών Σχολής Χωροφυλακής 25, Rethymno, 74100, Greece",,691.588785046729,9.0,54 ,True,False,False,True,True,True,19.0,False,July,Crete
+Rahati Holiday Villa Maisonette by Estia,"Eparchiaki Odos Veneratou - Kiparissou, Kerásia, 70011, Greece",3.0,806.8648174043121,9.7,4 ,True,False,False,True,True,False,100.0,False,July,Crete
+Rethymno Garden Suites,"Igoumenou Gavriil, Rethymno, 74100, Greece",3.0,649.618320610687,8.6,15 ,False,False,False,True,False,False,27.0,False,July,Crete
+Kri-Kri Village Holiday Apts by Estia,"Gournes, Kokkini Khanion, 71500, Greece",,703.7383177570093,8.1, 72 ,False,True,True,True,True,False,44.0,True,July,Crete
+Adorable Country House with sea & church view!,"Οδός Αγίας Τριάδας, Kokkini Khanion, 71500, Greece",3.0,671.0,9.3,11 ,False,False,False,True,True,False,110.0,True,July,Crete
+Xobli House 18ths' century renovated micro house,"Κριτσοτοπουλας, Kritsa, 72051, Greece",3.0,607.1609486530049,9.0,1 ,False,False,False,False,True,False,30.0,False,July,Crete
+Creta Solaris Holiday Apartments,"42 Irinis Str., Stalís, 700 07, Greece",3.0,587.0,7.1,7 ,True,False,False,True,True,False,40.0,False,July,Crete
+Kalimera Village,"Liktou Str, Piskopiano, Hersonissos, 70014, Greece",3.0,677.0,8.5, 25 ,False,True,False,True,True,True,53.0,True,July,Crete
+Apollo Plakias,"Plakias, Plakias, 74060, Greece",3.0,570.5769230769231,7.5,253 ,True,True,True,False,True,False,25.0,True,July,Crete
+Marilena,"Κόκκινη Άμμος Μονοπάτι, Matala, 70200, Greece",,782.2429906542055,7.8,5 ,False,True,False,False,True,False,150.0,True,July,Crete
+Blue Sky Apartments,"Makry Gialos, Makry Gialos, 72055, Greece",3.0,551.2782805429864,8.0, 4 ,False,False,False,True,True,False,60.0,False,July,Crete
+Primavera Beach Hotel Studios & Apartments,"Dimokratias 145, Malia, 70007, Greece",,595.3271028037383,8.3, 3 ,False,True,True,False,False,True,19.0,False,July,Crete
+OVGORA - Eleonora sea view Apartment in Kamilari Village,"Kamilari, Kamilari, 70200, Greece",3.0,743.5951875442321,10,1 ,False,False,False,False,True,False,32.0,False,July,Crete
+Casa Boschini,"kima.vouno@gmail.com, Chania, 73100, Greece",3.0,607.0,10,7 ,False,False,False,False,False,False,40.0,False,July,Crete
+Katerini Apartments Hotel,"Maxi Kritis 167, Platanes, 74100, Greece",3.0,754.0,8.6,87 ,True,True,False,True,True,False,45.0,False,July,Crete
+Sunset View Apartment,"16 Sofokli Venizelou 2nd floor, Rethymno, 74100, Greece",3.0,841.9672432830328,9.2,31 ,True,False,False,False,True,False,27.0,False,July,Crete
+Irida,"Exopolis, Exopoli, Georgioupolis, 73008, Greece",3.0,564.5833333333334,8.8,77 ,True,True,True,True,True,True,42.0,False,July,Crete
+LILO Central Studios,"13 Misonos, Heraklio, 71306, Greece",3.0,601.0,8.0, 26 ,False,False,False,False,True,False,40.0,False,July,Crete
+Villa Koulouridi,"1η πάροδος Αγίου Γεωργίου 12, Daratso, 73131, Greece",,601.8691588785047,9.7,15 ,True,True,False,True,True,False,30.0,True,July,Crete
+Veronica Hotel,"Aghii Apostoli, Kato Daratso, 73100, Greece",3.0,575.5429864253393,7.6,86 ,False,True,False,True,True,False,25.0,False,July,Crete
+Sun & Beach Apartments in Chania 09 k 11,"1 Γεωργιακάκηδων, Chania, 73131, Greece",3.0,594.1860465116279,,,True,False,False,True,True,False,40.0,False,July,Crete
+Comfortable and Modern Holiday Apartment - Alex Apartment II,"Skinavrés, Daratso, 73100, Greece",3.0,811.1111111111111,10,4 ,False,False,False,True,True,False,90.0,False,July,Crete
+CARA Creta Home,"Kamisiana, Kolymvari, 73006, Greece",,692.5233644859812,,,False,False,False,False,True,False,79.0,False,July,Crete
+Chania Locals,"4 Ξυλούρη, Chania, 73133, Greece",3.0,632.1223130487435,9.4,21 ,False,False,False,False,False,False,55.0,False,July,Crete
+Maison PORTOKALIA,"Dimos Agiou Basiliou - Spili - 74053 MIXORROUMA, Mixórrouma, 74053, Greece",3.0,600.6944444444445,9.0,2 ,False,False,False,False,True,False,110.0,True,July,Crete
+Dioskouroi Apts,"Neofytou Pedioti str., Agia Pelagia, 71500, Greece",3.0,569.5488721804511,8.9,68 ,True,True,True,True,True,False,40.0,True,July,Crete
+Korona beach apartments IIIΙ,"4 Svaitser, Rethymno, 74100, Greece",3.0,577.9017857142857,9.0,8 ,True,False,False,False,False,False,30.0,False,July,Crete
+Kambos Village,"Main Street, Agia Marina Nea Kydonias, 73014, Greece",3.0,813.0,8.5, 17 ,False,False,True,True,False,True,23.0,False,July,Crete
+Erato Hotel,"Main Street, Kokkini Khanion, 71500, Greece",3.0,551.0,8.3, 53 ,False,True,True,True,True,True,19.0,False,July,Crete
+Blue Studios,"Parodos Agias Lavras 9-11 and Akti Miaouli, Chania, 73132, Greece",,541.1214953271028,7.8,151 ,False,False,False,False,True,False,30.0,False,July,Crete
+Nature House,"Tria Monastiria, Tria Monastiria, 74100, Greece",,514.018691588785,9.0,1 ,True,False,False,False,True,False,27.0,False,July,Crete
+Angel Homes,"Unnamed Street, Marioú, 74060, Greece",,565.4205607476636,7.0,1 ,True,False,False,True,True,False,120.0,False,July,Crete
+Aphrodite Mountain View,"Peri, Périon, 70400, Greece",3.0,479.127261102379,10,22 ,False,False,False,True,True,False,60.0,False,July,Crete
+Mirage Studios,"87, Dimokratias Str., Malia, 70007, Greece",3.0,454.6511627906977,9.0,302 ,True,True,True,False,True,False,23.0,False,July,Crete
+Nancy Hotel,"13, Agias Paraskevis str., Limenas Hersonissou, Hersonissos, 70014, Greece",3.0,460.9678064387123,7.7,26 ,True,False,False,False,True,False,25.0,True,July,Crete
+Olive House,"7th Spirou Loui Str., Malia, 70007, Greece",,511.214953271028,9.9,18 ,True,False,False,False,True,False,65.0,False,July,Crete
+Casa Ag.Apo,"Γιακουμάκη 3ος όροφος, Daratso, 73100, Greece",3.0,483.7299206825302,9.5,2 ,False,False,False,False,True,False,42.0,True,July,Crete
+Poseidon Studios,"Main Street, Georgioupolis, 73007, Greece",,428.03738317757006,6.1,163 ,False,False,True,True,True,True,27.0,False,July,Crete
+Poseidon Studios & Apartments,"Palaiochóra, Palaiochora, 73100, Greece",,595.3271028037383,8.6,50 ,False,False,False,True,True,False,30.0,True,July,Crete
+Irida Aparthotel Malia by Estia,"Main Street, Malia, 70007, Greece",3.0,469.411280362289,8.2, 58 ,False,True,True,True,False,False,25.0,True,July,Crete
+Orange Fodele,"Fodele Beach, Fodele, 71500, Greece",3.0,413.46153846153845,8.4, 11 ,False,False,False,True,True,False,25.0,False,July,Crete
+KOIPOUPOLI LOVELY Apartment,"14 Εσπερίδων Ground floor, Bendevís, 71307, Greece",3.0,425.3776435045317,,,False,False,False,False,True,False,44.0,False,July,Crete
+FNK Apartments with Sea View,"Agia Pelagia, Agia Pelagia, 71500, Greece",3.0,479.1666666666667,9.6,40 ,True,False,False,True,False,False,48.0,False,July,Crete
+Olympia apartments Heraklion center,"43 Κυρίλλου Λουκάρεως, Heraklio, 71201, Greece",3.0,488.16964285714283,9.1,7 ,False,False,False,False,False,False,50.0,False,July,Crete
+Cretan Nest Residence - Explore South Crete,"35.010202,24.952957, Apesokárion, 70012, Greece",,447.66355140186914,,,True,False,False,True,True,False,79.0,False,July,Crete
+Stefania Studios by Estia,"Ag. Ioanni 119, Stalís, 70007, Greece",3.0,501.8796992481203,8.8,17 ,False,True,False,True,False,False,28.0,False,July,Crete
+Talos apartments and studios,"22 Τυρταίου, Heraklio, 71303, Greece",3.0,410.406814510207,9.2,32 ,False,False,False,False,False,False,50.0,False,July,Crete
+Villa Irena panoramic sea view,"Agalianos, Agalianós, 74053, Greece",,420.56074766355135,,,False,False,False,False,True,False,35.0,False,July,Crete
+Guests Apartments in Sissi Creta,"Sissi, Sisi, 72400, Greece",3.0,456.4885496183206,8.8,30 ,True,False,False,True,True,False,35.0,False,July,Crete
+Triton Garden Hotel,"Old National Road Malia-Ag.nikolaos, Malia, 70007, Greece",3.0,500.7934701310527,7.3,15 ,False,True,False,False,True,True,,False,July,Crete
+SEPERI deep blue,"12 Ari Velouchioti, Rethymno, 74100, Greece",3.0,524.0,9.4,30 ,True,False,False,True,False,False,34.0,False,July,Crete
+Deodonum Luxury Apartments,"Odissias 22, Heraklio, 71304, Greece",3.0,470.7841356342719,8.2, 122 ,True,False,False,True,True,False,60.0,True,July,Crete
+Armonia Hotel,"Matala, Matala, 70400, Greece",3.0,533.0,9.0,23 ,True,True,True,False,True,False,17.0,False,July,Crete
+Eleni Luxury Maisonette with Jacuzzi,"42 Αγίου Tryphon, Néa Alikarnassós, 71601, Greece",3.0,911.4052953156822,10,2 ,False,False,False,False,True,False,70.0,False,July,Crete
+Mat Old Town Apartments L,"ΕΜΜΑΝΟΥΗΛ ΒΙΒΙΛΑΚΗ 4, Rethymno, 74100, Greece",,812.1495327102804,,,True,False,False,False,False,False,46.0,False,July,Crete
+Helen's House,"Armeni, Arménoi, 73003, Greece",,522.4299065420561,,,False,False,False,True,True,False,60.0,False,July,Crete
+Vasiliki's Residence - Breathtaking View,"Topolia - Kalathenas Road, Kissamos, 73400, Greece",3.0,803.0,9.7,16 ,False,False,False,False,True,False,100.0,False,July,Crete
+Pantheon Aparthotel,"St. Sfakiotaki 42, Chania, 73133, Greece",3.0,801.0,8.0, 506 ,True,False,True,True,True,False,45.0,True,July,Crete
+Odyssey Apartment,"Konstantinou Kanari, Palaiochora, 73001, Greece",3.0,802.3255813953489,7.5,8 ,True,False,False,True,True,True,60.0,True,July,Crete
+Villa Gallery Mania & Patrick Fabre,"Ano Gerani, Gerani, 73100, Greece",3.0,938.0,10,2 ,False,False,False,True,True,False,50.0,False,July,Crete
+Apartment Kastro Apartment,"Myrtos, 72056, Greece",,857.0093457943925,,,False,True,False,False,True,False,60.0,False,July,Crete
+Villa Petropolis,"Argyroúpolis, Argyroupolis, 74055, Greece",3.0,863.8392857142857,,,True,False,False,True,False,False,116.0,False,July,Crete
+"Premium Two-Bedroom Apartment, close to Beaches!","Στέρνες, Stérnai, 73500, Greece",3.0,930.0,9.7,3 ,False,False,False,True,True,False,80.0,False,July,Crete
+Elma Suites,"27 Arkadiou, Rethymno, 74100, Greece",,0.0,8.3, 141 ,True,False,False,False,False,False,,False,July,Crete
+Bright and stylish 3 bedroom apartment,"16 Απελλού, Thérissos, 71410, Greece",3.0,799.3055555555555,,,False,False,False,False,True,False,125.0,False,July,Crete
+Charming Stone House With Swimming Pool,"Eparchiaki Odos Irakleiou - Agiou Sylla - Agios Vlasios - Perioxi Prokopi, Áyios Síllas, 71500, Greece",3.0,1044.5981905268761,,,False,True,False,True,True,False,70.0,True,July,Crete
+Chania Memories,"7 Περίδου, Chania, 73100, Greece",,787.8504672897196,,,False,False,False,True,False,False,52.0,False,July,Crete
+Λήδα,"Αγίας Βαρβάρας 23 Πρώτος όροφος, Rethymno, 74100, Greece",,893.4579439252336,,,False,False,False,False,False,False,43.0,False,July,Crete
+Unique1 - Lux city apartment,"Χειμάρρας 1, Heraklio, 71307, Greece",3.0,797.5062344139651,,,False,False,False,True,True,False,60.0,False,July,Crete
+Apartment One Bedroom,"Kokkini Khanion, 71500, Greece",3.0,1011.0,,,False,True,False,False,True,False,38.0,False,July,Crete
+Apartment Casa Kali 2,"Thérissos, 71303, Greece",3.0,866.0,,,False,False,False,False,False,False,45.0,False,July,Crete
+Casa del Vino,"Kolymvari, Kolymvari, 73006, Greece",3.0,774.4186046511628,,,False,False,False,True,True,False,71.0,True,July,Crete
+Eftihia Apartments,"Stamathioudaki 42 2ος όροφος, Rethymno, 74100, Greece",3.0,825.0086595081399,9.4,8 ,True,False,False,True,True,False,45.0,False,July,Crete
+Argyro Maisonettes East,"Dafnis, Chorafakia, 73100, Greece",3.0,982.5581395348837,9.0,1 ,False,False,False,False,True,False,120.0,False,July,Crete
+Old Olive Mill Maroulas - Bed and Breakfast,"Old Olive Mill, Maroulás, 71400, Greece",3.0,601.0,10,1 ,False,True,True,False,True,False,18.0,False,July,Crete
+Holiday home in VAFes with heating,"Vafés, 73007, Greece",3.0,879.563335873181,,,False,False,False,False,True,False,109.0,True,July,Crete
+Vacation home in VAFes with balcony,"Vafés, 73007, Greece",,689.7196261682243,,,False,False,False,False,True,False,107.0,True,July,Crete
+VILLA MICHAELA,"ΛΑΡΔΑΣ, Gramvousá, 73400, Greece",3.0,1241.0,10,1 ,True,True,False,True,True,False,80.0,False,July,Crete
+Nicolas Apartments,"Ierapetra, Ierapetra, 72200, Greece",3.0,800.0,8.9,38 ,False,True,True,True,True,True,37.0,False,July,Crete
+Light Blue,"Ελευθερίου Βενιζέλου, Palekastron, 72300, Greece",,601.8691588785047,8.3, 3 ,False,False,False,True,True,False,60.0,False,July,Crete
+Agrabella Hotel,"Eleftherias street 26, Limenas Hersonissou, Hersonissos, 70014, Greece",3.0,734.0,8.2, 48 ,False,True,False,True,False,True,17.0,False,July,Crete
+Skamagkas G. Apartments,"Kseroviglas, Stavros, 73100, Greece",3.0,582.4635072985403,9.2,19 ,False,False,False,True,True,False,34.0,False,July,Crete
+Aurora apartments,"37 Leoforos Kazantzaki, Chania, 73131, Greece",,840.1869158878504,9.5,38 ,True,True,False,True,True,False,40.0,False,July,Crete
+Retro seaside resort,"11 Πρέβελης, Chania, 73133, Greece",,730.8411214953271,,,False,False,False,False,True,False,125.0,False,July,Crete
+"Traditional Cretan Houses,Agios Myronas","Ioanni Makraki Avenue 47, Agios Myronas, 70013, Greece",3.0,460.0,6.6,20 ,True,False,False,True,True,False,100.0,True,July,Crete
+Iliaktida Apartments,"Main Street, Kolymvari, 73006, Greece",,721.4953271028037,8.3, 26 ,False,True,False,False,False,False,49.0,False,July,Crete
+Manolis Apartments,"Σκαλέτα 3ος όροφος, Skaleta, 74052, Greece",3.0,602.3370941745337,8.6,21 ,False,False,False,True,True,False,80.0,False,July,Crete
+Mylos Luxury Apartments,"no address, Agios Nikolaos, 72100, Greece",,691.588785046729,8.6,10 ,True,False,False,False,True,False,49.0,False,July,Crete
+Alexena Apartments,"Agia galini, Agia Galini, 74056, Greece",3.0,779.0697674418604,9.4,116 ,False,False,False,True,True,False,74.0,True,July,Crete
+FEY Apartment,"21 Επαρχιακή Οδός Σητείας - Παλeκάστρου - Βαϊ, Sitia, 72300, Greece",3.0,679.1666666666666,9.0,1 ,False,False,False,False,True,False,50.0,False,July,Crete
+Blackbeards House,"-, Keratokampos, 70004, Greece",3.0,653.1447963800905,10,1 ,False,False,False,False,False,False,90.0,True,July,Crete
+Country house of four rooms at the village Skalani,"Βασιλογειτονιά 18, Skalánion, 71409, Greece",3.0,580.0,9.0,2 ,False,False,False,True,False,False,90.0,False,July,Crete
+Alcyone Seaside Apartments,"3 Marias Polidouri, Heraklio, 71303, Greece",3.0,573.2142857142857,8.0, 28 ,False,False,False,False,True,False,35.0,False,July,Crete
+Voula Hotel,"Daskalogianni 7, Limenas Hersonissou, Hersonissos, 700 14, Greece",,742.0560747663551,9.1,30 ,True,False,True,True,True,False,15.0,False,July,Crete
+Keti Apartments,"Pigianos Kampos, Adelianos Kampos, 74100, Greece",,809.3457943925233,7.8,106 ,True,True,False,True,True,False,30.0,True,July,Crete
+Astrantia,"17 Agias Kiriakis, Chania, 73133, Greece",3.0,696.0,9.5,22 ,False,False,False,False,True,False,33.0,False,July,Crete
+Villa Elizea,"Kato Stalos, Stalos, 73100, Greece",3.0,525.233644859813,9.2,18 ,True,False,False,True,True,False,36.0,False,July,Crete
+Old Town Apartment near the Beach,"Damvergi 3A, Rethymno, 74100, Greece",3.0,477.0,8.3, 4 ,False,False,False,False,True,False,50.0,False,July,Crete
+"Villa Yiuli, spacious and colourful!","Επαρχιακή Οδός Νοχιάς-Επισκοπής, Nohia, 73006, Greece",3.0,720.2802260738237,10,1 ,False,False,False,True,True,False,120.0,False,July,Crete
+Amazing stylish country Apartment,"Achlada, Maleviziou, Achlada, 71500, Greece",3.0,770.0,9.0,3 ,True,True,False,True,True,False,72.0,False,July,Crete
+Libra Sea View Apartments by Estia,"2 Agias Paraskevis, Limenas Hersonissou, Hersonissos, 70014, Greece",,812.1495327102804,,,False,False,False,False,True,False,35.0,True,July,Crete
+Aelia apt in the old town of Rethymno,"Μάρκου Μπότσαρη, Rethymno, 74100, Greece",3.0,762.0,8.0, 1 ,True,False,False,True,True,False,45.0,False,July,Crete
+2-Bedroom Blue & White House with Garden and Beach,"255 Palea Ethniki Odos Kissamou Chanion, Platanias, 73014, Greece",3.0,520.5428419372007,8.6,17 ,True,False,False,True,True,False,60.0,False,July,Crete
+Eleftheria Studios,"Bali , Bali, 74057, Greece",3.0,420.83333333333337,9.4,14 ,False,False,False,True,True,False,15.0,False,July,Crete
+Uni Island - City Center Suites,"14 Zoudianou, Heraklio, 71201, Greece",3.0,528.4722222222223,9.5,98 ,False,False,False,True,False,False,45.0,False,July,Crete
+Rena House,"22 Dovardi, Kissamos, 73400, Greece",3.0,534.7222222222223,10,2 ,False,False,False,True,True,False,50.0,False,July,Crete
+Athena Apartments,"Agia Galini, Agia Galini, 74056, Greece",,420.56074766355135,8.4, 35 ,True,False,True,True,True,False,19.0,True,July,Crete
+Kavos Bay Apartments Elounda,"Sxima Eloundas, Elounda, 72053, Greece",3.0,453.0,9.0,186 ,True,True,True,True,True,False,40.0,True,July,Crete
+ARCHANES APPARTMENT,"ΚΑΠΕΤΑΝ ΠΑΝΑΣΣΑΝΟΥ 4, Archanes, 70100, Greece",3.0,489.0,8.4, 16 ,True,False,False,False,False,False,50.0,True,July,Crete
+The Island,"A Papandreou 29, Elounda, 72053, Greece",3.0,437.0,10,4 ,False,False,False,False,False,False,20.0,False,July,Crete
+Anthy Villas department 2,"Παλαία Εθνική Οδός Αγίου Νικολάου - Σητείας, Mardhátion, 72100, Greece",,432.7102803738318,,,False,False,False,False,True,False,49.0,False,July,Crete
+Faidra Cozy Ap01,"26 Ραδαμάνθυος, Bendevís, 71201, Greece",3.0,427.77777777777777,8.5, 12 ,True,False,False,False,False,False,35.0,False,July,Crete
+Casa Patrikò,"187 Leoforos Kazantzaki, Perivólia, 73131, Greece",,511.214953271028,9.0,17 ,False,False,False,True,True,False,23.0,False,July,Crete
+Mesohori studios,"Χώρα Σφακίων Σφακιά, Sfakia, 73011, Greece",3.0,444.44444444444446,8.6,88 ,False,False,False,True,True,False,35.0,True,July,Crete
+Anthoula Sunrise,"Κοκκινη Χάνι, Kokkini Khanion, 71500, Greece",3.0,445.0,8.2, 14 ,False,False,False,True,False,False,30.0,True,July,Crete
+Chania Mini Villas,"Σκινες Θέση Λειβαδια, Skinés, 73005, Greece",,409.3457943925233,9.0,1 ,False,False,False,True,True,False,35.0,True,July,Crete
+Sarri Appartments,"Μάνου Χατζηδάκη 10, Amoudara Herakliou, 71414, Greece",,481.30841121495325,8.3, 18 ,False,False,False,False,True,False,31.0,False,July,Crete
+Patriko-Cozy villa on the foot of the mountains,"ΠΕΤΡΕΣ ΑΣΚΥΦΟΥ ΣΦΑΚΙΩΝ, Ammoudari, 73011, Greece",3.0,444.0,8.0, 1 ,False,False,False,True,True,False,60.0,False,July,Crete
+Kandania Apartments,"Kándanos, Kántanos, 73004, Greece",,451.40186915887847,8.5, 53 ,True,False,False,True,True,True,40.0,False,July,Crete
+Villa Oniro Kreta,"Kalamaki, South Crete, Kalamaki, 70200, Greece",,446.7289719626168,8.0, 17 ,True,False,False,True,True,False,49.0,True,July,Crete
+Villa Aglaia Galia,"Γαλιά, Galiá, 70400, Greece",3.0,605.0,8.5, 2 ,False,False,False,True,True,False,85.0,True,July,Crete
+CretanVibes Apartments,"Limenas  Hersonissou, Limenas Hersonissou, Hersonissos, 70014, Greece",3.0,480.5555555555556,9.2,20 ,False,False,False,True,True,False,45.0,True,July,Crete
+Vasilakis Studios & Apartments,"Irinis 127, Stalís, 70007, Greece",,432.7102803738318,8.3, 30 ,True,False,True,True,True,False,44.0,False,July,Crete
+Dionysos Apartments & Studios,"Irinis & Dimokratias Corner-Dionisos, Stalís, 70007, Greece",,554.2056074766355,8.0, 24 ,False,True,True,True,True,False,35.0,False,July,Crete
+Ikaros Studios,"Plakias, Plakias, 74060, Greece",3.0,427.77777777777777,8.4, 93 ,False,True,False,True,True,False,38.0,False,July,Crete
+Orange apartment,"Τσικριτσή , 1ος όροφος, Zaros, 70002, Greece",,405.607476635514,9.0,7 ,False,False,False,False,True,False,49.0,False,July,Crete
+Aris-Marie Apartments,"Μαχητών Σχολής Χωροφυλακής 25, Rethymno, 74100, Greece",3.0,523.710407239819,9.0,54 ,True,False,False,True,True,True,20.0,False,July,Crete
+Porfyra Suite 2,"42 Stefanou Lekanidi 2nd floor, Chania, 73131, Greece",3.0,593.2239819004525,,,False,False,False,True,True,False,55.0,False,July,Crete
+Dream Village,"Koutouloufari, Koutouloufari, Hersonissos, 70014, Greece",3.0,527.0,7.3,3 ,False,True,False,True,True,False,18.0,False,July,Crete
+Chalepa Palace #4,"27 Dromonerou, Chania, 73133, Greece",3.0,662.0,9.7,3 ,False,False,False,False,False,False,40.0,False,July,Crete
+Ariadni's apartment 3,"6 Episkopou Agathaggelou Xirouchaki, Chania, 73135, Greece",,651.4018691588784,,,False,False,False,False,False,False,22.0,False,July,Crete
+Hersonissos Venus 2 Bedroom House,"Analipsi, Analipsi, Hersonissos, 70014, Greece",3.0,502.0,9.3,7 ,False,False,False,False,True,False,65.0,False,July,Crete
+Apartments Christina,"Panormos, Panormos Rethymno, 74057, Greece",,633.644859813084,9.1,63 ,True,False,False,True,True,False,18.0,False,July,Crete
+Path I & II - A Taste of Elegance,"Staratigoy Tzanakaki 21, Chania, 73134, Greece",3.0,745.0,,,False,False,False,True,False,False,35.0,False,July,Crete
+Armenoi Village-Garden & Veggies,"Armenoi Village, Chania, 73003, Greece",3.0,725.0386837565088,9.6,5 ,False,False,False,False,True,False,59.0,False,July,Crete
+Koni Village Hotel,"Main Road, Stalís, 70007, Greece",3.0,773.0,7.7,29 ,False,False,True,True,True,True,42.0,False,July,Crete
+Ippoliti Village,"Georgiou Seferi Street, Koutouloufari, Hersonissos, 70007, Greece",,573.8317757009346,8.1, 27 ,True,True,True,True,True,True,31.0,False,July,Crete
+Alkioni City Apartments,"Ρεθύμνου 1, Chania, 73134, Greece",,751.4018691588784,8.7,13 ,False,False,False,True,True,False,30.0,False,July,Crete
+CHC Atlantida Mare,"Main Street, Agia Marina Nea Kydonias, 73100, Greece",3.0,608.0,8.5, 89 ,True,False,True,True,False,False,25.0,False,July,Crete
+Girogiali Apts,"Emmanouil Kastrinaki, Kissamos, 73400, Greece",3.0,607.0,8.5, 46 ,False,False,False,False,True,False,20.0,True,July,Crete
+Pink Sand Sea Apartment,"ΑΔΕΛΙΑΝΟΣ ΚΑΜΠΟΣ, Adelianos Kampos, 74100, Greece",,613.0841121495326,8.4, 30 ,False,False,False,True,True,False,54.0,False,July,Crete
+House with Panoramic Sea View and Beautiful Garden,"Milatos, Milatos, 72400, Greece",,601.8691588785047,9.0,4 ,False,False,False,False,True,False,69.0,True,July,Crete
+Serenity View - traditional village apartment,"Κouses, Kousés, 70400, Greece",3.0,576.7441860465117,9.6,17 ,False,False,False,True,True,False,60.0,False,July,Crete
+Rocky Mountain Villa,"Ραμνή, Ramní, 73003, Greece",3.0,638.2118147951038,9.2,4 ,False,False,False,True,True,False,120.0,False,July,Crete
+Home Philip II- Overlooks Chania,"1st Parodos Georgiou Sgourou, Chania, 73100, Greece",,673.8317757009345,10,3 ,False,False,False,False,False,False,54.0,False,July,Crete
+Viglatoras,"Sarchos Maleviziou, Sárkhos, 70013, Greece",3.0,720.8333333333334,8.2, 6 ,False,False,True,True,True,False,45.0,True,July,Crete
+Luxury House Vavourakis,"21 Ελευθερίου Βενιζέλου, Mourniaí, 73300, Greece",3.0,690.0,9.5,4 ,False,False,False,False,False,False,70.0,False,July,Crete
+City Pearl Hotel,"Antoniou Petinaki 13, Limenas Hersonissou, Hersonissos, 70014, Greece",3.0,546.0,8.9,25 ,True,True,True,False,True,False,17.0,False,July,Crete
+HILL SANDALI HOUSE,"ΣΑΝΔΑΛΙ, Sitia, 72300, Greece",,571.0280373831775,,,False,False,False,True,False,False,40.0,False,July,Crete
+Fodele Beachfront Apts,"Fodele, Fodele, 71500, Greece",,613.0841121495326,9.1,27 ,False,False,False,True,True,False,24.0,False,July,Crete
+Argo Studios,"Eleftheriou Venizelou Str., 84, Malia, 70007, Greece",3.0,267.0,6.4,14 ,False,True,False,True,False,False,27.0,False,July,Crete
+Nicol studio for two center of Agios Nikolaos,"8 Pitarokoili, Agios Nikolaos, 72100, Greece",,601.8691588785047,,,False,False,False,False,False,False,43.0,False,July,Crete
+Mary's stone house,"Καβούσι, Falasarna, 73400, Greece",,901.8691588785047,9.2,6 ,False,False,False,True,True,False,31.0,False,July,Crete
+Evi's Place 2 br apt,"124 Leoforos Minoos, Heraklio, 71305, Greece",3.0,607.0,,,False,False,False,False,False,False,90.0,False,July,Crete
+Casa Malena,"Papamichali Katsouli, Stalís, 71414, Greece",3.0,654.8611111111111,8.7,6 ,True,True,False,True,True,False,35.0,False,July,Crete
+Ammos Apartments,"Ammoudara , Agios Nikolaos, 72100, Greece",3.0,622.0,7.4,21 ,False,False,False,True,True,False,45.0,False,July,Crete
+Golden Bay Hotel Apartments,"10, Grammatikaki Str., Malia, 70007, Greece",3.0,579.0,8.3, 116 ,False,True,False,True,True,False,25.0,False,July,Crete
+Fournes Apartments,"Φουρνές, Δήμος Πλατανιά, Ayiá, 73005, Greece",3.0,571.0,10,2 ,False,False,False,False,True,False,60.0,False,July,Crete
+Village Drapanias Apartments,"Kokkino Metochi Drapanias, Kissamos, 73400, Greece",,613.0841121495326,7.8,18 ,False,True,False,True,True,False,24.0,False,July,Crete
+HRYSANTHl,"139 Σελίνου, Chania, 73131, Greece",3.0,587.8658861096328,8.9,34 ,False,False,False,False,False,False,30.0,False,July,Crete
+Queen Aikaterini,"Unnamed Road, Agia Pelagia, 71500, Greece",3.0,662.0,8.9,22 ,False,False,False,True,True,False,90.0,True,July,Crete
+House near Balos,"Kastelli, Kissamos, 73400, Greece",3.0,654.3650793650794,8.5, 2 ,True,False,False,True,True,False,70.0,False,July,Crete
+CHC Atlantida Mare,"Main Street, Agia Marina Nea Kydonias, 73100, Greece",,660.7476635514018,8.5, 89 ,True,False,True,True,False,False,24.0,False,July,Crete
+Eleni Palace,"Milou 12, Amoudara Herakliou, 71414, Greece",,712.1495327102804,8.4, 76 ,False,False,True,True,True,False,49.0,False,July,Crete
+Orionas Village,"Daratso, Kato Daratso, 73100, Greece",,661.6822429906541,9.6,41 ,True,False,False,True,True,False,44.0,False,July,Crete
+Archontiko Tzitzifes,"Τζιτζιφές Αποκορώνου, Tzitzifés, 73008, Greece",3.0,658.7999840157711,9.9,7 ,False,False,False,True,True,False,110.0,False,July,Crete
+Sitia Old Port Studio,"Kazantzaki 2, Sitia, 723 00, Greece",,673.8317757009345,9.4,7 ,False,False,False,False,True,False,36.0,False,July,Crete
+Granny’s house,"Ελευθερίας 0, Perivólia, 73100, Greece",3.0,901.3888888888889,10,2 ,False,False,False,True,True,False,83.0,False,July,Crete
+Ariadne Cozy Beautiful Studio,"Killinis 2, Heraklio, 71305, Greece",3.0,614.0,9.4,16 ,True,False,False,True,True,False,56.0,False,July,Crete
+Cozy suite with private entrance and nice veranda,"14 Βάμου, Chania, 73133, Greece",3.0,717.4418604651163,,,False,False,False,False,True,False,45.0,False,July,Crete
+Hera gk apts,"30 Λεωφόρος Ηρακλείου, Chania, 73135, Greece",3.0,699.0,9.6,8 ,True,False,False,False,True,False,30.0,True,July,Crete
+NIKOLAS APARTMENT-VILLAGE.,"Chania Kontomari, Chania, 73014, Greece",3.0,661.0431080361894,,,False,False,False,False,True,False,120.0,False,July,Crete
+Med Sea Suites,"94 25is Martiou, Limenas Hersonissou, Hersonissos, 70014, Greece",3.0,596.0,,,False,False,False,False,False,False,40.0,False,July,Crete
+Chalepa Palace #1,"11 Anastasaki, Chania, 73133, Greece",,721.4953271028037,8.4, 7 ,False,False,False,False,False,False,35.0,False,July,Crete
+ARETI LUXURY APARTMENTS,"Επαρχιακή Οδός Γεωργιούπολης-Κουρνάς, Georgioupolis, 73007, Greece",3.0,643.75,9.5,26 ,True,False,False,True,False,True,35.0,False,July,Crete
+Malia Stone Residence - Secluded Cozy Retreat,"Gonies Pediados, Goníai, 70005, Greece",3.0,633.0,7.7,3 ,False,False,False,False,True,False,67.0,False,July,Crete
+Kostas Maria Apartment 109m2 1st Floor,"Επαρχιακή Οδός Ιεράπετρας – Σητείας, Makry Gialos, 72055, Greece",,801.8691588785047,10,1 ,False,False,False,True,True,False,108.0,True,July,Crete
+Livingfy Apt with mountain view & garden,"Βάμος, Vamos, 73008, Greece",,642.0560747663551,9.8,15 ,False,False,False,False,True,False,41.0,False,July,Crete
+Sandika apartments,"Υψηλάντου 11 Κουτουλουφαρι Διαμέρισμα 6, Koutouloufari, Hersonissos, 70014, Greece",3.0,709.2165898617512,9.6,25 ,False,True,False,True,True,False,45.0,False,July,Crete
+Renaissance Modern Stone House at Vryses,"Παλαια Εθνικη οδος Ρεθυμνου Βρυσων, Vryses, 73007, Greece",,763.5514018691588,,,False,False,False,True,True,False,86.0,False,July,Crete
+Villa Antonia,"Epar.Od. Kalivon-Kefalas 14 Almirida 730 08, Greece, Almyrida, 73008, Greece",3.0,602.0,8.5, 13 ,False,False,False,False,True,False,32.0,True,July,Crete
+Apartments Christina,"Panormos, Panormos Rethymno, 74057, Greece",3.0,632.6388888888889,9.1,63 ,True,False,False,True,True,False,18.0,False,July,Crete
+MARGO'S RUSTIC HOUSE,"ΚΑΛΟ ΧΩΡΙΟ, Kalón Khoríon, 70014, Greece",,676.6355140186915,10,1 ,True,False,False,False,True,False,90.0,False,July,Crete
+Armonia GeoStudios,"Georgioupolis, Georgioupolis, 73007, Greece",3.0,496.15384615384613,7.1,19 ,True,False,False,False,False,False,25.0,False,July,Crete
+Gianna's House,"Stavros, Stavros, 73100, Greece",3.0,725.5813953488372,8.9,19 ,False,False,False,False,True,False,60.0,False,July,Crete
+Krouson Mansion,"Κρουσώνας, Krousón, 70001, Greece",3.0,519.0,9.0,1 ,False,False,False,True,False,False,75.0,False,July,Crete
+Stone house among trees,"Katsifaraki, Galatás, 73100, Greece",3.0,695.8333333333334,,,False,False,False,False,True,False,70.0,True,July,Crete
+Golden Bay Hotel Apartments,"10, Grammatikaki Str., Malia, 70007, Greece",3.0,627.9069767441861,8.3, 116 ,False,True,False,True,True,False,24.0,False,July,Crete
+Wave Apartment,"25 Agias Lavras, Chania, 73132, Greece",,782.2429906542055,7.6,7 ,False,False,False,False,False,False,90.0,False,July,Crete
+Anassa Suites 2,"Chainidon 26, Heraklio, 71201, Greece",3.0,857.4773755656108,8.7,8 ,True,False,False,True,False,False,40.0,False,July,Crete
+Traditional house Utopia Makri Gialos,"Makri Gialos ,Peyki ,Lasithi,krera, Pévkoi, 72055, Greece",3.0,595.0,8.8,9 ,False,False,False,True,True,True,70.0,True,July,Crete
+Pelagos,"Xirokampos, Agia Pelagia, 71500, Greece",3.0,538.0,8.9,9 ,True,True,False,True,True,False,60.0,False,July,Crete
+Evi's Place 2 br apt,"124 Leoforos Minoos, Heraklio, 71305, Greece",,571.0280373831775,,,False,False,False,False,False,False,90.0,False,July,Crete
+Casa Malena,"Papamichali Katsouli, Stalís, 71414, Greece",3.0,558.2816769979337,8.7,6 ,True,True,False,True,True,False,35.0,False,July,Crete
+ARGi House,"Μαρουλάς, Ρέθυμνο, Maroulás, 74100, Greece",3.0,551.1627906976744,9.5,11 ,False,False,False,True,True,False,54.0,False,July,Crete
+Ammos Apartments,"Ammoudara , Agios Nikolaos, 72100, Greece",3.0,617.7364527094581,7.4,21 ,False,False,False,True,True,False,45.0,False,July,Crete
+Fournes Apartments,"Φουρνές, Δήμος Πλατανιά, Ayiá, 73005, Greece",3.0,137886.91588785045,10,2 ,False,False,False,False,True,False,60.0,False,July,Crete
+Village Drapanias Apartments,"Kokkino Metochi Drapanias, Kissamos, 73400, Greece",3.0,595.1388888888889,7.8,18 ,False,True,False,True,True,False,35.0,False,July,Crete
+HRYSANTHl,"139 Σελίνου, Chania, 73131, Greece",,0.0,8.9,34 ,False,False,False,False,False,False,,False,July,Crete
+House near Balos,"Kastelli, Kissamos, 73400, Greece",3.0,674.3055555555555,8.5, 2 ,True,False,False,True,True,False,70.0,False,July,Crete
+Karteros House 1300meters from the beach!,"Agiou Alexandrou, Heraklio, 71500, Greece",3.0,519.4444444444445,7.3,3 ,False,False,False,True,True,False,80.0,True,July,Crete
+Stalis Drops,"Πάροδος Ελευθερίου Βενιζέλου, Σταλίδα, Stalís, 70007, Greece",3.0,351.0,9.1,20 ,False,False,False,False,True,False,20.0,False,July,Crete
+Fouli Studios & Apartments,"Manoli Kalogeraki 10, Perivolia, Rethymno, 74100, Greece",,481.30841121495325,9.1,17 ,True,False,False,False,True,False,44.0,False,July,Crete
+Viglatoras,"Sarchos Maleviziou, Sárkhos, 70013, Greece",3.0,480.5555555555556,8.2, 6 ,False,False,True,True,True,False,25.0,True,July,Crete
+Hotel Stavris,"Khora Sfakion, Chania, Hora Sfakion, 73011, Greece",,409.3457943925233,7.4,700 ,True,False,True,True,False,False,35.0,False,July,Crete
+City Pearl Hotel,"Antoniou Petinaki 13, Limenas Hersonissou, Hersonissos, 70014, Greece",,585.0467289719626,8.9,25 ,True,True,True,False,True,False,17.0,False,July,Crete
+HILL SANDALI HOUSE,"ΣΑΝΔΑΛΙ, Sitia, 72300, Greece",3.0,420.0,,,False,False,False,True,False,False,40.0,False,July,Crete
+Doria's Seaview Apartment at Keratokampos I,"Keratokampos First floor, Keratokampos, 70004, Greece",,442.0560747663551,,,False,False,False,True,True,False,36.0,False,July,Crete
+Argo Studios,"Eleftheriou Venizelou Str., 84, Malia, 70007, Greece",3.0,265.0241768362883,6.4,14 ,False,True,False,True,False,False,25.0,False,July,Crete
+Pancratium #2 Mavros Kolimpos,"Mavros Kolimpos, Achlia, 72055, Greece",3.0,540.9722222222223,,,False,False,False,False,True,False,40.0,True,July,Crete
+Bella Vista,"Bali , Bali, 74057, Greece",,511.214953271028,9.2,130 ,False,False,False,True,False,False,49.0,True,July,Crete
+Nicol studio for two center of Agios Nikolaos,"8 Pitarokoili, Agios Nikolaos, 72100, Greece",,541.1214953271028,,,False,False,False,False,False,False,43.0,False,July,Crete
+Chania Nice Apartment,"32 Evaggelou Protopapadaki, Chania, 73131, Greece",3.0,597.678124288641,9.3,10 ,False,False,False,False,True,False,45.0,False,July,Crete
+Villas metoxi,"Κάτω Ασίτες Πανεπιστημιακό, Kato Asites, 70013, Greece",3.0,408.994708994709,9.5,11 ,False,False,False,True,True,False,38.0,False,July,Crete
+Korona Βeach Αpartments,"Svaitser 4, Rethymno, 74100, Greece",3.0,551.2782805429864,7.8,5 ,True,False,False,False,False,False,40.0,False,July,Crete
+Catafari Sea View Apartment,"47 Αγίου Βασιλείου, Koutouloufari, Hersonissos, 70014, Greece",,432.7102803738318,9.0,1 ,False,False,False,False,False,False,30.0,False,July,Crete
+Sia's Sea House,"Almiridas 1, Almyrida, 73008, Greece",,535.5140186915887,,,False,False,False,True,False,False,40.0,False,July,Crete
+New Luxury Apartments in Plakias,"Plakias, Plakias, 74060, Greece",3.0,437.49999999999994,9.1,9 ,False,False,False,True,False,False,40.0,False,July,Crete
+Super View Apartments,"110 Λεωφόρος Νικολαου Πλαστηρα, Heraklio, 71201, Greece",3.0,412.7232142857142,9.4,10 ,False,False,False,False,False,False,33.0,False,July,Crete
+Villa Vienna,"Κάτω Βιάννος, Káto Viánnos, 70004, Greece",3.0,450.69444444444446,9.0,2 ,False,False,False,True,True,False,80.0,True,July,Crete
+Anna in front of the sea Apartment,"E.Rouselaki 5, Sitia, 72300, Greece",3.0,511.1959287531806,8.3, 14 ,True,False,False,True,True,False,80.0,False,July,Crete
+di Gortina,"Kapetan Michali, Agia Pelagia, 71500, Greece",,571.0280373831775,,,True,False,False,True,True,False,54.0,False,July,Crete
+Crete Garden Apartments,"Idomeneos 21, Agios Nikolaos, 72100, Greece",3.0,594.0,8.5, 31 ,False,False,False,True,True,False,41.0,False,July,Crete
+Glaros Homes,"Kato Daratso, Kalamaki, 73100, Greece",3.0,356.0221289075518,8.5, 19 ,False,False,False,True,False,False,41.0,False,July,Crete
+Kostas Maria Apartment 109m2 1st Floor,"Επαρχιακή Οδός Ιεράπετρας – Σητείας, Makry Gialos, 72055, Greece",3.0,800.0,10,1 ,False,False,False,True,True,False,108.0,True,July,Crete
+Falasarna Lardas House,"Kissamos - Platanos National Road, Falasarna, 73400, Greece",,571.0280373831775,7.5,12 ,False,False,False,False,True,False,79.0,False,July,Crete
+Giorgos Large Size Apartments -Family Friendly with Free Parking and Yard Views,"Erythreas 204, Heraklio, 71409, Greece",,601.8691588785047,9.7,33 ,False,False,False,True,True,False,40.0,False,July,Crete
+Little Eden Homes,"Vathi, Agios Nikolaos , Agios Nikolaos, 72100, Greece",,730.8411214953271,7.8,22 ,False,True,False,True,True,False,40.0,False,July,Crete
+Anchris Paleochora,"Palaiochora, Palaiochora, 73001, Greece",3.0,743.8867142528206,9.5,113 ,True,False,False,True,True,False,50.0,False,July,Crete
+Casa Mia Apartments,"5 Konstantinou Sfakianaki, Agios Nikolaos, 72100, Greece",,571.0280373831775,8.5, 22 ,False,False,False,False,False,False,40.0,False,July,Crete
+Green Residence,"AGRIANA, Hersonissos, 70014, Greece",3.0,674.4186046511628,10,1 ,True,False,True,True,True,False,99.0,False,July,Crete
+Tiny Stonehouse in Plakias,"plakias, Plakias, 74060, Greece",3.0,747.5446428571428,7.0,1 ,False,False,False,False,True,False,45.0,False,July,Crete
+White Sky Sea Apartment,"ΑΔΕΛΙΑΝΟΣ ΚΑΜΠΟΣ, Adelianos Kampos, 74100, Greece",,601.8691588785047,9.3,3 ,False,False,False,True,True,False,40.0,False,July,Crete
+Spitia Katoi,"Eparchiaki Odos Strovlon-Paleochoras Downstairs, Palaiochora, 73001, Greece",,751.4018691588784,7.7,4 ,False,False,False,True,True,False,65.0,True,July,Crete
+Eleftherias Suites,"Marathi 1, Marathi, 73100, Greece",3.0,674.0,8.7,15 ,True,False,False,False,True,False,35.0,False,July,Crete
+Studio Kastro Studio,"Myrtos, 72056, Greece",3.0,636.0,,,False,True,False,False,True,False,35.0,False,July,Crete
+Aphrodite Studios & Apartment,"Balion, Bali, 74057, Greece",3.0,582.2429906542055,8.8,9 ,False,False,False,True,True,False,31.0,False,July,Crete
+on the sea Despoina apartment at Mochlos Creta,"Δεν υπάρχουν, Mochlos, 72057, Greece",3.0,627.7777777777778,,,False,False,False,True,False,False,60.0,False,July,Crete
+Asterousia Apartment,"Pyrgos Monofatsiou, Pírgos, 70010, Greece",3.0,756.0,9.0,1 ,True,False,False,False,True,False,100.0,False,July,Crete
+Amalia Urban Apt,"5 Εκάβης, Thérissos, 71304, Greece",,679.4392523364486,9.0,3 ,False,False,False,False,True,False,49.0,False,July,Crete
+Spitia Anoi,"Eparchiaki Odos Strovlon-Paleochoras Ground Floor, Palaiochora, 73001, Greece",3.0,765.0,9.5,11 ,False,False,False,True,True,False,85.0,True,July,Crete
+Phoeve Apt-Lovely 1-BR rental near the beach,"Epimenidou, Chania, 73100, Greece",3.0,577.0833333333334,8.3, 7 ,False,False,False,False,True,False,45.0,False,July,Crete
+Annabel,"Kissamou 6, Stavros, 73100, Greece",,659.8130841121495,,,False,False,False,False,True,False,44.0,True,July,Crete
+"Anemi Blue apt, suitable up to 4, near the beach!","29 Αυστραλών Πολεμιστών 1st floor, Kastellákia, 74100, Greece",3.0,651.0,9.2,6 ,True,False,False,True,False,False,50.0,True,July,Crete
+Blue Sky Taverna Apartments Kiki,"Adelianos Kampos, Adelianos Kampos, 74100, Greece",3.0,555.0,8.8,43 ,False,False,False,True,True,True,40.0,False,July,Crete
+Amazing Sea View Apartment,"17 Agias Kiriakis ονομασία κτιρίου Astrantia (δεύτερος όροφος), Chania, 73133, Greece",3.0,745.0,9.9,10 ,False,False,False,False,True,False,42.0,False,July,Crete
+Thalassas Apartment,"Λέντας, Lentas, 70400, Greece",,663.5514018691589,7.4,16 ,False,False,False,True,False,False,19.0,True,July,Crete
+Mikio Home,"26 Σκούφων, Chania, 73131, Greece",3.0,756.063217456343,10,3 ,True,False,False,False,False,True,40.0,False,July,Crete
+Kefi House,"Χαβάνια Κτήριο, Agios Nikolaos, 72100, Greece",,571.0280373831775,8.9,13 ,True,False,False,False,True,False,40.0,False,July,Crete
+The Swing Country Villa,"Mikras Asias, Foinikiá, 71500, Greece",,595.3271028037383,10,1 ,False,False,False,False,False,False,140.0,False,July,Crete
+Blue house II,"Αγίου Ισίδωρου, Palekastron, 72300, Greece",3.0,463.3458646616541,,,False,False,False,True,True,False,40.0,False,July,Crete
+Anassa Suites 1,"Petropoulaki 6, Heraklio, 71201, Greece",3.0,790.0,9.4,18 ,True,False,False,True,False,False,70.0,False,July,Crete
+Sunset View,"68 Λεβήνου, Thérissos, 71304, Greece",3.0,592.0523137825171,10,1 ,True,False,False,False,False,False,75.0,False,July,Crete
+Renata Mare Beachside Studios,"Mpoumpoulinas 2 , Limenas Hersonissou, Hersonissos, 70014, Greece",,828.0373831775701,8.9,9 ,False,False,False,False,False,False,27.0,False,July,Crete
+Art Stone House at Elounda,"Κατω Ελουντα 72053 35.2649450, 25.7172960, Epáno Eloúnda, 72053, Greece",3.0,638.0,,,False,False,False,True,True,False,95.0,False,July,Crete
+Apartment Eva Studios & Apartments-10,"Agia Pelagia, 71500, Greece",3.0,764.0,,,False,False,False,False,False,False,30.0,False,July,Crete
+Studio Eva Studios & Apartments-2,"Agia Pelagia, 71500, Greece",,0.0,,,False,False,False,False,False,False,,False,July,Crete
+Studio Eva Studios & Apartments-5,"Agia Pelagia, 71500, Greece",3.0,585.0,,,False,False,False,False,False,False,22.0,False,July,Crete
+Erivolos Studios & Apartments,"Main Street, Ligaria, 71500, Greece",3.0,764.0,8.7,77 ,True,True,False,True,True,True,20.0,False,July,Crete
+Studio Eva Studios & Apartments-3,"Agia Pelagia, 71500, Greece",3.0,585.0,,,False,False,False,False,False,False,27.0,False,July,Crete
+Studio Eva Studios & Apartments-4,"Agia Pelagia, 71500, Greece",3.0,589.0469720881896,,,False,False,False,False,False,False,27.0,False,July,Crete
+"Cozy Snuggle- 2min To Beach, 6min Walk To Old Town","12 Tournefort, Chania, 73132, Greece",,641.1214953271028,,,False,False,False,False,True,False,49.0,False,July,Crete
+Elounda Apartments,"Andrea Papandreoy 30, Elounda, 71202, Greece",,621.4953271028037,6.1,14 ,False,False,False,True,True,False,49.0,True,July,Crete
+Astra Village Apartments & Suites,"75 Evropis Str., Koutouloufari, Hersonissos, 70014, Greece",3.0,579.0,6.0,9 ,False,False,True,True,True,False,30.0,False,July,Crete
+Christi Apartments A,"Palea Ethniki Odos Irakliou Agiou Nikolaou 556 Τ.θ 709, Kokkini Khanion, 71500, Greece",,565.4205607476636,9.5,30 ,True,False,False,True,True,False,32.0,False,July,Crete
+Litsa's Suite,"11 Thermopilon- Empedokli,  Katsampas, Heraklio, 71307, Greece",3.0,606.4027149321266,8.5, 92 ,True,False,True,True,True,False,40.0,False,July,Crete
+Evaggelias house,"Φαλασαρνα, Kissamos, 73400, Greece",,570.0934579439252,8.5, 6 ,False,False,False,False,True,False,44.0,True,July,Crete
+Lydia's Apartment,"Stilos, Stílos, 73003, Greece",3.0,607.0448307410796,10,2 ,False,False,False,False,False,False,80.0,False,July,Crete
+Ilias and Eva Apartment close to the beach,"Kato Gouves, Kato Gouves, 70014, Greece",,587.8504672897196,10,2 ,True,False,False,True,True,False,54.0,False,July,Crete
+Carob Cottage,"720 53 ΕΛΟΥΝΤΑ, Elounda, 72053, Greece",3.0,661.1111111111111,,,True,False,False,False,True,False,40.0,False,July,Crete
+Pol and Mari House,"Antrea Papadaki 36, Rethymno, 74100, Greece",,829.9065420560747,9.6,5 ,False,False,False,True,True,False,54.0,True,July,Crete
+Korona beach apartments I sea view studio,"4 Σβάιτσερ, Rethymno, 74100, Greece",,664.4859813084112,9.5,2 ,True,False,False,True,False,False,44.0,False,July,Crete
+Sunday Apartment Chania 2A,"Agiou Ioanni Ksenou 2A, Chania, 73133, Greece",3.0,815.0,9.8,11 ,False,False,False,True,True,False,73.0,False,July,Crete
+Elizabeth's Place,"23 Πάροδος Λαχανά, Heraklio, 71202, Greece",,664.4859813084112,8.9,7 ,False,False,False,False,True,False,65.0,False,July,Crete
+Marie Κelly Apartments,"Kato Gouves, Gouves, 70014, Greece",3.0,609.0,8.6,12 ,False,True,True,True,True,True,25.0,True,July,Crete
+Xrisa House,"36 Κριάρη, Rethymno, 74100, Greece",3.0,668.4089339166475,,,False,False,False,True,False,False,70.0,False,July,Crete
+Vilaeti Havgas Getaway - Cretan Cozy Home,"Unnamed Road, Agios Konstantinos, 72052, Greece",3.0,690.0,,,False,False,False,False,True,False,65.0,True,July,Crete
+Anchris Paleochora,"Palaiochora, Palaiochora, 73001, Greece",3.0,685.0,9.5,113 ,True,False,False,True,True,False,50.0,False,July,Crete
+Phaedra,"Elafonissi Beach, Agios Padeleimon, Greece",,842.0560747663551,,,False,True,False,True,True,False,19.0,False,July,Crete
+Amandi Villa,"Agias Fotinis, Karteros, 71500, Greece",,661.6822429906541,9.4,17 ,False,True,False,True,True,False,30.0,False,July,Crete
+Konstantinos luxury suite,"Επαρχιακή Οδός Κουτσουράς – Σταυροχωριού, Koutsourás, 72055, Greece",3.0,719.7674418604652,,,False,False,False,True,True,False,26.0,False,July,Crete
+Lovely 1 Bedroom Apartm With Free Parking Sea View,"Katovogli, Makry Gialos, 72055, Greece",,663.5514018691589,,,True,False,False,False,True,False,65.0,False,July,Crete
+Tasia Stone House,"Siva, Sívas, 70011, Greece",3.0,690.0,,,False,False,False,False,True,False,170.0,False,July,Crete
+Eleftherias Suites,"Marathi 1, Marathi, 73100, Greece",3.0,733.0,8.7,15 ,True,False,False,False,True,False,35.0,False,July,Crete
+Nea Elena Apartments,"Akti Papanikoli 27, Chania, 73100, Greece",3.0,781.25,7.6,21 ,False,False,False,True,True,True,30.0,False,July,Crete
+Zoi's Country House,"Xersonissos, Anissaras, 70014, Greece",3.0,617.4321266968325,,,False,False,False,True,True,False,27.0,False,July,Crete
+Studio Katrina Studio 2,"Rethymno, 74100, Greece",,633.644859813084,,,False,False,False,False,False,False,24.0,False,July,Crete
+Kyriaki's Traditional Loft,"Galatas, Galatás, 73100, Greece",,631.7757009345794,,,False,False,False,False,False,False,60.0,False,July,Crete
+Apartment Joanna,"KATO GOUVES, Gouves, 70014, Greece",3.0,840.9722222222223,7.9,7 ,True,False,False,True,True,False,68.0,False,July,Crete
+Little House On The Prairie,"Palea Ethniki Odos Chanion Rethimnou, Armeni, 730 03, Ελλάδα, Arménoi, 73003, Greece",3.0,720.8333333333334,,,False,False,False,False,True,False,18.0,False,July,Crete
+Kalyves Bay private house,"Επαρχιακή Οδός Αποκορώνου - Χανίων, Kalyves, 73003, Greece",,787.8504672897196,,,False,False,False,False,True,False,79.0,False,July,Crete
+Zoi's seaview garden near the beach,"Ανισσαρας Χερσονήσου, Anissaras, 70014, Greece",3.0,808.9366515837104,,,True,False,False,False,True,False,30.0,False,July,Crete
+Lumina Luna House - seaside home w/panoramic view,"Main road Frangokastello, Frangokastello, 73011, Greece",,691.588785046729,9.0,2 ,False,False,False,True,True,False,49.0,True,July,Crete
+Apartment Katrina Apartment 1,"Rethymno, 74100, Greece",,750.4672897196261,,,False,False,False,False,False,False,40.0,False,July,Crete
+Niki's House,"Asomatos, Rethymno, Asómatoi, 74060, Greece",,705.607476635514,,,False,False,False,True,True,False,77.0,True,July,Crete
+Vilaeti Country Retreat - Charming Hideaway,"Agios Konstantinos, Agios Konstantinos, 72052, Greece",3.0,778.3834586466165,,,False,False,False,False,True,False,80.0,True,July,Crete
+Akros Oreon Junior Suite Amori,"Katy Symi, Káto Sími, 70004, Greece",3.0,644.0,,,True,False,False,False,True,False,45.0,True,July,Crete
+Akros Oreon Apartment Voliares,"Kato Symi, Káto Sími, 70004, Greece",3.0,645.5470737913486,,,True,False,False,False,True,False,60.0,True,July,Crete
+Apartment One Bedroom,"Kokkini Khanion, 71500, Greece",,744.8598130841121,,,False,True,False,False,True,False,37.0,False,July,Crete
+Modern 2bedroom flat with spacious balcony,"Eparchiaki Odos Koutsouras-Stavrochoriou, Koutsourás, 72055, Greece",3.0,617.9944738659913,,,False,False,False,False,False,False,90.0,False,July,Crete
+25 Dikaiosinis Ave.,"25 Dikeosinis 1st Floor, Apartment A, Heraklio, 71202, Greece",,577.5700934579439,,,False,False,False,False,False,False,27.0,False,July,Crete
+George's House,"1 Andreou Kritis, Heraklio, 71307, Greece",,661.6822429906541,,,False,False,False,True,False,False,44.0,False,July,Crete
+Villa Amalia,"Kouremenos, Palekastron, 72300, Greece",,571.0280373831775,8.8,41 ,False,False,False,True,True,False,40.0,False,July,Crete
+Studios Anna Maria,"Agios Ioannis Kofinas, Kapetanianá, 70012, Greece",3.0,666.9354109995105,10,1 ,False,False,False,False,True,False,75.0,False,July,Crete
+Casa del Vino,"Kolymvari, Kolymvari, 73006, Greece",3.0,742.5095254589539,,,False,False,False,True,True,False,72.0,True,July,Crete
+Holiday Home Meli Milon,"Kolymvari, 73006, Greece",3.0,702.0,,,False,False,False,False,True,False,90.0,False,July,Crete
+Mochlos Essence Apartments,"Agios Andreas, Mochlos, 72057, Greece",3.0,552.0,,,False,False,False,True,True,False,40.0,True,July,Crete
+Argyro Maisonettes East,"Dafnis, Chorafakia, 73100, Greece",,606.5420560747663,9.0,1 ,False,False,False,False,True,False,120.0,False,July,Crete
+Syia Hotel,"Sougia, Sougia, 73009, Greece",,771.0280373831775,9.2,78 ,True,False,False,True,True,False,40.0,False,July,Crete
+Old Olive Mill Maroulas - Bed and Breakfast,"Old Olive Mill, Maroulás, 71400, Greece",3.0,654.1666666666667,10,1 ,False,True,True,False,True,False,18.0,False,July,Crete
+Minimal urban apartment,"Πηνειού 6, Thérissos, 71303, Greece",3.0,537.0,,,False,False,False,True,False,False,80.0,False,July,Crete
+Holiday home in VAFes with heating,"Vafés, 73007, Greece",3.0,650.9069219630973,,,False,False,False,False,True,False,109.0,True,July,Crete
+Vacation home in VAFes with balcony,"Vafés, 73007, Greece",3.0,690.8128022104536,,,False,False,False,False,True,False,107.0,True,July,Crete
+Village Oasis,"Antoniou Michelidaki 12, Malia, 70007, Greece",,577.5700934579439,,,True,True,False,True,True,False,23.0,False,July,Crete
+Achilleas cozy house,"Χρήστου Τζιφάκη, Prinés, 74100, Greece",3.0,607.0,,,False,False,False,False,True,False,80.0,False,July,Crete
+Manos Home,"Spilia, Spiliá, 73006, Greece",,828.0373831775701,9.5,2 ,False,False,False,False,True,False,79.0,False,July,Crete
+Petra Guest House,"Perikli, Áyiai Paraskiaí, 70100, Greece",,571.0280373831775,,,False,False,False,True,False,False,65.0,True,July,Crete
+Studio Katrina Studio 3 with Balcony,"Rethymno, 74100, Greece",3.0,696.2053571428571,,,False,False,False,False,False,False,30.0,False,July,Crete
+Modern & Central Located Apartment In Heraklion,"49 Monis Prevelis, Néa Alikarnassós, 71307, Greece",3.0,571.2053571428571,,,False,False,False,False,False,False,44.0,False,July,Crete
+New small 3 apartmentcomplex in village of Prin s near Rethymnon NW coast,"Prinés, 74100, Greece",,642.0560747663551,,,False,False,False,False,True,False,43.0,False,July,Crete
+Villa Helen's Olive Garden,"1st Kilometer Zakros-Xerokambos , Xerokampos, 72300, Greece",3.0,569.0995134306472,8.5, 18 ,False,False,False,True,True,False,80.0,True,July,Crete
+Elizabeth's Place,"23 Πάροδος Λαχανά, Heraklio, 71202, Greece",3.0,663.8888888888889,8.9,7 ,False,False,False,False,True,False,65.0,False,July,Crete
+Marie Κelly Apartments,"Kato Gouves, Gouves, 70014, Greece",3.0,600.6944444444445,8.6,12 ,False,True,True,True,True,True,25.0,True,July,Crete
+Holiday home in VAFes with heating,"Vafés, 73007, Greece",,647.6635514018691,,,False,False,False,False,True,False,108.0,True,July,Crete
+Vacation home in VAFes with balcony,"Vafés, 73007, Greece",,689.7196261682243,,,False,False,False,False,True,False,107.0,True,July,Crete
+Village Oasis,"Antoniou Michelidaki 12, Malia, 70007, Greece",3.0,576.3888888888889,,,True,True,False,True,True,False,24.0,False,July,Crete
+Achilleas cozy house,"Χρήστου Τζιφάκη, Prinés, 74100, Greece",3.0,607.0,,,False,False,False,False,True,False,80.0,False,July,Crete
+Eleftherias Suites,"Marathi 1, Marathi, 73100, Greece",3.0,735.4133087727378,8.7,15 ,True,False,False,False,True,False,35.0,False,July,Crete
+Manos Home,"Spilia, Spiliá, 73006, Greece",3.0,827.0833333333334,9.5,2 ,False,False,False,False,True,False,80.0,False,July,Crete
+Petra Guest House,"Perikli, Áyiai Paraskiaí, 70100, Greece",3.0,540.6452042924749,,,False,False,False,True,False,False,65.0,True,July,Crete
+Studio Katrina Studio 3 with Balcony,"Rethymno, 74100, Greece",,695.3271028037383,,,False,False,False,False,False,False,30.0,False,July,Crete
+Modern & Central Located Apartment In Heraklion,"49 Monis Prevelis, Néa Alikarnassós, 71307, Greece",,571.0280373831775,,,False,False,False,False,False,False,44.0,False,July,Crete
+New small 3 apartmentcomplex in village of Prin s near Rethymnon NW coast,"Prinés, 74100, Greece",,642.0560747663551,,,False,False,False,False,True,False,43.0,False,July,Crete
+Mear Luxury Apartments and Studios,"Κountoura, Palaiochora, Kountoura Selino, 73001, Greece",3.0,665.1785714285713,9.0,304 ,False,False,True,True,False,False,20.0,False,July,Crete
+Villa Helen's Olive Garden,"1st Kilometer Zakros-Xerokambos , Xerokampos, 72300, Greece",3.0,551.2782805429864,8.5, 18 ,False,False,False,True,True,False,80.0,True,July,Crete
+Elizabeth's Place,"23 Πάροδος Λαχανά, Heraklio, 71202, Greece",3.0,628.8542291541692,8.9,7 ,False,False,False,False,True,False,65.0,False,July,Crete
+Marie Κelly Apartments,"Kato Gouves, Gouves, 70014, Greece",3.0,600.0,8.6,12 ,False,True,True,True,True,True,25.0,True,July,Crete
+Mossa City Apartments,"27 Georgiou Karaiskaki, Chania, 73100, Greece",3.0,759.7222222222223,,,False,False,False,False,True,False,45.0,False,July,Crete
+Xrisa House,"36 Κριάρη, Rethymno, 74100, Greece",,629.9065420560747,,,False,False,False,True,False,False,69.0,False,July,Crete
+Vilaeti Havgas Getaway - Cretan Cozy Home,"Unnamed Road, Agios Konstantinos, 72052, Greece",,691.588785046729,,,False,False,False,False,True,False,65.0,True,July,Crete
+Phaedra,"Elafonissi Beach, Agios Padeleimon, Greece",3.0,787.9464285714284,,,False,True,False,True,True,False,20.0,False,July,Crete
+Amandi Villa,"Agias Fotinis, Karteros, 71500, Greece",3.0,606.4027149321266,9.4,17 ,False,True,False,True,True,False,30.0,False,July,Crete
+Konstantinos luxury suite,"Επαρχιακή Οδός Κουτσουράς – Σταυροχωριού, Koutsourás, 72055, Greece",3.0,614.623741918283,,,False,False,False,True,True,False,26.0,False,July,Crete
+Lovely 1 Bedroom Apartm With Free Parking Sea View,"Katovogli, Makry Gialos, 72055, Greece",,607.4766355140187,,,True,False,False,False,True,False,65.0,False,July,Crete
+Tasia Stone House,"Siva, Sívas, 70011, Greece",3.0,692.1874999999999,,,False,False,False,False,True,False,170.0,False,July,Crete
+Nea Elena Apartments,"Akti Papanikoli 27, Chania, 73100, Greece",3.0,783.0416762606493,7.6,21 ,False,False,False,True,True,True,30.0,False,July,Crete
+Zoi's Country House,"Xersonissos, Anissaras, 70014, Greece",3.0,654.9140442222006,,,False,False,False,True,True,False,27.0,False,July,Crete
+Studio Katrina Studio 2,"Rethymno, 74100, Greece",3.0,634.4577481003914,,,False,False,False,False,False,False,25.0,False,July,Crete
+Plateau Lasithi Skapanis house,"Meseta de Lasithi, Mésa Lasithákion, 72052, Greece",3.0,643.0656108597285,,,False,False,False,False,True,False,70.0,False,July,Crete
+Aloides Village House,"35.36512068938129, 24.875156646978024, Alóïdhes, 74054, Greece",,619.626168224299,7.4,5 ,False,False,False,False,True,False,79.0,False,July,Crete
+Guest house,"Ξενάκη 2, Ayiá, 73100, Greece",3.0,647.6744186046511,,,False,False,False,True,True,False,60.0,False,July,Crete
+Sea Esta Next To Marathi Beach,"Σπυρου Καγιαλε, Stérnai, 73100, Greece",3.0,613.7072434607646,,,False,False,False,False,True,False,70.0,False,July,Crete
+Monastiraki Traditional Guest House,"Monastiraki Village Pachia Ammos, Monastirákion, 72200, Greece",,640.1869158878504,9.0,24 ,False,False,False,True,True,False,44.0,True,July,Crete
+Akros Oreon Apartment Afentis,"Kato Symi, Káto Sími, 70004, Greece",3.0,644.0,,,True,False,False,False,True,False,60.0,True,July,Crete
+A & G Apartments,"Grimbiliana, Kolymvari, 73006, Greece",3.0,719.7674418604652,8.0, 1 ,False,False,False,True,False,False,57.0,False,July,Crete
+Galatia luxury apartment II,"Xaratza Achillea, Hersonissos, 70014, Greece",,601.8691588785047,,,False,False,False,False,True,False,60.0,False,July,Crete
+Traditional Stone Home 30 min. from famous Beaches,"Mourne Agiou Vasililiou, Rethimno, 74053, Dharivianá, 74053, Greece",,649.5327102803737,,,False,False,False,True,True,False,134.0,False,July,Crete
+CRETAN ROOTS HOME,"Καστελοριζου κ Ναξου , Κοκκινη χανι , Ηρακλειο, Kokkini Khanion, 71500, Greece",3.0,860.6549380507951,9.7,4 ,False,False,False,True,True,False,140.0,True,July,Crete
+Ammoudi Hotel,"Lefkogia, Damnoni, 74060, Greece",3.0,597.7149321266968,7.6,155 ,True,False,False,True,True,True,40.0,True,July,Crete
+Marilidia House,"Epar.Od. Agiou Paraskion-Kastamonitsis, Kastéllion, 70006, Greece",3.0,615.0,,,False,False,False,False,True,False,85.0,False,July,Crete
+Stone house Elefteria,"Petrokefali, Petrokefálion, 70400, Greece",3.0,817.989417989418,,,True,False,False,False,True,False,80.0,False,July,Crete
+Artemis cozy apartment,"4 Μενελάου, Koumpeli, 73133, Greece",3.0,725.0386837565088,,,False,False,False,True,False,False,111.0,False,July,Crete
+Ilianthos Traditional Maisonette,"Apostolou Tsapaki 3, Hersonissos, 70014, Greece",,663.5514018691589,,,True,False,False,True,False,False,79.0,False,July,Crete
+Cozy Spacious Residence near the sea,"7 Pedioti, Gázion, 71500, Greece",3.0,613.0,,,False,False,False,True,True,False,15.0,False,July,Crete
+Sweet Dream,"9 Λόρδου Βύρωνος Ημιυσόγειο, Sitia, 72300, Greece",,459.8130841121495,,,False,False,False,True,True,False,49.0,True,July,Crete
+elounda olithos apartments,"25 Δημοκρατίας, Elounda, 72053, Greece",3.0,854.3233082706766,,,True,False,False,False,True,False,60.0,False,July,Crete
+George' s House,"Λίμνες Λσιθίου(Limnes Lasithiou), Límnai, 72400, Greece",,661.6822429906541,,,False,False,False,False,False,False,120.0,True,July,Crete
+Aggelos and Thisbe Chania Suburbs Sea View Guest House,"2nd Pas. Akrotiriou Street Korakies, Chania, 73142, Greece",3.0,799.0,,,True,True,False,True,True,False,80.0,False,July,Crete
+Harmony home,"Ὁπλαρχηγοῦ Λακέρδα, Ierapetra, 72200, Greece",3.0,650.5295878425052,,,False,False,False,False,False,False,110.0,False,July,Crete
+Perivolia Serenity in Chania,"Περιβόλια Χανίων, Ayiá, 73100, Greece",3.0,598.0,,,False,False,False,True,False,False,120.0,True,July,Crete
+Calma Home,"PRASSAS, Prasás, 71500, Greece",,571.0280373831775,,,False,False,False,True,True,False,60.0,False,July,Crete
+Paradise home 2,"Vrachasi, Vrachasi, 72400, Greece",3.0,659.0,,,False,False,False,False,False,False,30.0,True,July,Crete
+Creta 2 bedrooms 6 persons village house,"ΒΑΣΙΛΟΠΟΥΛΟ ΚΡΗΤΗ, Vasilópoulon, 73006, Greece",,592.5233644859812,,,False,False,False,False,False,False,51.0,False,July,Crete
+Mochlos Essence Apartments,"Agios Andreas, Mochlos, 72057, Greece",3.0,551.1627906976744,,,False,False,False,True,True,False,40.0,True,July,Crete
+Argyro Maisonettes East,"Dafnis, Chorafakia, 73100, Greece",3.0,605.5555555555555,9.0,1 ,False,False,False,False,True,False,120.0,False,July,Crete
+Exquisite apartment for 4 people in Heraklion,"Levinou 10, Thérissos, 71304, Greece",3.0,436.5087812666312,,,False,False,False,True,True,False,43.0,False,July,Crete
+Litsa Mare Apartments,"Captain Michael Street, Agia Pelagia, 71500, Greece",3.0,450.69444444444446,8.0, 5 ,False,False,False,True,True,False,30.0,False,July,Crete
+Anchris Paleochora,"Palaiochora, Palaiochora, 73001, Greece",3.0,513.8888888888889,9.5,113 ,True,False,False,True,True,False,33.0,False,July,Crete
+Minimal urban apartment,"Πηνειού 6, Thérissos, 71303, Greece",3.0,580.94370914767,,,False,False,False,True,False,False,80.0,False,July,Crete
+Elia - seaside place,"Istron, Kalo Chorio, Istro, 72100, Greece",3.0,397.0,,,False,False,False,True,True,False,40.0,False,July,Crete
+Traditional Stone Mezonete,"Koursonas , Krousón, 70001, Greece",,420.56074766355135,8.6,8 ,False,False,False,True,True,False,90.0,False,July,Crete
+Village Oasis,"Antoniou Michelidaki 12, Malia, 70007, Greece",3.0,385.4879275653924,,,True,True,False,True,True,False,20.0,False,July,Crete
+OVGORA - Alkmini Apartment with wonderful sea view,"Kamilari, Kamilari, 70200, Greece",3.0,486.8055555555556,7.0,1 ,False,False,False,False,True,False,35.0,False,July,Crete
+Semiramis Poolside,"Piskopiano, Piskopiano, Hersonissos, 70014, Greece",,437.38317757009344,7.6,63 ,False,True,True,True,True,False,44.0,False,July,Crete
+Petra Guest House,"Perikli, Áyiai Paraskiaí, 70100, Greece",3.0,413.14529004789784,,,False,False,False,True,False,False,65.0,True,July,Crete
+Orphanos House,"Kamilari, Kamilari, 70200, Greece",3.0,432.0,,,False,False,False,True,False,False,65.0,False,July,Crete
+Modern & Central Located Apartment In Heraklion,"49 Monis Prevelis, Néa Alikarnassós, 71307, Greece",,514.018691588785,,,False,False,False,False,False,False,44.0,False,July,Crete
+Villa Helen's Olive Garden,"1st Kilometer Zakros-Xerokambos , Xerokampos, 72300, Greece",,541.1214953271028,8.5, 18 ,False,False,False,True,True,False,79.0,True,July,Crete
+Marie Κelly Apartments,"Kato Gouves, Gouves, 70014, Greece",3.0,609.0,8.6,12 ,False,True,True,True,True,True,25.0,True,July,Crete
+Apartment 4beds Near The Beach,"Katovogli, Makry Gialos, 720 55, Greece",,474.7663551401869,7.0,1 ,True,False,False,False,True,False,54.0,False,July,Crete
+Studio Evridiki,"Almyros , Georgioupolis, Georgioupolis, 73007, Greece",,443.92523364485976,,,False,False,False,False,True,False,30.0,False,July,Crete
+Bella vista Studios,"52 Νίκου Καζαντζάκη, Daratso, 73100, Greece",,442.9906542056074,7.0,1 ,True,False,False,False,True,False,35.0,False,July,Crete
+Lovely 1 Bedroom Apartm With Free Parking Sea View,"Katovogli, Makry Gialos, 72055, Greece",,495.3271028037383,,,True,False,False,False,True,False,65.0,False,July,Crete
+Small Apartment For 3 Pers 70meters From The Beach,"Arkadioy Street, Agia Pelagia, Agia Pelagia, 71500, Greece",3.0,422.09302325581393,,,False,True,False,False,False,False,35.0,False,July,Crete
+Zoi's Country House,"Xersonissos, Anissaras, 70014, Greece",3.0,397.0,,,False,False,False,True,True,False,27.0,False,July,Crete
+Villa Chariklia Studios,"Villa Chariklia Studios, Kampia, Apokoronous Crete, Kambiá, 73008, Greece",3.0,424.0,,,False,True,False,False,True,False,27.0,False,July,Crete
+Kyriaki's Traditional Loft,"Galatas, Galatás, 73100, Greece",,511.214953271028,,,False,False,False,False,False,False,60.0,False,July,Crete
+"Fousekis Home, a brand new loft in Gouves village","40 Επαρχιακή Οδός Κόξαρης - Γουβών, Gouves, 70014, Greece",,459.8130841121495,,,False,False,False,False,True,False,69.0,False,July,Crete
+Creta 2 bedrooms 6 persons village house,"ΒΑΣΙΛΟΠΟΥΛΟ ΚΡΗΤΗ, Vasilópoulon, 73006, Greece",3.0,594.0,,,False,False,False,False,False,False,51.0,False,July,Crete
+Villa Rodialos,"V.Damvoglou street, Panormos Rethymno, 74057, Greece",3.0,662.0,,,False,False,True,True,True,False,30.0,True,July,Crete
+Wide-view & quiet apartment Chania,"17 Νίκου Ανδριανάκη, Chania, 73133, Greece",3.0,759.0,,,False,False,False,False,True,False,70.0,False,July,Crete
+Lilly's White Studios Chersonisos centre,"5 Ελευθερίας, Limenas Hersonissou, Limín Khersonísou, 70014, Greece",,570.0934579439252,,,True,False,False,True,True,False,54.0,False,July,Crete
+Village Little House,"Roustika, Roústika, 74058, Greece",3.0,579.1353383458646,9.7,6 ,True,False,False,True,True,False,42.0,True,July,Crete
+SeaSide Apartment in Downtown,"41 Agias Paraskevis, Limenas Hersonissou, Hersonissos, 70014, Greece",,671.0280373831775,,,False,False,False,False,False,False,44.0,False,July,Crete
+West Crete House,"Κάμπος Ινναχωρίου Κίσσαμος, Kámbos, 73400, Greece",3.0,551.2782805429864,,,False,False,False,False,True,False,80.0,False,July,Crete
+Uncle George Holiday Apts by Estia,"Andrea Papandreou & Naxou 124, Amoudara Herakliou, 71414, Greece",,583.1775700934579,7.1,30 ,False,False,True,True,True,True,24.0,False,July,Crete
+Anassa Suites 5,"Chainidon 28, Heraklio, 71201, Greece",3.0,644.0203562340967,,,True,False,False,False,False,False,20.0,False,July,Crete
+Cottage House in Traditional Greek Village,"Agriana  Hersonisos  70014  Greece, Agrianá, 70014, Greece",3.0,597.0982142857142,,,False,False,False,False,True,False,55.0,False,July,Crete
+Nikos Apartments,"Kritis 3, Stalís, 70 007, Greece",,601.8691588785047,8.5, 73 ,True,True,True,True,True,False,32.0,False,July,Crete
+Like Home Luxury House,"Agii Deka, Áyioi Dhéka, 70012, Greece",3.0,731.0,,,False,False,False,True,True,False,130.0,False,July,Crete
+Villa Fofi country house,"Vagionia, Vayioniá, 70012, Greece",3.0,572.0,,,False,False,False,True,True,False,80.0,False,July,Crete
+Stavros Hideaway 2 bedroom 6 persons house.,"ΒΑΣΙΛΟΠΟΥΛΟ ΚΡΗΤΗ, Vasilópoulon, 73006, Greece",3.0,594.0,,,False,False,False,False,False,False,53.0,False,July,Crete
+Melita apartment in Tris Ekklisies,"Tris ekklisies, Paránimfoi, 70010, Greece",,540.1869158878504,,,False,False,False,False,True,False,65.0,True,July,Crete
+Villa VEDA,"Milatou, Milatos, 72400, Greece",3.0,527.9383576368638,7.0,1 ,False,False,False,False,True,False,86.0,False,July,Crete
+Remvi house. Sea and mountains view.,"Γούδουρας, Goúdhouros, 72059, Greece",3.0,456.0081466395112,,,False,False,False,True,True,False,70.0,True,July,Crete
+Fani's Apartment,"43 Πατριάρχου Γρηγορίου Ε, Bendevís, 71305, Greece",3.0,601.0,,,True,False,False,True,True,False,80.0,False,July,Crete
+Kounavoi Country House,"Kounavoi, Kounávoi, 70100, Greece",,577.5700934579439,,,True,False,False,True,False,False,90.0,False,July,Crete
+Lovely Home With 2 Bedrooms In Mountainous Village,"Chordaki, Akrotiri, Khordhákion, 73100, Greece",,703.7383177570093,,,False,False,False,False,False,False,78.0,False,July,Crete
+Efi's Stone House,"Επαρχιακή Οδός Επάνω Επισκοπής-Καλού Χωριού, Sitia, 72059, Greece",,595.3271028037383,,,True,False,False,True,True,False,49.0,False,July,Crete
+Alonion Apartments,"ΓΕΡΑΚΙΑΝΑ, Yerakianá, 73006, Greece",,661.6822429906541,,,True,False,False,False,True,False,30.0,False,July,Crete
+Casa Benavista,"Kerasia, 63, Kerásia, 70003, Greece",3.0,584.0,,,False,False,False,True,False,False,30.0,False,July,Crete
+Archontiko Vori,"Square, Vóroi, 70200, Greece",,571.0280373831775,7.0,2 ,True,False,False,False,True,False,99.0,False,July,Crete
+Moderne neue Villa mit fantastischer Aussicht!,"Eparchiaki Odos Kissou, Kissós, 74053, Greece",3.0,766.0,,,False,False,False,False,True,False,139.0,True,July,Crete
+VLASSIS APTS -ΜΕΛΙΔΟΝΙ-ΔΙΑΜΕΡΙΣΜΑ ΒΑΣΙΛΙΚΗ,"ΜΕΛΙΔΟΝΙ ΔΗΜΟΣ ΜΥΛΟΠΟΤΑΜΟΥ 1ος ΟΡΟΦΟΣ ΕΝΤΟΣ ΟΙΚΙΣΜΟΥ, Melidhónion, 74052, Greece",3.0,596.0,4.0,3 ,False,False,False,False,True,False,106.0,True,July,Crete
+Opsis Living A,"maragkaki adam anisaras, Svoúrou Metókhion, 70014, Greece",3.0,781.9796380090497,,,False,False,False,False,True,False,45.0,False,July,Crete
+Demi's house,"Kriton Makedonomachon Ground floor, Stavros, 73100, Greece",3.0,690.0,,,False,False,False,True,True,False,85.0,False,July,Crete
+Cozy Apartment With Playground/Close To The Beach,"Faistou, Kato Gouves, Kato Gouves, 70014, Greece",3.0,884.0,,,False,False,False,False,False,False,60.0,False,July,Crete
+Kritamos Beach Apartments,"Frangokastello, Frangokastello, 73011, Greece",3.0,549.0,9.5,144 ,True,False,False,True,True,False,35.0,True,July,Crete
+Yialos Cohili Seaside Residence by Estia,"Anisaras, Svoúrou Metókhion, 70014, Greece",3.0,751.0,,,False,False,False,True,True,False,60.0,False,July,Crete
+Lampros house in the countryside,"Sirili, Chania, 73002, Greece",3.0,633.970588235294,,,False,False,False,True,True,False,80.0,False,July,Crete
+"3 Pearls Apartments, Rose","Επαρχιακή Οδός Πολεμαρχίου-Βουκουλιών, Dhémbla, 73002, Greece",,817.7570093457944,,,False,True,False,True,True,False,85.0,False,July,Crete
+Nautilus,"24 Δωδώνης, Néa Alikarnassós, 71307, Greece",3.0,530.0,,,False,False,False,False,False,False,59.0,False,July,Crete
+Tsitsanis Home,"Κεντρική οδός Μοιρών Κόκκινου Πύργου, Tympáki, 70200, Greece",3.0,440.2825582189784,,,True,False,False,True,True,False,64.0,False,July,Crete
+Nikis Apartments Kisamos,"Drapanias 0 Ground Floor, Drapaniás, 73400, Greece",3.0,756.9767441860465,9.4,22 ,True,True,False,True,True,False,24.0,False,July,Crete
+Elisavet Complex,"12 Δωδώνης, Néa Alikarnassós, 71307, Greece",3.0,0.0,,,True,False,False,True,False,False,,False,July,Crete
+CreteZen Seaside GuestHouse - Steps to Beach,"Kouriton, Kato Gouves, 70014, Greece",3.0,617.0,,,False,False,False,False,False,False,70.0,False,July,Crete
+Seaview delightful apartment near city center,"Levinou 10, Thérissos, 71304, Greece",,585.0467289719626,,,False,False,False,False,True,False,54.0,False,July,Crete
+Stavros Marillia Apartment with balcony,"Spirou Lera, Stavros, 73100, Greece",,598.1308411214953,,,True,False,False,True,True,False,49.0,False,July,Crete
+Stavros Lydia Apartment with veranda,"Spirou Lera, Stavros, 73100, Greece",3.0,547.6744186046511,,,True,False,False,True,True,False,49.0,False,July,Crete
+Stavros Kallia Apartment with sea view,"Spirou Lera, Stavros, 73100, Greece",3.0,567.3611111111111,,,True,False,False,True,True,False,50.0,False,July,Crete
+Sifakis Gorgeous stone house,"Festou street peirouniana, Pirouniana, Crete, Greece, Ayía Varvára, 70003, Greece",,563.5514018691589,,,False,False,False,False,True,False,44.0,True,July,Crete
+Chrissoula House In Agioi Apostoloi,"Πρέβελης, Daratso, 73100, Greece",3.0,718.0,9.6,3 ,True,False,False,True,True,False,95.0,False,July,Crete
+Sunday Apartment Chania 2B,"Agiou ioanni Xenou 2 2, Chania, 73133, Greece",3.0,818.5267857142857,8.9,8 ,False,False,False,True,True,False,73.0,False,July,Crete
+Downtown Studio,"Lordou Vironos 1, Heraklio, 71202, Greece",,601.8691588785047,6.5,4 ,False,False,False,True,False,False,30.0,False,July,Crete
+Fougaro Apartments,"Patriarchou Athanasiou 21, Chania, 73131, Greece",3.0,607.0,8.0, 157 ,False,False,False,True,True,False,33.0,False,July,Crete
+Favela Living Space,"Chalidon 18, Chania, 73100, Greece",,674.7663551401869,9.4,191 ,False,False,False,True,False,False,27.0,False,July,Crete
+Marni Village,"8 G. Seferi, Koutouloufari, Hersonissos, 70014, Greece",3.0,693.0,9.0,205 ,True,True,True,True,True,True,26.0,False,July,Crete
+Oleander's Garden Traditional Cretan Cottage,"Eparchiaki Odos Ierapetras - Sitias Κακία Σκάλα, Φέρμα, Ferma, 72200, Greece",3.0,272.61146496815286,8.0, 203 ,True,True,True,True,True,False,16.0,False,July,Crete

@@ -1,0 +1,623 @@
+name,location,stars,amount_conv,Rating,NumReviews,Airport,Pool,Breakfast,Family_Rooms,Parking,Restaurant,size_m2,Pets,Month,Location
+ArtOikia Luxury Villas,"Saktouria, Saktoúria, 74053, Greece",4.0,1688.50452368281,,,True,False,False,True,True,False,100.0,False,June,Crete
+Enjoy amazing sea views at wonderful Villa Selene,"Ligaria, Agia Pelagia, 71500, Greece",4.0,1134.8837209302326,,,False,True,False,True,True,False,99.0,False,June,Crete
+Olvia,"sarpaki 2, Chania, 73100, Greece",,1202.803738317757,9.0,3 ,True,False,True,False,True,False,120.0,False,June,Crete
+Villa 7 Seas - With Amazing View,"Schinaria beach road, Lefkogeia, 74060, Greece",4.0,2470.0,,,False,True,False,False,True,False,270.0,True,June,Crete
+Marianthi’s house,"2 Sapoutie Str, Heraklio, 71202, Greece",4.0,396.0,9.4,39 ,False,False,False,True,False,False,68.0,False,June,Crete
+SpiliaInn,"Σπηλιά Χανιά, Spiliá, 73006, Greece",4.0,740.0,10,1 ,True,False,False,True,True,False,100.0,False,June,Crete
+Villa Morfeas,"Damavolou, Dhamavólos, 74052, Greece",,460.74766355140184,9.3,3 ,False,False,False,False,True,False,250.0,True,June,Crete
+"ELIDA -pool, billiard, views, 4min walk to the sea","Eparchiaki Odos Kalivon-Kefalas, Plaka, 73008, Greece",,2526.168224299065,,,False,True,False,False,True,False,201.0,True,June,Crete
+Casa EleMar Villa with Private Yard,"Analipsi, Analipsi, Hersonissos, 70014, Greece",4.0,384.0,10,1 ,False,False,False,True,True,False,60.0,False,June,Crete
+Casa Magnolia - Spacious Home in heart of Akrotiri,"Kathiana Akrotiriou, Chania, 73100, Greece",,585.0467289719626,10,1 ,False,False,False,True,True,False,109.0,False,June,Crete
+Limani elegant apartments,"3ης Σεπτέμβριου 5-7, Souda, 73200, Greece",4.0,344.0,,,False,False,False,True,False,False,65.0,False,June,Crete
+Alexia's Oasis,"Hersonissos 0, Hersonissos 700 14, Greece, Hersonissos, 70014, Greece",4.0,1605.260180995475,9.5,2 ,True,True,False,False,True,False,135.0,False,June,Crete
+Villa Marmelada,"2. χλμ. Επαρχιακή Οδός Ιεράπετρα - Μακριλιάς , Ierapetra, 72200, Greece",4.0,1445.613631130555,9.9,7 ,False,True,False,True,True,False,170.0,False,June,Crete
+Haritos Holidays Home,"Πόμπια Ηρακλείου Κρήτης, Pómbia, 70400, Greece",4.0,532.1069119509432,8.7,3 ,False,True,False,True,True,False,95.0,True,June,Crete
+Nikkon Luxury Living,"Άρβης, Βιάννου, Arvi, 70004, Greece",,1600.0,,,True,True,False,False,True,False,150.0,False,June,Crete
+Odysseus House,"kato kafenia, Límnai, 72400, Greece",4.0,491.0,10,1 ,False,False,False,True,True,False,130.0,False,June,Crete
+Villa Olive by the Sea-walk distance beach & pools,"14 Eparchiaki Odos Kalivon-Kefalas, Almyrida, 73008, Greece",4.0,908.9285714285713,10,2 ,False,False,False,True,True,False,120.0,False,June,Crete
+Adrianna Villa 4ppl,"Bali Adrianna Villas, Bali, 74057, Greece",4.0,1259.7222222222222,9.1,7 ,True,True,True,False,False,True,113.0,False,June,Crete
+Ellada,"Χωραφακια Ακρωτιριου, Chorafakia, 73100, Greece",4.0,512.5,10,2 ,True,False,False,True,True,False,150.0,False,June,Crete
+Sea View Villa Giorgios Five Bedroom,"Gavalohori,, Gavalochori, 73008, Greece",4.0,1765.0375939849623,,,False,True,True,True,True,False,200.0,False,June,Crete
+Lake Villas,"Mouri, Mouríon, 73007, Greece",4.0,1006.7894675997118,9.3,7 ,True,True,False,True,True,False,115.0,False,June,Crete
+"Spacious villa with private pool and sea view, just 150 meters from the sea","Ethniki Odos Agiou Nikolaou Sitias, Istro, 721 00, Greece",4.0,1517.8908588533272,9.0,2 ,True,True,False,False,True,False,200.0,False,June,Crete
+Cataphari Luxury Villa,"Κουτουλουφάρι, Koutouloufari, Hersonissos, 70014, Greece",,1485.981308411215,9.8,6 ,True,True,False,True,True,False,145.0,False,June,Crete
+ZenMar Hill,"Peristeras Ierapetra, Ierapetra, 72200, Greece",4.0,3606.0,9.6,9 ,False,False,False,False,True,False,137.0,False,June,Crete
+Premium 6-people Villa with Private Pool!,"Gavalochori village main street, Gavalochori, 73008, Greece",,793.4579439252336,,,False,True,False,True,True,False,145.0,False,June,Crete
+ArtOikia Luxury Villas,"Saktouria, Saktoúria, 74053, Greece",4.0,1742.0,,,True,False,False,True,True,False,100.0,False,June,Crete
+Enjoy amazing sea views at wonderful Villa Selene,"Ligaria, Agia Pelagia, 71500, Greece",4.0,1139.5089285714284,,,False,True,False,True,True,False,100.0,False,June,Crete
+Olvia,"sarpaki 2, Chania, 73100, Greece",4.0,1200.0,9.0,3 ,True,False,True,False,True,False,120.0,False,June,Crete
+Villa 7 Seas - With Amazing View,"Schinaria beach road, Lefkogeia, 74060, Greece",4.0,2272.0,,,False,True,False,False,True,False,270.0,True,June,Crete
+Marianthi’s house,"2 Sapoutie Str, Heraklio, 71202, Greece",4.0,396.52777777777777,9.4,39 ,False,False,False,True,False,False,68.0,False,June,Crete
+SpiliaInn,"Σπηλιά Χανιά, Spiliá, 73006, Greece",,742.0560747663551,10,1 ,True,False,False,True,True,False,99.0,False,June,Crete
+Villa Morfeas,"Damavolou, Dhamavólos, 74052, Greece",4.0,453.9241622574956,9.3,3 ,False,False,False,False,True,False,250.0,True,June,Crete
+"ELIDA -pool, billiard, views, 4min walk to the sea","Eparchiaki Odos Kalivon-Kefalas, Plaka, 73008, Greece",,2526.168224299065,,,False,True,False,False,True,False,201.0,True,June,Crete
+Casa EleMar Villa with Private Yard,"Analipsi, Analipsi, Hersonissos, 70014, Greece",,385.0467289719626,10,1 ,False,False,False,True,True,False,60.0,False,June,Crete
+Casa Magnolia - Spacious Home in heart of Akrotiri,"Kathiana Akrotiriou, Chania, 73100, Greece",,585.0467289719626,10,1 ,False,False,False,True,True,False,109.0,False,June,Crete
+Limani elegant apartments,"3ης Σεπτέμβριου 5-7, Souda, 73200, Greece",4.0,375.0,,,False,False,False,True,False,False,65.0,False,June,Crete
+Alexia's Oasis,"Hersonissos 0, Hersonissos 700 14, Greece, Hersonissos, 70014, Greece",4.0,1609.7222222222222,9.5,2 ,True,True,False,False,True,False,135.0,False,June,Crete
+Villa Marmelada,"2. χλμ. Επαρχιακή Οδός Ιεράπετρα - Μακριλιάς , Ierapetra, 72200, Greece",,1442.9906542056074,9.9,7 ,False,True,False,True,True,False,170.0,False,June,Crete
+Haritos Holidays Home,"Πόμπια Ηρακλείου Κρήτης, Pómbia, 70400, Greece",4.0,600.0,8.7,3 ,False,True,False,True,True,False,95.0,True,June,Crete
+Nikkon Luxury Living,"Άρβης, Βιάννου, Arvi, 70004, Greece",,1600.0,,,True,True,False,False,True,False,150.0,False,June,Crete
+Odysseus House,"kato kafenia, Límnai, 72400, Greece",,508.411214953271,10,1 ,False,False,False,True,True,False,129.0,False,June,Crete
+Villa Olive by the Sea-walk distance beach & pools,"14 Eparchiaki Odos Kalivon-Kefalas, Almyrida, 73008, Greece",,875.7009345794391,10,2 ,False,False,False,True,True,False,120.0,False,June,Crete
+Adrianna Villa 4ppl,"Bali Adrianna Villas, Bali, 74057, Greece",,1327.1028037383178,9.1,7 ,True,True,True,False,False,True,112.0,False,June,Crete
+Ellada,"Χωραφακια Ακρωτιριου, Chorafakia, 73100, Greece",4.0,471.0,10,2 ,True,False,False,True,True,False,150.0,False,June,Crete
+Sea View Villa Giorgios Five Bedroom,"Gavalohori,, Gavalochori, 73008, Greece",4.0,1766.0,,,False,True,True,True,True,False,200.0,False,June,Crete
+Lake Villas,"Mouri, Mouríon, 73007, Greece",,1002.8037383177569,9.3,7 ,True,True,False,True,True,False,115.0,False,June,Crete
+"Spacious villa with private pool and sea view, just 150 meters from the sea","Ethniki Odos Agiou Nikolaou Sitias, Istro, 721 00, Greece",4.0,1512.0,9.0,2 ,True,True,False,False,True,False,200.0,False,June,Crete
+Cataphari Luxury Villa,"Κουτουλουφάρι, Koutouloufari, Hersonissos, 70014, Greece",4.0,1482.0,9.8,6 ,True,True,False,True,True,False,145.0,False,June,Crete
+ZenMar Hill,"Peristeras Ierapetra, Ierapetra, 72200, Greece",4.0,732.9938354328598,9.6,9 ,False,False,False,False,True,False,137.0,False,June,Crete
+Premium 6-people Villa with Private Pool!,"Gavalochori village main street, Gavalochori, 73008, Greece",4.0,794.4196428571428,,,False,True,False,True,True,False,145.0,False,June,Crete
+ArtOikia Luxury Villas,"Saktouria, Saktoúria, 74053, Greece",4.0,1685.4508796461905,,,True,False,False,True,True,False,100.0,False,June,Crete
+Enjoy amazing sea views at wonderful Villa Selene,"Ligaria, Agia Pelagia, 71500, Greece",4.0,1136.0,,,False,True,False,True,True,False,100.0,False,June,Crete
+Olvia,"sarpaki 2, Chania, 73100, Greece",,1202.803738317757,9.0,3 ,True,False,True,False,True,False,120.0,False,June,Crete
+Villa 7 Seas - With Amazing View,"Schinaria beach road, Lefkogeia, 74060, Greece",4.0,2277.5700934579436,,,False,True,False,False,True,False,270.0,True,June,Crete
+Marianthi’s house,"2 Sapoutie Str, Heraklio, 71202, Greece",4.0,363.8461538461538,9.4,39 ,False,False,False,True,False,False,68.0,False,June,Crete
+SpiliaInn,"Σπηλιά Χανιά, Spiliá, 73006, Greece",,742.0560747663551,10,1 ,True,False,False,True,True,False,99.0,False,June,Crete
+Villa Morfeas,"Damavolou, Dhamavólos, 74052, Greece",,460.74766355140184,9.3,3 ,False,False,False,False,True,False,250.0,True,June,Crete
+"ELIDA -pool, billiard, views, 4min walk to the sea","Eparchiaki Odos Kalivon-Kefalas, Plaka, 73008, Greece",,2526.168224299065,,,False,True,False,False,True,False,201.0,True,June,Crete
+Casa EleMar Villa with Private Yard,"Analipsi, Analipsi, Hersonissos, 70014, Greece",,385.0467289719626,10,1 ,False,False,False,True,True,False,60.0,False,June,Crete
+Casa Magnolia - Spacious Home in heart of Akrotiri,"Kathiana Akrotiriou, Chania, 73100, Greece",4.0,585.4708726686622,10,1 ,False,False,False,True,True,False,110.0,False,June,Crete
+Limani elegant apartments,"3ης Σεπτέμβριου 5-7, Souda, 73200, Greece",4.0,374.95894909688013,,,False,False,False,True,False,False,65.0,False,June,Crete
+Alexia's Oasis,"Hersonissos 0, Hersonissos 700 14, Greece, Hersonissos, 70014, Greece",4.0,1613.619617775731,9.5,2 ,True,True,False,False,True,False,135.0,False,June,Crete
+Villa Marmelada,"2. χλμ. Επαρχιακή Οδός Ιεράπετρα - Μακριλιάς , Ierapetra, 72200, Greece",4.0,1437.381783307137,9.9,7 ,False,True,False,True,True,False,170.0,False,June,Crete
+Haritos Holidays Home,"Πόμπια Ηρακλείου Κρήτης, Pómbia, 70400, Greece",,601.8691588785047,8.7,3 ,False,True,False,True,True,False,95.0,True,June,Crete
+Nikkon Luxury Living,"Άρβης, Βιάννου, Arvi, 70004, Greece",4.0,1600187.5174143214,,,True,True,False,False,True,False,150.0,False,June,Crete
+Odysseus House,"kato kafenia, Límnai, 72400, Greece",4.0,533.3031674208145,10,1 ,False,False,False,True,True,False,130.0,False,June,Crete
+Villa Olive by the Sea-walk distance beach & pools,"14 Eparchiaki Odos Kalivon-Kefalas, Almyrida, 73008, Greece",,875.7009345794391,10,2 ,False,False,False,True,True,False,120.0,False,June,Crete
+Adrianna Villa 4ppl,"Bali Adrianna Villas, Bali, 74057, Greece",4.0,1325.6944444444446,9.1,7 ,True,True,True,False,False,True,113.0,False,June,Crete
+Ellada,"Χωραφακια Ακρωτιριου, Chorafakia, 73100, Greece",,513.0841121495326,10,2 ,True,False,False,True,True,False,150.0,False,June,Crete
+Sea View Villa Giorgios Five Bedroom,"Gavalohori,, Gavalochori, 73008, Greece",4.0,1920.0,,,False,True,True,True,True,False,200.0,False,June,Crete
+Lake Villas,"Mouri, Mouríon, 73007, Greece",4.0,1001.3888888888889,9.3,7 ,True,True,False,True,True,False,115.0,False,June,Crete
+"Spacious villa with private pool and sea view, just 150 meters from the sea","Ethniki Odos Agiou Nikolaou Sitias, Istro, 721 00, Greece",4.0,1513.888888888889,9.0,2 ,True,True,False,False,True,False,200.0,False,June,Crete
+Cataphari Luxury Villa,"Κουτουλουφάρι, Koutouloufari, Hersonissos, 70014, Greece",4.0,1363.0,9.8,6 ,True,True,False,True,True,False,145.0,False,June,Crete
+ZenMar Hill,"Peristeras Ierapetra, Ierapetra, 72200, Greece",4.0,736.6071428571428,9.6,9 ,False,False,False,False,True,False,137.0,False,June,Crete
+Premium 6-people Villa with Private Pool!,"Gavalochori village main street, Gavalochori, 73008, Greece",4.0,792.0,,,False,True,False,True,True,False,145.0,False,June,Crete
+ArtOikia Luxury Villas,"Saktouria, Saktoúria, 74053, Greece",4.0,1604.852362860761,,,True,False,False,True,True,False,100.0,False,June,Crete
+Enjoy amazing sea views at wonderful Villa Selene,"Ligaria, Agia Pelagia, 71500, Greece",4.0,934.0225563909773,,,False,True,False,True,True,False,100.0,False,June,Crete
+Olvia,"sarpaki 2, Chania, 73100, Greece",,1142.9906542056074,9.0,3 ,True,False,True,False,True,False,120.0,False,June,Crete
+Villa 7 Seas - With Amazing View,"Schinaria beach road, Lefkogeia, 74060, Greece",4.0,2309.0,,,False,True,False,False,True,False,270.0,True,June,Crete
+Marianthi’s house,"2 Sapoutie Str, Heraklio, 71202, Greece",4.0,396.0,9.4,39 ,False,False,False,True,False,False,68.0,False,June,Crete
+SpiliaInn,"Σπηλιά Χανιά, Spiliá, 73006, Greece",,742.0560747663551,10,1 ,True,False,False,True,True,False,99.0,False,June,Crete
+Villa Morfeas,"Damavolou, Dhamavólos, 74052, Greece",,460.74766355140184,9.3,3 ,False,False,False,False,True,False,250.0,True,June,Crete
+"ELIDA -pool, billiard, views, 4min walk to the sea","Eparchiaki Odos Kalivon-Kefalas, Plaka, 73008, Greece",4.0,2527.9017857142853,,,False,True,False,False,True,False,201.0,True,June,Crete
+Casa EleMar Villa with Private Yard,"Analipsi, Analipsi, Hersonissos, 70014, Greece",,385.0467289719626,10,1 ,False,False,False,True,True,False,60.0,False,June,Crete
+Casa Magnolia - Spacious Home in heart of Akrotiri,"Kathiana Akrotiriou, Chania, 73100, Greece",4.0,537.0,10,1 ,False,False,False,True,True,False,110.0,False,June,Crete
+Limani elegant apartments,"3ης Σεπτέμβριου 5-7, Souda, 73200, Greece",4.0,375.8577020492747,,,False,False,False,True,False,False,65.0,False,June,Crete
+Alexia's Oasis,"Hersonissos 0, Hersonissos 700 14, Greece, Hersonissos, 70014, Greece",,1790.6542056074766,9.5,2 ,True,True,False,False,True,False,134.0,False,June,Crete
+Villa Marmelada,"2. χλμ. Επαρχιακή Οδός Ιεράπετρα - Μακριλιάς , Ierapetra, 72200, Greece",4.0,1440.0,9.9,7 ,False,True,False,True,True,False,170.0,False,June,Crete
+Haritos Holidays Home,"Πόμπια Ηρακλείου Κρήτης, Pómbia, 70400, Greece",4.0,601.7857142857142,8.7,3 ,False,True,False,True,True,False,95.0,True,June,Crete
+Nikkon Luxury Living,"Άρβης, Βιάννου, Arvi, 70004, Greece",,1600.0,,,True,True,False,False,True,False,150.0,False,June,Crete
+Odysseus House,"kato kafenia, Límnai, 72400, Greece",4.0,534.0,10,1 ,False,False,False,True,True,False,130.0,False,June,Crete
+Villa Olive by the Sea-walk distance beach & pools,"14 Eparchiaki Odos Kalivon-Kefalas, Almyrida, 73008, Greece",,875.7009345794391,10,2 ,False,False,False,True,True,False,120.0,False,June,Crete
+Adrianna Villa 4ppl,"Bali Adrianna Villas, Bali, 74057, Greece",,1327.1028037383178,9.1,7 ,True,True,True,False,False,True,112.0,False,June,Crete
+Ellada,"Χωραφακια Ακρωτιριου, Chorafakia, 73100, Greece",,513.0841121495326,10,2 ,True,False,False,True,True,False,150.0,False,June,Crete
+Sea View Villa Giorgios Five Bedroom,"Gavalohori,, Gavalochori, 73008, Greece",4.0,1760.0277104260476,,,False,True,True,True,True,False,200.0,False,June,Crete
+Lake Villas,"Mouri, Mouríon, 73007, Greece",4.0,1006.7894675997118,9.3,7 ,True,True,False,True,True,False,115.0,False,June,Crete
+"Spacious villa with private pool and sea view, just 150 meters from the sea","Ethniki Odos Agiou Nikolaou Sitias, Istro, 721 00, Greece",4.0,1400.739674697808,9.0,2 ,True,True,False,False,True,False,200.0,False,June,Crete
+Cataphari Luxury Villa,"Κουτουλουφάρι, Koutouloufari, Hersonissos, 70014, Greece",4.0,1492.1521512336026,9.8,6 ,True,True,False,True,True,False,145.0,False,June,Crete
+ZenMar Hill,"Peristeras Ierapetra, Ierapetra, 72200, Greece",4.0,736.8755676657584,9.6,9 ,False,False,False,False,True,False,137.0,False,June,Crete
+Premium 6-people Villa with Private Pool!,"Gavalochori village main street, Gavalochori, 73008, Greece",4.0,729.0,,,False,True,False,True,True,False,145.0,False,June,Crete
+ArtOikia Luxury Villas,"Saktouria, Saktoúria, 74053, Greece",,1696.2616822429904,,,True,False,False,True,True,False,99.0,False,June,Crete
+Enjoy amazing sea views at wonderful Villa Selene,"Ligaria, Agia Pelagia, 71500, Greece",4.0,1055.0,,,False,True,False,True,True,False,100.0,False,June,Crete
+Olvia,"sarpaki 2, Chania, 73100, Greece",,1202.803738317757,9.0,3 ,True,False,True,False,True,False,120.0,False,June,Crete
+Villa 7 Seas - With Amazing View,"Schinaria beach road, Lefkogeia, 74060, Greece",,2475.700934579439,,,False,True,False,False,True,False,269.0,True,June,Crete
+Marianthi’s house,"2 Sapoutie Str, Heraklio, 71202, Greece",4.0,1944.0,9.4,39 ,False,False,False,True,False,False,68.0,False,June,Crete
+SpiliaInn,"Σπηλιά Χανιά, Spiliá, 73006, Greece",,742.0560747663551,10,1 ,True,False,False,True,True,False,99.0,False,June,Crete
+Villa Morfeas,"Damavolou, Dhamavólos, 74052, Greece",4.0,461.25949804282754,9.3,3 ,False,False,False,False,True,False,250.0,True,June,Crete
+"ELIDA -pool, billiard, views, 4min walk to the sea","Eparchiaki Odos Kalivon-Kefalas, Plaka, 73008, Greece",,2526.168224299065,,,False,True,False,False,True,False,201.0,True,June,Crete
+Casa EleMar Villa with Private Yard,"Analipsi, Analipsi, Hersonissos, 70014, Greece",,385.0467289719626,10,1 ,False,False,False,True,True,False,60.0,False,June,Crete
+Casa Magnolia - Spacious Home in heart of Akrotiri,"Kathiana Akrotiriou, Chania, 73100, Greece",,585.0467289719626,10,1 ,False,False,False,True,True,False,109.0,False,June,Crete
+Limani elegant apartments,"3ης Σεπτέμβριου 5-7, Souda, 73200, Greece",4.0,374.0,,,False,False,False,True,False,False,65.0,False,June,Crete
+Alexia's Oasis,"Hersonissos 0, Hersonissos 700 14, Greece, Hersonissos, 70014, Greece",4.0,1605.8139534883721,9.5,2 ,True,True,False,False,True,False,134.0,False,June,Crete
+Villa Marmelada,"2. χλμ. Επαρχιακή Οδός Ιεράπετρα - Μακριλιάς , Ierapetra, 72200, Greece",4.0,1444.4196428571427,9.9,7 ,False,True,False,True,True,False,170.0,False,June,Crete
+Haritos Holidays Home,"Πόμπια Ηρακλείου Κρήτης, Pómbia, 70400, Greece",4.0,600.0,8.7,3 ,False,True,False,True,True,False,95.0,True,June,Crete
+Nikkon Luxury Living,"Άρβης, Βιάννου, Arvi, 70004, Greece",4.0,1593.914027149321,,,True,True,False,False,True,False,150.0,False,June,Crete
+Odysseus House,"kato kafenia, Límnai, 72400, Greece",4.0,533.3031674208145,10,1 ,False,False,False,True,True,False,130.0,False,June,Crete
+Villa Olive by the Sea-walk distance beach & pools,"14 Eparchiaki Odos Kalivon-Kefalas, Almyrida, 73008, Greece",4.0,875.0,10,2 ,False,False,False,True,True,False,120.0,False,June,Crete
+Adrianna Villa 4ppl,"Bali Adrianna Villas, Bali, 74057, Greece",4.0,1324.0,9.1,7 ,True,True,True,False,False,True,113.0,False,June,Crete
+Ellada,"Χωραφακια Ακρωτιριου, Chorafakia, 73100, Greece",4.0,512.5,10,2 ,True,False,False,True,True,False,150.0,False,June,Crete
+Sea View Villa Giorgios Five Bedroom,"Gavalohori,, Gavalochori, 73008, Greece",4.0,1922.9166666666667,,,False,True,True,True,True,False,200.0,False,June,Crete
+Lake Villas,"Mouri, Mouríon, 73007, Greece",,1002.8037383177569,9.3,7 ,True,True,False,True,True,False,115.0,False,June,Crete
+"Spacious villa with private pool and sea view, just 150 meters from the sea","Ethniki Odos Agiou Nikolaou Sitias, Istro, 721 00, Greece",4.0,1512.0,9.0,2 ,True,True,False,False,True,False,200.0,False,June,Crete
+Cataphari Luxury Villa,"Κουτουλουφάρι, Koutouloufari, Hersonissos, 70014, Greece",,1485.981308411215,9.8,6 ,True,True,False,True,True,False,145.0,False,June,Crete
+ZenMar Hill,"Peristeras Ierapetra, Ierapetra, 72200, Greece",4.0,680.2090034827903,9.6,9 ,False,False,False,False,True,False,137.0,False,June,Crete
+Premium 6-people Villa with Private Pool!,"Gavalochori village main street, Gavalochori, 73008, Greece",4.0,792.0,,,False,True,False,True,True,False,145.0,False,June,Crete
+ArtOikia Luxury Villas,"Saktouria, Saktoúria, 74053, Greece",4.0,1694.4444444444446,,,True,False,False,True,True,False,100.0,False,June,Crete
+Enjoy amazing sea views at wonderful Villa Selene,"Ligaria, Agia Pelagia, 71500, Greece",4.0,1136.0,,,False,True,False,True,True,False,100.0,False,June,Crete
+Olvia,"sarpaki 2, Chania, 73100, Greece",,1202.803738317757,9.0,3 ,True,False,True,False,True,False,120.0,False,June,Crete
+Villa 7 Seas - With Amazing View,"Schinaria beach road, Lefkogeia, 74060, Greece",,2475.700934579439,,,False,True,False,False,True,False,269.0,True,June,Crete
+Marianthi’s house,"2 Sapoutie Str, Heraklio, 71202, Greece",4.0,365.3879040685155,9.4,39 ,False,False,False,True,False,False,68.0,False,June,Crete
+SpiliaInn,"Σπηλιά Χανιά, Spiliá, 73006, Greece",4.0,680.2631578947368,10,1 ,True,False,False,True,True,False,100.0,False,June,Crete
+Villa Morfeas,"Damavolou, Dhamavólos, 74052, Greece",,460.74766355140184,9.3,3 ,False,False,False,False,True,False,250.0,True,June,Crete
+"ELIDA -pool, billiard, views, 4min walk to the sea","Eparchiaki Odos Kalivon-Kefalas, Plaka, 73008, Greece",,2526.168224299065,,,False,True,False,False,True,False,201.0,True,June,Crete
+Casa EleMar Villa with Private Yard,"Analipsi, Analipsi, Hersonissos, 70014, Greece",,385.0467289719626,10,1 ,False,False,False,True,True,False,60.0,False,June,Crete
+Casa Magnolia - Spacious Home in heart of Akrotiri,"Kathiana Akrotiriou, Chania, 73100, Greece",4.0,582.5581395348837,10,1 ,False,False,False,True,True,False,109.0,False,June,Crete
+Limani elegant apartments,"3ης Σεπτέμβριου 5-7, Souda, 73200, Greece",,375.7009345794392,,,False,False,False,True,False,False,65.0,False,June,Crete
+Alexia's Oasis,"Hersonissos 0, Hersonissos 700 14, Greece, Hersonissos, 70014, Greece",4.0,1612.4688279301747,9.5,2 ,True,True,False,False,True,False,135.0,False,June,Crete
+Villa Marmelada,"2. χλμ. Επαρχιακή Οδός Ιεράπετρα - Μακριλιάς , Ierapetra, 72200, Greece",4.0,1320.5490085385645,9.9,7 ,False,True,False,True,True,False,170.0,False,June,Crete
+Haritos Holidays Home,"Πόμπια Ηρακλείου Κρήτης, Pómbia, 70400, Greece",4.0,600.0,8.7,3 ,False,True,False,True,True,False,95.0,True,June,Crete
+Nikkon Luxury Living,"Άρβης, Βιάννου, Arvi, 70004, Greece",,1600.0,,,True,True,False,False,True,False,150.0,False,June,Crete
+Odysseus House,"kato kafenia, Límnai, 72400, Greece",,535.5140186915887,10,1 ,False,False,False,True,True,False,129.0,False,June,Crete
+Villa Olive by the Sea-walk distance beach & pools,"14 Eparchiaki Odos Kalivon-Kefalas, Almyrida, 73008, Greece",4.0,909.2783505154639,10,2 ,False,False,False,True,True,False,120.0,False,June,Crete
+Adrianna Villa 4ppl,"Bali Adrianna Villas, Bali, 74057, Greece",4.0,1324.0,9.1,7 ,True,True,True,False,False,True,113.0,False,June,Crete
+Ellada,"Χωραφακια Ακρωτιριου, Chorafakia, 73100, Greece",4.0,511.65413533834584,10,2 ,True,False,False,True,True,False,150.0,False,June,Crete
+Sea View Villa Giorgios Five Bedroom,"Gavalohori,, Gavalochori, 73008, Greece",4.0,1766.0,,,False,True,True,True,True,False,200.0,False,June,Crete
+Lake Villas,"Mouri, Mouríon, 73007, Greece",4.0,1001.3888888888889,9.3,7 ,True,True,False,True,True,False,115.0,False,June,Crete
+"Spacious villa with private pool and sea view, just 150 meters from the sea","Ethniki Odos Agiou Nikolaou Sitias, Istro, 721 00, Greece",,1515.8878504672896,9.0,2 ,True,True,False,False,True,False,200.0,False,June,Crete
+Cataphari Luxury Villa,"Κουτουλουφάρι, Koutouloufari, Hersonissos, 70014, Greece",4.0,1480.0565610859728,9.8,6 ,True,True,False,True,True,False,145.0,False,June,Crete
+ZenMar Hill,"Peristeras Ierapetra, Ierapetra, 72200, Greece",4.0,732.889835018627,9.6,9 ,False,False,False,False,True,False,137.0,False,June,Crete
+Premium 6-people Villa with Private Pool!,"Gavalochori village main street, Gavalochori, 73008, Greece",4.0,793.0555555555555,,,False,True,False,True,True,False,145.0,False,June,Crete
+ArtOikia Luxury Villas,"Saktouria, Saktoúria, 74053, Greece",,1696.2616822429904,,,True,False,False,True,True,False,99.0,False,June,Crete
+Enjoy amazing sea views at wonderful Villa Selene,"Ligaria, Agia Pelagia, 71500, Greece",4.0,1023.0684017773191,,,False,True,False,True,True,False,100.0,False,June,Crete
+Olvia,"sarpaki 2, Chania, 73100, Greece",4.0,1204.6741883490674,9.0,3 ,True,False,True,False,True,False,120.0,False,June,Crete
+Villa 7 Seas - With Amazing View,"Schinaria beach road, Lefkogeia, 74060, Greece",4.0,2460.440310884199,,,False,True,False,False,True,False,270.0,True,June,Crete
+Marianthi’s house,"2 Sapoutie Str, Heraklio, 71202, Greece",4.0,396.52777777777777,9.4,39 ,False,False,False,True,False,False,68.0,False,June,Crete
+SpiliaInn,"Σπηλιά Χανιά, Spiliá, 73006, Greece",4.0,745.0742950520255,10,1 ,True,False,False,True,True,False,100.0,False,June,Crete
+Villa Morfeas,"Damavolou, Dhamavólos, 74052, Greece",4.0,509.1340450771056,9.3,3 ,False,False,False,False,True,False,250.0,True,June,Crete
+"ELIDA -pool, billiard, views, 4min walk to the sea","Eparchiaki Odos Kalivon-Kefalas, Plaka, 73008, Greece",4.0,2523.6111111111113,,,False,True,False,False,True,False,201.0,True,June,Crete
+Casa EleMar Villa with Private Yard,"Analipsi, Analipsi, Hersonissos, 70014, Greece",4.0,384.72222222222223,10,1 ,False,False,False,True,True,False,60.0,False,June,Crete
+Casa Magnolia - Spacious Home in heart of Akrotiri,"Kathiana Akrotiriou, Chania, 73100, Greece",4.0,580.94370914767,10,1 ,False,False,False,True,True,False,110.0,False,June,Crete
+Limani elegant apartments,"3ης Σεπτέμβριου 5-7, Souda, 73200, Greece",,375.7009345794392,,,False,False,False,True,False,False,65.0,False,June,Crete
+Alexia's Oasis,"Hersonissos 0, Hersonissos 700 14, Greece, Hersonissos, 70014, Greece",4.0,1524.5684196494035,9.5,2 ,True,True,False,False,True,False,135.0,False,June,Crete
+Villa Marmelada,"2. χλμ. Επαρχιακή Οδός Ιεράπετρα - Μακριλιάς , Ierapetra, 72200, Greece",4.0,1438.3720930232557,9.9,7 ,False,True,False,True,True,False,170.0,False,June,Crete
+Haritos Holidays Home,"Πόμπια Ηρακλείου Κρήτης, Pómbia, 70400, Greece",4.0,600.0,8.7,3 ,False,True,False,True,True,False,95.0,True,June,Crete
+Nikkon Luxury Living,"Άρβης, Βιάννου, Arvi, 70004, Greece",4.0,1597.9166666666667,,,True,True,False,False,True,False,150.0,False,June,Crete
+Odysseus House,"kato kafenia, Límnai, 72400, Greece",,535.5140186915887,10,1 ,False,False,False,True,True,False,129.0,False,June,Crete
+Villa Olive by the Sea-walk distance beach & pools,"14 Eparchiaki Odos Kalivon-Kefalas, Almyrida, 73008, Greece",4.0,875.0,10,2 ,False,False,False,True,True,False,120.0,False,June,Crete
+Adrianna Villa 4ppl,"Bali Adrianna Villas, Bali, 74057, Greece",,1327.1028037383178,9.1,7 ,True,True,True,False,False,True,112.0,False,June,Crete
+Ellada,"Χωραφακια Ακρωτιριου, Chorafakia, 73100, Greece",4.0,511.6279069767442,10,2 ,True,False,False,True,True,False,150.0,False,June,Crete
+Sea View Villa Giorgios Five Bedroom,"Gavalohori,, Gavalochori, 73008, Greece",4.0,1922.9166666666667,,,False,True,True,True,True,False,200.0,False,June,Crete
+Lake Villas,"Mouri, Mouríon, 73007, Greece",4.0,1003.3908567968513,9.3,7 ,True,True,False,True,True,False,115.0,False,June,Crete
+"Spacious villa with private pool and sea view, just 150 meters from the sea","Ethniki Odos Agiou Nikolaou Sitias, Istro, 721 00, Greece",4.0,1516.7410714285713,9.0,2 ,True,True,False,False,True,False,200.0,False,June,Crete
+Cataphari Luxury Villa,"Κουτουλουφάρι, Koutouloufari, Hersonissos, 70014, Greece",4.0,1464.9769585253457,9.8,6 ,True,True,False,True,True,False,145.0,False,June,Crete
+ZenMar Hill,"Peristeras Ierapetra, Ierapetra, 72200, Greece",4.0,735.4166666666667,9.6,9 ,False,False,False,False,True,False,137.0,False,June,Crete
+Premium 6-people Villa with Private Pool!,"Gavalochori village main street, Gavalochori, 73008, Greece",,793.4579439252336,,,False,True,False,True,True,False,145.0,False,June,Crete
+ArtOikia Luxury Villas,"Saktouria, Saktoúria, 74053, Greece",,1696.2616822429904,,,True,False,False,True,True,False,99.0,False,June,Crete
+Enjoy amazing sea views at wonderful Villa Selene,"Ligaria, Agia Pelagia, 71500, Greece",,1018.6915887850466,,,False,True,False,True,True,False,99.0,False,June,Crete
+Olvia,"sarpaki 2, Chania, 73100, Greece",,1202.803738317757,9.0,3 ,True,False,True,False,True,False,120.0,False,June,Crete
+Villa 7 Seas - With Amazing View,"Schinaria beach road, Lefkogeia, 74060, Greece",,2475.700934579439,,,False,True,False,False,True,False,269.0,True,June,Crete
+Marianthi’s house,"2 Sapoutie Str, Heraklio, 71202, Greece",4.0,364.0,9.4,39 ,False,False,False,True,False,False,68.0,False,June,Crete
+SpiliaInn,"Σπηλιά Χανιά, Spiliá, 73006, Greece",4.0,681.0,10,1 ,True,False,False,True,True,False,100.0,False,June,Crete
+Villa Morfeas,"Damavolou, Dhamavólos, 74052, Greece",,460.74766355140184,9.3,3 ,False,False,False,False,True,False,250.0,True,June,Crete
+"ELIDA -pool, billiard, views, 4min walk to the sea","Eparchiaki Odos Kalivon-Kefalas, Plaka, 73008, Greece",4.0,2520.0,,,False,True,False,False,True,False,201.0,True,June,Crete
+Casa EleMar Villa with Private Yard,"Analipsi, Analipsi, Hersonissos, 70014, Greece",4.0,384.72222222222223,10,1 ,False,False,False,True,True,False,60.0,False,June,Crete
+Casa Magnolia - Spacious Home in heart of Akrotiri,"Kathiana Akrotiriou, Chania, 73100, Greece",,567.2897196261682,10,1 ,False,False,False,True,True,False,109.0,False,June,Crete
+Limani elegant apartments,"3ης Σεπτέμβριου 5-7, Souda, 73200, Greece",4.0,344.0,,,False,False,False,True,False,False,65.0,False,June,Crete
+Alexia's Oasis,"Hersonissos 0, Hersonissos 700 14, Greece, Hersonissos, 70014, Greece",4.0,1607.0,9.5,2 ,True,True,False,False,True,False,135.0,False,June,Crete
+Villa Marmelada,"2. χλμ. Επαρχιακή Οδός Ιεράπετρα - Μακριλιάς , Ierapetra, 72200, Greece",,1442.9906542056074,9.9,7 ,False,True,False,True,True,False,170.0,False,June,Crete
+Haritos Holidays Home,"Πόμπια Ηρακλείου Κρήτης, Pómbia, 70400, Greece",4.0,551.5037593984962,8.7,3 ,False,True,False,True,True,False,95.0,True,June,Crete
+Nikkon Luxury Living,"Άρβης, Βιάννου, Arvi, 70004, Greece",4.0,1599.7455470737914,,,True,True,False,False,True,False,150.0,False,June,Crete
+Odysseus House,"kato kafenia, Límnai, 72400, Greece",4.0,490.6334841628959,10,1 ,False,False,False,True,True,False,130.0,False,June,Crete
+Villa Olive by the Sea-walk distance beach & pools,"14 Eparchiaki Odos Kalivon-Kefalas, Almyrida, 73008, Greece",4.0,875.0,10,2 ,False,False,False,True,True,False,120.0,False,June,Crete
+Adrianna Villa 4ppl,"Bali Adrianna Villas, Bali, 74057, Greece",,1327.1028037383178,9.1,7 ,True,True,True,False,False,True,112.0,False,June,Crete
+Ellada,"Χωραφακια Ακρωτιριου, Chorafakia, 73100, Greece",,513.0841121495326,10,2 ,True,False,False,True,True,False,150.0,False,June,Crete
+Sea View Villa Giorgios Five Bedroom,"Gavalohori,, Gavalochori, 73008, Greece",4.0,1920.0,,,False,True,True,True,True,False,200.0,False,June,Crete
+Lake Villas,"Mouri, Mouríon, 73007, Greece",,1002.8037383177569,9.3,7 ,True,True,False,True,True,False,115.0,False,June,Crete
+"Spacious villa with private pool and sea view, just 150 meters from the sea","Ethniki Odos Agiou Nikolaou Sitias, Istro, 721 00, Greece",,0.0,9.0,2 ,True,True,False,False,True,False,,False,June,Crete
+Cataphari Luxury Villa,"Κουτουλουφάρι, Koutouloufari, Hersonissos, 70014, Greece",4.0,1372.9402640252786,9.8,6 ,True,True,False,True,True,False,145.0,False,June,Crete
+ZenMar Hill,"Peristeras Ierapetra, Ierapetra, 72200, Greece",4.0,674.762443438914,9.6,9 ,False,False,False,False,True,False,137.0,False,June,Crete
+Premium 6-people Villa with Private Pool!,"Gavalochori village main street, Gavalochori, 73008, Greece",4.0,792.0,,,False,True,False,True,True,False,145.0,False,June,Crete
+ArtOikia Luxury Villas,"Saktouria, Saktoúria, 74053, Greece",,1696.2616822429904,,,True,False,False,True,True,False,99.0,False,June,Crete
+Enjoy amazing sea views at wonderful Villa Selene,"Ligaria, Agia Pelagia, 71500, Greece",,1018.6915887850466,,,False,True,False,True,True,False,99.0,False,June,Crete
+Olvia,"sarpaki 2, Chania, 73100, Greece",4.0,1204.6741883490674,9.0,3 ,True,False,True,False,True,False,120.0,False,June,Crete
+Villa 7 Seas - With Amazing View,"Schinaria beach road, Lefkogeia, 74060, Greece",4.0,2453371.8721929938,,,False,True,False,False,True,False,270.0,True,June,Crete
+Marianthi’s house,"2 Sapoutie Str, Heraklio, 71202, Greece",4.0,396.52777777777777,9.4,39 ,False,False,False,True,False,False,68.0,False,June,Crete
+SpiliaInn,"Σπηλιά Χανιά, Spiliá, 73006, Greece",4.0,740.9722222222223,10,1 ,True,False,False,True,True,False,100.0,False,June,Crete
+Villa Morfeas,"Damavolou, Dhamavólos, 74052, Greece",4.0,459.0,9.3,3 ,False,False,False,False,True,False,250.0,True,June,Crete
+"ELIDA -pool, billiard, views, 4min walk to the sea","Eparchiaki Odos Kalivon-Kefalas, Plaka, 73008, Greece",4.0,2517.4418604651164,,,False,True,False,False,True,False,201.0,True,June,Crete
+Casa EleMar Villa with Private Yard,"Analipsi, Analipsi, Hersonissos, 70014, Greece",,385.0467289719626,10,1 ,False,False,False,True,True,False,60.0,False,June,Crete
+Casa Magnolia - Spacious Home in heart of Akrotiri,"Kathiana Akrotiriou, Chania, 73100, Greece",4.0,583.0,10,1 ,False,False,False,True,True,False,110.0,False,June,Crete
+Limani elegant apartments,"3ης Σεπτέμβριου 5-7, Souda, 73200, Greece",4.0,374.0,,,False,False,False,True,False,False,65.0,False,June,Crete
+Alexia's Oasis,"Hersonissos 0, Hersonissos 700 14, Greece, Hersonissos, 70014, Greece",4.0,1607.0,9.5,2 ,True,True,False,False,True,False,135.0,False,June,Crete
+Villa Marmelada,"2. χλμ. Επαρχιακή Οδός Ιεράπετρα - Μακριλιάς , Ierapetra, 72200, Greece",4.0,1323.0656108597284,9.9,7 ,False,True,False,True,True,False,170.0,False,June,Crete
+Haritos Holidays Home,"Πόμπια Ηρακλείου Κρήτης, Pómbia, 70400, Greece",4.0,600.6944444444445,8.7,3 ,False,True,False,True,True,False,95.0,True,June,Crete
+Nikkon Luxury Living,"Άρβης, Βιάννου, Arvi, 70004, Greece",4.0,1478.3776684679349,,,True,True,False,False,True,False,150.0,False,June,Crete
+Odysseus House,"kato kafenia, Límnai, 72400, Greece",,535.5140186915887,10,1 ,False,False,False,True,True,False,129.0,False,June,Crete
+Villa Olive by the Sea-walk distance beach & pools,"14 Eparchiaki Odos Kalivon-Kefalas, Almyrida, 73008, Greece",4.0,875.0,10,2 ,False,False,False,True,True,False,120.0,False,June,Crete
+Adrianna Villa 4ppl,"Bali Adrianna Villas, Bali, 74057, Greece",,1327.1028037383178,9.1,7 ,True,True,True,False,False,True,112.0,False,June,Crete
+Ellada,"Χωραφακια Ακρωτιριου, Chorafakia, 73100, Greece",4.0,512.5,10,2 ,True,False,False,True,True,False,150.0,False,June,Crete
+Sea View Villa Giorgios Five Bedroom,"Gavalohori,, Gavalochori, 73008, Greece",4.0,1920.0,,,False,True,True,True,True,False,200.0,False,June,Crete
+Lake Villas,"Mouri, Mouríon, 73007, Greece",,1002.8037383177569,9.3,7 ,True,True,False,True,True,False,115.0,False,June,Crete
+"Spacious villa with private pool and sea view, just 150 meters from the sea","Ethniki Odos Agiou Nikolaou Sitias, Istro, 721 00, Greece",,1515.8878504672896,9.0,2 ,True,True,False,False,True,False,200.0,False,June,Crete
+Cataphari Luxury Villa,"Κουτουλουφάρι, Koutouloufari, Hersonissos, 70014, Greece",4.0,1358.5209560096987,9.8,6 ,True,True,False,True,True,False,145.0,False,June,Crete
+ZenMar Hill,"Peristeras Ierapetra, Ierapetra, 72200, Greece",4.0,737.2553534423209,9.6,9 ,False,False,False,False,True,False,137.0,False,June,Crete
+Premium 6-people Villa with Private Pool!,"Gavalochori village main street, Gavalochori, 73008, Greece",4.0,792.153454401293,,,False,True,False,True,True,False,145.0,False,June,Crete
+ArtOikia Luxury Villas,"Saktouria, Saktoúria, 74053, Greece",4.0,1607.0,,,True,False,False,True,True,False,100.0,False,June,Crete
+Enjoy amazing sea views at wonderful Villa Selene,"Ligaria, Agia Pelagia, 71500, Greece",4.0,1055.0,,,False,True,False,True,True,False,100.0,False,June,Crete
+Olvia,"sarpaki 2, Chania, 73100, Greece",,1202.803738317757,9.0,3 ,True,False,True,False,True,False,120.0,False,June,Crete
+Villa 7 Seas - With Amazing View,"Schinaria beach road, Lefkogeia, 74060, Greece",,2475.700934579439,,,False,True,False,False,True,False,269.0,True,June,Crete
+Marianthi’s house,"2 Sapoutie Str, Heraklio, 71202, Greece",4.0,396.0,9.4,39 ,False,False,False,True,False,False,68.0,False,June,Crete
+SpiliaInn,"Σπηλιά Χανιά, Spiliá, 73006, Greece",4.0,681.0,10,1 ,True,False,False,True,True,False,100.0,False,June,Crete
+Villa Morfeas,"Damavolou, Dhamavólos, 74052, Greece",4.0,459.0,9.3,3 ,False,False,False,False,True,False,250.0,True,June,Crete
+"ELIDA -pool, billiard, views, 4min walk to the sea","Eparchiaki Odos Kalivon-Kefalas, Plaka, 73008, Greece",4.0,2315.3619909502263,,,False,True,False,False,True,False,201.0,True,June,Crete
+Casa EleMar Villa with Private Yard,"Analipsi, Analipsi, Hersonissos, 70014, Greece",,385.0467289719626,10,1 ,False,False,False,True,True,False,60.0,False,June,Crete
+Casa Magnolia - Spacious Home in heart of Akrotiri,"Kathiana Akrotiriou, Chania, 73100, Greece",,585.0467289719626,10,1 ,False,False,False,True,True,False,109.0,False,June,Crete
+Limani elegant apartments,"3ης Σεπτέμβριου 5-7, Souda, 73200, Greece",,0.0,,,False,False,False,True,False,False,,False,June,Crete
+Alexia's Oasis,"Hersonissos 0, Hersonissos 700 14, Greece, Hersonissos, 70014, Greece",4.0,1607.0,9.5,2 ,True,True,False,False,True,False,135.0,False,June,Crete
+Villa Marmelada,"2. χλμ. Επαρχιακή Οδός Ιεράπετρα - Μακριλιάς , Ierapetra, 72200, Greece",4.0,1394.9660633484161,9.9,7 ,False,True,False,True,True,False,170.0,False,June,Crete
+Haritos Holidays Home,"Πόμπια Ηρακλείου Κρήτης, Pómbia, 70400, Greece",4.0,600.6944444444445,8.7,3 ,False,True,False,True,True,False,95.0,True,June,Crete
+Nikkon Luxury Living,"Άρβης, Βιάννου, Arvi, 70004, Greece",4.0,1596.0,,,True,True,False,False,True,False,150.0,False,June,Crete
+Odysseus House,"kato kafenia, Límnai, 72400, Greece",4.0,534.0,10,1 ,False,False,False,True,True,False,130.0,False,June,Crete
+Villa Olive by the Sea-walk distance beach & pools,"14 Eparchiaki Odos Kalivon-Kefalas, Almyrida, 73008, Greece",4.0,906.0,10,2 ,False,False,False,True,True,False,120.0,False,June,Crete
+Adrianna Villa 4ppl,"Bali Adrianna Villas, Bali, 74057, Greece",4.0,1324.0,9.1,7 ,True,True,True,False,False,True,113.0,False,June,Crete
+Ellada,"Χωραφακια Ακρωτιριου, Chorafakia, 73100, Greece",4.0,515.4161005771658,10,2 ,True,False,False,True,True,False,150.0,False,June,Crete
+Sea View Villa Giorgios Five Bedroom,"Gavalohori,, Gavalochori, 73008, Greece",,1924.2990654205607,,,False,True,True,True,True,False,200.0,False,June,Crete
+Lake Villas,"Mouri, Mouríon, 73007, Greece",4.0,1001.3888888888889,9.3,7 ,True,True,False,True,True,False,115.0,False,June,Crete
+"Spacious villa with private pool and sea view, just 150 meters from the sea","Ethniki Odos Agiou Nikolaou Sitias, Istro, 721 00, Greece",4.0,1391.0,9.0,2 ,True,True,False,False,True,False,200.0,False,June,Crete
+Cataphari Luxury Villa,"Κουτουλουφάρι, Koutouloufari, Hersonissos, 70014, Greece",,1485.981308411215,9.8,6 ,True,True,False,True,True,False,145.0,False,June,Crete
+ZenMar Hill,"Peristeras Ierapetra, Ierapetra, 72200, Greece",,736.4485981308411,9.6,9 ,False,False,False,False,True,False,137.0,False,June,Crete
+Premium 6-people Villa with Private Pool!,"Gavalochori village main street, Gavalochori, 73008, Greece",4.0,794.671510747805,,,False,True,False,True,True,False,145.0,False,June,Crete
+ArtOikia Luxury Villas,"Saktouria, Saktoúria, 74053, Greece",4.0,1740.6976744186047,,,True,False,False,True,True,False,99.0,False,June,Crete
+Enjoy amazing sea views at wonderful Villa Selene,"Ligaria, Agia Pelagia, 71500, Greece",4.0,1136.0,,,False,True,False,True,True,False,100.0,False,June,Crete
+Olvia,"sarpaki 2, Chania, 73100, Greece",4.0,1104.0,9.0,3 ,True,False,True,False,True,False,120.0,False,June,Crete
+Villa 7 Seas - With Amazing View,"Schinaria beach road, Lefkogeia, 74060, Greece",4.0,2473.6111111111113,,,False,True,False,False,True,False,270.0,True,June,Crete
+Marianthi’s house,"2 Sapoutie Str, Heraklio, 71202, Greece",4.0,363.8461538461538,9.4,39 ,False,False,False,True,False,False,68.0,False,June,Crete
+SpiliaInn,"Σπηλιά Χανιά, Spiliá, 73006, Greece",4.0,679.9095022624434,10,1 ,True,False,False,True,True,False,100.0,False,June,Crete
+Villa Morfeas,"Damavolou, Dhamavólos, 74052, Greece",4.0,512.1495327102804,9.3,3 ,False,False,False,False,True,False,250.0,True,June,Crete
+"ELIDA -pool, billiard, views, 4min walk to the sea","Eparchiaki Odos Kalivon-Kefalas, Plaka, 73008, Greece",4.0,2523.6111111111113,,,False,True,False,False,True,False,201.0,True,June,Crete
+Casa EleMar Villa with Private Yard,"Analipsi, Analipsi, Hersonissos, 70014, Greece",,481.30841121495325,10,1 ,False,False,False,True,True,False,60.0,False,June,Crete
+Casa Magnolia - Spacious Home in heart of Akrotiri,"Kathiana Akrotiriou, Chania, 73100, Greece",4.0,553.1627007931747,10,1 ,False,False,False,True,True,False,110.0,False,June,Crete
+Limani elegant apartments,"3ης Σεπτέμβριου 5-7, Souda, 73200, Greece",4.0,344.0,,,False,False,False,True,False,False,65.0,False,June,Crete
+Alexia's Oasis,"Hersonissos 0, Hersonissos 700 14, Greece, Hersonissos, 70014, Greece",4.0,1607.0,9.5,2 ,True,True,False,False,True,False,135.0,False,June,Crete
+Villa Marmelada,"2. χλμ. Επαρχιακή Οδός Ιεράπετρα - Μακριλιάς , Ierapetra, 72200, Greece",4.0,1440.0,9.9,7 ,False,True,False,True,True,False,170.0,False,June,Crete
+Haritos Holidays Home,"Πόμπια Ηρακλείου Κρήτης, Pómbia, 70400, Greece",,601.8691588785047,8.7,3 ,False,True,False,True,True,False,95.0,True,June,Crete
+Nikkon Luxury Living,"Άρβης, Βιάννου, Arvi, 70004, Greece",4.0,1596.0,,,True,True,False,False,True,False,150.0,False,June,Crete
+Odysseus House,"kato kafenia, Límnai, 72400, Greece",,535.5140186915887,10,1 ,False,False,False,True,True,False,129.0,False,June,Crete
+Villa Olive by the Sea-walk distance beach & pools,"14 Eparchiaki Odos Kalivon-Kefalas, Almyrida, 73008, Greece",4.0,872.8506787330316,10,2 ,False,False,False,True,True,False,120.0,False,June,Crete
+Adrianna Villa 4ppl,"Bali Adrianna Villas, Bali, 74057, Greece",4.0,1323.2558139534883,9.1,7 ,True,True,True,False,False,True,112.0,False,June,Crete
+Ellada,"Χωραφακια Ακρωτιριου, Chorafakia, 73100, Greece",4.0,471.0,10,2 ,True,False,False,True,True,False,150.0,False,June,Crete
+Sea View Villa Giorgios Five Bedroom,"Gavalohori,, Gavalochori, 73008, Greece",4.0,1916.0723789249603,,,False,True,True,True,True,False,200.0,False,June,Crete
+Lake Villas,"Mouri, Mouríon, 73007, Greece",4.0,1003.4883720930233,9.3,7 ,True,True,False,True,True,False,115.0,False,June,Crete
+"Spacious villa with private pool and sea view, just 150 meters from the sea","Ethniki Odos Agiou Nikolaou Sitias, Istro, 721 00, Greece",4.0,1510.46511627907,9.0,2 ,True,True,False,False,True,False,200.0,False,June,Crete
+Cataphari Luxury Villa,"Κουτουλουφάρι, Koutouloufari, Hersonissos, 70014, Greece",4.0,1482.0,9.8,6 ,True,True,False,True,True,False,145.0,False,June,Crete
+ZenMar Hill,"Peristeras Ierapetra, Ierapetra, 72200, Greece",,736.4485981308411,9.6,9 ,False,False,False,False,True,False,137.0,False,June,Crete
+Premium 6-people Villa with Private Pool!,"Gavalochori village main street, Gavalochori, 73008, Greece",,793.4579439252336,,,False,True,False,True,True,False,145.0,False,June,Crete
+ArtOikia Luxury Villas,"Saktouria, Saktoúria, 74053, Greece",4.0,1554.60407239819,,,True,False,False,True,True,False,100.0,False,June,Crete
+Enjoy amazing sea views at wonderful Villa Selene,"Ligaria, Agia Pelagia, 71500, Greece",,1018.6915887850466,,,False,True,False,True,True,False,99.0,False,June,Crete
+Olvia,"sarpaki 2, Chania, 73100, Greece",4.0,1200.0,9.0,3 ,True,False,True,False,True,False,120.0,False,June,Crete
+Villa 7 Seas - With Amazing View,"Schinaria beach road, Lefkogeia, 74060, Greece",4.0,2473.6111111111113,,,False,True,False,False,True,False,270.0,True,June,Crete
+Marianthi’s house,"2 Sapoutie Str, Heraklio, 71202, Greece",4.0,397.5477780336173,9.4,39 ,False,False,False,True,False,False,68.0,False,June,Crete
+SpiliaInn,"Σπηλιά Χανιά, Spiliá, 73006, Greece",,742.0560747663551,10,1 ,True,False,False,True,True,False,99.0,False,June,Crete
+Villa Morfeas,"Damavolou, Dhamavólos, 74052, Greece",4.0,460.4166666666667,9.3,3 ,False,False,False,False,True,False,250.0,True,June,Crete
+"ELIDA -pool, billiard, views, 4min walk to the sea","Eparchiaki Odos Kalivon-Kefalas, Plaka, 73008, Greece",4.0,2520.0,,,False,True,False,False,True,False,201.0,True,June,Crete
+Casa EleMar Villa with Private Yard,"Analipsi, Analipsi, Hersonissos, 70014, Greece",4.0,481.6227671813503,10,1 ,False,False,False,True,True,False,60.0,False,June,Crete
+Casa Magnolia - Spacious Home in heart of Akrotiri,"Kathiana Akrotiriou, Chania, 73100, Greece",4.0,583.0,10,1 ,False,False,False,True,True,False,110.0,False,June,Crete
+Limani elegant apartments,"3ης Σεπτέμβριου 5-7, Souda, 73200, Greece",,375.7009345794392,,,False,False,False,True,False,False,65.0,False,June,Crete
+Alexia's Oasis,"Hersonissos 0, Hersonissos 700 14, Greece, Hersonissos, 70014, Greece",,1611.214953271028,9.5,2 ,True,True,False,False,True,False,134.0,False,June,Crete
+Villa Marmelada,"2. χλμ. Επαρχιακή Οδός Ιεράπετρα - Μακριλιάς , Ierapetra, 72200, Greece",4.0,1445.613631130555,9.9,7 ,False,True,False,True,True,False,170.0,False,June,Crete
+Haritos Holidays Home,"Πόμπια Ηρακλείου Κρήτης, Pómbia, 70400, Greece",4.0,604.073680559827,8.7,3 ,False,True,False,True,True,False,95.0,True,June,Crete
+Nikkon Luxury Living,"Άρβης, Βιάννου, Arvi, 70004, Greece",4.0,1513.7972405518897,,,True,True,False,False,True,False,150.0,False,June,Crete
+Odysseus House,"kato kafenia, Límnai, 72400, Greece",4.0,534.0,10,1 ,False,False,False,True,True,False,130.0,False,June,Crete
+Villa Olive by the Sea-walk distance beach & pools,"14 Eparchiaki Odos Kalivon-Kefalas, Almyrida, 73008, Greece",4.0,873.4713053534429,10,2 ,False,False,False,True,True,False,120.0,False,June,Crete
+Adrianna Villa 4ppl,"Bali Adrianna Villas, Bali, 74057, Greece",4.0,1329.1618696753396,9.1,7 ,True,True,True,False,False,True,113.0,False,June,Crete
+Ellada,"Χωραφακια Ακρωτιριου, Chorafakia, 73100, Greece",4.0,513.9995394888326,10,2 ,True,False,False,True,True,False,150.0,False,June,Crete
+Sea View Villa Giorgios Five Bedroom,"Gavalohori,, Gavalochori, 73008, Greece",4.0,1918.6046511627908,,,False,True,True,True,True,False,200.0,False,June,Crete
+Lake Villas,"Mouri, Mouríon, 73007, Greece",,1002.8037383177569,9.3,7 ,True,True,False,True,True,False,115.0,False,June,Crete
+"Spacious villa with private pool and sea view, just 150 meters from the sea","Ethniki Odos Agiou Nikolaou Sitias, Istro, 721 00, Greece",4.0,1515.8878504672896,9.0,2 ,True,True,False,False,True,False,200.0,False,June,Crete
+Cataphari Luxury Villa,"Κουτουλουφάρι, Koutouloufari, Hersonissos, 70014, Greece",,1485.981308411215,9.8,6 ,True,True,False,True,True,False,145.0,False,June,Crete
+ZenMar Hill,"Peristeras Ierapetra, Ierapetra, 72200, Greece",,736.4485981308411,9.6,9 ,False,False,False,False,True,False,137.0,False,June,Crete
+Premium 6-people Villa with Private Pool!,"Gavalochori village main street, Gavalochori, 73008, Greece",4.0,791.8604651162791,,,False,True,False,True,True,False,145.0,False,June,Crete
+ArtOikia Luxury Villas,"Saktouria, Saktoúria, 74053, Greece",4.0,1742.0,,,True,False,False,True,True,False,100.0,False,June,Crete
+Enjoy amazing sea views at wonderful Villa Selene,"Ligaria, Agia Pelagia, 71500, Greece",,0.0,,,False,True,False,True,True,False,,False,June,Crete
+Olvia,"sarpaki 2, Chania, 73100, Greece",,1202.803738317757,9.0,3 ,True,False,True,False,True,False,120.0,False,June,Crete
+Villa 7 Seas - With Amazing View,"Schinaria beach road, Lefkogeia, 74060, Greece",,2475.700934579439,,,False,True,False,False,True,False,269.0,True,June,Crete
+Marianthi’s house,"2 Sapoutie Str, Heraklio, 71202, Greece",4.0,397.5477780336173,9.4,39 ,False,False,False,True,False,False,68.0,False,June,Crete
+SpiliaInn,"Σπηλιά Χανιά, Spiliá, 73006, Greece",4.0,645.7375191628341,10,1 ,True,False,False,True,True,False,100.0,False,June,Crete
+Villa Morfeas,"Damavolou, Dhamavólos, 74052, Greece",4.0,510.4651162790698,9.3,3 ,False,False,False,False,True,False,250.0,True,June,Crete
+"ELIDA -pool, billiard, views, 4min walk to the sea","Eparchiaki Odos Kalivon-Kefalas, Plaka, 73008, Greece",4.0,2198.993534626408,,,False,True,False,False,True,False,201.0,True,June,Crete
+Casa EleMar Villa with Private Yard,"Analipsi, Analipsi, Hersonissos, 70014, Greece",,365.42056074766356,10,1 ,False,False,False,True,True,False,60.0,False,June,Crete
+Casa Magnolia - Spacious Home in heart of Akrotiri,"Kathiana Akrotiriou, Chania, 73100, Greece",4.0,537.0,10,1 ,False,False,False,True,True,False,110.0,False,June,Crete
+Limani elegant apartments,"3ης Σεπτέμβριου 5-7, Souda, 73200, Greece",4.0,375.66964285714283,,,False,False,False,True,False,False,65.0,False,June,Crete
+Alexia's Oasis,"Hersonissos 0, Hersonissos 700 14, Greece, Hersonissos, 70014, Greece",,1611.214953271028,9.5,2 ,True,True,False,False,True,False,134.0,False,June,Crete
+Villa Marmelada,"2. χλμ. Επαρχιακή Οδός Ιεράπετρα - Μακριλιάς , Ierapetra, 72200, Greece",4.0,1440.0,9.9,7 ,False,True,False,True,True,False,170.0,False,June,Crete
+Haritos Holidays Home,"Πόμπια Ηρακλείου Κρήτης, Pómbia, 70400, Greece",4.0,600.0,8.7,3 ,False,True,False,True,True,False,95.0,True,June,Crete
+Nikkon Luxury Living,"Άρβης, Βιάννου, Arvi, 70004, Greece",4.0,1600.8928571428569,,,True,True,False,False,True,False,150.0,False,June,Crete
+Odysseus House,"kato kafenia, Límnai, 72400, Greece",4.0,532.2418136020151,10,1 ,False,False,False,True,True,False,130.0,False,June,Crete
+Villa Olive by the Sea-walk distance beach & pools,"14 Eparchiaki Odos Kalivon-Kefalas, Almyrida, 73008, Greece",4.0,875.0,10,2 ,False,False,False,True,True,False,120.0,False,June,Crete
+Adrianna Villa 4ppl,"Bali Adrianna Villas, Bali, 74057, Greece",,1327.1028037383178,9.1,7 ,True,True,True,False,False,True,112.0,False,June,Crete
+Ellada,"Χωραφακια Ακρωτιριου, Chorafakia, 73100, Greece",,513.0841121495326,10,2 ,True,False,False,True,True,False,150.0,False,June,Crete
+Sea View Villa Giorgios Five Bedroom,"Gavalohori,, Gavalochori, 73008, Greece",4.0,1926.1160714285713,,,False,True,True,True,True,False,200.0,False,June,Crete
+Lake Villas,"Mouri, Mouríon, 73007, Greece",4.0,872.612144237819,9.3,7 ,True,True,False,True,True,False,115.0,False,June,Crete
+"Spacious villa with private pool and sea view, just 150 meters from the sea","Ethniki Odos Agiou Nikolaou Sitias, Istro, 721 00, Greece",,1515.8878504672896,9.0,2 ,True,True,False,False,True,False,200.0,False,June,Crete
+Cataphari Luxury Villa,"Κουτουλουφάρι, Koutouloufari, Hersonissos, 70014, Greece",,1366.3551401869158,9.8,6 ,True,True,False,True,True,False,145.0,False,June,Crete
+Premium 6-people Villa with Private Pool!,"Gavalochori village main street, Gavalochori, 73008, Greece",4.0,792.0,,,False,True,False,True,True,False,145.0,False,June,Crete
+ArtOikia Luxury Villas,"Saktouria, Saktoúria, 74053, Greece",4.0,1694.4444444444446,,,True,False,False,True,True,False,100.0,False,June,Crete
+Enjoy amazing sea views at wonderful Villa Selene,"Ligaria, Agia Pelagia, 71500, Greece",,1018.6915887850466,,,False,True,False,True,True,False,99.0,False,June,Crete
+Olvia,"sarpaki 2, Chania, 73100, Greece",4.0,1204.6741883490674,9.0,3 ,True,False,True,False,True,False,120.0,False,June,Crete
+Villa 7 Seas - With Amazing View,"Schinaria beach road, Lefkogeia, 74060, Greece",4.0,2479.6223808427353,,,False,True,False,False,True,False,270.0,True,June,Crete
+Marianthi’s house,"2 Sapoutie Str, Heraklio, 71202, Greece",4.0,396.0,9.4,39 ,False,False,False,True,False,False,68.0,False,June,Crete
+SpiliaInn,"Σπηλιά Χανιά, Spiliá, 73006, Greece",4.0,679.9095022624434,10,1 ,True,False,False,True,True,False,100.0,False,June,Crete
+Villa Morfeas,"Damavolou, Dhamavólos, 74052, Greece",4.0,459.2105263157894,9.3,3 ,False,False,False,False,True,False,250.0,True,June,Crete
+"ELIDA -pool, billiard, views, 4min walk to the sea","Eparchiaki Odos Kalivon-Kefalas, Plaka, 73008, Greece",,2526.168224299065,,,False,True,False,False,True,False,201.0,True,June,Crete
+Casa EleMar Villa with Private Yard,"Analipsi, Analipsi, Hersonissos, 70014, Greece",4.0,384.0,10,1 ,False,False,False,True,True,False,60.0,False,June,Crete
+Casa Magnolia - Spacious Home in heart of Akrotiri,"Kathiana Akrotiriou, Chania, 73100, Greece",,585.0467289719626,10,1 ,False,False,False,True,True,False,109.0,False,June,Crete
+Limani elegant apartments,"3ης Σεπτέμβριου 5-7, Souda, 73200, Greece",4.0,378595.6978426316,,,False,False,False,True,False,False,65.0,False,June,Crete
+Alexia's Oasis,"Hersonissos 0, Hersonissos 700 14, Greece, Hersonissos, 70014, Greece",4.0,1605.8139534883721,9.5,2 ,True,True,False,False,True,False,134.0,False,June,Crete
+Villa Marmelada,"2. χλμ. Επαρχιακή Οδός Ιεράπετρα - Μακριλιάς , Ierapetra, 72200, Greece",,1442.9906542056074,9.9,7 ,False,True,False,True,True,False,170.0,False,June,Crete
+Haritos Holidays Home,"Πόμπια Ηρακλείου Κρήτης, Pómbia, 70400, Greece",,601.8691588785047,8.7,3 ,False,True,False,True,True,False,95.0,True,June,Crete
+Nikkon Luxury Living,"Άρβης, Βιάννου, Arvi, 70004, Greece",,1600.0,,,True,True,False,False,True,False,150.0,False,June,Crete
+Odysseus House,"kato kafenia, Límnai, 72400, Greece",4.0,534.7222222222223,10,1 ,False,False,False,True,True,False,130.0,False,June,Crete
+Villa Olive by the Sea-walk distance beach & pools,"14 Eparchiaki Odos Kalivon-Kefalas, Almyrida, 73008, Greece",4.0,818.0555555555555,10,2 ,False,False,False,True,True,False,120.0,False,June,Crete
+Adrianna Villa 4ppl,"Bali Adrianna Villas, Bali, 74057, Greece",,1327.1028037383178,9.1,7 ,True,True,True,False,False,True,112.0,False,June,Crete
+Ellada,"Χωραφακια Ακρωτιριου, Chorafakia, 73100, Greece",4.0,513.9995394888326,10,2 ,True,False,False,True,True,False,150.0,False,June,Crete
+Sea View Villa Giorgios Five Bedroom,"Gavalohori,, Gavalochori, 73008, Greece",4.0,1766.0,,,False,True,True,True,True,False,200.0,False,June,Crete
+Lake Villas,"Mouri, Mouríon, 73007, Greece",4.0,1005808.2545141875,9.3,7 ,True,True,False,True,True,False,115.0,False,June,Crete
+"Spacious villa with private pool and sea view, just 150 meters from the sea","Ethniki Odos Agiou Nikolaou Sitias, Istro, 721 00, Greece",4.0,1390.0375939849623,9.0,2 ,True,True,False,False,True,False,200.0,False,June,Crete
+Cataphari Luxury Villa,"Κουτουλουφάρι, Koutouloufari, Hersonissos, 70014, Greece",,1485.981308411215,9.8,6 ,True,True,False,True,True,False,145.0,False,June,Crete
+ZenMar Hill,"Peristeras Ierapetra, Ierapetra, 72200, Greece",4.0,734.0,9.6,9 ,False,False,False,False,True,False,137.0,False,June,Crete
+Premium 6-people Villa with Private Pool!,"Gavalochori village main street, Gavalochori, 73008, Greece",4.0,691.1151103112711,,,False,True,False,True,True,False,145.0,False,June,Crete
+ArtOikia Luxury Villas,"Saktouria, Saktoúria, 74053, Greece",4.0,1742.0,,,True,False,False,True,True,False,100.0,False,June,Crete
+Enjoy amazing sea views at wonderful Villa Selene,"Ligaria, Agia Pelagia, 71500, Greece",4.0,1136.0,,,False,True,False,True,True,False,100.0,False,June,Crete
+Olvia,"sarpaki 2, Chania, 73100, Greece",,1166.3551401869158,9.0,3 ,True,False,True,False,True,False,120.0,False,June,Crete
+Villa 7 Seas - With Amazing View,"Schinaria beach road, Lefkogeia, 74060, Greece",4.0,2470.0,,,False,True,False,False,True,False,270.0,True,June,Crete
+Marianthi’s house,"2 Sapoutie Str, Heraklio, 71202, Greece",,397.19626168224295,9.4,39 ,False,False,False,True,False,False,68.0,False,June,Crete
+SpiliaInn,"Σπηλιά Χανιά, Spiliá, 73006, Greece",4.0,740.9722222222223,10,1 ,True,False,False,True,True,False,100.0,False,June,Crete
+Villa Morfeas,"Damavolou, Dhamavólos, 74052, Greece",,460.74766355140184,9.3,3 ,False,False,False,False,True,False,250.0,True,June,Crete
+"ELIDA -pool, billiard, views, 4min walk to the sea","Eparchiaki Odos Kalivon-Kefalas, Plaka, 73008, Greece",4.0,2520.4885412378208,,,False,True,False,False,True,False,201.0,True,June,Crete
+Casa EleMar Villa with Private Yard,"Analipsi, Analipsi, Hersonissos, 70014, Greece",4.0,384.72222222222223,10,1 ,False,False,False,True,True,False,60.0,False,June,Crete
+Casa Magnolia - Spacious Home in heart of Akrotiri,"Kathiana Akrotiriou, Chania, 73100, Greece",4.0,585.4708726686622,10,1 ,False,False,False,True,True,False,110.0,False,June,Crete
+Limani elegant apartments,"3ης Σεπτέμβριου 5-7, Souda, 73200, Greece",4.0,375.66964285714283,,,False,False,False,True,False,False,65.0,False,June,Crete
+Alexia's Oasis,"Hersonissos 0, Hersonissos 700 14, Greece, Hersonissos, 70014, Greece",4.0,1607.0,9.5,2 ,True,True,False,False,True,False,135.0,False,June,Crete
+Villa Marmelada,"2. χλμ. Επαρχιακή Οδός Ιεράπετρα - Μακριλιάς , Ierapetra, 72200, Greece",4.0,1444.638403990025,9.9,7 ,False,True,False,True,True,False,170.0,False,June,Crete
+Haritos Holidays Home,"Πόμπια Ηρακλείου Κρήτης, Pómbia, 70400, Greece",4.0,599.2194570135746,8.7,3 ,False,True,False,True,True,False,95.0,True,June,Crete
+Nikkon Luxury Living,"Άρβης, Βιάννου, Arvi, 70004, Greece",4.0,1468.0,,,True,True,False,False,True,False,150.0,False,June,Crete
+Odysseus House,"kato kafenia, Límnai, 72400, Greece",4.0,532.889835018627,10,1 ,False,False,False,True,True,False,130.0,False,June,Crete
+Villa Olive by the Sea-walk distance beach & pools,"14 Eparchiaki Odos Kalivon-Kefalas, Almyrida, 73008, Greece",4.0,906.0,10,2 ,False,False,False,True,True,False,120.0,False,June,Crete
+Adrianna Villa 4ppl,"Bali Adrianna Villas, Bali, 74057, Greece",4.0,1308.7557603686637,9.1,7 ,True,True,True,False,False,True,113.0,False,June,Crete
+Ellada,"Χωραφακια Ακρωτιριου, Chorafakia, 73100, Greece",,513.0841121495326,10,2 ,True,False,False,True,True,False,150.0,False,June,Crete
+Sea View Villa Giorgios Five Bedroom,"Gavalohori,, Gavalochori, 73008, Greece",,1924.2990654205607,,,False,True,True,True,True,False,200.0,False,June,Crete
+Lake Villas,"Mouri, Mouríon, 73007, Greece",,1002.8037383177569,9.3,7 ,True,True,False,True,True,False,115.0,False,June,Crete
+"Spacious villa with private pool and sea view, just 150 meters from the sea","Ethniki Odos Agiou Nikolaou Sitias, Istro, 721 00, Greece",4.0,1516.7410714285713,9.0,2 ,True,True,False,False,True,False,200.0,False,June,Crete
+Cataphari Luxury Villa,"Κουτουλουφάρι, Koutouloufari, Hersonissos, 70014, Greece",4.0,1416079.105760963,9.8,6 ,True,True,False,True,True,False,145.0,False,June,Crete
+ZenMar Hill,"Peristeras Ierapetra, Ierapetra, 72200, Greece",,736.4485981308411,9.6,9 ,False,False,False,False,True,False,137.0,False,June,Crete
+Premium 6-people Villa with Private Pool!,"Gavalochori village main street, Gavalochori, 73008, Greece",,754.2056074766355,,,False,True,False,True,True,False,145.0,False,June,Crete
+ArtOikia Luxury Villas,"Saktouria, Saktoúria, 74053, Greece",,1696.2616822429904,,,True,False,False,True,True,False,99.0,False,June,Crete
+Enjoy amazing sea views at wonderful Villa Selene,"Ligaria, Agia Pelagia, 71500, Greece",,1018.6915887850466,,,False,True,False,True,True,False,99.0,False,June,Crete
+Olvia,"sarpaki 2, Chania, 73100, Greece",4.0,1197.5518893028207,9.0,3 ,True,False,True,False,True,False,120.0,False,June,Crete
+Villa 7 Seas - With Amazing View,"Schinaria beach road, Lefkogeia, 74060, Greece",4.0,2272.0,,,False,True,False,False,True,False,270.0,True,June,Crete
+Marianthi’s house,"2 Sapoutie Str, Heraklio, 71202, Greece",4.0,396.0,9.4,39 ,False,False,False,True,False,False,68.0,False,June,Crete
+SpiliaInn,"Σπηλιά Χανιά, Spiliá, 73006, Greece",4.0,740.1430248692496,10,1 ,True,False,False,True,True,False,100.0,False,June,Crete
+Villa Morfeas,"Damavolou, Dhamavólos, 74052, Greece",4.0,460.55979643765903,9.3,3 ,False,False,False,False,True,False,250.0,True,June,Crete
+"ELIDA -pool, billiard, views, 4min walk to the sea","Eparchiaki Odos Kalivon-Kefalas, Plaka, 73008, Greece",,2526.168224299065,,,False,True,False,False,True,False,201.0,True,June,Crete
+Casa EleMar Villa with Private Yard,"Analipsi, Analipsi, Hersonissos, 70014, Greece",4.0,385.493898227032,10,1 ,False,False,False,True,True,False,60.0,False,June,Crete
+Casa Magnolia - Spacious Home in heart of Akrotiri,"Kathiana Akrotiriou, Chania, 73100, Greece",,585.0467289719626,10,1 ,False,False,False,True,True,False,109.0,False,June,Crete
+Limani elegant apartments,"3ης Σεπτέμβριου 5-7, Souda, 73200, Greece",4.0,372.9504731553445,,,False,False,False,True,False,False,65.0,False,June,Crete
+Alexia's Oasis,"Hersonissos 0, Hersonissos 700 14, Greece, Hersonissos, 70014, Greece",4.0,1607.0,9.5,2 ,True,True,False,False,True,False,135.0,False,June,Crete
+Villa Marmelada,"2. χλμ. Επαρχιακή Οδός Ιεράπετρα - Μακριλιάς , Ierapetra, 72200, Greece",4.0,1444.8683015440508,9.9,7 ,False,True,False,True,True,False,170.0,False,June,Crete
+Haritos Holidays Home,"Πόμπια Ηρακλείου Κρήτης, Pómbia, 70400, Greece",,601.8691588785047,8.7,3 ,False,True,False,True,True,False,95.0,True,June,Crete
+Nikkon Luxury Living,"Άρβης, Βιάννου, Arvi, 70004, Greece",4.0,1597.9166666666667,,,True,True,False,False,True,False,150.0,False,June,Crete
+Odysseus House,"kato kafenia, Límnai, 72400, Greece",4.0,532.889835018627,10,1 ,False,False,False,True,True,False,130.0,False,June,Crete
+Villa Olive by the Sea-walk distance beach & pools,"14 Eparchiaki Odos Kalivon-Kefalas, Almyrida, 73008, Greece",4.0,803.5714285714286,10,2 ,False,False,False,True,True,False,120.0,False,June,Crete
+Adrianna Villa 4ppl,"Bali Adrianna Villas, Bali, 74057, Greece",4.0,1321.2879191059073,9.1,7 ,True,True,True,False,False,True,113.0,False,June,Crete
+Ellada,"Χωραφακια Ακρωτιριου, Chorafakia, 73100, Greece",4.0,472.54464285714283,10,2 ,True,False,False,True,True,False,150.0,False,June,Crete
+Sea View Villa Giorgios Five Bedroom,"Gavalohori,, Gavalochori, 73008, Greece",,1924.2990654205607,,,False,True,True,True,True,False,200.0,False,June,Crete
+Lake Villas,"Mouri, Mouríon, 73007, Greece",4.0,924.0,9.3,7 ,True,True,False,True,True,False,115.0,False,June,Crete
+"Spacious villa with private pool and sea view, just 150 meters from the sea","Ethniki Odos Agiou Nikolaou Sitias, Istro, 721 00, Greece",4.0,1513.888888888889,9.0,2 ,True,True,False,False,True,False,200.0,False,June,Crete
+Cataphari Luxury Villa,"Κουτουλουφάρι, Koutouloufari, Hersonissos, 70014, Greece",4.0,1480.2325581395348,9.8,6 ,True,True,False,True,True,False,145.0,False,June,Crete
+ZenMar Hill,"Peristeras Ierapetra, Ierapetra, 72200, Greece",4.0,735.4166666666667,9.6,9 ,False,False,False,False,True,False,137.0,False,June,Crete
+Premium 6-people Villa with Private Pool!,"Gavalochori village main street, Gavalochori, 73008, Greece",4.0,793.0555555555555,,,False,True,False,True,True,False,145.0,False,June,Crete
+ArtOikia Luxury Villas,"Saktouria, Saktoúria, 74053, Greece",4.0,1747.5446428571427,,,True,False,False,True,True,False,100.0,False,June,Crete
+Enjoy amazing sea views at wonderful Villa Selene,"Ligaria, Agia Pelagia, 71500, Greece",,1018.6915887850466,,,False,True,False,True,True,False,99.0,False,June,Crete
+Olvia,"sarpaki 2, Chania, 73100, Greece",,1202.803738317757,9.0,3 ,True,False,True,False,True,False,120.0,False,June,Crete
+Villa 7 Seas - With Amazing View,"Schinaria beach road, Lefkogeia, 74060, Greece",4.0,2470.0,,,False,True,False,False,True,False,270.0,True,June,Crete
+Marianthi’s house,"2 Sapoutie Str, Heraklio, 71202, Greece",4.0,363.95348837209303,9.4,39 ,False,False,False,True,False,False,68.0,False,June,Crete
+SpiliaInn,"Σπηλιά Χανιά, Spiliá, 73006, Greece",4.0,645.7375191628341,10,1 ,True,False,False,True,True,False,100.0,False,June,Crete
+Villa Morfeas,"Damavolou, Dhamavólos, 74052, Greece",4.0,459.0,9.3,3 ,False,False,False,False,True,False,250.0,True,June,Crete
+"ELIDA -pool, billiard, views, 4min walk to the sea","Eparchiaki Odos Kalivon-Kefalas, Plaka, 73008, Greece",4.0,2525.9541984732823,,,False,True,False,False,True,False,201.0,True,June,Crete
+Casa EleMar Villa with Private Yard,"Analipsi, Analipsi, Hersonissos, 70014, Greece",,385.0467289719626,10,1 ,False,False,False,True,True,False,60.0,False,June,Crete
+Casa Magnolia - Spacious Home in heart of Akrotiri,"Kathiana Akrotiriou, Chania, 73100, Greece",,585.0467289719626,10,1 ,False,False,False,True,True,False,109.0,False,June,Crete
+Limani elegant apartments,"3ης Σεπτέμβριου 5-7, Souda, 73200, Greece",,375.7009345794392,,,False,False,False,True,False,False,65.0,False,June,Crete
+Alexia's Oasis,"Hersonissos 0, Hersonissos 700 14, Greece, Hersonissos, 70014, Greece",4.0,1607.0,9.5,2 ,True,True,False,False,True,False,135.0,False,June,Crete
+Villa Marmelada,"2. χλμ. Επαρχιακή Οδός Ιεράπετρα - Μακριλιάς , Ierapetra, 72200, Greece",4.0,7070.0,9.9,7 ,False,True,False,True,True,False,170.0,False,June,Crete
+Haritos Holidays Home,"Πόμπια Ηρακλείου Κρήτης, Pómbia, 70400, Greece",,601.8691588785047,8.7,3 ,False,True,False,True,True,False,95.0,True,June,Crete
+Nikkon Luxury Living,"Άρβης, Βιάννου, Arvi, 70004, Greece",,1600.0,,,True,True,False,False,True,False,150.0,False,June,Crete
+Odysseus House,"kato kafenia, Límnai, 72400, Greece",,535.5140186915887,10,1 ,False,False,False,True,True,False,129.0,False,June,Crete
+Villa Olive by the Sea-walk distance beach & pools,"14 Eparchiaki Odos Kalivon-Kefalas, Almyrida, 73008, Greece",4.0,906.0,10,2 ,False,False,False,True,True,False,120.0,False,June,Crete
+Adrianna Villa 4ppl,"Bali Adrianna Villas, Bali, 74057, Greece",,1327.1028037383178,9.1,7 ,True,True,True,False,False,True,112.0,False,June,Crete
+Ellada,"Χωραφακια Ακρωτιριου, Chorafakia, 73100, Greece",,513.0841121495326,10,2 ,True,False,False,True,True,False,150.0,False,June,Crete
+Sea View Villa Giorgios Five Bedroom,"Gavalohori,, Gavalochori, 73008, Greece",4.0,1920.0,,,False,True,True,True,True,False,200.0,False,June,Crete
+Lake Villas,"Mouri, Mouríon, 73007, Greece",4.0,1007.5892857142857,9.3,7 ,True,True,False,True,True,False,115.0,False,June,Crete
+"Spacious villa with private pool and sea view, just 150 meters from the sea","Ethniki Odos Agiou Nikolaou Sitias, Istro, 721 00, Greece",4.0,1517.8908588533272,9.0,2 ,True,True,False,False,True,False,200.0,False,June,Crete
+Cataphari Luxury Villa,"Κουτουλουφάρι, Koutouloufari, Hersonissos, 70014, Greece",4.0,1482.0,9.8,6 ,True,True,False,True,True,False,145.0,False,June,Crete
+ZenMar Hill,"Peristeras Ierapetra, Ierapetra, 72200, Greece",4.0,734.0,9.6,9 ,False,False,False,False,True,False,137.0,False,June,Crete
+Premium 6-people Villa with Private Pool!,"Gavalochori village main street, Gavalochori, 73008, Greece",,793.4579439252336,,,False,True,False,True,True,False,145.0,False,June,Crete
+ArtOikia Luxury Villas,"Saktouria, Saktoúria, 74053, Greece",4.0,1689.785067873303,,,True,False,False,True,True,False,100.0,False,June,Crete
+Enjoy amazing sea views at wonderful Villa Selene,"Ligaria, Agia Pelagia, 71500, Greece",4.0,1076.150035385704,,,False,True,False,True,True,False,100.0,False,June,Crete
+Olvia,"sarpaki 2, Chania, 73100, Greece",,1202.803738317757,9.0,3 ,True,False,True,False,True,False,120.0,False,June,Crete
+Villa 7 Seas - With Amazing View,"Schinaria beach road, Lefkogeia, 74060, Greece",4.0,2288.0668099480017,,,False,True,False,False,True,False,270.0,True,June,Crete
+Marianthi’s house,"2 Sapoutie Str, Heraklio, 71202, Greece",4.0,396.0,9.4,39 ,False,False,False,True,False,False,68.0,False,June,Crete
+SpiliaInn,"Σπηλιά Χανιά, Spiliá, 73006, Greece",,742.0560747663551,10,1 ,True,False,False,True,True,False,99.0,False,June,Crete
+Villa Morfeas,"Damavolou, Dhamavólos, 74052, Greece",,460.74766355140184,9.3,3 ,False,False,False,False,True,False,250.0,True,June,Crete
+"ELIDA -pool, billiard, views, 4min walk to the sea","Eparchiaki Odos Kalivon-Kefalas, Plaka, 73008, Greece",4.0,2519.463087248322,,,False,True,False,False,True,False,201.0,True,June,Crete
+Casa EleMar Villa with Private Yard,"Analipsi, Analipsi, Hersonissos, 70014, Greece",4.0,384.0,10,1 ,False,False,False,True,True,False,60.0,False,June,Crete
+Casa Magnolia - Spacious Home in heart of Akrotiri,"Kathiana Akrotiriou, Chania, 73100, Greece",,585.0467289719626,10,1 ,False,False,False,True,True,False,109.0,False,June,Crete
+Limani elegant apartments,"3ης Σεπτέμβριου 5-7, Souda, 73200, Greece",4.0,344.0,,,False,False,False,True,False,False,65.0,False,June,Crete
+Alexia's Oasis,"Hersonissos 0, Hersonissos 700 14, Greece, Hersonissos, 70014, Greece",4.0,1479.0,9.5,2 ,True,True,False,False,True,False,135.0,False,June,Crete
+Villa Marmelada,"2. χλμ. Επαρχιακή Οδός Ιεράπετρα - Μακριλιάς , Ierapetra, 72200, Greece",4.0,1434.4281486780917,9.9,7 ,False,True,False,True,True,False,170.0,False,June,Crete
+Haritos Holidays Home,"Πόμπια Ηρακλείου Κρήτης, Pómbia, 70400, Greece",,0.0,8.7,3 ,False,True,False,True,True,False,,True,June,Crete
+Nikkon Luxury Living,"Άρβης, Βιάννου, Arvi, 70004, Greece",,1600.0,,,True,True,False,False,True,False,150.0,False,June,Crete
+Odysseus House,"kato kafenia, Límnai, 72400, Greece",4.0,531.9339208481025,10,1 ,False,False,False,True,True,False,130.0,False,June,Crete
+Villa Olive by the Sea-walk distance beach & pools,"14 Eparchiaki Odos Kalivon-Kefalas, Almyrida, 73008, Greece",,875.7009345794391,10,2 ,False,False,False,True,True,False,120.0,False,June,Crete
+Adrianna Villa 4ppl,"Bali Adrianna Villas, Bali, 74057, Greece",4.0,1216.4819004524886,9.1,7 ,True,True,True,False,False,True,113.0,False,June,Crete
+Ellada,"Χωραφακια Ακρωτιριου, Chorafakia, 73100, Greece",4.0,512.0,10,2 ,True,False,False,True,True,False,150.0,False,June,Crete
+Sea View Villa Giorgios Five Bedroom,"Gavalohori,, Gavalochori, 73008, Greece",4.0,1920.0,,,False,True,True,True,True,False,200.0,False,June,Crete
+Lake Villas,"Mouri, Mouríon, 73007, Greece",4.0,916.6782126775199,9.3,7 ,True,True,False,True,True,False,115.0,False,June,Crete
+"Spacious villa with private pool and sea view, just 150 meters from the sea","Ethniki Odos Agiou Nikolaou Sitias, Istro, 721 00, Greece",4.0,1513.888888888889,9.0,2 ,True,True,False,False,True,False,200.0,False,June,Crete
+Cataphari Luxury Villa,"Κουτουλουφάρι, Koutouloufari, Hersonissos, 70014, Greece",,1485.981308411215,9.8,6 ,True,True,False,True,True,False,145.0,False,June,Crete
+ZenMar Hill,"Peristeras Ierapetra, Ierapetra, 72200, Greece",4.0,732.889835018627,9.6,9 ,False,False,False,False,True,False,137.0,False,June,Crete
+Premium 6-people Villa with Private Pool!,"Gavalochori village main street, Gavalochori, 73008, Greece",,793.4579439252336,,,False,True,False,True,True,False,145.0,False,June,Crete
+ArtOikia Luxury Villas,"Saktouria, Saktoúria, 74053, Greece",,1696.2616822429904,,,True,False,False,True,True,False,99.0,False,June,Crete
+Enjoy amazing sea views at wonderful Villa Selene,"Ligaria, Agia Pelagia, 71500, Greece",4.0,933.4954751131221,,,False,True,False,True,True,False,100.0,False,June,Crete
+Olvia,"sarpaki 2, Chania, 73100, Greece",,1202.803738317757,9.0,3 ,True,False,True,False,True,False,120.0,False,June,Crete
+Villa 7 Seas - With Amazing View,"Schinaria beach road, Lefkogeia, 74060, Greece",4.0,2473.6111111111113,,,False,True,False,False,True,False,270.0,True,June,Crete
+Marianthi’s house,"2 Sapoutie Str, Heraklio, 71202, Greece",4.0,395.34883720930236,9.4,39 ,False,False,False,True,False,False,68.0,False,June,Crete
+SpiliaInn,"Σπηλιά Χανιά, Spiliá, 73006, Greece",4.0,679.9095022624434,10,1 ,True,False,False,True,True,False,100.0,False,June,Crete
+Villa Morfeas,"Damavolou, Dhamavólos, 74052, Greece",4.0,460.93749999999994,9.3,3 ,False,False,False,False,True,False,250.0,True,June,Crete
+"ELIDA -pool, billiard, views, 4min walk to the sea","Eparchiaki Odos Kalivon-Kefalas, Plaka, 73008, Greece",,2526.168224299065,,,False,True,False,False,True,False,201.0,True,June,Crete
+Casa EleMar Villa with Private Yard,"Analipsi, Analipsi, Hersonissos, 70014, Greece",,385.0467289719626,10,1 ,False,False,False,True,True,False,60.0,False,June,Crete
+Casa Magnolia - Spacious Home in heart of Akrotiri,"Kathiana Akrotiriou, Chania, 73100, Greece",4.0,583.0,10,1 ,False,False,False,True,True,False,110.0,False,June,Crete
+Limani elegant apartments,"3ης Σεπτέμβριου 5-7, Souda, 73200, Greece",4.0,346.86652055363203,,,False,False,False,True,False,False,65.0,False,June,Crete
+Alexia's Oasis,"Hersonissos 0, Hersonissos 700 14, Greece, Hersonissos, 70014, Greece",4.0,1609.7222222222222,9.5,2 ,True,True,False,False,True,False,135.0,False,June,Crete
+Villa Marmelada,"2. χλμ. Επαρχιακή Οδός Ιεράπετρα - Μακριλιάς , Ierapetra, 72200, Greece",4.0,1449.8269223718237,9.9,7 ,False,True,False,True,True,False,170.0,False,June,Crete
+Haritos Holidays Home,"Πόμπια Ηρακλείου Κρήτης, Pómbia, 70400, Greece",4.0,600.0,8.7,3 ,False,True,False,True,True,False,95.0,True,June,Crete
+Nikkon Luxury Living,"Άρβης, Βιάννου, Arvi, 70004, Greece",4.0,1592.7088877062267,,,True,True,False,False,True,False,150.0,False,June,Crete
+Odysseus House,"kato kafenia, Límnai, 72400, Greece",4.0,534.0,10,1 ,False,False,False,True,True,False,130.0,False,June,Crete
+Villa Olive by the Sea-walk distance beach & pools,"14 Eparchiaki Odos Kalivon-Kefalas, Almyrida, 73008, Greece",4.0,875.7009345794391,10,2 ,False,False,False,True,True,False,120.0,False,June,Crete
+Adrianna Villa 4ppl,"Bali Adrianna Villas, Bali, 74057, Greece",4.0,1323.2558139534883,9.1,7 ,True,True,True,False,False,True,112.0,False,June,Crete
+Ellada,"Χωραφακια Ακρωτιριου, Chorafakia, 73100, Greece",4.0,512.5,10,2 ,True,False,False,True,True,False,150.0,False,June,Crete
+Sea View Villa Giorgios Five Bedroom,"Gavalohori,, Gavalochori, 73008, Greece",,1924.2990654205607,,,False,True,True,True,True,False,200.0,False,June,Crete
+Lake Villas,"Mouri, Mouríon, 73007, Greece",,937.3831775700934,9.3,7 ,True,True,False,True,True,False,115.0,False,June,Crete
+"Spacious villa with private pool and sea view, just 150 meters from the sea","Ethniki Odos Agiou Nikolaou Sitias, Istro, 721 00, Greece",4.0,1467.0,9.0,2 ,True,True,False,False,True,False,200.0,False,June,Crete
+Cataphari Luxury Villa,"Κουτουλουφάρι, Koutouloufari, Hersonissos, 70014, Greece",4.0,1482.0,9.8,6 ,True,True,False,True,True,False,145.0,False,June,Crete
+ZenMar Hill,"Peristeras Ierapetra, Ierapetra, 72200, Greece",4.0,734.0,9.6,9 ,False,False,False,False,True,False,137.0,False,June,Crete
+Premium 6-people Villa with Private Pool!,"Gavalochori village main street, Gavalochori, 73008, Greece",,793.4579439252336,,,False,True,False,True,True,False,145.0,False,June,Crete
+ArtOikia Luxury Villas,"Saktouria, Saktoúria, 74053, Greece",4.0,1743.827160493827,,,True,False,False,True,True,False,100.0,False,June,Crete
+Enjoy amazing sea views at wonderful Villa Selene,"Ligaria, Agia Pelagia, 71500, Greece",,1018.6915887850466,,,False,True,False,True,True,False,99.0,False,June,Crete
+Olvia,"sarpaki 2, Chania, 73100, Greece",4.0,1201.388888888889,9.0,3 ,True,False,True,False,True,False,120.0,False,June,Crete
+Villa 7 Seas - With Amazing View,"Schinaria beach road, Lefkogeia, 74060, Greece",,2475.700934579439,,,False,True,False,False,True,False,269.0,True,June,Crete
+Marianthi’s house,"2 Sapoutie Str, Heraklio, 71202, Greece",4.0,397.5477780336173,9.4,39 ,False,False,False,True,False,False,68.0,False,June,Crete
+SpiliaInn,"Σπηλιά Χανιά, Spiliá, 73006, Greece",4.0,679.9095022624434,10,1 ,True,False,False,True,True,False,100.0,False,June,Crete
+Villa Morfeas,"Damavolou, Dhamavólos, 74052, Greece",4.0,458.868778280543,9.3,3 ,False,False,False,False,True,False,250.0,True,June,Crete
+"ELIDA -pool, billiard, views, 4min walk to the sea","Eparchiaki Odos Kalivon-Kefalas, Plaka, 73008, Greece",4.0,12372.0,,,False,True,False,False,True,False,201.0,True,June,Crete
+Casa EleMar Villa with Private Yard,"Analipsi, Analipsi, Hersonissos, 70014, Greece",4.0,306796.26168224297,10,1 ,False,False,False,True,True,False,60.0,False,June,Crete
+Casa Magnolia - Spacious Home in heart of Akrotiri,"Kathiana Akrotiriou, Chania, 73100, Greece",4.0,553.1627007931747,10,1 ,False,False,False,True,True,False,110.0,False,June,Crete
+Limani elegant apartments,"3ης Σεπτέμβριου 5-7, Souda, 73200, Greece",4.0,375.0,,,False,False,False,True,False,False,65.0,False,June,Crete
+Alexia's Oasis,"Hersonissos 0, Hersonissos 700 14, Greece, Hersonissos, 70014, Greece",,1530.8411214953271,9.5,2 ,True,True,False,False,True,False,134.0,False,June,Crete
+Villa Marmelada,"2. χλμ. Επαρχιακή Οδός Ιεράπετρα - Μακριλιάς , Ierapetra, 72200, Greece",,1442.9906542056074,9.9,7 ,False,True,False,True,True,False,170.0,False,June,Crete
+Haritos Holidays Home,"Πόμπια Ηρακλείου Κρήτης, Pómbia, 70400, Greece",,601.8691588785047,8.7,3 ,False,True,False,True,True,False,95.0,True,June,Crete
+Nikkon Luxury Living,"Άρβης, Βιάννου, Arvi, 70004, Greece",,1600.0,,,True,True,False,False,True,False,150.0,False,June,Crete
+Odysseus House,"kato kafenia, Límnai, 72400, Greece",4.0,532.889835018627,10,1 ,False,False,False,True,True,False,130.0,False,June,Crete
+Villa Olive by the Sea-walk distance beach & pools,"14 Eparchiaki Odos Kalivon-Kefalas, Almyrida, 73008, Greece",4.0,877.4004144600507,10,2 ,False,False,False,True,True,False,120.0,False,June,Crete
+Adrianna Villa 4ppl,"Bali Adrianna Villas, Bali, 74057, Greece",4.0,1324.0,9.1,7 ,True,True,True,False,False,True,113.0,False,June,Crete
+Ellada,"Χωραφακια Ακρωτιριου, Chorafakia, 73100, Greece",4.0,513.6160714285713,10,2 ,True,False,False,True,True,False,150.0,False,June,Crete
+Sea View Villa Giorgios Five Bedroom,"Gavalohori,, Gavalochori, 73008, Greece",4.0,1926.1160714285713,,,False,True,True,True,True,False,200.0,False,June,Crete
+Lake Villas,"Mouri, Mouríon, 73007, Greece",4.0,1007.5892857142857,9.3,7 ,True,True,False,True,True,False,115.0,False,June,Crete
+"Spacious villa with private pool and sea view, just 150 meters from the sea","Ethniki Odos Agiou Nikolaou Sitias, Istro, 721 00, Greece",,1515.8878504672896,9.0,2 ,True,True,False,False,True,False,200.0,False,June,Crete
+Cataphari Luxury Villa,"Κουτουλουφάρι, Koutouloufari, Hersonissos, 70014, Greece",4.0,1362.406015037594,9.8,6 ,True,True,False,True,True,False,145.0,False,June,Crete
+ZenMar Hill,"Peristeras Ierapetra, Ierapetra, 72200, Greece",4.0,733.4389140271493,9.6,9 ,False,False,False,False,True,False,137.0,False,June,Crete
+Premium 6-people Villa with Private Pool!,"Gavalochori village main street, Gavalochori, 73008, Greece",4.0,791.3533834586466,,,False,True,False,True,True,False,145.0,False,June,Crete
+ArtOikia Luxury Villas,"Saktouria, Saktoúria, 74053, Greece",4.0,1689.785067873303,,,True,False,False,True,True,False,100.0,False,June,Crete
+Enjoy amazing sea views at wonderful Villa Selene,"Ligaria, Agia Pelagia, 71500, Greece",4.0,1136.0,,,False,True,False,True,True,False,100.0,False,June,Crete
+Olvia,"sarpaki 2, Chania, 73100, Greece",4.0,1200.0,9.0,3 ,True,False,True,False,True,False,120.0,False,June,Crete
+Villa 7 Seas - With Amazing View,"Schinaria beach road, Lefkogeia, 74060, Greece",4.0,2473.6111111111113,,,False,True,False,False,True,False,270.0,True,June,Crete
+Marianthi’s house,"2 Sapoutie Str, Heraklio, 71202, Greece",4.0,396.0,9.4,39 ,False,False,False,True,False,False,68.0,False,June,Crete
+SpiliaInn,"Σπηλιά Χανιά, Spiliá, 73006, Greece",4.0,739.7987191216835,10,1 ,True,False,False,True,True,False,100.0,False,June,Crete
+Villa Morfeas,"Damavolou, Dhamavólos, 74052, Greece",,0.0,9.3,3 ,False,False,False,False,True,False,,True,June,Crete
+"ELIDA -pool, billiard, views, 4min walk to the sea","Eparchiaki Odos Kalivon-Kefalas, Plaka, 73008, Greece",,2526.168224299065,,,False,True,False,False,True,False,201.0,True,June,Crete
+Casa EleMar Villa with Private Yard,"Analipsi, Analipsi, Hersonissos, 70014, Greece",,385.0467289719626,10,1 ,False,False,False,True,True,False,60.0,False,June,Crete
+Casa Magnolia - Spacious Home in heart of Akrotiri,"Kathiana Akrotiriou, Chania, 73100, Greece",,567.2897196261682,10,1 ,False,False,False,True,True,False,109.0,False,June,Crete
+Limani elegant apartments,"3ης Σεπτέμβριου 5-7, Souda, 73200, Greece",,375.7009345794392,,,False,False,False,True,False,False,65.0,False,June,Crete
+Alexia's Oasis,"Hersonissos 0, Hersonissos 700 14, Greece, Hersonissos, 70014, Greece",,1790.6542056074766,9.5,2 ,True,True,False,False,True,False,134.0,False,June,Crete
+Villa Marmelada,"2. χλμ. Επαρχιακή Οδός Ιεράπετρα - Μακριλιάς , Ierapetra, 72200, Greece",4.0,1440.0,9.9,7 ,False,True,False,True,True,False,170.0,False,June,Crete
+Nikkon Luxury Living,"Άρβης, Βιάννου, Arvi, 70004, Greece",,1600.0,,,True,True,False,False,True,False,150.0,False,June,Crete
+Odysseus House,"kato kafenia, Límnai, 72400, Greece",4.0,534.7222222222223,10,1 ,False,False,False,True,True,False,130.0,False,June,Crete
+Villa Olive by the Sea-walk distance beach & pools,"14 Eparchiaki Odos Kalivon-Kefalas, Almyrida, 73008, Greece",4.0,836.0,10,2 ,False,False,False,True,True,False,120.0,False,June,Crete
+Adrianna Villa 4ppl,"Bali Adrianna Villas, Bali, 74057, Greece",4.0,1324.0,9.1,7 ,True,True,True,False,False,True,113.0,False,June,Crete
+Ellada,"Χωραφακια Ακρωτιριου, Chorafakia, 73100, Greece",,513.0841121495326,10,2 ,True,False,False,True,True,False,150.0,False,June,Crete
+Sea View Villa Giorgios Five Bedroom,"Gavalohori,, Gavalochori, 73008, Greece",4.0,1898.1566820276498,,,False,True,True,True,True,False,200.0,False,June,Crete
+Lake Villas,"Mouri, Mouríon, 73007, Greece",,1002.8037383177569,9.3,7 ,True,True,False,True,True,False,115.0,False,June,Crete
+"Spacious villa with private pool and sea view, just 150 meters from the sea","Ethniki Odos Agiou Nikolaou Sitias, Istro, 721 00, Greece",4.0,1391.0,9.0,2 ,True,True,False,False,True,False,200.0,False,June,Crete
+Cataphari Luxury Villa,"Κουτουλουφάρι, Koutouloufari, Hersonissos, 70014, Greece",,1485.981308411215,9.8,6 ,True,True,False,True,True,False,145.0,False,June,Crete
+ZenMar Hill,"Peristeras Ierapetra, Ierapetra, 72200, Greece",4.0,734.0,9.6,9 ,False,False,False,False,True,False,137.0,False,June,Crete
+Premium 6-people Villa with Private Pool!,"Gavalochori village main street, Gavalochori, 73008, Greece",4.0,792.0,,,False,True,False,True,True,False,145.0,False,June,Crete
+ArtOikia Luxury Villas,"Saktouria, Saktoúria, 74053, Greece",,1696.2616822429904,,,True,False,False,True,True,False,99.0,False,June,Crete
+Enjoy amazing sea views at wonderful Villa Selene,"Ligaria, Agia Pelagia, 71500, Greece",,1018.6915887850466,,,False,True,False,True,True,False,99.0,False,June,Crete
+Olvia,"sarpaki 2, Chania, 73100, Greece",4.0,1203.7946428571427,9.0,3 ,True,False,True,False,True,False,120.0,False,June,Crete
+Villa 7 Seas - With Amazing View,"Schinaria beach road, Lefkogeia, 74060, Greece",4.0,2467.4418604651164,,,False,True,False,False,True,False,269.0,True,June,Crete
+Marianthi’s house,"2 Sapoutie Str, Heraklio, 71202, Greece",,397.19626168224295,9.4,39 ,False,False,False,True,False,False,68.0,False,June,Crete
+SpiliaInn,"Σπηλιά Χανιά, Spiliá, 73006, Greece",,742.0560747663551,10,1 ,True,False,False,True,True,False,99.0,False,June,Crete
+Villa Morfeas,"Damavolou, Dhamavólos, 74052, Greece",4.0,462.5721757852407,9.3,3 ,False,False,False,False,True,False,250.0,True,June,Crete
+"ELIDA -pool, billiard, views, 4min walk to the sea","Eparchiaki Odos Kalivon-Kefalas, Plaka, 73008, Greece",,2526.168224299065,,,False,True,False,False,True,False,201.0,True,June,Crete
+Casa EleMar Villa with Private Yard,"Analipsi, Analipsi, Hersonissos, 70014, Greece",4.0,385.493898227032,10,1 ,False,False,False,True,True,False,60.0,False,June,Crete
+Casa Magnolia - Spacious Home in heart of Akrotiri,"Kathiana Akrotiriou, Chania, 73100, Greece",4.0,585.4708726686622,10,1 ,False,False,False,True,True,False,110.0,False,June,Crete
+Limani elegant apartments,"3ης Σεπτέμβριου 5-7, Souda, 73200, Greece",4.0,374.0,,,False,False,False,True,False,False,65.0,False,June,Crete
+Alexia's Oasis,"Hersonissos 0, Hersonissos 700 14, Greece, Hersonissos, 70014, Greece",4.0,1605.8139534883721,9.5,2 ,True,True,False,False,True,False,134.0,False,June,Crete
+Villa Marmelada,"2. χλμ. Επαρχιακή Οδός Ιεράπετρα - Μακριλιάς , Ierapetra, 72200, Greece",4.0,1444.4196428571427,9.9,7 ,False,True,False,True,True,False,170.0,False,June,Crete
+Haritos Holidays Home,"Πόμπια Ηρακλείου Κρήτης, Pómbia, 70400, Greece",4.0,555.7377683093931,8.7,3 ,False,True,False,True,True,False,95.0,True,June,Crete
+Nikkon Luxury Living,"Άρβης, Βιάννου, Arvi, 70004, Greece",,1600.0,,,True,True,False,False,True,False,150.0,False,June,Crete
+Odysseus House,"kato kafenia, Límnai, 72400, Greece",4.0,490.97744360902254,10,1 ,False,False,False,True,True,False,130.0,False,June,Crete
+Villa Olive by the Sea-walk distance beach & pools,"14 Eparchiaki Odos Kalivon-Kefalas, Almyrida, 73008, Greece",4.0,875.0,10,2 ,False,False,False,True,True,False,120.0,False,June,Crete
+Adrianna Villa 4ppl,"Bali Adrianna Villas, Bali, 74057, Greece",4.0,1324.0,9.1,7 ,True,True,True,False,False,True,113.0,False,June,Crete
+Ellada,"Χωραφακια Ακρωτιριου, Chorafakia, 73100, Greece",,513.0841121495326,10,2 ,True,False,False,True,True,False,150.0,False,June,Crete
+Sea View Villa Giorgios Five Bedroom,"Gavalohori,, Gavalochori, 73008, Greece",4.0,1924.681933842239,,,False,True,True,True,True,False,200.0,False,June,Crete
+Lake Villas,"Mouri, Mouríon, 73007, Greece",4.0,924.0,9.3,7 ,True,True,False,True,True,False,115.0,False,June,Crete
+"Spacious villa with private pool and sea view, just 150 meters from the sea","Ethniki Odos Agiou Nikolaou Sitias, Istro, 721 00, Greece",4.0,1516.7410714285713,9.0,2 ,True,True,False,False,True,False,200.0,False,June,Crete
+Cataphari Luxury Villa,"Κουτουλουφάρι, Koutouloufari, Hersonissos, 70014, Greece",4.0,1485.981308411215,9.8,6 ,True,True,False,True,True,False,145.0,False,June,Crete
+ZenMar Hill,"Peristeras Ierapetra, Ierapetra, 72200, Greece",,736.4485981308411,9.6,9 ,False,False,False,False,True,False,137.0,False,June,Crete
+Premium 6-people Villa with Private Pool!,"Gavalochori village main street, Gavalochori, 73008, Greece",4.0,729.0,,,False,True,False,True,True,False,145.0,False,June,Crete
+ArtOikia Luxury Villas,"Saktouria, Saktoúria, 74053, Greece",,1696.2616822429904,,,True,False,False,True,True,False,99.0,False,June,Crete
+Enjoy amazing sea views at wonderful Villa Selene,"Ligaria, Agia Pelagia, 71500, Greece",4.0,1136.0,,,False,True,False,True,True,False,100.0,False,June,Crete
+Olvia,"sarpaki 2, Chania, 73100, Greece",4.0,1102.5565610859728,9.0,3 ,True,False,True,False,True,False,120.0,False,June,Crete
+Villa 7 Seas - With Amazing View,"Schinaria beach road, Lefkogeia, 74060, Greece",4.0,2470.0,,,False,True,False,False,True,False,270.0,True,June,Crete
+Marianthi’s house,"2 Sapoutie Str, Heraklio, 71202, Greece",4.0,394.46847256999774,9.4,39 ,False,False,False,True,False,False,68.0,False,June,Crete
+SpiliaInn,"Σπηλιά Χανιά, Spiliá, 73006, Greece",4.0,740.0,10,1 ,True,False,False,True,True,False,100.0,False,June,Crete
+Villa Morfeas,"Damavolou, Dhamavólos, 74052, Greece",4.0,462141.01461736887,9.3,3 ,False,False,False,False,True,False,250.0,True,June,Crete
+"ELIDA -pool, billiard, views, 4min walk to the sea","Eparchiaki Odos Kalivon-Kefalas, Plaka, 73008, Greece",4.0,2527.930174563591,,,False,True,False,False,True,False,201.0,True,June,Crete
+Casa EleMar Villa with Private Yard,"Analipsi, Analipsi, Hersonissos, 70014, Greece",4.0,384.0,10,1 ,False,False,False,True,True,False,60.0,False,June,Crete
+Casa Magnolia - Spacious Home in heart of Akrotiri,"Kathiana Akrotiriou, Chania, 73100, Greece",4.0,585.4708726686622,10,1 ,False,False,False,True,True,False,110.0,False,June,Crete
+Limani elegant apartments,"3ης Σεπτέμβριου 5-7, Souda, 73200, Greece",4.0,374.0,,,False,False,False,True,False,False,65.0,False,June,Crete
+Alexia's Oasis,"Hersonissos 0, Hersonissos 700 14, Greece, Hersonissos, 70014, Greece",4.0,1503.0,9.5,2 ,True,True,False,False,True,False,135.0,False,June,Crete
+Villa Marmelada,"2. χλμ. Επαρχιακή Οδός Ιεράπετρα - Μακριλιάς , Ierapetra, 72200, Greece",4.0,1444.4196428571427,9.9,7 ,False,True,False,True,True,False,170.0,False,June,Crete
+Haritos Holidays Home,"Πόμπια Ηρακλείου Κρήτης, Pómbia, 70400, Greece",4.0,600.6944444444445,8.7,3 ,False,True,False,True,True,False,95.0,True,June,Crete
+Nikkon Luxury Living,"Άρβης, Βιάννου, Arvi, 70004, Greece",4.0,1472.9910714285713,,,True,True,False,False,True,False,150.0,False,June,Crete
+Odysseus House,"kato kafenia, Límnai, 72400, Greece",4.0,534.0,10,1 ,False,False,False,True,True,False,130.0,False,June,Crete
+Villa Olive by the Sea-walk distance beach & pools,"14 Eparchiaki Odos Kalivon-Kefalas, Almyrida, 73008, Greece",,875.7009345794391,10,2 ,False,False,False,True,True,False,120.0,False,June,Crete
+Adrianna Villa 4ppl,"Bali Adrianna Villas, Bali, 74057, Greece",4.0,1324.0,9.1,7 ,True,True,True,False,False,True,113.0,False,June,Crete
+Ellada,"Χωραφακια Ακρωτιριου, Chorafakia, 73100, Greece",4.0,512.5,10,2 ,True,False,False,True,True,False,150.0,False,June,Crete
+Sea View Villa Giorgios Five Bedroom,"Gavalohori,, Gavalochori, 73008, Greece",4.0,1920.0,,,False,True,True,True,True,False,200.0,False,June,Crete
+Lake Villas,"Mouri, Mouríon, 73007, Greece",,1002.8037383177569,9.3,7 ,True,True,False,True,True,False,115.0,False,June,Crete
+"Spacious villa with private pool and sea view, just 150 meters from the sea","Ethniki Odos Agiou Nikolaou Sitias, Istro, 721 00, Greece",4.0,1510.022624434389,9.0,2 ,True,True,False,False,True,False,200.0,False,June,Crete
+Cataphari Luxury Villa,"Κουτουλουφάρι, Koutouloufari, Hersonissos, 70014, Greece",4.0,1485.981308411215,9.8,6 ,True,True,False,True,True,False,145.0,False,June,Crete
+ZenMar Hill,"Peristeras Ierapetra, Ierapetra, 72200, Greece",,736.4485981308411,9.6,9 ,False,False,False,False,True,False,137.0,False,June,Crete
+Premium 6-people Villa with Private Pool!,"Gavalochori village main street, Gavalochori, 73008, Greece",4.0,794.4196428571428,,,False,True,False,True,True,False,145.0,False,June,Crete
+ArtOikia Luxury Villas,"Saktouria, Saktoúria, 74053, Greece",4.0,1567.28569359179,,,True,False,False,True,True,False,100.0,False,June,Crete
+Enjoy amazing sea views at wonderful Villa Selene,"Ligaria, Agia Pelagia, 71500, Greece",,1018.6915887850466,,,False,True,False,True,True,False,99.0,False,June,Crete
+Olvia,"sarpaki 2, Chania, 73100, Greece",4.0,1200.0,9.0,3 ,True,False,True,False,True,False,120.0,False,June,Crete
+Villa 7 Seas - With Amazing View,"Schinaria beach road, Lefkogeia, 74060, Greece",4.0,596128.0373831776,,,False,True,False,False,True,False,270.0,True,June,Crete
+Marianthi’s house,"2 Sapoutie Str, Heraklio, 71202, Greece",4.0,396.52777777777777,9.4,39 ,False,False,False,True,False,False,68.0,False,June,Crete
+SpiliaInn,"Σπηλιά Χανιά, Spiliá, 73006, Greece",4.0,681.0,10,1 ,True,False,False,True,True,False,100.0,False,June,Crete
+Villa Morfeas,"Damavolou, Dhamavólos, 74052, Greece",,460.74766355140184,9.3,3 ,False,False,False,False,True,False,250.0,True,June,Crete
+"ELIDA -pool, billiard, views, 4min walk to the sea","Eparchiaki Odos Kalivon-Kefalas, Plaka, 73008, Greece",4.0,2520.0,,,False,True,False,False,True,False,201.0,True,June,Crete
+Casa EleMar Villa with Private Yard,"Analipsi, Analipsi, Hersonissos, 70014, Greece",4.0,385.493898227032,10,1 ,False,False,False,True,True,False,60.0,False,June,Crete
+Casa Magnolia - Spacious Home in heart of Akrotiri,"Kathiana Akrotiriou, Chania, 73100, Greece",4.0,584.0277777777778,10,1 ,False,False,False,True,True,False,110.0,False,June,Crete
+Limani elegant apartments,"3ης Σεπτέμβριου 5-7, Souda, 73200, Greece",4.0,344.0045248868778,,,False,False,False,True,False,False,65.0,False,June,Crete
+Alexia's Oasis,"Hersonissos 0, Hersonissos 700 14, Greece, Hersonissos, 70014, Greece",4.0,1524.5684196494035,9.5,2 ,True,True,False,False,True,False,135.0,False,June,Crete
+Villa Marmelada,"2. χλμ. Επαρχιακή Οδός Ιεράπετρα - Μακριλιάς , Ierapetra, 72200, Greece",,1442.9906542056074,9.9,7 ,False,True,False,True,True,False,170.0,False,June,Crete
+Haritos Holidays Home,"Πόμπια Ηρακλείου Κρήτης, Pómbia, 70400, Greece",4.0,600.0,8.7,3 ,False,True,False,True,True,False,95.0,True,June,Crete
+Nikkon Luxury Living,"Άρβης, Βιάννου, Arvi, 70004, Greece",,1600.0,,,True,True,False,False,True,False,150.0,False,June,Crete
+Odysseus House,"kato kafenia, Límnai, 72400, Greece",4.0,491.0,10,1 ,False,False,False,True,True,False,130.0,False,June,Crete
+Villa Olive by the Sea-walk distance beach & pools,"14 Eparchiaki Odos Kalivon-Kefalas, Almyrida, 73008, Greece",4.0,906.0,10,2 ,False,False,False,True,True,False,120.0,False,June,Crete
+Adrianna Villa 4ppl,"Bali Adrianna Villas, Bali, 74057, Greece",4.0,1333.1194865754392,9.1,7 ,True,True,True,False,False,True,113.0,False,June,Crete
+Ellada,"Χωραφακια Ακρωτιριου, Chorafakia, 73100, Greece",4.0,470.41855203619906,10,2 ,True,False,False,True,True,False,150.0,False,June,Crete
+Sea View Villa Giorgios Five Bedroom,"Gavalohori,, Gavalochori, 73008, Greece",4.0,1920.0,,,False,True,True,True,True,False,200.0,False,June,Crete
+"Spacious villa with private pool and sea view, just 150 meters from the sea","Ethniki Odos Agiou Nikolaou Sitias, Istro, 721 00, Greece",,1515.8878504672896,9.0,2 ,True,True,False,False,True,False,200.0,False,June,Crete
+Cataphari Luxury Villa,"Κουτουλουφάρι, Koutouloufari, Hersonissos, 70014, Greece",4.0,1480.827067669173,9.8,6 ,True,True,False,True,True,False,145.0,False,June,Crete
+ZenMar Hill,"Peristeras Ierapetra, Ierapetra, 72200, Greece",4.0,713.1944444444445,9.6,9 ,False,False,False,False,True,False,137.0,False,June,Crete
+Premium 6-people Villa with Private Pool!,"Gavalochori village main street, Gavalochori, 73008, Greece",4.0,793.0555555555555,,,False,True,False,True,True,False,145.0,False,June,Crete
+ArtOikia Luxury Villas,"Saktouria, Saktoúria, 74053, Greece",4.0,1694.4444444444446,,,True,False,False,True,True,False,100.0,False,June,Crete
+Enjoy amazing sea views at wonderful Villa Selene,"Ligaria, Agia Pelagia, 71500, Greece",4.0,1017.3611111111112,,,False,True,False,True,True,False,100.0,False,June,Crete
+Olvia,"sarpaki 2, Chania, 73100, Greece",,1202.803738317757,9.0,3 ,True,False,True,False,True,False,120.0,False,June,Crete
+Villa 7 Seas - With Amazing View,"Schinaria beach road, Lefkogeia, 74060, Greece",4.0,2473.6111111111113,,,False,True,False,False,True,False,270.0,True,June,Crete
+Marianthi’s house,"2 Sapoutie Str, Heraklio, 71202, Greece",4.0,397.32142857142856,9.4,39 ,False,False,False,True,False,False,68.0,False,June,Crete
+SpiliaInn,"Σπηλιά Χανιά, Spiliá, 73006, Greece",4.0,740.9722222222223,10,1 ,True,False,False,True,True,False,100.0,False,June,Crete
+Villa Morfeas,"Damavolou, Dhamavólos, 74052, Greece",4.0,511.04244592616686,9.3,3 ,False,False,False,False,True,False,250.0,True,June,Crete
+"ELIDA -pool, billiard, views, 4min walk to the sea","Eparchiaki Odos Kalivon-Kefalas, Plaka, 73008, Greece",4.0,2527.9017857142853,,,False,True,False,False,True,False,201.0,True,June,Crete
+Casa EleMar Villa with Private Yard,"Analipsi, Analipsi, Hersonissos, 70014, Greece",,385.0467289719626,10,1 ,False,False,False,True,True,False,60.0,False,June,Crete
+Casa Magnolia - Spacious Home in heart of Akrotiri,"Kathiana Akrotiriou, Chania, 73100, Greece",4.0,537.0,10,1 ,False,False,False,True,True,False,110.0,False,June,Crete
+Limani elegant apartments,"3ης Σεπτέμβριου 5-7, Souda, 73200, Greece",4.0,375.0,,,False,False,False,True,False,False,65.0,False,June,Crete
+Alexia's Oasis,"Hersonissos 0, Hersonissos 700 14, Greece, Hersonissos, 70014, Greece",4.0,1609.7222222222222,9.5,2 ,True,True,False,False,True,False,135.0,False,June,Crete
+Villa Marmelada,"2. χλμ. Επαρχιακή Οδός Ιεράπετρα - Μακριλιάς , Ierapetra, 72200, Greece",4.0,1434.6076458752516,9.9,7 ,False,True,False,True,True,False,170.0,False,June,Crete
+Haritos Holidays Home,"Πόμπια Ηρακλείου Κρήτης, Pómbia, 70400, Greece",4.0,552.0,8.7,3 ,False,True,False,True,True,False,95.0,True,June,Crete
+Nikkon Luxury Living,"Άρβης, Βιάννου, Arvi, 70004, Greece",,1600.0,,,True,True,False,False,True,False,150.0,False,June,Crete
+Odysseus House,"kato kafenia, Límnai, 72400, Greece",4.0,534.0,10,1 ,False,False,False,True,True,False,130.0,False,June,Crete
+Villa Olive by the Sea-walk distance beach & pools,"14 Eparchiaki Odos Kalivon-Kefalas, Almyrida, 73008, Greece",4.0,904.6511627906976,10,2 ,False,False,False,True,True,False,120.0,False,June,Crete
+Adrianna Villa 4ppl,"Bali Adrianna Villas, Bali, 74057, Greece",,1220.5607476635514,9.1,7 ,True,True,True,False,False,True,112.0,False,June,Crete
+Ellada,"Χωραφακια Ακρωτιριου, Chorafakia, 73100, Greece",4.0,512.0,10,2 ,True,False,False,True,True,False,150.0,False,June,Crete
+Sea View Villa Giorgios Five Bedroom,"Gavalohori,, Gavalochori, 73008, Greece",,1924.2990654205607,,,False,True,True,True,True,False,200.0,False,June,Crete
+Lake Villas,"Mouri, Mouríon, 73007, Greece",4.0,998.6877828054298,9.3,7 ,True,True,False,True,True,False,115.0,False,June,Crete
+"Spacious villa with private pool and sea view, just 150 meters from the sea","Ethniki Odos Agiou Nikolaou Sitias, Istro, 721 00, Greece",,1515.8878504672896,9.0,2 ,True,True,False,False,True,False,200.0,False,June,Crete
+Cataphari Luxury Villa,"Κουτουλουφάρι, Koutouloufari, Hersonissos, 70014, Greece",4.0,1482.0,9.8,6 ,True,True,False,True,True,False,145.0,False,June,Crete
+ZenMar Hill,"Peristeras Ierapetra, Ierapetra, 72200, Greece",4.0,675.187969924812,9.6,9 ,False,False,False,False,True,False,137.0,False,June,Crete
+Premium 6-people Villa with Private Pool!,"Gavalochori village main street, Gavalochori, 73008, Greece",4.0,792.0,,,False,True,False,True,True,False,145.0,False,June,Crete

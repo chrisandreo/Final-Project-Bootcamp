@@ -1,0 +1,212 @@
+name,location,stars,amount_conv,Rating,NumReviews,Airport,Pool,Breakfast,Family_Rooms,Parking,Restaurant,size_m2,Pets,Month,Location
+Samos Bay Hotel by Gagou Beach,"Main Street, Samos, 83100, Greece",3.0,315.27777777777777,8.2, 479 ,True,False,True,True,True,True,18.0,False,August,Samos
+Ino Village Hotel,"Samion Agoniston 69, Samos, 83100, Greece",,586.9158878504672,9.2,191 ,False,True,True,True,True,True,18.0,False,August,Samos
+Sunrise Limnionas Apartments,"Λιμιώνας, Marathokampos, 83102, Greece",3.0,298.9795918367347,9.1,74 ,True,False,False,True,True,False,40.0,False,August,Samos
+Anema By The Sea Guesthouse,"83 Kanaris Street, Karlovasi, 83200, Greece",3.0,327.77777777777777,8.2, 143 ,False,True,True,True,True,True,25.0,False,August,Samos
+Lemos Hotel,"Kokkari, Kokkari, 83100, Greece",,388.78504672897196,8.6,74 ,False,False,False,True,True,False,14.0,True,August,Samos
+Arion Hotel,"Main Street, Kokkari, 83100, Greece",4.0,610.0,8.4, 79 ,True,True,False,True,True,True,27.0,True,August,Samos
+Doryssa Seaside Resort,"Main Street, Pythagoreio, 83103, Greece",5.0,965.1393046281372,8.0, 101 ,True,True,True,False,True,True,22.0,False,August,Samos
+Zorbas Hotel & Studios,"Pythagóreion, Samos, Pythagoreio, 83103, Greece",2.0,195.6875291608345,9.1,112 ,False,False,True,False,True,False,,False,August,Samos
+Studios Loukia,"Kokkari, Kokkari, 83100, Greece",3.0,382.0,9.4,101 ,False,False,False,False,True,False,26.0,False,August,Samos
+Nisea Hotel Samos,"μεσόκαμπος, Pythagoreio, 83103, Greece",3.0,552.7777777777778,9.1,98 ,False,True,True,True,True,False,45.0,True,August,Samos
+Belvedere,"Aisopou 6, Pythagoreio, 83103, Greece",2.0,220.0,9.4,354 ,False,False,False,False,False,False,,False,August,Samos
+Astir Hotel,"Gianni Ritsou (Agrotiki), Karlovasi, 83200, Greece",1.0,192.746949113516,8.8,45 ,False,True,False,True,True,True,15.0,True,August,Samos
+Klima Paradise,"Klima Beach, Klíma, 83100, Greece",,520.0,8.4, 116 ,False,False,False,False,True,True,30.0,False,August,Samos
+Aegeon Hotel,"Panepistimiou Aigaiou str., Karlovasi, 83200, Greece",3.0,226.0,8.3, 132 ,False,True,True,True,True,True,18.0,True,August,Samos
+Naftilos Residences I,"Ποτοκάκι, Potokáki, 83103, Greece",3.0,520.0,8.4, 24 ,False,False,False,False,True,False,45.0,False,August,Samos
+Kerkis Bay,"Main Street, Marathokampos, 83102, Greece",3.0,406.0,7.8,58 ,False,False,False,True,False,False,,False,August,Samos
+Naftilos,"Main Street, Pythagoreio, 83103, Greece",3.0,511.60714285714283,8.3, 65 ,False,True,False,False,True,True,25.0,False,August,Samos
+Merope Hotel,"Dimarchou Kyriakou, Karlovasi, 83200, Greece",,196.26168224299064,8.6,87 ,False,True,True,False,True,False,19.0,True,August,Samos
+Lampis Studios,"Unnamed Road, Pythagoreio, 83103, Greece",,160.74766355140187,9.0,168 ,False,False,False,True,False,False,,False,August,Samos
+Polyxeni Hotel,"Pythagoreion, Pythagoreio, 83103, Greece",2.0,352.77777777777777,8.9,146 ,False,False,True,False,True,False,,True,August,Samos
+Amfilissos Hotel,"Balos beach, Koumeika, 83102, Greece",2.0,307.6530612244898,9.6,29 ,True,False,False,True,False,False,20.0,True,August,Samos
+Erato Seaside Hotel by Samian Mare,"115, KANARI STR, Karlovasi, 83200, Greece",4.0,666.0,,,True,False,True,False,True,True,22.0,False,August,Samos
+Nafsika Villas,"Main Street, Kerveli, 83100, Greece",3.0,125500.93457943924,9.4,92 ,True,False,False,True,True,False,40.0,False,August,Samos
+HOKKUM STUDIOS,"Kokkari, Sámos, Kokkari, 83100, Greece",3.0,344.0,9.0,130 ,False,False,False,False,False,False,25.0,False,August,Samos
+Villa Glyfos,"Glyfos, Kerveli, 83100, Greece",,469.1588785046729,7.6,19 ,False,False,False,False,False,False,78.0,True,August,Samos
+Lemos Hotel,"Kokkari, Kokkari, 83100, Greece",2.0,397.9591836734694,8.6,74 ,False,False,False,True,True,False,15.0,True,August,Samos
+Elli Studios,"Pithagorio , Pythagoreio, 83103, Greece",3.0,193.75,7.7,126 ,False,False,False,False,True,False,15.0,True,August,Samos
+Potokaki Beachfront Hotel,"Potokaki Beach, Pythagoreio, 83103, Greece",2.0,278.30423940149626,8.5, 153 ,False,False,True,True,True,False,20.0,False,August,Samos
+Studio Popi,"Kampos Marathokampou, Marathokampos, 83102, Greece",3.0,272.8971962616822,9.2,17 ,False,False,False,True,True,False,15.0,False,August,Samos
+Nafsika Villas,"Main Street, Kerveli, 83100, Greece",,521.4953271028037,9.4,92 ,True,False,False,True,True,False,40.0,False,August,Samos
+Athina Studio Apartments,"Kerveli, Kerveli, 83100, Greece",,220.56074766355138,9.5,25 ,False,False,False,True,True,False,19.0,True,August,Samos
+Chrys Marie Studios,"SAMOS IREON, Ireon, 83103, Greece",,180.37383177570092,,,False,False,False,True,True,False,20.0,False,August,Samos
+ODYSSEAS HOTEL SAMOS,"Βλαμαρης-Γραμμου 35, Samos, 83100, Greece",3.0,220.0,8.8,52 ,False,False,False,False,True,False,30.0,True,August,Samos
+Arion Hotel,"Main Street, Kokkari, 83100, Greece",4.0,590.9476233726915,8.4, 79 ,True,True,False,True,True,True,27.0,True,August,Samos
+HOKKUM STUDIOS,"Kokkari, Sámos, Kokkari, 83100, Greece",3.0,356.3434942295644,9.0,130 ,False,False,False,False,False,False,25.0,False,August,Samos
+Kate Apartments,"Kokkari, Kokkari, 83100, Greece",,240.18691588785046,8.8,71 ,False,False,False,True,True,False,30.0,True,August,Samos
+Kokkari Beach Hotel,"Kokkari, Kokkari, 83100, Greece",,320.5607476635514,7.8,64 ,False,True,True,False,True,False,23.0,False,August,Samos
+Rosmarinus Studios,"Potokaki Pythagoreio 1, Potokáki, 83103, Greece",3.0,276.0,8.5, 58 ,True,False,False,True,True,False,45.0,True,August,Samos
+Petra Mare Village,"Main Street, Kerveli, 83100, Greece",3.0,520.0,9.3,11 ,True,False,False,False,True,False,55.0,True,August,Samos
+Doryssa Seaside Resort,"Main Street, Pythagoreio, 83103, Greece",5.0,962.5,8.0, 101 ,True,True,True,False,True,True,22.0,False,August,Samos
+Christina Traditional house,"Εθνική Οδός Σάμου Καρλοβασίου, Ágios Konstantínos, 83100, Greece",,260.74766355140184,9.6,21 ,False,False,False,False,True,False,22.0,True,August,Samos
+Doryssa Theorem Hotel,"Πυθαγόρειο Σάμος, Pythagoreio, 83103, Greece",,685.981308411215,9.4,9 ,False,False,True,False,False,True,17.0,False,August,Samos
+Studios Iris,"Despoti Kyrillou, Pythagoreio, 83103, Greece",,220.56074766355138,8.1, 170 ,False,False,False,True,True,False,17.0,True,August,Samos
+Pavlis Studios,"ΟΡΜΟΣ ΜΑΡΑΘΟΚΑΜΠΟΥ ΣΑΜΟΣ, Marathokampos, 83102, Greece",3.0,247.0,8.8,52 ,False,True,False,True,True,False,25.0,False,August,Samos
+Paradise Hotel,"Konstantinou Kanari 21, Samos, 83100, Greece",2.0,256.9997697444163,8.0, 119 ,False,False,True,False,True,False,15.0,False,August,Samos
+Emily Hotel,"Grammou & 11 Noemvriou, Samos, 83100, Greece",2.0,278.0,8.6,87 ,False,False,True,False,True,False,17.0,False,August,Samos
+Zorbas Hotel & Studios,"Pythagóreion, Samos, Pythagoreio, 83103, Greece",2.0,198.0,9.1,112 ,False,False,True,False,True,False,,False,August,Samos
+Naftilos Residences II,"Potokaki 1, Potokáki, 83103, Greece",,360.74766355140184,8.4, 17 ,False,False,False,False,False,False,30.0,False,August,Samos
+Hotel Anthousa,"Grigoriou E' 3 , Samos, 83100, Greece",,276.6355140186916,9.3,57 ,False,False,True,False,False,False,35.0,False,August,Samos
+Pavlis Studios,"ΟΡΜΟΣ ΜΑΡΑΘΟΚΑΜΠΟΥ ΣΑΜΟΣ, Marathokampos, 83102, Greece",,245.79439252336448,8.8,52 ,False,True,False,True,True,False,24.0,False,August,Samos
+Valeondades,"Valeondades - Samos Agios Konstantinos, Valeontádes, 83200, Greece",3.0,260.0,7.8,27 ,False,False,False,True,True,True,45.0,True,August,Samos
+Paradise Hotel,"Konstantinou Kanari 21, Samos, 83100, Greece",,257.0093457943925,8.0, 119 ,False,False,True,False,True,False,14.0,False,August,Samos
+Naftilos Residences I,"Ποτοκάκι, Potokáki, 83103, Greece",,521.4953271028037,8.4, 24 ,False,False,False,False,True,False,44.0,False,August,Samos
+Emily Hotel,"Grammou & 11 Noemvriou, Samos, 83100, Greece",2.0,276.3888888888889,8.6,87 ,False,False,True,False,True,False,17.0,False,August,Samos
+Naftilos Residences II,"Potokaki 1, Potokáki, 83103, Greece",3.0,360.0,8.4, 17 ,False,False,False,False,False,False,30.0,False,August,Samos
+Hotel Anthousa,"Grigoriou E' 3 , Samos, 83100, Greece",3.0,277.90697674418607,9.3,57 ,False,False,True,False,False,False,35.0,False,August,Samos
+"Gaia Apartments,By Villa Kokkoni","Ormos Marathokampou Samos, Marathokampos, 83102, Greece",3.0,224.0,9.6,41 ,False,False,False,False,True,False,38.0,False,August,Samos
+Villa Maria,"Anatolikos Tepes, Kokkari, Kokkari, 83100, Greece",2.0,243.0,8.7,21 ,False,False,False,True,True,False,30.0,True,August,Samos
+Amfilissos Hotel,"Balos beach, Koumeika, 83102, Greece",2.0,299.3613624268228,9.6,29 ,True,False,False,True,False,False,20.0,True,August,Samos
+Samaina Port Hotel,"Karlovasi, Karlovasi, 83200, Greece",,432.7102803738318,8.7,38 ,False,False,False,True,True,False,15.0,False,August,Samos
+Zeus Hotel,"Ireon , Ireon, 83100, Greece",,157.94392523364485,9.0,50 ,False,False,True,True,True,False,19.0,False,August,Samos
+Kallirroi Studios,"M. Themeli & G. Vatikioti 1, Pythagoreio, 83103, Greece",,260.74766355140184,7.9,137 ,False,False,False,True,False,False,18.0,False,August,Samos
+Anthemis Hotel Apartments,"Kallistratou 31, Samos, 83100, Greece",3.0,360.4166666666667,9.1,30 ,False,True,True,True,True,False,,False,August,Samos
+Christina Pansion,"Ammos Beach Road, Kokkari, 83100, Greece",3.0,223.0,8.5, 31 ,False,False,False,False,True,False,20.0,False,August,Samos
+Violetta Seaside Studios&Apartments,"Limanaki, Karlovasi, 83200, Greece",3.0,241.0,8.9,34 ,False,False,True,True,True,False,24.0,False,August,Samos
+Afroessa Studios & Apartments,"Kleanthi Roditses, Samos, 83100, Greece",4.0,317.0,9.9,17 ,False,False,False,True,True,False,48.0,True,August,Samos
+Hotel Sofia,"Kampos Marathokampou, Marathokampos, 83102, Greece",2.0,247.54464285714283,9.4,10 ,False,True,True,False,True,False,30.0,True,August,Samos
+Elisabeth Villas,"Charaugi-Kerveli, Kerveli, 83100, Greece",,481.30841121495325,9.9,16 ,False,False,False,True,True,False,74.0,False,August,Samos
+Sandalis Hotel,"Pythagoreio, Pythagoreio, 83103, Greece",2.0,207.21830985915494,8.0, 121 ,False,False,False,False,True,False,18.0,False,August,Samos
+"Πανέμορφη σουίτα επισκεπτών, δίπλα στην θάλασσα","Όρμος Κουμείκων Σάμου, Órmos Koumaíïkon, 83104, Greece",,522.0,10,2 ,False,False,False,False,True,True,30.0,False,August,Samos
+Cleopatra Studios,"Ormos, Marathokampos, 83100, Greece",3.0,165.3846153846154,9.0,21 ,False,False,False,False,True,False,24.0,True,August,Samos
+Posidonio Hotel,"Posidonio, Klíma, 83100, Greece",3.0,380.55555555555554,8.2, 29 ,False,True,False,True,True,True,55.0,True,August,Samos
+Despina Studios,"Kokkari, Samos, Kokkari, 83100, Greece",3.0,382.0,8.8,42 ,False,False,False,False,True,False,18.0,False,August,Samos
+Αrgo Studios,"Pythagóreion, Pythagoreio, 83103, Greece",,257.0093457943925,8.9,134 ,False,False,False,True,False,False,27.0,True,August,Samos
+PENNY LUXURY APARTMENTS,"Λεμονάκια, Κοκκάρι Σάμος, Kokkari, 83100, Greece",,661.6822429906541,9.4,34 ,False,True,False,True,True,False,44.0,True,August,Samos
+SAMOS MARIAs' STONE HOUSE 1,"6ης Αυγουστου & Κορσεων 1, Karlovasi, 83200, Greece",3.0,288.0,9.5,13 ,False,False,False,False,False,False,48.0,False,August,Samos
+Doryssa Coast Apartments,"Potokaki, Pythagoreio, 83103, Greece",,666.3551401869158,8.7,16 ,False,True,False,True,True,False,54.0,False,August,Samos
+Nafsika Villas,"Main Street, Kerveli, 83100, Greece",3.0,522.0239465807045,9.4,92 ,True,False,False,True,True,False,40.0,False,August,Samos
+Aria Hotel Samos Town,"Ioanni Lekati 8, Samos, 83100, Greece",3.0,215.97222222222223,7.8,92 ,False,False,False,False,True,False,15.0,True,August,Samos
+Studios Limnionas,"Limnionas, Marathokampos, 83102, Greece",,861.6822429906541,9.4,73 ,False,False,False,True,True,False,44.0,False,August,Samos
+Scorpios Hotel & Suites,"Kalistratou 131, Samos, 83100, Greece",,500.93457943925233,9.0,74 ,True,True,True,False,True,False,32.0,False,August,Samos
+Anthis Studios,"Pythagoreio, Pythagoreio, 83103, Greece",,214.95327102803736,9.0,39 ,False,True,False,True,True,False,30.0,False,August,Samos
+Patra's Apartments,"Σάμος Ποσειδώνιο, Poseidónion, 83100, Greece",,171.02803738317755,8.8,12 ,False,False,False,True,True,False,24.0,True,August,Samos
+HOKKUM STUDIOS,"Kokkari, Sámos, Kokkari, 83100, Greece",,344.85981308411215,9.0,130 ,False,False,False,False,False,False,24.0,False,August,Samos
+Limnionas Bay Village Hotel,"Limnionas Bay, Marathokampos, 83102, Greece",3.0,502.0,7.9,48 ,False,False,True,True,True,True,35.0,True,August,Samos
+Panorama Apartments,"Marathokampos, Marathokampos, 83102, Greece",,240.18691588785046,9.1,20 ,False,True,False,True,True,True,44.0,False,August,Samos
+Ireon Holiday Home,"Ηραίον Σάμου, Ireon, 83103, Greece",,360.74766355140184,10,2 ,False,False,False,False,False,False,54.0,True,August,Samos
+Chrisopetro Rooms,"Marathókampos, Marathokampos, 83102, Greece",,171.9121683440073,8.8,35 ,False,False,False,False,True,False,,False,August,Samos
+Thalina Hotel,"Kambos Marathokampou, Marathokampos, 83102, Greece",,260.74766355140184,8.7,12 ,True,False,False,True,True,False,34.0,False,August,Samos
+Saint Catherine Hotel,"Pythagóreion, Pythagoreio, 83103, Greece",,320.5607476635514,6.8,66 ,False,True,False,True,True,False,49.0,True,August,Samos
+Merabello Beach House,"Πωσειδωνιο Σαμου, Samos, 83100, Greece",,477.57009345794387,9.7,6 ,False,False,False,False,True,False,69.0,True,August,Samos
+Matina's house,"samos agios konstantinos, Samos, 83200, Greece",,199.22604142954702,9.2,6 ,False,False,False,True,True,False,20.0,True,August,Samos
+Pegasus Hotel,"Main Street, Pythagoreio, 83103, Greece",2.0,280.55555555555554,8.1, 61 ,False,False,True,False,True,False,17.0,False,August,Samos
+Kerkis View Houses,"Νεο Καρλοβασι Σαμου Σπιτι, Karlovasi, 83200, Greece",,184.11214953271028,9.0,20 ,False,False,False,True,True,False,40.0,False,August,Samos
+"Alpha apartment, Ireon Samos","Ηραίον, Ireon, 83103, Greece",,271.8045112781955,9.5,8 ,False,False,False,True,False,False,40.0,False,August,Samos
+Hotel Mariona,"Despoti Kyrillou, Pythagoreio, 83100, Greece",2.0,197.67441860465118,6.4,88 ,False,False,False,False,True,False,14.0,False,August,Samos
+Lakis Studios,"Πυθαγορειο, Pythagoreio, 83103, Greece",,310.2803738317757,8.0, 5 ,False,False,False,True,False,False,18.0,False,August,Samos
+Archo Suites Pythagoreio,"Τηλάυγη, Πυθαγόρειο Σάμος, Pythagoreio, 83103, Greece",3.0,889.0,9.1,33 ,True,False,False,False,True,False,33.0,False,August,Samos
+Elaia Villas,"Pythagoreion, Pythagoreio, 83103, Greece",4.0,363.8461538461538,9.7,19 ,False,False,False,True,True,False,50.0,True,August,Samos
+Alfa house w/ view & barbeque in Pythagorion,"Πυθαγόρειο, Pythagoreio, 83103, Greece",4.0,902.9017857142857,9.7,6 ,False,False,False,True,True,False,96.0,False,August,Samos
+Comfy and Izzy apartment,"Παραλιακή Γέφυρα Καρλοβάσου 1ος όροφος, Karlovasi, 83200, Greece",3.0,233.0,10,1 ,False,False,False,True,True,False,54.0,True,August,Samos
+Elli Studios,"Pithagorio , Pythagoreio, 83103, Greece",,194.39252336448598,7.7,126 ,False,False,False,False,True,False,14.0,True,August,Samos
+Aphrodite Hotel & Suites,"Main Street, Marathokampos, 83102, Greece",3.0,497.9166666666667,8.3, 79 ,True,True,False,True,True,False,25.0,False,August,Samos
+Elli Studios & Apartments,"Marathókampos, Marathokampos, 83102, Greece",,300.93457943925233,9.7,33 ,False,False,False,True,True,False,40.0,False,August,Samos
+Poseidon Studios,"Kokkari Samos , Kokkari, 83100, Greece",3.0,440.0069276065119,7.6,7 ,True,False,True,True,True,True,22.0,True,August,Samos
+Pythais Hotel,"L.Logotheti 126, Pythagoreio, 83103, Greece",,227.10280373831773,8.8,38 ,False,False,False,False,True,False,,False,August,Samos
+Grand View Villas,"Malagari, Samos, 83100, Greece",4.0,920.5357142857142,9.9,14 ,True,False,False,True,True,False,75.0,True,August,Samos
+Studio Popi,"Kampos Marathokampou, Marathokampos, 83102, Greece",,272.8971962616822,9.2,17 ,False,False,False,True,True,False,14.0,False,August,Samos
+Blue Sky,"Kokkári, Kokkari, 83100, Greece",,200.93457943925233,8.5, 39 ,True,False,False,False,True,False,20.0,False,August,Samos
+Eirini house,"Εκκλησια    Αγιου   Νικολαου, Kokkari, 83100, Greece",,179.762443438914,,,False,False,False,False,False,False,35.0,True,August,Samos
+Pension Balos,"Ormos Koumeiokon, Koumeika, 83104, Greece",,180.37383177570092,8.3, 7 ,False,False,False,False,True,True,14.0,False,August,Samos
+Princessa Riviera Resort,"Main Street, Pythagoreio, 83103, Greece",4.0,535.4591836734694,8.3, 69 ,False,True,False,False,True,True,16.0,True,August,Samos
+So Nice Hotel,"Kampos, Marathokampos, 83102, Greece",3.0,271.35620538798065,8.9,65 ,True,True,True,True,True,False,30.0,False,August,Samos
+Alekos Rooms and Apartments,"Kokkari, Kokkari, 83100, Greece",3.0,231.0010391409768,8.1, 7 ,True,False,False,True,True,False,16.0,False,August,Samos
+Green Hill Seaside Studios,"ΚΟΚΚΑΡΙ ΣΑΜΟΥ, Kokkari, 83100, Greece",3.0,232.63888888888889,7.8,25 ,False,False,False,False,False,False,25.0,True,August,Samos
+SUNSET POSIDONIO,"Ποσειδωνιο, Samos, 83100, Greece",3.0,157.0,5.8,6 ,False,False,False,False,True,False,30.0,True,August,Samos
+Marina Apartments,"Tsamadou, Kokkari, 83100, Greece",,368.22429906542055,8.8,25 ,False,False,False,False,True,False,34.0,False,August,Samos
+Brand new cozy apartment,"12 Ομήρου 1ος όροφος, Mesaíon Karlovásion, 83200, Greece",3.0,333.0,8.0, 1 ,False,False,False,True,True,False,48.0,False,August,Samos
+Agrilionas Hotel,"Marathókampos, Marathokampos, 83102, Greece",,351.40186915887847,7.0,4 ,False,True,True,True,True,False,47.0,False,August,Samos
+Valeondades,"Valeondades - Samos Agios Konstantinos, Valeontádes, 83200, Greece",,260.74766355140184,7.8,27 ,False,False,False,True,True,True,44.0,True,August,Samos
+Studios Penelope,"Kokkari Samos, Kokkari, 83100, Greece",3.0,263.58061720989133,6.7,17 ,True,False,False,False,True,False,21.0,True,August,Samos
+Anastasia Apartments,"ΚΑΜΠΟΣ ΜΑΡΑΘΟΚΑΜΠΟΥ, Kámpos, 83100, Greece",3.0,244.0,8.5, 2 ,False,True,False,True,True,False,30.0,False,August,Samos
+Villa Samos - Renovated stone villa with private pool- 2 min from the sea!,"Ethniki Odos Samou Karlovasiou, Samos, 83200, Greece",,1143.9490445859872,,,False,True,False,True,True,False,180.0,False,August,Samos
+Unique breathtaking seaview house,"Koumeika Koumeika Samos, Koumeika, 83104, Greece",,248.61111111111111,9.7,6 ,False,False,False,True,True,False,50.0,False,August,Samos
+Villa Maria,"Anatolikos Tepes, Kokkari, Kokkari, 83100, Greece",,262.6168224299065,8.7,21 ,False,False,False,True,True,False,30.0,True,August,Samos
+Spiti Mili,"Mili Spiti Mili, Ireon, 98307, Greece",3.0,158.41836734693877,8.8,4 ,True,False,False,False,True,False,72.0,False,August,Samos
+Athina Studio Apartments,"Kerveli, Kerveli, 83100, Greece",3.0,222.0,9.5,25 ,False,False,False,True,True,False,20.0,True,August,Samos
+C & D Karlovasi studio,"Κωνσταντινου Κανάρη ΙΣΟΓΕΙΟ, Karlovasi, 83200, Greece",3.0,235.41958275011663,10,1 ,False,False,False,True,True,False,51.0,True,August,Samos
+Hotel Mando,"Marathókampos, Marathokampos, 83102, Greece",3.0,229.8469387755102,8.3, 18 ,False,False,False,True,True,False,32.0,False,August,Samos
+Oikia Ahanasia,"KARMANIOLON MAISEO KARLOVASI, Karlovasi, 83200, Greece",,531.4732142857142,,,False,False,False,True,False,False,210.0,True,August,Samos
+Beach front apartment Psili Ammos,"Psili Ammos Samos, Psili Ammos, 83100, Greece",,580.0,,,False,False,False,False,True,False,,True,August,Samos
+Hotel Agnanti,"Ágios Konstantínos, Ágios Konstantínos, 83100, Greece",,180.37383177570092,5.3,8 ,False,False,True,False,True,False,15.0,True,August,Samos
+Chrys Marie Studios,"SAMOS IREON, Ireon, 83103, Greece",,180.0,,,False,False,False,True,True,False,21.0,False,August,Samos
+Greek Island bungalow in Samos set in beautiful nature,"Mesokampos, Samos, 83100, Greece",,246.61067786442712,,,False,True,False,False,True,False,15.0,False,August,Samos
+"Πανέμορφη σουίτα επισκεπτών, δίπλα στην θάλασσα","Όρμος Κουμείκων Σάμου, Órmos Koumaíïkon, 83104, Greece",,481.54613466334166,10,2 ,False,False,False,False,True,True,30.0,False,August,Samos
+Samia Seavilla Pythagorio,"Πυθαγόρειο Σάμου, Pythagoreio, 831 03, Greece",3.0,789.5089285714284,9.2,12 ,False,False,False,True,False,False,150.0,False,August,Samos
+Nefeli Hotel,"Themistokli Sofouli 10, Karlovasi, 83200, Greece",2.0,188.19444444444446,7.4,16 ,False,True,False,True,True,False,22.0,True,August,Samos
+Stone Villa,"Αισωπου πυθαγόρειο, Pythagoreio, 83103, Greece",,1200.0,9.8,6 ,True,False,False,True,True,False,109.0,True,August,Samos
+Lazy Days,"Klima Samos, Klíma, 83100, Greece",3.0,552.6594519917109,9.0,2 ,False,False,False,False,True,True,65.0,True,August,Samos
+Hotel Ledra,"Kampos, Marathokampos, 83102, Greece",3.0,501.3888888888889,8.4, 21 ,True,False,True,True,True,False,36.0,True,August,Samos
+Xenia Apartment,"Kokkari, Kokkari, 83100, Greece",3.0,480.0,9.3,9 ,False,False,False,True,True,False,76.0,True,August,Samos
+Rania,"Kokkari town, Kokkari, 83100, Greece",,200.93457943925233,8.8,5 ,False,False,False,False,True,False,15.0,True,August,Samos
+Hotel Mary,"Marathokampos, Marathokampos, 83102, Greece",,266.3551401869159,9.1,12 ,True,False,False,True,False,False,24.0,True,August,Samos
+"Beautiful house located on a hill, with a spectacular sea view","Unnamed road, Koumeika, 83104, Greece",4.0,343.0,,,False,False,False,False,True,False,40.0,True,August,Samos
+"Beautiful house located on a hill, with a spectacular sea view","Unamed Road, Koumeika, 83104, Greece",3.0,519.6428571428571,,,False,True,False,False,True,False,40.0,True,August,Samos
+Limnionas Bay Village Hotel,"Limnionas Bay, Marathokampos, 83102, Greece",3.0,501.9456596822473,7.9,48 ,False,False,True,True,True,True,35.0,True,August,Samos
+Apartments Jota,"Plain of Marathokampos, Marathokampos, 83102, Greece",3.0,268.05555555555554,9.3,10 ,True,False,True,True,True,False,38.0,True,August,Samos
+Hotel Mary,"Marathokampos, Marathokampos, 83102, Greece",2.0,247.0,9.1,12 ,True,False,False,True,False,False,25.0,True,August,Samos
+"Beautiful house located on a hill, with a spectacular sea view","Unnamed road, Koumeika, 83104, Greece",,373.83177570093454,,,False,False,False,False,True,False,40.0,True,August,Samos
+Apartments Jota,"Plain of Marathokampos, Marathokampos, 83102, Greece",,268.22429906542055,9.3,10 ,True,False,True,True,True,False,37.0,True,August,Samos
+Studio Popi,"Kampos Marathokampou, Marathokampos, 83102, Greece",,272.8971962616822,9.2,17 ,False,False,False,True,True,False,14.0,False,August,Samos
+Manolates 360 views sea and mountains,"Manolates Village, Valeontádes, 83100, Greece",3.0,280.8035714285714,9.3,3 ,False,False,False,True,True,False,60.0,False,August,Samos
+Galini Studios,"Marathokampos, Marathokampos, 83102, Greece",3.0,196.3456875649463,9.3,3 ,False,False,False,True,True,True,35.0,True,August,Samos
+"Beautiful house located on a hill, with a spectacular sea view","Unamed Road, Koumeika, 83104, Greece",3.0,465.54298642533934,,,False,True,False,False,True,False,40.0,True,August,Samos
+Villa Margarita,"Pythagorio, Samos, 83103, Greece",,651.4018691588784,9.2,4 ,False,False,False,True,True,False,60.0,True,August,Samos
+Dolichi House,"Μαρίνα Πυθαγορείου, Pythagoreio, 83103, Greece",3.0,612.0,,,True,False,False,True,True,False,70.0,True,August,Samos
+Jenny Apartments,"Κάμπος Μαραθοκάμπου 831 02, Karlovasi, 83102, Greece",,173.25581395348837,8.5, 2 ,False,False,False,False,True,False,26.0,False,August,Samos
+SAMOS 1880,"Μπαράκια Παναγίτσα, Marathokampos, 83102, Greece",3.0,235.60621209091514,,,False,False,False,True,False,False,90.0,True,August,Samos
+Athina Studio Apartments,"Kerveli, Kerveli, 83100, Greece",3.0,53096.261682242985,9.5,25 ,False,False,False,True,True,False,20.0,True,August,Samos
+Hydrele Beach Hotel & Village,"Potokaki Beach, Potokáki, 83103, Greece",4.0,587.1153846153845,7.7,10 ,True,False,True,True,False,True,21.0,False,August,Samos
+Lemon House,"Kokkári, Kokkari, 83100, Greece",3.0,144.38902743142145,8.0, 14 ,False,False,True,False,False,False,22.0,False,August,Samos
+Oceanida Bay Hotel,"Pythagoreio, Pythagoreio, 83100, Greece",3.0,242.0,5.1,42 ,False,False,False,True,False,True,20.0,True,August,Samos
+Ina House,"ΒΑΡΕΛΑ ΒΑΘΥ ΣΑΜΟΥΣ, Samos, 83100, Greece",3.0,309.0,,,False,False,False,True,True,False,60.0,True,August,Samos
+Country house in Speri Palaiokastro,"ΠΑΛΑΙΟΚΑΣΤΡΟ ΣΑΜΟΣ, Samos, 83100, Greece",3.0,399.4796380090497,10,5 ,True,False,False,True,True,False,45.0,False,August,Samos
+Samos House,"Άνω βαθύ Παναιτσα, Samos, 83100, Greece",3.0,281.09601657840204,,,False,False,False,True,True,False,50.0,True,August,Samos
+Ariadni Luxury Apartment,"12 Gimnasiarchou Κatevaini 1, Samos, 83100, Greece",3.0,468.75,9.3,6 ,False,False,False,True,False,False,55.0,True,August,Samos
+Evaggelia's Seaside Boutique Apartment,"Ηραίον Σάμου, Ireon, 83103, Greece",3.0,569.0,,,True,False,False,True,True,False,58.0,False,August,Samos
+Σοφία sofia,"Ομήρου 32, Samos, 83100, Greece",,231.16515837104072,,,False,False,False,True,False,False,57.0,False,August,Samos
+"Νεόκτιστη βίλα, Χώρα Πυθαγορείου","Χώρα Πυθαγορείου, Pythagoreio, 83103, Greece",,649.5327102803737,,,False,False,False,True,True,False,125.0,False,August,Samos
+Eftopia Beachfront 2-bedrooms apartment,"Laimos, Kokkari, 83100, Greece",,1122.429906542056,10,9 ,False,False,False,False,True,False,52.0,True,August,Samos
+Dryoussa Apartments,"Mesokampos, Pythagoreio, 83100, Greece",3.0,645.7375191628341,7.8,31 ,False,True,False,True,True,False,45.0,True,August,Samos
+Ano Platanaki,"villa Platanaki, Kerveli, 83100, Greece",3.0,440.27777777777777,9.0,4 ,False,False,False,False,True,False,55.0,False,August,Samos
+Chris Apartments,"Κάμπος Μαραθοκάμπου, Marathokampos, 83102, Greece",,263.55140186915884,7.9,12 ,False,False,False,True,True,False,35.0,False,August,Samos
+Villa Azzurro,"Agía Paraskeví, 83100, Greece",4.0,1265.0,,,False,True,False,False,True,False,90.0,False,August,Samos
+Studios Calvinos,"Marathókampos, Marathokampos, 83102, Greece",3.0,240.0,8.7,6 ,False,False,False,True,True,False,25.0,False,August,Samos
+Villa Ermilia,"- -, Kerveli, 83100, Greece",4.0,480.0,,,False,False,False,True,True,False,61.0,False,August,Samos
+Memory luxury studio The sibling apartments,"Σάμου, Mytilinioí, 83101, Greece",,271.02803738317755,,,False,False,False,False,False,False,35.0,True,August,Samos
+Athina Studio Apartments,"Kerveli, Kerveli, 83100, Greece",,220.56074766355138,9.5,25 ,False,False,False,True,True,False,19.0,True,August,Samos
+Apartmets Sunwaves,"Kerveli, Kerveli, 83100, Greece",4.0,344.0,5.0,1 ,False,True,True,True,True,True,42.0,False,August,Samos
+PYTHAGORIO MAGIC VIEw,"Πυθαγόρειο Σάμου, Pythagoreio, 83103, Greece",4.0,840.0,8.5, 13 ,False,False,False,True,True,False,105.0,False,August,Samos
+Alekos rooms and apartments,"Kokkari, Samos, 83100, Greece",,411.21495327102804,9.0,2 ,False,False,False,True,True,False,95.0,False,August,Samos
+Saint Nicholas Hotel,"Mykali beach, Psili Ammos, Psili Ammos, 83100, Greece",,349.0435246284076,,,False,True,False,False,True,True,20.0,True,August,Samos
+Hera Loft,"Ηραιον, Ireon, 83100, Greece",3.0,312.0,,,False,False,False,False,False,False,88.0,False,August,Samos
+Chrys Marie Studios,"SAMOS IREON, Ireon, 83103, Greece",,180.37383177570092,,,False,False,False,True,True,False,20.0,False,August,Samos
+VOULA'S HOUSES,"Γιάννη Ρίτσου, Karlovasi, 83200, Greece",,317.75700934579436,,,False,False,False,True,True,False,48.0,False,August,Samos
+Adamantia,"-- --, Ireon, 83103, Greece",,260.74766355140184,7.9,8 ,False,False,False,False,True,False,,False,August,Samos
+Mediterenian house with beautiful garden,"Γιάννη Ρίτσου, Karlovasi, 83200, Greece",,1120.0,,,False,False,False,True,True,False,270.0,False,August,Samos
+Kokkari Social Club,"Εθνική Οδός Σάμου Καρλοβασίου, Kokkari, 83100, Greece",,396.0,,,False,False,False,True,False,False,,False,August,Samos
+Christos Katerina House,"Λυκούργου Λογοθέτη 1ος όροφος, Pythagoreio, 83103, Greece",3.0,759.3023255813954,9.5,2 ,False,False,False,False,False,False,60.0,False,August,Samos
+Villa paradise,"Βαρελα Βαρελα, Samos, 83100, Greece",3.0,415.6015037593985,8.9,11 ,True,False,False,False,True,False,125.0,False,August,Samos
+Angela's House,"Koumeika, Samos, Koumeika, 83104, Greece",,289.0274314214464,,,False,False,False,False,True,False,,False,August,Samos
+SMALL AND COMFORTABLE APARTMENT VATHI SAMOS,"vlamaris 23, Vathý, 83100, Greece",3.0,209.0,,,False,False,False,False,True,False,35.0,False,August,Samos
+Kyma Hotel,"Kampos Marathokampos, Marathokampos, 83102, Greece",3.0,240.2777777777778,8.2, 8 ,False,True,True,True,True,False,44.0,False,August,Samos
+Ti S amo S Villa,"Επαρχιακή Οδός Βαθιού - Καρλοβάσου, Karlovasi, 83200, Greece",4.0,1198.4276018099547,,,False,True,False,True,True,False,120.0,False,August,Samos
+Dimitra's house at Ag.Theodori,"Αγιοι Θεοδωροι Σαμος, Karlovasi, 83200, Greece",,216.84319594750173,,,False,False,False,True,True,False,75.0,False,August,Samos
+Dimitra's house at Karlovasi,"Μονοπατυ Αγ.Ιωαννη, Karlovasi, 83200, Greece",,257.0093457943925,,,False,False,False,True,False,False,78.0,False,August,Samos
+"Beautiful house 800m from Koumeika, Samos","Unamed Road, Koumeika, 83104, Greece",3.0,240.0,7.0,1 ,False,False,False,False,True,False,40.0,True,August,Samos
+Villa Vicky,"Παγώνδας Σάμου, Pythagoreio, 83103, Greece",,602.0284589766878,,,False,False,False,True,True,False,140.0,True,August,Samos
+Aegean Blu Port House Pythagoreio,"Melissou Road, Pythagoreio, Pythagoreio, 83103, Greece",,761.6822429906541,7.0,3 ,True,False,False,True,False,False,79.0,False,August,Samos
+Beautiful house wiht sea view in Samos Island,"Unamed Road, Koumeika, 83104, Greece",,251.4018691588785,,,False,False,False,False,True,False,40.0,True,August,Samos
+Sylvia's House - a unique waterfront location,"KOKKARI Samos 83100, Samos, 83100, Greece",,1223.3644859813082,,,False,False,False,True,False,False,,False,August,Samos
+Nitsa House,"Σάμος, Νέο Καρλόβασι, Μόνη Προφήτη Ηλία, Mesaíon Karlovásion, 83200, Greece",,1567.0,,,False,False,False,False,True,False,110.0,False,August,Samos
+Petra Mare Village,"Main Street, Kerveli, 83100, Greece",3.0,518.9462480042577,9.3,11 ,True,False,False,False,True,False,55.0,True,August,Samos
+1897 Heritage house 5mins Pythagorio-sea-airport,"chora, Samos, 83103, Greece",4.0,1080.0,,,False,False,False,True,False,False,230.0,True,August,Samos
+Passa Tempo Apartment,"ireon Samos, Samos, 83100, Greece",,275.70093457943926,,,False,False,False,False,False,False,49.0,False,August,Samos
+SAMOS HOME by the sea,"Κάμπος Μαραθοκάμπου, Kámpos, 83102, Greece",,980.0,,,False,False,False,True,True,False,120.0,True,August,Samos
+BETTY'S HOUSE,"ΛΟΓΟΘΕΤΗ ΛΥΚΟΥΡΓΟΥ Ισόγειο, Pythagoreio, 83103, Greece",,308.411214953271,9.5,4 ,False,False,False,False,False,False,60.0,False,August,Samos
+Hotel Bella Vista,"Kallistratou 40, Kalami, Samos, 83100, Greece",2.0,260.4166666666667,9.0,78 ,False,False,False,False,True,False,20.0,False,August,Samos
+Christina Traditional house,"Εθνική Οδός Σάμου Καρλοβασίου, Ágios Konstantínos, 83100, Greece",3.0,243.0,9.6,21 ,False,False,False,False,True,False,22.0,True,August,Samos
+Alkioni Studios,"Karlovasiou Road, Limanaki Agios Nikolaos,, Karlovasi, 83200, Greece",3.0,202.0,8.8,22 ,False,False,True,False,False,False,18.0,True,August,Samos
+Hidden treasure kokkari,"Kokkari 83100, Samos, 83100, Greece",,352.74949083503054,,,False,False,False,True,True,False,37.0,False,August,Samos

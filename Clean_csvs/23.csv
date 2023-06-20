@@ -1,0 +1,341 @@
+name,location,stars,amount_conv,Rating,NumReviews,Airport,Pool,Breakfast,Family_Rooms,Parking,Restaurant,size_m2,Pets,Month,Location
+Galini Bungalows,"Ag. Fotodoti 92, Kionia, Kionia, 84200, Greece",,481.30841121495325,8.4, 170 ,False,False,True,True,True,False,19.0,False,August,Tinos
+Prasino Oniro,"Louizas Sohou 5, Tinos, 84200, Greece",3.0,504.0,8.1, 241 ,False,False,False,True,True,False,19.0,True,August,Tinos
+Agali Bay Hotel,"Agali Bay, Tinos, 84200, Greece",,539.1455042324868,8.7,121 ,False,False,True,True,True,False,18.0,False,August,Tinos
+Onos - Eco Living Experience,"TINOS, Mési, 84200, Greece",4.0,1178.0,9.7,19 ,False,False,False,True,True,False,49.0,True,August,Tinos
+La Vista TINOS,"Τήνος, Agios Ioannis, 84200, Greece",,600.6944444444445,10,1 ,False,False,False,True,True,False,25.0,True,August,Tinos
+Ursa Major Suites,"Κώμη Τήνος, Tinos, 84200, Greece",,1073.1637117200091,9.6,58 ,False,False,True,True,True,True,32.0,False,August,Tinos
+Vrahos Studios,"Kionia, Kionia, 84200, Greece",3.0,319.7674418604651,9.0,109 ,False,False,False,True,True,False,20.0,False,August,Tinos
+White Tinos Luxury Suites,"Steni Tinos, Stení, 84200, Greece",4.0,732.2193658954584,9.7,24 ,False,False,False,True,True,False,75.0,True,August,Tinos
+Venus Minimal Hotel,"Filipoti 7, Tinos, 84200, Greece",,320.5607476635514,8.4, 721 ,False,False,False,False,False,False,14.0,False,August,Tinos
+Terra Aeolica,"Arnados , Arnados, 84200, Greece",3.0,400.0,8.8,66 ,False,False,False,False,True,False,43.0,False,August,Tinos
+Summer Time - Tinos Apartments,"Ayios Sostis Tinou, Agios Sostis, 84200, Greece",,400.93457943925233,9.1,100 ,False,False,False,True,True,False,24.0,False,August,Tinos
+Aegean Muses,"ΤΡΙΑΝΤΑΡΟΣ 84200 ΤΗΝΟΣ, Arnados, 84200, Greece",,2088.0,9.6,5 ,False,True,False,False,True,False,126.0,False,August,Tinos
+Cavos,"Agios Sostis, Tinos Island, Agios Sostis, 84200, Greece",4.0,706.2344139650874,9.1,107 ,False,True,False,False,True,True,35.0,True,August,Tinos
+Vrahos Agios Romanos,"Αγιος Ρωμανος Τηνος Ματθαιος Δελλατολας, Agios Romanos, 84200, Greece",4.0,561.8303571428571,9.7,24 ,False,False,False,False,True,False,50.0,False,August,Tinos
+Villa Ioanna,"Kionia, Kionia, 84200, Greece",3.0,461.38392857142856,9.0,67 ,False,False,False,True,True,False,35.0,True,August,Tinos
+Eleana Hotel,"1 Agiou Ioannou, Tinos, 84200, Greece",,544.8598130841121,9.6,201 ,False,False,False,False,False,False,,False,August,Tinos
+Akti Aegeou,"Paralia Laouti, Agios Sostis, 84200, Greece",3.0,447.0,9.2,83 ,False,True,True,True,True,True,32.0,False,August,Tinos
+Hermes Rooms,"Evagelistrias 33, Tinos, 84200, Greece",3.0,339.0,7.9,123 ,False,False,False,False,True,False,,False,August,Tinos
+villaV,"Επαρχιακή Οδός Τριαντάρου-Φαλατάδου, Triandáros, 84200, Greece",,2223.0,8.6,10 ,False,True,False,True,True,False,75.0,False,August,Tinos
+Tinos Resort,"Agiou Charalampou Square, Tinos, 84200, Greece",,882.2429906542055,9.4,36 ,False,True,True,True,True,False,62.0,False,August,Tinos
+Pension Selenti,"Gkizi, Tinos, 84200, Greece",,385.0467289719626,8.3, 91 ,False,False,False,True,True,False,19.0,False,August,Tinos
+Infinity View Hotel Tinos,"Leoforos Stavrou Kionion, Tinos, 84200, Greece",,1082.2429906542056,9.4,168 ,False,True,False,True,True,False,30.0,False,August,Tinos
+Balcony to the Aegean,"Steni Tinos, Stení, 84200, Greece",3.0,600.0,10,17 ,False,False,False,True,True,False,78.0,True,August,Tinos
+Prasino Oniro,"Louizas Sohou 5, Tinos, 84200, Greece",,505.607476635514,8.1, 241 ,False,False,False,True,True,False,19.0,True,August,Tinos
+Agali Bay Hotel,"Agali Bay, Tinos, 84200, Greece",,541.1214953271028,8.7,121 ,False,False,True,True,True,False,18.0,False,August,Tinos
+alemár,"Iroon Politechniou, Agios Fokas, Tinos, 84200, Greece",4.0,1000.0,9.7,119 ,False,False,True,True,True,True,,False,August,Tinos
+Tiniotissa Studios,"I. Metaxa, Tinos, 84200, Greece",3.0,360.4166666666667,8.8,131 ,False,False,False,True,True,False,20.0,True,August,Tinos
+Vrahos Studios,"Kionia, Kionia, 84200, Greece",3.0,319.7674418604651,9.0,109 ,False,False,False,True,True,False,20.0,False,August,Tinos
+Κυκλαδίτικο Διαμέρισμα στα Κιόνια,"Κιονια, Τήνος, Kionia, 84200, Greece",,485.0,,,False,False,False,False,True,False,,True,August,Tinos
+Aeolus studio,"κεντρο σκαλαδος Σκαλαδος, Skaládhos, 84200, Greece",3.0,400.0,8.3, 19 ,False,False,False,False,False,False,25.0,False,August,Tinos
+Volta Kalloni - Kalloni village Tinos,"Επαρχιακή Οδός Τήνου-Καλλονής, Kalloni Tinou, 84200, Greece",3.0,624.7850678733031,9.7,8 ,False,False,False,True,True,False,55.0,False,August,Tinos
+Pallada Apartments,"Παλλάδος, Tinos, 84200, Greece",,380.3738317757009,9.3,15 ,False,False,False,True,False,False,35.0,True,August,Tinos
+Living Theros Luxury Suites,"KARDIANI, Kardiani, 84200, Greece",,1165.025997590839,9.5,95 ,False,False,False,True,False,False,25.0,False,August,Tinos
+Summer Time - Tinos Apartments,"Ayios Sostis Tinou, Agios Sostis, 84200, Greece",3.0,400.0,9.1,100 ,False,False,False,True,True,False,24.0,False,August,Tinos
+Parathyro Sto Aigaio 1,"Lintaria, Tinos, 84200, Greece",3.0,591.0,9.2,134 ,True,False,False,True,True,False,45.0,True,August,Tinos
+Tinos Sky View Villa,"Arnados, Arnados, 84200, Greece",4.0,872.9166666666667,8.9,38 ,False,True,False,False,True,False,100.0,True,August,Tinos
+Aeolis Tinos Suites,"Triantaros village, Tinos, 84200, Greece",4.0,1272.2222222222222,9.0,185 ,False,True,False,True,True,True,20.0,False,August,Tinos
+Ioanna Studios,"Kionia, Kionia, 84200, Greece",,300.93457943925233,8.8,62 ,False,False,False,True,True,False,23.0,True,August,Tinos
+Harmony Apartment 1,"Agios Sostis, Agios Sostis, 84200, Greece",3.0,580.5555555555555,,,False,False,False,True,True,False,41.0,False,August,Tinos
+Boussetil Rooms CapAnMat,"Ioannou Voulgari 7, Tinos, 84200, Greece",3.0,280.55555555555554,7.9,315 ,False,False,False,False,False,False,,False,August,Tinos
+Favie Suzanne,"ANTONIOU SOHOU 22, Tinos, 84200, Greece",3.0,445.72875892240387,7.9,519 ,False,False,False,False,False,False,18.0,False,August,Tinos
+Galazio Kyma,"Laouti, Agios Ioannis, 84200, Greece",,400.93457943925233,8.4, 39 ,False,False,False,True,True,False,27.0,True,August,Tinos
+Art Village,"ART VILLAGE, Panormos, 84201, Greece",3.0,684.0,8.4, 56 ,False,False,False,True,False,False,38.0,True,August,Tinos
+Oxygen Favie,"An. Sohou 22, Tinos, 84200, Greece",,625.233644859813,8.5, 195 ,False,True,True,False,False,False,19.0,False,August,Tinos
+Astrokaktos,"Skalados, Skaládhos, 84200, Greece",3.0,480.0,9.5,16 ,False,False,False,True,True,True,40.0,False,August,Tinos
+Casa Di Volto,"Σκαλαδος, Skaládhos, 84200, Greece",3.0,596.0,9.5,16 ,False,False,True,True,True,False,75.0,False,August,Tinos
+ΕΣΠΕΡΙΔΕΣ,"4 Παλλάδος, Tinos, 84200, Greece",3.0,381.31634819532906,8.8,25 ,False,False,False,True,False,False,15.0,True,August,Tinos
+''Cactaki'' Studio,"ΒΩΛΑΞ 1ος όροφος, Vólax, 84200, Greece",,397.19626168224295,10,7 ,False,False,False,True,True,False,30.0,False,August,Tinos
+Parathyro sto Aigaio 2 - Small Suites,"Psari, Plaka, Tinos, 84200, Greece",,521.4953271028037,9.2,103 ,True,False,False,True,True,False,35.0,True,August,Tinos
+Ivy's Natural Resort,"Αρναδος, Arnados, 84200, Greece",,1738.3720930232557,10,3 ,False,True,False,True,True,False,44.0,True,August,Tinos
+Mata's Apartments,"Markou Krikeli & Louka Douka, Tinos, 84200, Greece",,597.196261682243,9.0,48 ,True,False,False,True,True,False,35.0,False,August,Tinos
+AELIA Tinos,"Σπιτάλια, Tinos, 84200, Greece",3.0,929.6874999999999,9.5,190 ,False,False,True,True,True,False,35.0,False,August,Tinos
+Cavos,"Agios Sostis, Tinos Island, Agios Sostis, 84200, Greece",4.0,706.7464886023486,9.1,107 ,False,True,False,False,True,True,35.0,True,August,Tinos
+Tinos Dove Suites,"Tinos, Triandáros, 84200, Greece",,1407.638888888889,9.7,81 ,True,True,True,True,True,False,28.0,True,August,Tinos
+White Tinos Luxury Suites,"Steni Tinos, Stení, 84200, Greece",,793.4579439252336,9.7,24 ,False,False,False,True,True,False,74.0,True,August,Tinos
+Onar Hotel & Suites,"Nikou Foskolou 7, Tinos, 84200, Greece",2.0,628.6854709952103,9.2,123 ,False,True,True,True,True,False,30.0,False,August,Tinos
+Virginia Rooms,"Κων. Αλαβάνου 5, Tinos, 84200, Greece",3.0,343.45797507165236,9.3,150 ,False,False,False,True,False,False,15.0,True,August,Tinos
+Virginia Pension,"Georgiou Gafou 4, Tinos, 84200, Greece",,586.9158878504672,9.4,92 ,False,False,False,True,False,False,19.0,True,August,Tinos
+Vrahos Agios Romanos,"Αγιος Ρωμανος Τηνος Ματθαιος Δελλατολας, Agios Romanos, 84200, Greece",,561.6822429906541,9.7,24 ,False,False,False,False,True,False,49.0,False,August,Tinos
+Mr. and Mrs. White Tinos,"Agios Ioannis , Tinos, Tinos, 84200, Greece",4.0,646.1538461538461,7.9,488 ,False,True,False,False,True,False,16.0,False,August,Tinos
+Campus del villaggio,"ΚΑΜΠΟΣ, Kámbos, 84200, Greece",3.0,740.0,9.9,16 ,False,False,False,True,False,False,67.0,False,August,Tinos
+Santamare Apartment,"Ag Varvara, Tinos, Agios Sostis, 84200, Greece",,561.6822429906541,9.3,9 ,False,False,False,False,True,False,85.0,True,August,Tinos
+White Holidays Project Ag. Sostis,"Άγιος Σώστης, Agios Sostis, 84200, Greece",3.0,530.0,9.4,10 ,False,False,False,True,True,False,37.0,True,August,Tinos
+Laurel house,"Τριαντάρος, Triandáros, 84200, Greece",4.0,1107.3660714285713,9.5,6 ,False,False,False,False,True,False,130.0,False,August,Tinos
+VATHI BLEU PRIVATE VILLAS,"Tinos Ekso Meria, Panormos, 84201, Greece",4.0,2200.0,9.7,13 ,True,True,False,False,True,False,45.0,True,August,Tinos
+The House of Light,"Κάτω Κλείσμα 0, Káto Klísma, 84200, Greece",,437.0,9.7,6 ,False,False,False,False,True,False,,True,August,Tinos
+Alex Studios Tinos,"Nikolaou Kornarou 1, Tinos, 84200, Greece",3.0,339.5348837209302,9.0,72 ,False,False,False,True,True,False,24.0,False,August,Tinos
+Vidalis Hotel,"Kionia, Kionia, 84200, Greece",3.0,426.0,8.8,53 ,False,False,False,True,True,False,23.0,False,August,Tinos
+Petrosfamily2,"Τήνου, Agios Ioannis, 84200, Greece",3.0,320.0,8.4, 18 ,False,False,False,False,True,False,30.0,False,August,Tinos
+Terra Aeolica,"Arnados , Arnados, 84200, Greece",3.0,400.69444444444446,8.8,66 ,False,False,False,False,True,False,43.0,False,August,Tinos
+Arnados view,"Επαρχιακή Οδός Τριαντάρου-Φαλατάδου, Arnados, 84200, Greece",4.0,173770.0934579439,,,False,False,False,False,False,False,75.0,False,August,Tinos
+Apopsis Tinos,"Δύο Χωριά, Triandáros, 84200, Greece",4.0,857.6388888888889,,,False,False,False,True,True,False,85.0,True,August,Tinos
+BIANCO BLUE,"Αλ. Λαγουρου, Tinos, 84200, Greece",,738.8671425282063,9.9,21 ,False,False,False,True,False,False,59.0,False,August,Tinos
+VATHI BLEU PRIVATE VILLAS,"Tinos Ekso Meria, Panormos, 84201, Greece",4.0,2200.0,9.7,13 ,True,True,False,False,True,False,45.0,True,August,Tinos
+The House of Light,"Κάτω Κλείσμα 0, Káto Klísma, 84200, Greece",,475.0,9.7,6 ,False,False,False,False,True,False,,True,August,Tinos
+Villa Leiland,"Πανορμος Τηνου Συγκροτημα κατοικιων Γλαυκη, Panormos, 84200, Greece",,1002.8037383177569,9.4,8 ,False,False,False,True,True,False,120.0,True,August,Tinos
+Alex Studios Tinos,"Nikolaou Kornarou 1, Tinos, 84200, Greece",3.0,312.593984962406,9.0,72 ,False,False,False,True,True,False,25.0,False,August,Tinos
+Summer Time - Tinos Apartments,"Ayios Sostis Tinou, Agios Sostis, 84200, Greece",,400.93457943925233,9.1,100 ,False,False,False,True,True,False,24.0,False,August,Tinos
+KYNARA Boutique Village,"Kionia, Tinos, 84200, Greece",,2002.8037383177568,9.9,10 ,False,False,True,True,True,False,86.0,True,August,Tinos
+Vidalis Hotel,"Kionia, Kionia, 84200, Greece",,420.56074766355135,8.8,53 ,False,False,False,True,True,False,23.0,False,August,Tinos
+Petrosfamily2,"Τήνου, Agios Ioannis, 84200, Greece",3.0,320.1388888888889,8.4, 18 ,False,False,False,False,True,False,30.0,False,August,Tinos
+Villa Adele,"thesi  Kokkines Ekklisies, Arnados, 84200, Greece",4.0,1300.0,9.0,4 ,False,False,False,True,True,False,100.0,False,August,Tinos
+The Goat House,"Ακτή Γιαννάκη Καρδιανή, Kardiani, 84200, Greece",,1256.0747663551401,9.3,21 ,False,False,True,True,True,False,99.0,False,August,Tinos
+Aegean Muses,"ΤΡΙΑΝΤΑΡΟΣ 84200 ΤΗΝΟΣ, Arnados, 84200, Greece",,2088.0,9.6,5 ,False,True,False,False,True,False,126.0,False,August,Tinos
+Arnados view,"Επαρχιακή Οδός Τριαντάρου-Φαλατάδου, Arnados, 84200, Greece",4.0,662.0,,,False,False,False,False,False,False,75.0,False,August,Tinos
+Apopsis Tinos,"Δύο Χωριά, Triandáros, 84200, Greece",4.0,856.9659820380281,,,False,False,False,True,True,False,85.0,True,August,Tinos
+Galatea House ground floor,"Kato Klisma, Káto Klísma, 84200, Greece",3.0,662.0,,,False,False,False,False,False,False,120.0,True,August,Tinos
+Zozef Family House,"Ταραμπάδος, Kámbos, 84200, Greece",3.0,518.0,9.8,13 ,False,False,False,True,True,False,84.0,False,August,Tinos
+Traditional Cyclades Home in Pyrgos,"Ραφήνα - Τήνος, Panormos, 84200, Greece",,864.0,,,False,False,False,False,True,False,80.0,False,August,Tinos
+Harmony Apartment 2,"Agios Sostis Tinos, Agios Sostis, 84200, Greece",3.0,580.5555555555555,,,False,False,False,True,True,False,40.0,False,August,Tinos
+Livadi house Tinos,"Επαρχιακή Οδός Τριπόταμου-Καλλονής, Káto Klísma, 84200, Greece",,769.0,9.7,8 ,False,False,False,False,False,False,95.0,False,August,Tinos
+PNOĒS Tinos,"Lagkades, Agios Fokas, Tinos, 84200, Greece",,2951.4018691588785,9.4,8 ,False,True,False,True,True,False,73.0,False,August,Tinos
+Aelia Mare Apartments Nr4,"Ορμος Υστερνιων. Τηνος, Istérnia, 84200, Greece",,595.3271028037383,9.8,5 ,False,False,False,False,True,False,48.0,False,August,Tinos
+Acanthus Houses,"Nikolaou Foskolou, Tinos, 84200, Greece",3.0,571.2556561085972,9.5,83 ,False,False,False,True,False,False,23.0,False,August,Tinos
+Coocono Villas,"25ης Μαρτίου 39, Tinos, 84200, Greece",,2004.6728971962616,9.3,3 ,False,True,True,True,True,False,65.0,False,August,Tinos
+Sea View Exclusive Studios - Tinos,"Ag.Nikolas Oros-Porto, Agios Ioannis, 84 200, Greece",,613.0841121495326,9.0,26 ,False,False,False,False,True,False,19.0,True,August,Tinos
+Grand View Tinos,"Odos Krynou, Langades, Agios Fokas, Tinos, 84200, Greece",,400.93457943925233,10,1 ,False,True,False,True,True,False,,False,August,Tinos
+Aether of Tinos,"56 Leoforos Alavanou ilia gafou 1, Tinos, 842 00, Greece",,621.4953271028037,8.5, 32 ,False,False,False,True,False,False,31.0,False,August,Tinos
+Elia Apartments,"Agios Romanos 0, Agios Romanos, 84200, Greece",3.0,582.0,9.4,17 ,False,False,False,True,False,False,54.0,True,August,Tinos
+Balcony to the Aegean,"Steni Tinos, Stení, 84200, Greece",,601.8691588785047,10,17 ,False,False,False,True,True,False,78.0,True,August,Tinos
+Porto Raphael Residences & Suites,"Agios Ioannis, Agios Ioannis, 84200, Greece",,785.9813084112149,8.9,38 ,False,False,True,True,True,True,44.0,False,August,Tinos
+Soulmate's Suites No110,"Agiou Fotodoti, Kionia, 84200, Greece",,662.7946127946128,,,False,False,False,True,True,False,45.0,False,August,Tinos
+Iris house Agios Sostis,"0 Agios Sostis Tinos Ag. Sostis 842 00, Greece, Agios Sostis, 84200, Greece",3.0,582.0,8.0, 8 ,True,False,False,False,True,False,27.0,False,August,Tinos
+Studio Rene 3,"9 Λαζάρου Σωχού, Tinos, 84200, Greece",,396.52777777777777,,,False,False,False,False,False,False,25.0,False,August,Tinos
+Old Manor,"Falatados, Tinos, Mési, 84200, Greece",3.0,400.0,,,True,False,True,True,True,False,115.0,False,August,Tinos
+En Plo,"Agios Romanos, Agios Romanos, 84200, Greece",,528.9719626168225,9.2,88 ,False,True,True,True,True,False,30.0,True,August,Tinos
+Kalloni Means Beauty Villa with great view,"Επαρχιακή Οδός Τήνου-Καλλονής, Kalloni Tinou, 84200, Greece",,2298.0,8.0, 2 ,False,False,False,False,False,False,70.0,False,August,Tinos
+Lavender house Agios Sostis,"Agios Sostis, Agios Sostis, 84200, Greece",,601.8691588785047,8.0, 10 ,True,False,False,False,True,False,27.0,False,August,Tinos
+G-House of Tinos,"Λεωφόρος Μεγαλόχαρης, Tinos, 84200, Greece",4.0,936.0,9.6,13 ,False,False,False,True,False,False,60.0,True,August,Tinos
+Sunset house in Isternia 1,"Κυκλάδες Τήνος, Istérnia, 84201, Greece",4.0,1366.2790697674418,9.3,3 ,False,False,False,False,True,False,60.0,True,August,Tinos
+Studio rene 2,"9 Λαζάρου Σωχού, Tinos, 84200, Greece",,396.52777777777777,,,False,False,False,False,False,False,24.0,False,August,Tinos
+Fanta Sea Studio,"Μοσχονά, Tinos, 84200, Greece",3.0,432.0,,,False,False,False,False,True,False,75.0,False,August,Tinos
+NINEMIA CALM AND SPA,"ΚΙΟΝΙΑ ΤΗΝΟΣ, Kionia, 84200, Greece",,640.0,,,False,True,True,True,True,False,25.0,False,August,Tinos
+Petrosfamily4,"Τήνου, Agios Ioannis, 84200, Greece",,320.8651399491094,8.5, 8 ,False,False,False,False,True,False,,False,August,Tinos
+Marieta’s Home,"Τήνου, Agios Sostis, 84200, Greece",3.0,720.0,,,False,False,False,True,True,False,60.0,False,August,Tinos
+Sunset junior suites,"Όρμος Αγιος Ιωάννη, Agios Ioannis, 84200, Greece",,1624.2990654205607,9.4,23 ,False,False,False,True,True,True,60.0,True,August,Tinos
+Triantaros Artful Houses,"Τήνος, Triandáros, 84200, Greece",,1515.8878504672896,,,False,False,False,True,True,False,96.0,False,August,Tinos
+Λεβάντα,"FeroChorio 1, Lichnaftia, 84200, Greece",,288.0,,,False,False,False,False,True,False,,True,August,Tinos
+Apano Vrysi Tinos 2,"Agiou Nikolaou, Tinos, 84200, Greece",,538.3177570093458,,,False,False,False,False,True,False,40.0,False,August,Tinos
+Lithos Luxury Suites,"Παραγγερια, Tinos, 84200, Greece",4.0,1069.0,9.6,86 ,False,True,False,True,True,False,25.0,False,August,Tinos
+Soulmate's Suites No110,"Agiou Fotodoti, Kionia, 84200, Greece",,682.9167499833367,,,False,False,False,True,True,False,45.0,False,August,Tinos
+Iris house Agios Sostis,"0 Agios Sostis Tinos Ag. Sostis 842 00, Greece, Agios Sostis, 84200, Greece",,601.8691588785047,8.0, 8 ,True,False,False,False,True,False,27.0,False,August,Tinos
+Studio Rene 3,"9 Λαζάρου Σωχού, Tinos, 84200, Greece",,397.19626168224295,,,False,False,False,False,False,False,24.0,False,August,Tinos
+Old Manor,"Falatados, Tinos, Mési, 84200, Greece",3.0,398.45208285909405,,,True,False,True,True,True,False,115.0,False,August,Tinos
+Vrahos Agios Romanos,"Αγιος Ρωμανος Τηνος Ματθαιος Δελλατολας, Agios Romanos, 84200, Greece",,561.6822429906541,9.7,24 ,False,False,False,False,True,False,49.0,False,August,Tinos
+Kalloni Means Beauty Villa with great view,"Επαρχιακή Οδός Τήνου-Καλλονής, Kalloni Tinou, 84200, Greece",,431.0,8.0, 2 ,False,False,False,False,False,False,70.0,False,August,Tinos
+Lavender house Agios Sostis,"Agios Sostis, Agios Sostis, 84200, Greece",3.0,548.1099656357388,8.0, 10 ,True,False,False,False,True,False,27.0,False,August,Tinos
+G-House of Tinos,"Λεωφόρος Μεγαλόχαρης, Tinos, 84200, Greece",,938.3177570093458,9.6,13 ,False,False,False,True,False,False,60.0,True,August,Tinos
+Villa Hill-Ton,"Tinos, Arnados, 84200, Greece",3.0,819.502766113444,8.0, 2 ,False,False,False,False,False,False,120.0,True,August,Tinos
+Sunset house in Isternia 1,"Κυκλάδες Τήνος, Istérnia, 84201, Greece",4.0,1368.0,9.3,3 ,False,False,False,False,True,False,60.0,True,August,Tinos
+PG House in Kalloni Village - Tinos,"Επαρχιακή Οδός Τήνου-Καλλονής, Kalloni Tinou, 84200, Greece",3.0,625.6944444444445,,,False,False,False,True,False,False,70.0,True,August,Tinos
+Studio rene 2,"9 Λαζάρου Σωχού, Tinos, 84200, Greece",,395.1969450318733,,,False,False,False,False,False,False,24.0,False,August,Tinos
+Fanta Sea Studio,"Μοσχονά, Tinos, 84200, Greece",3.0,432.0,,,False,False,False,False,True,False,75.0,False,August,Tinos
+NINEMIA CALM AND SPA,"ΚΙΟΝΙΑ ΤΗΝΟΣ, Kionia, 84200, Greece",,640.0,,,False,True,True,True,True,False,25.0,False,August,Tinos
+Petrosfamily4,"Τήνου, Agios Ioannis, 84200, Greece",,321.24107759613173,8.5, 8 ,False,False,False,False,True,False,,False,August,Tinos
+Marieta’s Home,"Τήνου, Agios Sostis, 84200, Greece",3.0,719.7674418604652,,,False,False,False,True,True,False,60.0,False,August,Tinos
+Sunset junior suites,"Όρμος Αγιος Ιωάννη, Agios Ioannis, 84200, Greece",,1624.2990654205607,9.4,23 ,False,False,False,True,True,True,60.0,True,August,Tinos
+Triantaros Artful Houses,"Τήνος, Triandáros, 84200, Greece",4.0,1508.8877062267163,,,False,False,False,True,True,False,97.0,False,August,Tinos
+Λεβάντα,"FeroChorio 1, Lichnaftia, 84200, Greece",,313.0,,,False,False,False,False,True,False,,True,August,Tinos
+Apano Vrysi Tinos 2,"Agiou Nikolaou, Tinos, 84200, Greece",,538.3177570093458,,,False,False,False,False,True,False,40.0,False,August,Tinos
+Lithos Luxury Suites,"Παραγγερια, Tinos, 84200, Greece",,1162.6168224299065,9.6,86 ,False,True,False,True,True,False,24.0,False,August,Tinos
+Altana Boutique Hotel,"Leoforos Stavrou- Kionion, Tinos, 84200, Greece",3.0,446.0,8.9,75 ,False,True,False,True,True,False,15.0,False,August,Tinos
+Alos Residence,"3rd Km eparhiaki odos Kampos - Kardiani, Agios Romanos, 84200, Greece",4.0,1400.0,10,2 ,False,False,False,False,True,False,108.0,False,August,Tinos
+Tinos Koralli,"Agios Fokas, Tinos, 84200, Greece",,721.4953271028037,9.7,42 ,False,False,False,True,True,True,31.0,False,August,Tinos
+En Tino Retreats - Sunshine Condos,"Agiou Ioanni 4, Tinos, 842 00, Greece",,409.751383056722,9.0,8 ,False,False,False,False,True,False,15.0,False,August,Tinos
+Axahas,"Falatados, Mési, 84200, Greece",3.0,534.0398586949277,9.8,15 ,False,False,False,True,True,False,45.0,False,August,Tinos
+Stavros Bay,"Stavros, Tinos, 84200, Greece",4.0,780.0,8.9,29 ,True,False,False,True,True,False,50.0,False,August,Tinos
+Volto,"Μυρσίνη, Mirsíni, 84200, Greece",,374.7663551401869,9.1,7 ,False,False,False,False,False,False,65.0,False,August,Tinos
+Stella Di Mare holiday house,"Άγιος Ιωάννης Πόρτο, Πρασίνη, Agios Ioannis, 84200, Greece",3.0,515.0,9.2,8 ,False,False,False,False,True,False,45.0,True,August,Tinos
+Akti Aegeou,"Paralia Laouti, Agios Sostis, 84200, Greece",,442.0560747663551,9.2,83 ,False,True,True,True,True,True,31.0,False,August,Tinos
+stone house in Kathlikaros,"Καθλικαρος, Τήνος,, Mési, 84200, Greece",,397.18045112781954,,,False,False,False,False,False,False,,False,August,Tinos
+Traditional Palia Mandra,"Falatados, Tinos, Mési, 84200, Greece",,518998.2803095443,8.6,14 ,False,False,False,True,False,False,65.0,True,August,Tinos
+Levantes Luxury Suites II,"Filatiou, Tinos 842 00, Greece, Tinos, 84200, Greece",,861.6822429906541,8.2, 13 ,True,False,False,False,False,False,24.0,False,August,Tinos
+2BR Fully Equiped Cottage Home - Near the Beach,"Agios Ioannis, Tinos, Agios Ioannis, 84200, Greece",,681.3084112149533,9.1,7 ,False,True,False,True,False,False,65.0,True,August,Tinos
+Aelia Mare Apartments Nr2,"Isternia, Istérnia, 22100, Greece",3.0,576.0,,,False,False,False,False,True,False,48.0,False,August,Tinos
+villaV,"Επαρχιακή Οδός Τριαντάρου-Φαλατάδου, Triandáros, 84200, Greece",,2108.504965673532,8.6,10 ,False,True,False,True,True,False,75.0,False,August,Tinos
+Θἔρως (Theros) house 3- Agios Fokas,"Άγιος Φωκάς, Agios Sostis, 84200, Greece",,882.2429906542055,9.9,15 ,False,False,False,True,True,False,69.0,False,August,Tinos
+ReGenesis Villas,"Kalyvia, Kardiani, Kardiani, 84201, Greece",3.0,1694.1860465116279,10,1 ,False,True,False,True,True,False,104.0,False,August,Tinos
+Andrew's Lodge 1 Tinos Town,"Agias Paraskevis 12, Tinos, 84200, Greece",3.0,657.680995475113,,,False,False,False,False,True,False,45.0,False,August,Tinos
+Villa Rosa-Maria,"Tinos, Tinos, 84200, Greece",,1431.7757009345794,9.2,6 ,False,False,False,True,True,False,200.0,True,August,Tinos
+Alonaki Tinos Rental Cottage house,"Επαρχιακή Οδός Τήνου, Skaládhos, 84200, Greece",,644.9776711324402,7.7,11 ,False,False,False,False,True,False,44.0,True,August,Tinos
+Anemologio 201 Tinos,"Tinos 0, Agios Ioannis, 84200, Greece",,376.6355140186916,,,False,False,False,False,True,False,40.0,False,August,Tinos
+Alice house,"ΣΤΕΝΗ ΤΗΝΟΥ, Stení, 84200, Greece",3.0,497.0,,,False,False,False,False,False,False,60.0,True,August,Tinos
+Oikia Petra,"Laouti, Agios Ioannis, 84200, Greece",4.0,823.1982500575639,10,4 ,False,False,False,True,True,False,40.0,False,August,Tinos
+Glafki Hotel Tinos,"Pánormos, Panormos, 84201, Greece",4.0,683.4586466165413,8.8,92 ,False,True,False,True,False,False,60.0,True,August,Tinos
+Under the Sun Cycladic Village,"Κοινότητας Υστερνίων, Δημοτικής Κοινότητας Εξωμβούργου, Δήμου Τήνου, Tinos, 84200, Greece",,1407.4766355140187,9.4,57 ,False,True,True,True,True,False,31.0,True,August,Tinos
+Magic Tinos Holiday House,"Μάρκου Κρικέλη, Tinos, 84200, Greece",3.0,662.7528731769609,9.1,19 ,False,False,False,False,True,False,65.0,False,August,Tinos
+Planitis lighthouse view,"Όρμος Πανόρμου, Panormos, 84200, Greece",,541.1214953271028,10,4 ,False,False,False,True,True,False,79.0,True,August,Tinos
+Cozy House in Tinos,"Καποδιστρίου, Tinos, 84200, Greece",3.0,1118.6046511627908,9.6,24 ,False,False,False,False,True,False,65.0,False,August,Tinos
+Levantes Luxury Suites I,"Filatiou, Tinos 842 00, Greece, Tinos, 84200, Greece",,861.6822429906541,7.9,15 ,True,False,False,False,False,False,19.0,False,August,Tinos
+Anna Home,"Επαρχιακή Οδός Τριαντάρου-Φαλατάδου, Triandáros, 84200, Greece",,738.1578947368421,10,1 ,False,False,False,True,True,False,110.0,True,August,Tinos
+Cycladic Fos - Entire 2BR villa w/ SeaView,"Trintaros, Tinos, Triandáros, 84200, Greece",3.0,1068.0555555555557,,,False,False,False,True,True,False,103.0,False,August,Tinos
+Pension Selenti,"Gkizi, Tinos, 84200, Greece",3.0,385.28678304239406,8.3, 91 ,False,False,False,True,True,False,20.0,False,August,Tinos
+Cozy City,"6 Γερόνυμου, Tinos, 84200, Greece",,801.8691588785047,9.2,34 ,True,False,False,False,False,False,44.0,False,August,Tinos
+Aelia Mare Penthouse,"Υστέρνια, Istérnia, 22100, Greece",4.0,719.7674418604652,,,False,False,False,False,True,False,49.0,False,August,Tinos
+Apano Vrysi Tinos 3,"Agiou Nikolaou, Tinos, 84200, Greece",3.0,585.0,,,False,False,False,False,True,False,40.0,False,August,Tinos
+K-Homes Superior double,"Iroon Polytechniou tinos 1, Tinos, 84200, Greece",3.0,504.0,9.1,12 ,False,False,False,True,True,False,20.0,False,August,Tinos
+Bluetopia 3,"37.563910, Dhío Khoría, 84200, Greece",,721.4953271028037,,,False,False,False,False,False,False,40.0,False,August,Tinos
+Balcony to the Aegean,"Steni Tinos, Stení, 84200, Greece",3.0,598.0735304495096,10,17 ,False,False,False,True,True,False,78.0,True,August,Tinos
+Villa Prasini,"Τήνου, Agios Sostis, 84200, Greece",,1370.138888888889,9.7,3 ,False,True,False,False,True,False,55.0,False,August,Tinos
+Elayio Old Town,"10 Ευαγγελίστριας, Tinos, 84200, Greece",4.0,688.8888888888889,9.6,10 ,False,False,False,False,True,False,20.0,False,August,Tinos
+Two Luxury apartments in a Stonehouse in the old Heart of Tinos Town,"Malamatenias, Tinos, 84200, Greece",,641.1214953271028,7.7,3 ,False,False,False,True,False,False,65.0,True,August,Tinos
+Alento Apartments,"17 Navarchou Panetiou, Tinos, 84200, Greece",,673.0,8.6,8 ,False,False,False,True,False,False,120.0,False,August,Tinos
+Beyond the tree,"Επαρχιακή Οδός Τήνου-Καλλονής, Kionia, 84200, Greece",,986.9158878504672,10,2 ,False,False,False,True,False,False,49.0,False,August,Tinos
+Central Tinos Island Maisonette,"ΦΙΛΙΠΠΟΥΣΗ Ι. 8, Tinos, 84200, Greece",,1402.0833333333335,9.7,3 ,False,False,False,True,False,False,130.0,False,August,Tinos
+Bluetopia 2,"37.563995, 25.196442, Dhío Khoría, 84200, Greece",3.0,1018.6046511627907,,,False,False,False,False,False,False,60.0,False,August,Tinos
+Porto Galini Tinos Myrsini 106,"tinos, Agios Ioannis, 84200, Greece",,850.4672897196261,,,False,False,False,False,True,False,60.0,False,August,Tinos
+Agreli hora,"Τριών Ιεραρχών, Tinos, 84200, Greece",,569.0995134306472,8.8,18 ,False,False,False,False,False,False,30.0,False,August,Tinos
+House on the rocks in Malli beach,"ΜΑΛΛΙ ΤΗΝΟΣ, Mamádhos, 84200, Greece",3.0,602.3370941745337,,,False,False,False,True,True,False,60.0,False,August,Tinos
+Violet house Agios Sostis,"Agios Sostis, Agios Sostis, 84200, Greece",3.0,551.2764113843898,7.9,7 ,True,False,False,False,True,False,32.0,False,August,Tinos
+Komis Crown - Luxury Apartments,"Επαρχιακή Οδός Τριπόταμου-Καλλονής, Monastíria, 84200, Greece",4.0,841262.61829653,,,False,False,False,True,True,False,66.0,False,August,Tinos
+Tinos Central Perfection,"26 Trion Ierarchon, Tinos, 84200, Greece",3.0,1214.0705192294874,9.7,3 ,False,False,False,True,False,False,100.0,True,August,Tinos
+Belle Manas,"Unnamed Road, Tinos, 84200, Greece",3.0,561.1111111111111,8.7,7 ,False,False,False,True,True,False,100.0,False,August,Tinos
+Platanos Cycladic house,"Pyrgos Tinos, Panormos, 84200, Greece",3.0,748.6607142857142,,,False,False,False,False,False,False,75.0,True,August,Tinos
+Cozy Home 2,"ΒΙΤΑΛΗ ΑΔΕΛΦΩΝ, Tinos, 84200, Greece",,641.1214953271028,9.7,6 ,False,False,False,False,False,False,43.0,False,August,Tinos
+Aesthetic View Apartments,"Επαρχιακή Οδός Λιμάνι Τήνου-Τριπόταμου, Arnados, 84200, Greece",4.0,1240.0,10,3 ,False,False,False,True,True,False,90.0,True,August,Tinos
+En Plo,"Agios Romanos, Agios Romanos, 84200, Greece",,528.9719626168225,9.2,88 ,False,True,True,True,True,False,30.0,True,August,Tinos
+K - Homes,"Agios Fokas, Tinos, 84200, Greece",4.0,1009.7222222222223,9.7,4 ,False,False,False,True,True,False,70.0,False,August,Tinos
+Byron's house,"υστερνια, Istérnia, 84201, Greece",,635.5140186915887,,,False,False,False,True,False,False,74.0,False,August,Tinos
+Apano Vrysi Tinos 4,"Agiou Nikolaou, Tinos, 84200, Greece",3.0,532.0,,,False,False,False,False,True,False,55.0,False,August,Tinos
+Tinos E-houses,"Dyo Choria, Triandáros, 84200, Greece",4.0,2162.0,9.4,18 ,False,True,False,True,True,True,120.0,False,August,Tinos
+Family holiday home 'Arokaria',"Skalados, Skaládhos, 84200, Greece",3.0,484.0,,,False,False,False,True,True,False,98.0,False,August,Tinos
+Standing Stone,"Kionia, Kionia, 84200, Greece",3.0,359.30232558139534,9.1,21 ,False,False,False,True,True,False,27.0,False,August,Tinos
+Petros Family,"ΑΓΙΟΣ ΙΩΑΝΝΗΣ ΠΌΡΤΟ Αγιος Ιωάννης Πόρτο τηνος, Agios Ioannis, 84200, Greece",,381.30841121495325,8.8,4 ,False,False,False,True,True,False,,False,August,Tinos
+Andrew's Lodge 3 Tinos Town,"Agias Paraskevis 12, Tinos, 84200, Greece",3.0,3233.0,8.0, 1 ,False,False,False,False,True,False,30.0,False,August,Tinos
+villa Artemis in Triantaros Tinos,"Triantaros village Tinos island, Triandáros, 84200, Greece",,1190.6542056074766,,,False,False,False,True,True,False,120.0,False,August,Tinos
+Kleri's apartments 6,"4 Ναυάρχου Μιαούλη, Tinos, 84200, Greece",3.0,648.0,9.0,5 ,False,False,False,True,True,False,28.0,False,August,Tinos
+Anemologio 301 Tinos,"Tinos 0, Agios Ioannis, 84200, Greece",4.0,636.1607142857142,,,False,False,False,False,True,False,75.0,False,August,Tinos
+Tinos deluxe home,"Leoforos Stavrou Kionion, Tinos, 84200, Greece",3.0,600.0,9.0,7 ,False,False,False,True,True,False,53.0,False,August,Tinos
+Ninemia Suites Tinos Grand 204,"Aghiou Fotodoti 6, Kionia, 84200, Greece",3.0,951.0,,,False,True,False,False,True,False,45.0,False,August,Tinos
+Tinos Blend Suites,"Agia Varvara Tinos, Agios Sostis, 84200, Greece",,1283.177570093458,9.7,27 ,False,True,False,False,True,False,48.0,False,August,Tinos
+Ormos Giannaki Great Sea View,"Δεν υπάρχει Δεν υπάρχει, Mamádhos, 84201, Greece",,1025.9398496240601,,,False,False,False,False,True,False,75.0,True,August,Tinos
+Evilion traditional house,"επαρχιακη οδος Τριανταρος, Triandáros, 84200, Greece",4.0,1265.0,9.5,2 ,False,False,False,True,False,False,125.0,True,August,Tinos
+Enalion residences,"Αγίας Παρασκευής, Tinos, 84200, Greece",,558.8610963278339,8.3, 3 ,False,False,False,True,True,False,55.0,True,August,Tinos
+Andrew's Lodge 2 Tinos Town,"Agias Paraskevis 12, Tinos, 84200, Greece",,528.0373831775701,,,False,False,False,False,True,False,44.0,False,August,Tinos
+Kleri's apartments 4,"4 Ναυάρχου Μιαούλη, Tinos, 84200, Greece",,863.8888888888889,9.3,3 ,False,False,False,True,True,False,45.0,False,August,Tinos
+Infinity Blue Tinos,"ΤΗΝΟΣ, Agios Ioannis, 84200, Greece",3.0,592.2979507253051,8.6,5 ,False,False,False,False,True,False,53.0,False,August,Tinos
+"Rose n Stone, Prince, Luxury Houses","18 Λεωφόρος Αλαβάνου όροφος 2ος, Tinos, 84200, Greece",4.0,547.0,10,12 ,False,False,False,True,True,False,40.0,False,August,Tinos
+Tranquil cottage,"Άγιος Σώστης Βακέτα, Agios Sostis, 84200, Greece",3.0,440.08508302456426,9.6,10 ,False,False,False,True,True,False,45.0,False,August,Tinos
+Kamara,"Αleksandrou Lagourou 3, Tinos, 84200, Greece",3.0,358.0,7.4,10 ,False,False,False,True,True,False,15.0,False,August,Tinos
+"Rose n Stone, King, Luxury Houses","18 Λεωφόρος Αλαβάνου 2os όροφος,διαμέρισμα King, Tinos, 84200, Greece",,613.0841121495326,9.6,13 ,False,False,False,True,True,False,43.0,False,August,Tinos
+Palia Mandra Cycladic Art,"Falatados, Tinos, Mési, 84200, Greece",3.0,518.0059866451761,9.2,13 ,False,False,False,False,True,False,45.0,True,August,Tinos
+Nisiotiko house in Tinos near the beach,"Agios Ioannis - Porto, Agios Ioannis, 84200, Greece",4.0,419.445701357466,10,1 ,False,False,False,True,True,False,20.0,False,August,Tinos
+Villa Ioanna - Vacation Houses for rent close to the beach,"Vourni, 75, Kionia, 84200, Greece",3.0,532.0,8.0, 5 ,False,False,False,False,True,False,45.0,True,August,Tinos
+Kapsalos Villas,"Κάψαλος, Άγιος Ρωμανός Tinos, Agios Romanos, 84200, Greece",4.0,1800.0,8.2, 4 ,False,False,True,True,True,True,110.0,True,August,Tinos
+kleris apartments 8,"ΓΥΡΛΑ, Tinos, 84200, Greece",3.0,595.1388888888889,,,False,False,False,True,True,False,25.0,True,August,Tinos
+Flisvos Apartments,"Trion Ierarchon 2, Tinos, 84200, Greece",,500.93457943925233,9.3,146 ,False,False,False,True,True,False,18.0,False,August,Tinos
+Ninemia Suites Tinos Superior 202,"Aghiou Fotodoti 6, Kionia, 84200, Greece",,757.9439252336448,,,False,True,False,False,True,False,24.0,False,August,Tinos
+Porto Galini Tinos Karya 102,"tinos , Agios Ioannis, 84200, Greece",3.0,645.1388888888889,,,False,False,False,False,True,False,50.0,False,August,Tinos
+Private paradise with stunning view,"Επαρχιακή Οδός Ιστέρνιας-Όρμου Ιστερνίων, Istérnia, 84201, Greece",4.0,998.8372093023256,,,False,False,False,True,True,False,159.0,False,August,Tinos
+Marios' Suite,"6 Γερόνυμου, Tinos, 84200, Greece",,521.4953271028037,7.1,19 ,False,False,False,True,False,False,49.0,True,August,Tinos
+TINOS AQUA PALAZZO,"ΡΗΓΑ ΦΕΡΑΙΟΥ ΤΗΝΟΣ ΚΤΗΡΙΟ, Tinos, 84200, Greece",,0.0,9.1,7 ,True,False,True,False,False,True,,False,August,Tinos
+Kleri's apartments 1,"4 Ναυάρχου Μιαούλη, Tinos, 84200, Greece",3.0,648.0,9.0,3 ,False,False,False,True,True,False,25.0,False,August,Tinos
+Tinos Suites & Apartments,"Agios Ioannis Porto Tinos/Παραλία Aγίας Κυριακής Άγιος Ιωάννης Πόρτο,Τήνος, Agios Ioannis, 84200, Greece",3.0,420.83333333333337,10,1 ,False,False,False,True,True,False,20.0,False,August,Tinos
+agreli holiday house,"δεραφια βανη, Arnados, 84200, Greece",,1201.388888888889,9.3,3 ,False,False,False,False,True,False,45.0,True,August,Tinos
+Tina & Miltos,"Karia Tinos, Kariá, 84200, Greece",,578.0,9.7,3 ,False,False,False,True,False,False,100.0,True,August,Tinos
+The Nest,"Dyo Choria  Tinos, Triandáros, 84200, Greece",3.0,690.0,9.0,7 ,False,False,False,True,False,False,53.0,True,August,Tinos
+New Luxury House in Tinos,"Αγίας Παρασκευής 0 Ισόγειο, Tinos, 84200, Greece",3.0,746.5277777777778,9.7,4 ,False,False,False,True,True,False,90.0,False,August,Tinos
+Triantaros Familly House,"ΤΡΙΑΝΤΑΡΟΣ, Triandáros, 84200, Greece",,788.7850467289719,8.4, 13 ,False,False,False,True,True,False,90.0,True,August,Tinos
+Niki’s house,"tinos cyclades, Tinos, 84200, Greece",,721.4953271028037,,,False,False,False,False,False,False,95.0,True,August,Tinos
+Casa Eutopia,"Agios Romanos, Tinos, Agios Romanos, 84200, Greece",4.0,2719.6380090497737,9.7,6 ,False,True,True,False,True,False,115.0,False,August,Tinos
+Epsilon Villa,"Tinos Town, Tinos, 84200, Greece",,2128.971962616822,,,False,True,False,True,True,False,260.0,False,August,Tinos
+Villa Nefeli Tinos,"Επαρχιακή Οδός Τριαντάρου-Φαλατάδου, Triandáros, 84200, Greece",4.0,1368.0,,,False,False,False,True,True,False,170.0,True,August,Tinos
+Θἔρως (Theros) house 2 - Agios Fokas,"Άγιος Φωκάς, Τήνος, Agios Sostis, 84200, Greece",4.0,934.1517857142857,9.5,4 ,False,False,False,True,True,False,77.0,False,August,Tinos
+Villa Anemona Tinos,"Επαρχιακή Οδός Τήνου-Καλλονής, Kalloni Tinou, 84200, Greece",3.0,1036.6071428571427,9.8,6 ,False,False,False,True,True,False,125.0,False,August,Tinos
+Flisvos Apartments,"Trion Ierarchon 2, Tinos, 84200, Greece",,500.93457943925233,9.3,146 ,False,False,False,True,True,False,18.0,False,August,Tinos
+Boussetil Apartment,"Tinos, Tinos, 84200, Greece",3.0,774.0,7.8,11 ,False,False,False,True,True,False,50.0,True,August,Tinos
+Tinos Olive Mill House,"Κτικάδος, Khatzirádhos, 84200, Greece",,1942.9906542056074,,,False,False,False,True,False,False,219.0,True,August,Tinos
+Studio Elisabeth,"Skiladar, Agios Ioannis, 84800, Greece",3.0,540.9722222222223,9.5,108 ,False,False,False,True,True,False,35.0,True,August,Tinos
+K Homes-Family Stone Suite,"Iroon Polytechniou tinos 1, Tinos, 84200, Greece",4.0,900.0,9.9,15 ,False,False,False,True,True,False,45.0,False,August,Tinos
+Ninemia Suites Tinos Grand 203,"Aghiou Fotodoti 6, Kionia, 84200, Greece",,953.2710280373831,,,False,True,False,False,True,False,44.0,False,August,Tinos
+alemár,"Iroon Politechniou, Agios Fokas, Tinos, 84200, Greece",,1002.8037383177569,9.7,119 ,False,False,True,True,True,True,,False,August,Tinos
+"Fouli's House at ""Porto Vlastos""","ΑΓ.ΙΩΑΝΝΗΣ, Agios Ioannis, 84200, Greece",,1000.0,9.3,3 ,False,False,False,True,True,False,65.0,False,August,Tinos
+Aelia Mare Apartments Nr1,"Isternia, Istérnia, 22100, Greece",3.0,577.9017857142857,,,False,False,False,False,True,False,48.0,False,August,Tinos
+Iliopetra residence - 5BR Villa in Agios Romanos,"Agios Romanos, Tinos, Agios Romanos, 84200, Greece",4.0,1872.0,,,False,False,False,False,True,False,145.0,False,August,Tinos
+Stone house Anemos,"Τήνου Αγιος Ιωαννης , Πορτο, Agios Ioannis, 84200, Greece",,521.4953271028037,9.0,2 ,False,False,False,True,True,False,65.0,True,August,Tinos
+ArtHome1,"Panormos  Tinos, Panormos, 84201, Greece",,397.19626168224295,7.4,13 ,False,False,False,True,True,False,60.0,True,August,Tinos
+Porto Galini Tinos Perastra 103,"TINOS, Agios Ioannis, 84200, Greece",4.0,1271.2468193384223,,,False,False,False,False,True,False,75.0,False,August,Tinos
+"Modern new Villa,amazing Aegean view","Επαρχιακή Οδός Τριαντάρου-Φαλατάδου, Triandáros, 84200, Greece",4.0,1107.3660714285713,9.7,4 ,False,False,False,False,True,False,120.0,False,August,Tinos
+"CHARMING 2BR Hilltop Serenity Suite, Lively Greek Village","Δύο Χωριά, Triandáros, 84200, Greece",,982.2429906542055,10,2 ,False,False,False,False,True,False,69.0,False,August,Tinos
+Anoi House by the sea Tinos,"Βρέκαστρο, Agios Sostis, 84200, Greece",4.0,720.9876543209876,,,False,False,False,True,True,False,75.0,True,August,Tinos
+Beautiful house near the sea,"Τήνος παραλία αποθηκες, Kollimpithra, 84200, Greece",3.0,992.4107142857142,9.0,3 ,False,False,False,True,True,False,83.0,False,August,Tinos
+Sunset's Hatch,"fanerwmenis, Panormos, 72200, Greece",,440.27777777777777,8.0, 7 ,False,False,False,False,True,False,40.0,True,August,Tinos
+Tinostra Casa,"Άγιος Ρωμανός, Τήνος, Agios Romanos, 84200, Greece",4.0,1616.267556988257,8.0, 1 ,False,True,False,True,True,False,30.0,False,August,Tinos
+La Chapelle Est and Ouest in Tinos,"Agiou gergiou 1, Agios Romanos 84200, Greece, Agios Romanos, 84200, Greece",,3245.7943925233644,10,1 ,True,False,False,False,True,False,219.0,False,August,Tinos
+GL Villa,"Tinou Dialiskari, Vourni, Agios Romanos, 16673, Greece",4.0,4800.0,9.0,3 ,False,True,False,True,True,True,200.0,False,August,Tinos
+Romano garden house - land tales,"Agios Romanos, Tinos, Agios Romanos, 84200, Greece",4.0,889.3306963797454,8.8,4 ,False,False,False,True,True,False,120.0,True,August,Tinos
+family home,"Επαρχιακή Οδός Τήνου-Καλλονής, Kalloni Tinou, 84200, Greece",,1037.3831775700935,9.5,22 ,False,False,True,True,False,False,90.0,False,August,Tinos
+La Chapelle Ouest in Tinos,"Agiou Georgiou 1, Agios Romanos 84200, Greece, Agios Romanos, 84200, Greece",4.0,1489.7398190045249,7.0,2 ,True,False,False,False,True,False,100.0,False,August,Tinos
+Mare Nostrum,"ΟΡΜΟΣ ΥΣΤΕΡΝΙΩΝ ΤΗΝΟΣ ΔΙΑΜΕΡΙΣΜΑ 1ος Όροφος, Istérnia, 84200, Greece",3.0,476.0,9.9,8 ,False,False,False,True,False,False,30.0,False,August,Tinos
+Κυκλαδίτικο Διαμέρισμα στα Κιόνια,"Κιονια, Τήνος, Kionia, 84200, Greece",,500.93457943925233,,,False,False,False,False,True,False,,True,August,Tinos
+Villa theassis,"Επαρχιακή Οδός Τριαντάρου-Φαλατάδου, Arnados, 84200, Greece",4.0,1118.5294117647059,8.5, 2 ,False,False,False,True,True,False,110.0,False,August,Tinos
+Xerolithia suites,"Agia varvara tinos, Agios Sostis, 84200, Greece",,1764.485981308411,,,False,True,True,True,True,False,54.0,False,August,Tinos
+Παραδοσιακό Σπίτι στον Πύργο,"Unnamed Road, Panormos, 84201, Greece",,690.1785714285713,10,3 ,False,False,False,True,False,False,70.0,False,August,Tinos
+The Detailor - Tinos House,"Exomvourgo Tinos, Agios Romanos, 84200, Greece",4.0,3007.4766355140187,10,1 ,True,False,False,True,True,False,140.0,True,August,Tinos
+Crossroads Inn Traditional Lodging,"Tripotamos , Tripótamos, 84200, Greece",,664.4859813084112,8.9,13 ,False,False,False,True,True,False,30.0,False,August,Tinos
+Aeolus studio,"κεντρο σκαλαδος Σκαλαδος, Skaládhos, 84200, Greece",3.0,401.3623978201635,8.3, 19 ,False,False,False,False,False,False,25.0,False,August,Tinos
+Menmar House Tinos,"Τήνου, Agios Sostis, 84200, Greece",,641.1214953271028,,,False,False,False,False,True,False,74.0,True,August,Tinos
+Classic seaside apartment in Tinos,"Άγιος Ιωάννης,Τήνος, Agios Ioannis, 84200, Greece",,360.74766355140184,,,False,False,False,True,True,False,,False,August,Tinos
+Panormos Villa Tinos Greece - Traditional House,"Ormos Panormou, Greece, Panormos, 84201, Greece",4.0,1373.3248906285978,9.6,5 ,False,False,False,True,True,False,85.0,False,August,Tinos
+Xinara House,"Xinara House Xinara, Tripótamos, 84200, Greece",4.0,5808.333333333334,10,1 ,False,False,False,True,False,False,360.0,False,August,Tinos
+''Cactus'' Traditional house,"Volax, Vólax, 84200, Greece",,592.0,9.0,1 ,False,False,False,False,True,False,68.0,False,August,Tinos
+Saffron Boutique,"Eparchiaki Odos Tripotamou-Kallonis, Krokos, 84200, Greece",,1047.6635514018692,9.2,5 ,False,False,False,True,False,False,35.0,False,August,Tinos
+Private Heated Pool Palia Mandra,"Falatados Tinos, Mési, 84200, Greece",,1122.429906542056,8.0, 1 ,False,True,True,False,True,False,40.0,True,August,Tinos
+Light Blue Sky,"Τήνου Όροφος, Agios Sostis, Greece",,1202.803738317757,8.6,18 ,False,False,False,True,True,False,69.0,True,August,Tinos
+The Sunrise Villa,"Balos Beach, Koumáros, 84200, Greece",,1403.7383177570093,8.5, 2 ,False,False,False,True,True,False,150.0,True,August,Tinos
+Lucia's luxury house in Agios Sostis,"Άγιος Σώστης, Agios Sostis, 84200, Greece",,997.924427887174,7.5,2 ,False,False,True,True,False,False,100.0,False,August,Tinos
+Beauty of Sunset in Tinos 3,"Υστέρνια Τήνου, Istérnia, 84201, Greece",4.0,1181.0,9.0,1 ,False,False,False,True,True,False,60.0,True,August,Tinos
+F & B Island Collection - Tinos Blue #A,"12 Αγίας Παρασκευής, Tinos, 84200, Greece",,511.0,7.4,11 ,False,False,False,False,True,False,19.0,False,August,Tinos
+ArtHome0A,"37°38'19.6""N 25°02'35.9""E 37.638789, 25.043311 appartment 0A, floor 0, Panormos, Greece",3.0,364.58333333333337,9.0,5 ,False,False,False,True,True,False,40.0,True,August,Tinos
+Blacksmiths,"Leoforos Tripotamou Xinara, Tripótamos, 84200, Greece",,1360.7476635514017,,,False,False,False,False,True,False,62.0,False,August,Tinos
+Cellar Falatados,"Falatados Tinos, Mési, 84200, Greece",,298.8122171945701,,,True,False,True,True,True,False,50.0,True,August,Tinos
+Tinos Portraits,"Ballos Beach, Agios Romanos, 84200, Greece",,1912.1495327102803,,,False,False,False,True,True,False,99.0,False,August,Tinos
+Borgo Majoca - Μονοκατοικία σε κυκλαδίτικο νησί,"Επαρχιακή Οδός Μέσης-Τριπόταμου, Mési, 84200, Greece",,833.7318750346867,10,2 ,False,False,False,False,True,False,,False,August,Tinos
+Aeolus studio,"κεντρο σκαλαδος Σκαλαδος, Skaládhos, 84200, Greece",3.0,398.45208285909405,8.3, 19 ,False,False,False,False,False,False,25.0,False,August,Tinos
+Mileia Villa Tinos,"Ormos Isternion Tinos Island, Istérnia, 84201, Greece",,6094.392523364486,,,False,True,False,False,True,False,425.0,True,August,Tinos
+Carmela,"Vournis Spiti, Kionia, 84200, Greece",,1503.7383177570093,9.0,2 ,False,False,False,True,True,False,115.0,True,August,Tinos
+Sea and Sun Villa,"Paralia Balos, Agios Romanos, 84200, Greece",,1122.429906542056,7.8,6 ,False,False,False,True,True,False,115.0,True,August,Tinos
+THE FF HOUSE,"ΦΑΛΑΤΑΔΟΣ ΤΗΝΟΥ ΚΥΚΛΑΔΩΝ, Mési, 84200, Greece",,2589.5348837209303,,,False,False,False,False,True,False,154.0,True,August,Tinos
+Ninemia Suites Tinos Superior 201,"Aghiou Fotodoti 6, Kionia, 84200, Greece",3.0,756.0,,,False,True,False,False,True,False,25.0,False,August,Tinos
+Volta Kalloni - Kalloni village Tinos,"Επαρχιακή Οδός Τήνου-Καλλονής, Kalloni Tinou, 84200, Greece",3.0,3339.0,9.7,8 ,False,False,False,True,True,False,55.0,False,August,Tinos
+Ninemia Suites Tinos Grand 104,"Aghiou Fotodoti 6, Kionia, 84200, Greece",,845.7943925233644,,,False,True,False,False,True,False,44.0,False,August,Tinos
+Ninemia Suites Tinos Grand 205,"Aghiou Fotodoti 6, Kionia, 84200, Greece",3.0,229574.76635514016,,,False,True,False,False,True,False,45.0,False,August,Tinos
+4TWaves Downtown House - Entire central apartment,"Sochou, Tinos, 84200, Greece",,638.3177570093458,8.5, 2 ,False,False,False,False,False,False,57.0,False,August,Tinos
+Levantes Luxury suites I II,"Filatiou  , Tinos 842 00, Greece, Tinos, 84200, Greece",,1596.2616822429907,9.0,1 ,True,False,False,False,False,False,44.0,False,August,Tinos
+Santa's house,"Λάμπρου Κατσώνη 2, Tinos, 84200, Greece",3.0,662.0,,,False,False,False,True,False,False,60.0,True,August,Tinos
+J&A Summer House ΤΗΝΟΣ,"Στενή Τήνος, Stení, 84200, Greece",,432.0,,,False,False,True,True,True,False,50.0,True,August,Tinos
+Deep Blue Tinos Summer House,"Tinos island, Kionia, 842 00, Greece",4.0,2086.0,,,False,False,False,True,True,False,125.0,True,August,Tinos
+K Homes-Family Stone Suite,"Iroon Polytechniou tinos 1, Tinos, 84200, Greece",,901.8691588785047,9.9,15 ,False,False,False,True,True,False,44.0,False,August,Tinos
+Κυκλαδίτικο Διαμέρισμα,"Κιόνια, Kionia, 84200, Greece",,500.93457943925233,,,False,False,False,False,True,False,,True,August,Tinos
+Royal-Ma Resort,"Lia, Perástra, 84200, Greece",,1062.6168224299065,,,False,True,False,True,True,False,24.0,False,August,Tinos
+Porto Galini Tinos Tzados 107,"ΤΗΝΟΣ, Agios Ioannis, 84200, Greece",3.0,649.0,,,False,False,False,False,True,False,30.0,False,August,Tinos
+Carpe diem Tinos,"tinos cyclades, Agios Sostis, 84200, Greece",,681.3084112149533,,,False,False,False,False,True,False,40.0,False,August,Tinos
+Blue Balcony/SkyView in Tinos - 3BR Home in Arnados,"Arnados Tinos, Arnados, 84200, Greece",,1061.8055555555557,,,False,False,False,False,True,False,,True,August,Tinos
+Karyatides Apartments,"unnamed road, Kariá, 84200, Greece",3.0,560.0,8.2, 4 ,False,False,False,True,True,False,50.0,False,August,Tinos
+Porto Galini Tinos Volax 101,"tinos , Agios Ioannis, 84200, Greece",3.0,645.9821428571428,,,False,False,False,False,True,False,50.0,False,August,Tinos
+Valentina's house - Kalloni Karkados Village,"karkados kalloni tinos, Kalloni Tinou, 84200, Greece",3.0,472.0,,,False,False,False,True,True,False,90.0,False,August,Tinos
+Sunflower Tinos House,"Υστέρνια, Istérnia, 84200, Greece",3.0,364917.75700934575,,,False,False,False,True,True,False,140.0,True,August,Tinos
+Camelia House - Triandaros,"triandaros, Arnados, 84200, Greece",,0.0,7.5,2 ,True,False,False,False,True,False,,False,August,Tinos
+Pallada Apartments,"Παλλάδος, Tinos, 84200, Greece",3.0,379.86111111111114,9.3,15 ,False,False,False,True,False,False,35.0,True,August,Tinos
+Spacious apartment with view and garden for kids!,"Eparchiaki Odos Tinou-Ormou Agiou Ioannis, Tinos, 84200, Greece",4.0,645.1388888888889,,,False,False,False,True,True,False,120.0,True,August,Tinos
+Dream Cave Villa,"Λια τηνος 1, Agios Sostis, 84200, Greece",,1325.0,,,False,False,False,False,True,False,150.0,False,August,Tinos
+Galatea House first floor,"Kato klisma, Tinos, 84200, Greece",4.0,662.0,,,False,False,False,False,False,False,97.0,True,August,Tinos
+Anemologio 302 Tinos,"Tinos 0, Agios Ioannis, 84200, Greece",3.0,633.3144796380091,,,False,False,False,False,True,False,75.0,False,August,Tinos
+Anemologio 203 Tinos,"Tinos 0, Agios Ioannis, 84200, Greece",4.0,531.3953488372093,,,False,False,False,False,True,False,49.0,False,August,Tinos
+Parathyro Sto Aigaio 1,"Lintaria, Tinos, 84200, Greece",3.0,642.0,9.2,134 ,True,False,False,True,True,False,45.0,True,August,Tinos
+Anemologio 204 Tinos,"Tinos 0, Agios Ioannis, 84200, Greece",4.0,376.0,,,False,False,False,False,True,False,50.0,False,August,Tinos
+Anemologio 101 Tinos,"Tinos 0, Agios Ioannis, 84200, Greece",4.0,633.7209302325582,,,False,False,False,False,True,False,74.0,False,August,Tinos
+La Chapelle Ouest Guest Suite in Tinos,"Agiou Georgiou 1, Tinos 84200, Greece, Agios Romanos, 84200, Greece",,2809.345794392523,,,True,False,False,False,True,False,150.0,False,August,Tinos
+Kardiani Village Home,"Kardiani, Kardiani, 84200, Greece",3.0,505.5803571428571,,,False,False,False,True,False,False,48.0,False,August,Tinos
+Xinara's White House,"Xinara, Tinos, Tripótamos, 84200, Greece",,354.3640897755611,,,False,False,False,False,False,False,55.0,True,August,Tinos
+Cherry Tomato - Traditional village home near beach,"Komi, Kómi, 84200, Greece",3.0,509.85926230883,,,False,False,False,False,False,False,84.0,True,August,Tinos
+Cycladic Dream Villas,"Eparchiaki Odos Tinou-Ormou Agiou Ioannis 0, Tinos, 84200, Greece",,1202.803738317757,,,False,False,False,True,True,False,120.0,True,August,Tinos
+Maison Petra,"Agios Peteos, Tinos, 84200, Greece",,1440.0,,,False,False,False,False,True,False,60.0,False,August,Tinos
+Alani house,"37 Τριών Ιεραρχών Ισόγειο, Tinos, 84200, Greece",,901.8691588785047,,,False,False,False,False,False,False,74.0,False,August,Tinos
+Bluetopia 1,"37.564081, 25.196338, Dhío Khoría, 84200, Greece",,1052.3364485981308,,,False,False,False,False,False,False,79.0,False,August,Tinos
+KaYa Tinos Luxury Villa - Helios,"Agios Romanos, Agios Romanos, 84200, Greece",4.0,2800.0,,,False,True,False,True,True,False,70.0,False,August,Tinos
+KaYa Tinos Luxury Villa - Aeolus,"Άγιος Ρωμανός, Τήνος, Agios Romanos, 84200, Greece",4.0,2819.260954420387,,,False,True,False,True,True,False,82.0,False,August,Tinos
+Niriides rooms,"κιονια 51, Kionia, 84200, Greece",,521.4953271028037,10,8 ,False,False,False,False,True,False,24.0,False,August,Tinos
+Villa Osiris in Tinos island,"Επαρχιακή Οδός Λιμάνι Τήνου-Τριπόταμου, Kariá, 84200, Greece",,1977.906976744186,10,1 ,False,False,False,False,True,False,140.0,True,August,Tinos

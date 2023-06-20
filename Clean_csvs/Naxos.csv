@@ -1,0 +1,488 @@
+name,location,stars,amount_conv,Rating,NumReviews,Airport,Pool,Breakfast,Family_Rooms,Parking,Restaurant,size_m2,Pets,Month,Location
+Polis of Naxos Stylish Suites,"ΧΩΡΑ ΝΑΞΟΣ, Naxos Chora, 84300, Greece",3.0,1541.1471321695763,9.0,26 ,True,False,False,True,False,False,20.0,False,July,Naxos
+Gaitani apartments plaka naxos,"ORKOS, Mikri Vigla, 84304, Greece",3.0,734.0,8.6,37 ,False,False,False,True,True,False,35.0,False,July,Naxos
+Naxos Palace Hotel,"Main Street, Stelida, 84300, Greece",4.0,679.4392523364486,7.0,211 ,True,False,False,True,True,False,27.0,True,July,Naxos
+Golden Sun Hotel,"Stelida, Stelida, 84300, Greece",,998.1308411214952,8.9,260 ,True,False,True,True,True,True,30.0,False,July,Naxos
+Kavuras Village,"Agios Prokopios, Agios Prokopios, 84300, Greece",4.0,1168.0555555555557,8.3, 51 ,False,True,True,True,True,True,20.0,False,July,Naxos
+Orkos Beach Hotel,"Main Street, Mikri Vigla, 84300, Greece",2.0,1096.0,8.8,163 ,False,True,False,True,True,False,20.0,False,July,Naxos
+Irida Luxury Apartments,"Kastraki, Kastraki, 84300, Greece",3.0,2519.0,9.4,243 ,True,True,True,True,True,False,34.0,True,July,Naxos
+Marine Dream,"Plaka Beach, Plaka, 84300, Greece",3.0,1401.0,8.7,89 ,True,False,True,True,True,False,25.0,False,July,Naxos
+Naxos Filoxenia Hotel,"Evagellou D. Michelopoulou str,, Galini, 84300, Greece",3.0,1010.4651162790698,9.2,79 ,False,False,False,True,True,False,24.0,False,July,Naxos
+Argo Boutique Hotel,"Kinidaros Street, Naxos Chora, 84 300, Greece",4.0,2095.0495049504952,8.6,"1,127 ",True,True,True,False,True,False,35.0,False,July,Naxos
+koronos village apartments,"Κόρωνος Νάξου Κόρωνος Νάξου, Kóronos, 84302, Greece",,1082.2429906542056,9.3,12 ,False,False,False,False,True,False,99.0,False,July,Naxos
+Sea & Olives Suites Hotel and Villas,"Maragkas Plaka Naxos, Kalamouria, Plaka, 84300, Greece",4.0,2559.598214285714,9.6,86 ,True,False,False,True,True,False,90.0,False,July,Naxos
+Cosmos Boutique Hotel,"Plaka Beach, Plaka, 84300, Greece",,7131.0,9.5,71 ,False,True,True,True,True,True,120.0,False,July,Naxos
+Iphimedeia Luxury Hotel & Suites,"Saint George Airport Road, Naxos Chora, 84300, Greece",4.0,2463.9588688946014,9.6,192 ,True,True,True,True,True,False,40.0,False,July,Naxos
+Kouros,"Main Street, Apollon, 84301, Greece",,0.0,8.7,155 ,False,False,False,False,True,False,,True,July,Naxos
+9 Muses Naxos Beach hotel,"Kastraki Beach, Kastraki, 84300, Greece",4.0,1821.0,9.1,45 ,True,False,False,True,True,False,58.0,True,July,Naxos
+Camara Hotel,"Main Street, Agios Prokopios, 84302, Greece",2.0,782.0,8.7,132 ,False,False,True,True,True,False,20.0,False,July,Naxos
+Nastasia Village,"Main Street, Naxos Chora, 84300, Greece",2.0,1268.0,9.2,242 ,True,False,False,False,False,False,18.0,True,July,Naxos
+Depis castle Renata luxury apartments,"Χώρα Νάξου, Naxos Chora, 84300, Greece",3.0,1251.0,8.6,204 ,False,False,False,True,False,False,26.0,False,July,Naxos
+Alkyoni Beach Hotel,"Agios Georgios, Naxos Chora, 84300, Greece",,1813.0841121495325,8.6,246 ,False,True,True,True,True,True,24.0,True,July,Naxos
+Villa veranda,"Πλακα, Plaka, 84300, Greece",3.0,1629.0697674418604,8.6,49 ,False,False,False,False,True,False,23.0,False,July,Naxos
+Naxos Village hotel,"Χώρα Νάξου, Naxos Chora, 84300, Greece",,1302.8037383177568,9.5,91 ,False,False,True,True,True,False,27.0,True,July,Naxos
+Anna Studios,"agios prokopios naxos, Agios Prokopios, 84300, Greece",,842.0560747663551,9.3,97 ,True,True,True,True,True,False,19.0,False,July,Naxos
+Dimitra Hotel,"Main Street, Agios Prokopios, 84300, Greece",2.0,1595.6891963810538,9.7,162 ,True,True,True,True,True,False,,False,July,Naxos
+Keti Kapri,"Plaka Naxou, Plaka, 84300, Greece",,1082.2429906542056,8.6,93 ,True,False,False,True,True,True,19.0,False,July,Naxos
+Lygdamis Hotel,"Chora, Naxos Chora, 84300, Greece",,1099.0654205607475,8.4, 314 ,True,False,False,True,False,False,24.0,False,July,Naxos
+Studios Kapsali,"Panagia Galini, Galini, 84300, Greece",3.0,720.0,9.6,33 ,False,False,False,True,True,False,30.0,False,July,Naxos
+Depis village kastraki naxos,"kastraki naxos 1, Kastraki, 84301, Greece",,1439.252336448598,8.9,46 ,False,False,False,True,True,False,60.0,False,July,Naxos
+Dilino Hotel Studios,"Main Street, Agios Prokopios, 84300, Greece",,657.9439252336448,7.9,152 ,False,True,True,True,True,False,19.0,False,July,Naxos
+Irida Luxury Apartments,"Kastraki, Kastraki, 84300, Greece",3.0,2647.188107733703,9.4,243 ,True,True,True,True,True,False,34.0,True,July,Naxos
+Petros Studios & Suites,"Agiou Polukarpou, Naxos Chora, 84300, Greece",3.0,978.4443111377724,9.2,109 ,False,False,True,False,True,False,20.0,False,July,Naxos
+Sun and Moon Villas,"Pyrgaki, Aliko Beach, 84300, Greece",,2679.4392523364486,8.6,99 ,True,True,True,True,True,False,60.0,True,July,Naxos
+Aegean Palace,"Plaka Beach, Plaka, 84300, Greece",4.0,3231.453709258148,8.5, 204 ,True,False,True,False,True,True,30.0,True,July,Naxos
+Taki's Guests,"Main Street, Naxos Chora, 84300, Greece",3.0,1173.0,9.4,100 ,True,False,True,False,True,False,22.0,False,July,Naxos
+George Studios,"Saint George Beach, Naxos Chora, 84300, Greece",,962.6168224299065,8.7,171 ,False,False,False,True,True,False,19.0,True,July,Naxos
+Marine Dream,"Plaka Beach, Plaka, 84300, Greece",,1523.3644859813082,8.7,89 ,True,False,True,True,True,False,24.0,False,July,Naxos
+Porto Naxos,"Agios Georgios beach, Naxos Chora, 84300, Greece",,1471.9626168224297,8.6,145 ,True,False,True,True,True,True,27.0,False,July,Naxos
+Ostria Inn,"Moutsouna, Moutsouna Naxos, 84302, Greece",3.0,2698.546396364899,9.6,35 ,True,False,True,True,True,True,23.0,True,July,Naxos
+Naxos Resort Beach Hotel,"St.George Beach, Naxos Chora, 84300, Greece",3.0,1569.0,8.3, 216 ,False,True,False,False,True,False,15.0,False,July,Naxos
+Astir Of Naxos,"Saint George Beach, Naxos Chora, 84300, Greece",,1727.1028037383176,8.7,193 ,True,True,False,False,True,True,18.0,False,July,Naxos
+Depis Luxury Suites,"Naxos 1, Naxos Chora, 84300, Greece",,1100.9345794392523,7.9,192 ,False,False,False,True,False,False,30.0,False,July,Naxos
+Naxos Island Escape Suites,"Plaka, Plaka, 84300, Greece",,1607.4766355140187,9.4,54 ,True,False,False,True,True,False,35.0,False,July,Naxos
+Lefteris Studios,"Kapares Agia Anna, Agia Anna Naxos, 84300, Greece",3.0,965.0,9.5,175 ,True,False,True,True,True,False,35.0,True,July,Naxos
+Iria Beach Art Hotel,"Main Street, Agia Anna Naxos, 84300, Greece",,1696.2616822429904,9.3,151 ,True,False,True,True,False,True,19.0,False,July,Naxos
+Aeolis Boutique Hotel,"Naxos, Naxos Chora, 84300, Greece",3.0,903.4998848722082,7.9,220 ,True,False,True,True,True,False,22.0,False,July,Naxos
+Depis Place and Apartments,"Agios Georgios, Naxos Chora, 84300, Greece",,797.196261682243,8.2, 251 ,False,False,False,True,True,False,19.0,False,July,Naxos
+Sea View Studios & Apartments,"Main Street, Agia Anna Naxos, 84300, Greece",3.0,1066.606334841629,8.2, 81 ,False,False,False,True,True,False,28.0,True,July,Naxos
+Hotel Palatia,"Agios Georgios beach, Naxos Chora, 84300, Greece",1.0,1512.0,9.1,251 ,False,False,True,False,True,False,20.0,False,July,Naxos
+Naxos Finest,"Andrea Papandreou fragma ag. arseniou, Naxos Chora, 84300, Greece",,1853.271028037383,9.0,110 ,True,True,True,True,True,False,24.0,False,July,Naxos
+Villas Naxos Grande Vista,"Avlia, Vívlos, 84300, Greece",,3800.0,8.7,18 ,False,True,False,False,True,False,90.0,False,July,Naxos
+Sea View Studios & Apartments,"Main Street, Agia Anna Naxos, 84300, Greece",,1070.0934579439252,8.2, 81 ,False,False,False,True,True,False,27.0,True,July,Naxos
+Hotel Palatia,"Agios Georgios beach, Naxos Chora, 84300, Greece",,1515.8878504672896,9.1,251 ,False,False,True,False,True,False,19.0,False,July,Naxos
+Naxos Finest,"Andrea Papandreou fragma ag. arseniou, Naxos Chora, 84300, Greece",,1847.6744186046512,9.0,110 ,True,True,True,True,True,False,24.0,False,July,Naxos
+Villas Naxos Grande Vista,"Avlia, Vívlos, 84300, Greece",4.0,3480.3618946248007,8.7,18 ,False,True,False,False,True,False,90.0,False,July,Naxos
+Naxos Filoxenia Hotel,"Evagellou D. Michelopoulou str,, Galini, 84300, Greece",,1010.2803738317756,9.2,79 ,False,False,False,True,True,False,24.0,False,July,Naxos
+Flerianos Studios Naxos,"ΑΓΙΟΣ ΠΡΟΚΟΠΙΟΣ 1 Y ΝΑΞΟΣ, Agios Prokopios, 84300, Greece",,728.9719626168223,8.4, 36 ,True,False,False,False,True,False,24.0,True,July,Naxos
+Alpha Studios (Adults Only),"Kalavriton Street, Agios Georgios, Naxos Chora, 84300, Greece",3.0,1023.0,8.8,385 ,False,False,False,False,True,False,26.0,False,July,Naxos
+Naxian Air,"Περιοχή Αεροδρομίου, Agios Georgios, 84300, Greece",3.0,1027.906976744186,9.5,11 ,False,False,True,True,True,False,24.0,True,July,Naxos
+Pension Sofi,"Old Town, Naxos Chora, 84300, Greece",4.0,1735.846200423857,9.6,163 ,True,False,False,True,True,False,35.0,False,July,Naxos
+Porta Marina,"Protopapadaki, Naxos Chora, 84300, Greece",4.0,2515.0,9.9,29 ,False,False,False,False,False,False,36.0,False,July,Naxos
+koronos village apartments,"Κόρωνος Νάξου Κόρωνος Νάξου, Kóronos, 84302, Greece",3.0,894.0,9.3,12 ,False,False,False,False,True,False,100.0,False,July,Naxos
+Liana Beach Hotel & Spa,"agios prokopios 1, Agios Prokopios, 84300, Greece",,1827.1028037383176,8.9,323 ,True,True,True,False,True,False,19.0,False,July,Naxos
+Hora Seaside Suites,"ΧΩΡΑ ΝΑΞΟΥ Ισόγειο, Naxos Chora, 84300, Greece",,1804.6728971962616,9.5,183 ,False,False,False,True,True,False,31.0,False,July,Naxos
+Coralli Beach Apartments,"Mikri Vigla, Mikri Vigla, 84300, Greece",4.0,1308.3333333333335,9.8,109 ,True,False,False,False,True,False,24.0,True,July,Naxos
+Zanneta Studios,"Mikri Vigla, Mikri Vigla, 84300, Greece",3.0,739.8253682596813,9.4,64 ,True,False,False,True,True,False,25.0,True,July,Naxos
+Antony Suites (Adults Only),"Agios Georgios Beach, Naxos Chora, 84300, Greece",4.0,2543.0555555555557,9.3,153 ,True,False,True,True,False,False,25.0,False,July,Naxos
+Zas Studios,"Agios Georgios, Naxos Chora, 84300, Greece",4.0,963.0,9.5,140 ,False,False,False,False,True,False,18.0,False,July,Naxos
+Hotel Fanis,"Agia Anna Beach, Agia Anna Naxos, 84300, Greece",,2327.1028037383176,8.7,79 ,True,True,False,True,True,False,26.0,False,July,Naxos
+Mina's Studios in Naxos Island,"Agios Prokopios, Agios Prokopios, 84300, Greece",3.0,659.5864661654135,9.2,74 ,False,False,False,False,True,False,17.0,False,July,Naxos
+Lianos Village,"Main Street, Agios Prokopios, 84300, Greece",3.0,1596.0,9.3,343 ,False,True,True,True,True,False,23.0,False,July,Naxos
+Studios Gabriel,"Agia Anna Naxos, Agia Anna Naxos, 84300, Greece",3.0,719.7674418604652,8.6,30 ,False,False,False,True,False,False,30.0,False,July,Naxos
+Sunlight Naxos,"Agios Georgios, Naxos Chora, 84300, Greece",,1045.7943925233644,8.4, 197 ,True,True,True,True,True,False,22.0,False,July,Naxos
+Depis Edem Luxury villas Naxos,"Plaka , Plaka, 84300, Greece",,2911.2149532710278,9.0,30 ,True,True,True,True,True,False,74.0,False,July,Naxos
+Panormos Hotel and Studios,"Agios Georgios, Naxos Chora, 84300, Greece",1.0,1293.0232558139535,9.0,102 ,False,False,False,True,True,False,19.0,False,July,Naxos
+Pension Irene 2,"Mesis Street Koti Area, Naxos Chora, 84300, Greece",3.0,840.9722222222223,8.9,215 ,False,True,False,True,True,False,,False,July,Naxos
+MNP Apartments,"Eggares, Engares, 84300, Greece",4.0,868.2579185520361,10,5 ,True,False,False,True,True,False,50.0,False,July,Naxos
+Margaret of Naxos,"Agios Prokopios, Agios Prokopios, 84300, Greece",,1503.7383177570093,9.4,161 ,True,False,True,False,False,False,18.0,False,July,Naxos
+Heavenly Suites & Studios,"Αγίου Γεωργίου, Naxos Chora, 84300, Greece",,922.4299065420561,9.6,18 ,False,False,False,True,False,False,28.0,False,July,Naxos
+Iphimedeia Luxury Hotel & Suites,"Saint George Airport Road, Naxos Chora, 84300, Greece",4.0,2452.0,9.6,192 ,True,True,True,True,True,False,40.0,False,July,Naxos
+Orama Apartments,"Agia Anna, Agia Anna Naxos, 84300, Greece",,1082.2429906542056,8.6,196 ,True,True,False,True,True,False,40.0,False,July,Naxos
+Argo Boutique Hotel,"Kinidaros Street, Naxos Chora, 84 300, Greece",4.0,2089.5833333333335,8.6,"1,127 ",True,True,True,False,True,True,35.0,False,July,Naxos
+Blue Bliss,"Ambrami, Ambrami, 84300, Greece",3.0,555.0,9.6,70 ,False,False,False,True,True,False,28.0,False,July,Naxos
+Naxian Soul,"Αγια Αννα, Agia Anna Naxos, 84300, Greece",,2315.88785046729,9.3,47 ,True,False,True,True,True,False,20.0,False,July,Naxos
+9 Muses Naxos Beach hotel,"Kastraki Beach, Kastraki, 84300, Greece",,1822.429906542056,9.1,45 ,True,False,False,True,True,False,57.0,True,July,Naxos
+Kedros Villas,"Main Street, Agios Prokopios, 84300, Greece",4.0,1663.1944444444446,8.9,59 ,True,True,True,True,True,True,45.0,False,July,Naxos
+Sun Beach Hotel,"Saint George Beach, Naxos Chora, 84300, Greece",2.0,1096.0,9.2,164 ,False,False,True,True,True,False,40.0,False,July,Naxos
+Hippocampus studios 2 min walk from the beach,"Μουτσούνα, Moutsouna Naxos, 84302, Greece",,554.2056074766355,7.6,19 ,True,False,False,True,True,False,24.0,True,July,Naxos
+Nufaro,"Agios Georgios Naxou, Naxos Chora, 84300, Greece",3.0,841.8604651162791,9.4,122 ,False,False,False,True,True,False,23.0,False,July,Naxos
+Windmill Naxos,"Kotti, Naxos Chora, 84300, Greece",,721.4953271028037,9.3,144 ,False,False,False,True,False,False,19.0,False,July,Naxos
+Anassa Suites,"Pantanassis Region, Naxos Chora, 84300, Greece",,1028.03738317757,8.8,257 ,False,False,False,True,False,False,19.0,False,July,Naxos
+Ampelos Resort,"Plaka Naxou, Plaka, 84300, Greece",4.0,1171.4592760180994,8.6,101 ,True,True,True,True,True,False,22.0,True,July,Naxos
+Blue Sky Summer,"Kinidarou, Naxos Chora, 84300, Greece",,1022.429906542056,9.4,168 ,True,False,False,False,True,False,27.0,False,July,Naxos
+Depis economy apartments,"ΝΑΞΟΣ 1, 84300 ΝΑΞΟΣ ΚΥΚΛΑΔΩΝ, Naxos Chora, 84300, Greece",3.0,711.866515837104,8.9,39 ,False,False,False,True,False,False,15.0,False,July,Naxos
+The Diamond of Naxos,"Agkidia, Agkidia, 84300, Greece",,1457.0093457943924,10,7 ,True,False,False,True,True,False,34.0,False,July,Naxos
+Ktima Bianco,"Naxos, Naxos Chora, 84300, Greece",3.0,925.0,9.3,144 ,False,False,True,True,True,False,26.0,False,July,Naxos
+El Mar Naxos,"Naxos Town, Naxos Chora, 84300, Greece",,2089.0,9.6,12 ,True,True,True,False,False,False,42.0,False,July,Naxos
+Ayiopetra Exclusive Getaways,"Sangri Naxos, Káto Sangríon, 84300, Greece",,2916.822429906542,9.9,59 ,True,True,False,False,True,False,48.0,False,July,Naxos
+Evripus Suites,"Kastraki Naxos, Kastraki, 84302, Greece",,1052.3364485981308,9.6,21 ,False,False,False,True,True,False,54.0,False,July,Naxos
+Ampelos Suites,"Protodikeiou Square, Naxos Chora, 84300, Greece",4.0,1674.5591939546598,9.1,242 ,True,False,True,True,False,False,30.0,False,July,Naxos
+Rena Valetta Studios,"Agios Georgios, Naxos Chora, 84300, Greece",,812.1495327102804,9.0,150 ,True,False,False,True,True,False,18.0,False,July,Naxos
+Zefyros Studios,"Plaka Beach, Plaka, 84300, Greece",3.0,444.1860465116279,9.0,38 ,True,False,True,False,True,False,19.0,False,July,Naxos
+Naxos Hotel Poseidon,"Naxos Chora, Naxos Chora, 84300, Greece",1.0,1167.0,8.6,141 ,False,False,False,True,False,False,17.0,False,July,Naxos
+Depis castle Renata luxury apartments,"Χώρα Νάξου, Naxos Chora, 84300, Greece",,1254.2056074766354,8.6,204 ,False,False,False,True,False,False,26.0,False,July,Naxos
+Cosmos Boutique Hotel,"Plaka Beach, Plaka, 84300, Greece",,7139.252336448598,9.5,71 ,False,True,True,True,True,True,120.0,False,July,Naxos
+Naxos olive & home,"θεση κυπαρισσι, Engares, 84300, Greece",3.0,653.0427247883756,9.2,40 ,True,False,True,True,True,False,60.0,False,July,Naxos
+Litsa Studios,"Agia Anna , Agia Anna Naxos, 84300, Greece",,1010.2803738317756,9.0,69 ,False,False,False,False,False,False,24.0,False,July,Naxos
+Adamas Suites,"Χώρα Νάξου. Δρόμος χώρας - Αγγιδιών. Περιοχή Γερολυμάκη Emerald Room, Naxos Chora, 84300, Greece",,928.9719626168223,10,11 ,False,False,False,True,True,False,30.0,False,July,Naxos
+Pension Irene 1,"Main Street, Naxos Chora, 84300, Greece",3.0,1203.0,8.9,115 ,False,False,False,False,False,False,60.0,False,July,Naxos
+Villa veranda,"Πλακα, Plaka, 84300, Greece",,1772.8971962616822,8.6,49 ,False,False,False,False,True,False,23.0,False,July,Naxos
+Milestones Naxos,"Plaka Naxos, Naxos Chora, 84300, Greece",,3166.355140186916,9.4,8 ,False,False,True,True,True,False,35.0,True,July,Naxos
+Hotel Coronis,"Protopapadaki Str., Naxos Chora, 84300, Greece",2.0,750.6944444444445,7.8,429 ,False,False,True,False,False,False,18.0,False,July,Naxos
+Helen Studios,"Chora Naxou, Naxos Chora, 84300, Greece",,1057.0093457943924,9.1,56 ,False,False,False,True,True,False,35.0,False,July,Naxos
+Fasolas house 2 is located 30 stairs up from the main road and it is in the old market fasolas and next to the museums,"Επαρχιακή Οδός Νάξου-Απειράνθου, Filótion, 84302, Greece",,243.9252336448598,,,False,False,True,True,False,False,20.0,True,July,Naxos
+Golden Beach Studios Down Town,"Agios Georgios, Naxos Chora, 84300, Greece",3.0,4419.0,9.2,99 ,True,False,False,True,False,False,20.0,False,July,Naxos
+Kymata Hotel,"Saint George, Naxos Chora, 84300, Greece",,1172.8971962616822,8.7,246 ,False,False,True,True,True,False,,False,July,Naxos
+Euphoria Chora Naxos,"naxos, Naxos Chora, 84300, Greece",3.0,1267.341628959276,9.3,101 ,False,False,False,True,True,False,37.0,True,July,Naxos
+Vrahia Studios,"Agiassos, Agiassos, 84300, Greece",,498.1308411214953,8.6,32 ,True,False,True,False,True,True,26.0,True,July,Naxos
+Orkos View,"Orkos, Mikri Vigla, 84300, Greece",3.0,585.0,8.6,31 ,False,False,False,True,True,False,30.0,True,July,Naxos
+Agiassos Naxos Apartments,"αγιασσος ναξου, Agiassos, 84302, Greece",3.0,803.3834586466165,9.3,37 ,False,False,False,True,True,False,55.0,False,July,Naxos
+Polis of Naxos Boutique Hotel,"Agios Georgios, Naxos Chora, 84300, Greece",,1392.0,9.0,186 ,True,False,False,True,True,False,17.0,False,July,Naxos
+Hermes Luxury Apartments Naxos,"Άγιος Γεώργιος, Naxos Chora, 84300, Greece",,1387.8504672897195,9.1,13 ,False,False,False,True,False,False,24.0,False,July,Naxos
+Studios Marina Naxos,"Messis str., Naxos Chora, 84300, Greece",,1076.6355140186915,9.0,124 ,False,False,False,True,True,False,40.0,False,July,Naxos
+La isla,"Protodikiou square -, Naxos Chora, 84300, Greece",3.0,743.693453964875,9.4,50 ,True,False,False,True,False,False,31.0,False,July,Naxos
+Naxian Spirit Suites & Apartments,"Skilakis, Agia Anna Naxos, 84300, Greece",3.0,1110.0,8.2, 81 ,False,False,False,True,True,False,30.0,True,July,Naxos
+Villa Maria Naxos,"Michail Margariti, Naxos Chora, 84300, Greece",4.0,1829.5369877594467,9.1,19 ,True,False,False,True,True,False,65.0,False,July,Naxos
+Villa Faros,"Αλυκό Νάξου, Aliko Beach, 84300, Greece",3.0,1273.0,9.7,91 ,True,True,True,False,True,True,15.0,True,July,Naxos
+Archipelagos,"Agios Georgios, Chora Naxou, Naxos Chora, 84300, Greece",,716.2790697674419,8.1, 65 ,False,True,False,True,True,False,,False,July,Naxos
+Depis castle Renata luxury apartments,"Χώρα Νάξου, Naxos Chora, 84300, Greece",3.0,1251.0,8.6,204 ,False,False,False,True,False,False,26.0,False,July,Naxos
+Magic Land,"Plaka, Plaka, 84300, Greece",3.0,885.9374999999999,8.9,58 ,False,False,False,True,True,False,30.0,True,July,Naxos
+Naxian Resort,"Pyrgaki, Aliko Beach, 84300, Greece",,2435.5140186915887,9.2,35 ,False,False,False,False,True,False,109.0,True,July,Naxos
+Glaronissi Beach,"Plaka Naxou, Plaka, 84300, Greece",4.0,3699.0,9.2,246 ,True,False,True,True,True,False,25.0,False,July,Naxos
+Kissos Luxury Suites,"παλια χώρα ναξος προφήτης Ηλίας, Naxos Chora, 84300, Greece",3.0,1323.0656108597284,9.5,53 ,False,False,False,True,False,False,34.0,False,July,Naxos
+Castle Mansions,"Old Town, Naxos, Naxos Chora, 84300, Greece",4.0,1023.0,9.7,56 ,False,False,False,True,True,True,25.0,False,July,Naxos
+Villa veranda,"Πλακα, Plaka, 84300, Greece",3.0,1756773.1297318107,8.6,49 ,False,False,False,False,True,False,23.0,False,July,Naxos
+Kouros Art Hotel (Adults Only),"Agios Prokopios, Stelida, 84300, Greece",4.0,1474.418604651163,9.4,80 ,True,True,True,False,True,True,24.0,False,July,Naxos
+Alenor City Hotel,"Naxos 0, Naxos Chora, 84300, Greece",,1444.8598130841121,9.6,54 ,True,False,True,True,True,False,24.0,False,July,Naxos
+Anemos Town,"Akanthous Cyprus, Naxos Chora, 84300, Greece",,778.392762107504,,,False,False,False,True,False,False,16.0,False,July,Naxos
+Natura Villas in Naxos,"Mikri Vigla Naxos, Mikri Vigla, 84300, Greece",4.0,2534.0,9.9,31 ,False,True,True,True,True,False,67.0,True,July,Naxos
+Alta Vista Naxos,"Aggidia Naxos, Naxos Chora, 84300, Greece",,1136.448598130841,9.2,57 ,True,False,False,True,True,False,40.0,False,July,Naxos
+Moutsouna Beach,"Moutsouna, Moutsouna Naxos, 84300, Greece",,901.8691588785047,7.8,40 ,False,False,False,True,True,False,19.0,True,July,Naxos
+Villa Kastraki,"Kastraki, Naxos Villa Kastraki, Kastraki, 84302, Greece",3.0,1009.7222222222223,9.5,56 ,True,False,True,True,True,False,42.0,True,July,Naxos
+Majestique of Naxos boutique hotel,"Ζευγώλη, Naxos Chora, 84300, Greece",,1422.429906542056,9.3,33 ,False,True,False,True,False,False,23.0,False,July,Naxos
+Arhontiko,"Agios Giorgios, Naxos Chora, 84300, Greece",,1163.0,9.1,108 ,True,False,False,True,True,False,27.0,True,July,Naxos
+Castello studios,"Αγια Αννα, Agia Anna Naxos, 84300, Greece",3.0,1451.6348146442551,9.0,30 ,False,False,True,True,False,False,20.0,True,July,Naxos
+Ariadne Hotel,"Agios Prokopios, Agios Prokopios, 84300, Greece",,1449.5327102803737,8.9,119 ,False,True,True,True,True,False,19.0,False,July,Naxos
+Depis Edem luxury private villas,"Πλάκα, Νάξος, Plaka, 84300, Greece",4.0,1430335.5140186916,9.4,8 ,True,True,True,True,True,False,120.0,False,July,Naxos
+Sunset,"Agios Prokopios, Agios Prokopios, 84300, Greece",3.0,1051.1627906976744,9.1,66 ,False,False,True,True,True,True,27.0,False,July,Naxos
+HOTEL KAPARI,"ΚΑΠΑΡΕΣ, ΑΓ. ΑΝΝΑ, ΝΑΞΟΣ, Agia Anna Naxos, 84300, Greece",2.0,610.0,8.7,37 ,False,False,False,True,True,False,25.0,False,July,Naxos
+Majestique of Naxos boutique hotel,"Ζευγώλη, Naxos Chora, 84300, Greece",,1422.429906542056,9.3,33 ,False,True,False,True,False,False,23.0,False,July,Naxos
+Arhontiko,"Agios Giorgios, Naxos Chora, 84300, Greece",,1070.0,9.1,108 ,True,False,False,True,True,False,27.0,True,July,Naxos
+Castello studios,"Αγια Αννα, Agia Anna Naxos, 84300, Greece",3.0,1447.9166666666667,9.0,30 ,False,False,True,True,False,False,20.0,True,July,Naxos
+Depis Edem luxury private villas,"Πλάκα, Νάξος, Plaka, 84300, Greece",,5940.18691588785,9.4,8 ,True,True,True,True,True,False,120.0,False,July,Naxos
+Naxos Village hotel,"Χώρα Νάξου, Naxos Chora, 84300, Greece",3.0,1297.9404119176165,9.5,91 ,False,False,True,True,True,False,27.0,True,July,Naxos
+Sunset,"Agios Prokopios, Agios Prokopios, 84300, Greece",,1142.9906542056074,9.1,66 ,False,False,True,True,True,True,27.0,False,July,Naxos
+HOTEL KAPARI,"ΚΑΠΑΡΕΣ, ΑΓ. ΑΝΝΑ, ΝΑΞΟΣ, Agia Anna Naxos, 84300, Greece",,661.6822429906541,8.7,37 ,False,False,False,True,True,False,24.0,False,July,Naxos
+Naxos Mare,"Agia Anna, Agia Anna Naxos, 84300, Greece",3.0,1054.3291341731654,8.7,115 ,True,True,True,True,True,False,23.0,True,July,Naxos
+Naxos Skyline Deluxe Villas,"Χωρα Ναξου, Agkidia, 84300, Greece",,3854.205607476635,9.4,11 ,False,True,False,True,True,False,99.0,False,July,Naxos
+Naxos Aethereal View,"ΚΕΝΤΡΙΚΟΣ ΔΡΟΜΟΣ ΧΩΡΑΣ ΚΑΣΤΡΑΚΙ, Kastraki, 84302, Greece",3.0,1551.0,9.2,87 ,False,False,False,True,True,False,35.0,False,July,Naxos
+Anna Studios,"agios prokopios naxos, Agios Prokopios, 84300, Greece",3.0,845.5357142857142,9.3,97 ,True,True,True,True,True,False,20.0,False,July,Naxos
+Majestique of Naxos,"Άγιος Γεώργιος, Naxos Chora, 84300, Greece",4.0,1419.0,9.2,318 ,False,False,False,True,False,False,21.0,False,July,Naxos
+Rooms Maria,"Chora, Naxos Chora, 84300, Greece",3.0,843.2765369560212,8.4, 34 ,False,False,False,False,False,False,20.0,False,July,Naxos
+Margaritis Apartments,"Agia Anna , Agia Anna Naxos, 84300, Greece",3.0,997.0,9.0,58 ,False,False,False,True,False,False,50.0,False,July,Naxos
+Welcome,"ΑΓΙΟΣ ΠΡΟΚΟΠΙΟΣ, Agios Prokopios, 84300, Greece",3.0,900.0,9.0,34 ,True,False,False,True,True,False,30.0,False,July,Naxos
+LEMONIA STUDIOS&SUITES,"ΑΓΙΑ ΑΝΝΑ KAPARES, Agia Anna Naxos, 84300, Greece",,1064.485981308411,9.6,55 ,True,False,False,True,True,False,27.0,False,July,Naxos
+Plaka Hotel II,"Plaka, Plaka, 84300, Greece",3.0,718.5204896221395,7.2,79 ,False,True,False,True,True,False,20.0,True,July,Naxos
+Ammosis Inn,"Εγγαρών 1 όροφος, Naxos Chora, 84300, Greece",,718.75,8.7,54 ,False,False,False,True,True,False,20.0,True,July,Naxos
+Sophi's L Studios & Apartments,"Agia Anna Naxos, Agia Anna Naxos, 84300, Greece",3.0,579.0697674418604,9.4,60 ,True,False,False,True,True,False,40.0,False,July,Naxos
+Doron Hotel Delfini,"Agios Georgios Region, Naxos Chora, 84300, Greece",,1048.5981308411215,9.1,156 ,True,False,False,True,False,False,26.0,True,July,Naxos
+Marina's Suites,"Αγίου Γεωργίου, Naxos Chora, 843 00, Greece",,1361.6822429906542,9.7,45 ,True,False,False,True,False,False,34.0,False,July,Naxos
+Deep Blue,"Agios Prokopios, Agios Prokopios, 84300, Greece",,974.7663551401869,8.2, 69 ,True,False,False,False,False,False,30.0,False,July,Naxos
+Cycladic House Naxos,"Γλινάδου, Glinado Naxos, 84300, Greece",3.0,1215.9722222222222,8.8,4 ,False,False,False,False,False,False,67.0,True,July,Naxos
+Melissa Rooms Naxos,"Μεσης, Naxos Chora, 84300, Greece",4.0,662.0,9.1,74 ,False,False,False,False,True,False,19.0,False,July,Naxos
+White Pearl Villa Naxos with Private Swimming Pool,"Τζωρτζέτα Φιλιππιδένα, Naxos Chora, Naxos Chora, 84300, Greece",,4811.214953271028,9.1,8 ,True,True,False,True,True,False,99.0,False,July,Naxos
+Nikos Apartments and Studios,"Agios Prokopios, Agios Prokopios, 84300, Greece",4.0,1574.7738158594998,9.2,134 ,True,False,False,True,True,True,19.0,False,July,Naxos
+Plaka Hotel I,"Plaka Beach, Plaka, 84300, Greece",2.0,606.0,7.5,80 ,True,False,False,True,True,True,20.0,True,July,Naxos
+Kalia Studios,"Agia Anna, Agia Anna Naxos, 84300, Greece",3.0,899.2481203007518,8.8,47 ,False,False,False,True,True,False,29.0,False,July,Naxos
+Polis of Naxos Stylish Suites,"ΧΩΡΑ ΝΑΞΟΣ, Naxos Chora, 84300, Greece",3.0,1536.0,9.0,26 ,True,False,False,True,False,False,20.0,False,July,Naxos
+Dimitra Hotel,"Main Street, Agios Prokopios, 84300, Greece",2.0,1740.2777777777778,9.7,162 ,True,True,True,True,True,False,,False,July,Naxos
+Vrettos Beachfront Hotel & Kite School,"Plaka, Plaka, 84300, Greece",,721.4953271028037,8.5, 71 ,True,False,True,True,True,False,30.0,False,July,Naxos
+The Stone House Naxos,"Glinado Naxos, Glinado Naxos, 84300, Greece",3.0,793836.4485981308,9.7,12 ,True,False,False,True,True,False,55.0,True,July,Naxos
+Alex Mike,"Agia Anna, Agia Anna Naxos, 17342, Greece",3.0,771.1877828054298,8.4, 65 ,False,False,False,True,True,False,35.0,False,July,Naxos
+Blue House,"Σκαδό Νάξου, Kóronos, 85104, Greece",3.0,542.1022334791619,,,False,False,False,True,True,False,73.0,True,July,Naxos
+Makava Suites Naxos,"Naxos Chora, Naxos Chora, 84300, Greece",,1340.9722222222222,,,True,False,False,True,True,False,45.0,False,July,Naxos
+Ariadne Hotel,"Agios Prokopios, Agios Prokopios, 84300, Greece",3.0,1447.9166666666667,8.9,119 ,False,True,True,True,True,False,20.0,False,July,Naxos
+ELaiolithos Luxury Retreat in Naxos,"Eparchiaki Odos Naxou-Monis, Khalkíon, 84302, Greece",,3280.101809954751,9.1,7 ,False,True,False,False,True,True,52.0,False,July,Naxos
+Mike's Studios,"Agios Georgios, Naxos Chora, 84300, Greece",,901.8691588785047,7.5,61 ,False,False,True,True,False,False,24.0,False,July,Naxos
+Naxos Riviera Suites,"Παραλιακή οδός Νάξου, Naxos Chora, 84300, Greece",4.0,1013.953488372093,9.1,54 ,False,False,True,True,False,False,30.0,False,July,Naxos
+Chalki Apartments - Naxos,"Επαρχιακή Οδός Νάξου-Χαλκιού Ισόγειο, Khalkíon, 84302, Greece",3.0,618.75,8.6,21 ,False,False,False,False,False,False,35.0,False,July,Naxos
+Margo Studios,"Main Street, Naxos Chora, 84300, Greece",3.0,884.1121495327102,9.2,102 ,False,False,False,False,True,False,17.0,False,July,Naxos
+Smirida Suites,"Andrea Papandreou, Naxos Chora, 84300, Greece",4.0,1479.6507365193627,9.3,33 ,True,False,False,True,True,False,40.0,False,July,Naxos
+Adriani Hotel,"Kontoleontos, Naxos Chora, 84300, Greece",,1160.061894010414,9.2,166 ,True,False,True,True,True,False,18.0,False,July,Naxos
+Vive Mare Plaka II,"PLAKA NAXOS, Naxos Chora, 84300, Greece",,992.5233644859812,8.9,12 ,True,False,False,False,True,False,19.0,False,July,Naxos
+Kavourakia,"Agios Prokopios, Agios Prokopios, 84300, Greece",,817.7570093457944,8.9,61 ,False,False,True,True,False,True,22.0,False,July,Naxos
+Akre Hotel,"Stelida, Naxos Chora, 84300, Greece",4.0,1633.4821428571427,,,True,True,True,True,True,True,18.0,False,July,Naxos
+Bernie House,"Agios Thaleleos, Mélanes, 84300, Greece",3.0,910.7299102003224,7.8,5 ,True,False,False,True,True,False,70.0,False,July,Naxos
+Alio Naxos Luxury Suites,"Περιοχή Αεροδρομίου, Agios Georgios, 84300, Greece",,1804.6728971962616,9.9,15 ,True,False,False,True,True,False,45.0,False,July,Naxos
+Sunshine,"Agios Georgios, Naxos Chora, 84300, Greece",,931.25,9.2,29 ,False,False,False,True,True,False,25.0,False,July,Naxos
+Elpidas studios,"Agia Anna Naxos, Agia Anna Naxos, 84300, Greece",,601.8691588785047,9.0,29 ,False,False,False,True,True,False,35.0,False,July,Naxos
+Studio Tolakis,"Plaka, Plaka, 84300, Greece",3.0,553.7946428571428,8.8,88 ,False,False,True,False,True,False,20.0,False,July,Naxos
+Margouno Naxos,"Eggares Naxou Margouno, Engares, 84300, Greece",,1183.4021657832266,10,1 ,False,False,False,False,True,False,95.0,False,July,Naxos
+Aronis Plaka Naxos,"Plaka Naxou, Plaka, 84300, Greece",3.0,677.2245550889822,7.4,60 ,False,False,True,False,True,True,20.0,True,July,Naxos
+white house apollon naxos,"apollon naxos greece 1, Apollon, 84301, Greece",,2104.6728971962616,9.5,13 ,False,False,False,True,True,False,95.0,False,July,Naxos
+Studios Kapsali,"Panagia Galini, Galini, 84300, Greece",3.0,725.2891288977028,9.6,33 ,False,False,False,True,True,False,30.0,False,July,Naxos
+Tzina Jo Suite,"Naxos Town, Grotta Beach Naxos, Naxos Chora, 84300, Greece",3.0,857.0093457943925,7.8,6 ,True,False,False,False,True,False,35.0,False,July,Naxos
+Perivoli 3-Chora(5min away from the center by car),"Νάξος ΙΣΟΓΕΙΟ, Agkidia, 84300, Greece",3.0,843.2765369560212,9.0,2 ,False,False,False,False,True,False,22.0,False,July,Naxos
+Oliva Naxos Apartments,"Agios Nektarios, Chora, Naxos, Naxos Chora, 84300, Greece",,1159.0,,,False,False,False,True,True,False,38.0,False,July,Naxos
+Plioni - Luxury Villas With Private Pool,"Αγία Παρασκευή, Mikri Vigla, 84300, Greece",4.0,3164951.4018691587,,,False,False,False,True,True,False,125.0,True,July,Naxos
+TRADITIONAL HOUSE AT KALOXILOS NAXOS,"ΑΝΩ ΚΑΛΟΞΥΛΟΣ, Khalkíon, 84302, Greece",,728.0429864253393,10,3 ,False,False,False,False,True,False,65.0,False,July,Naxos
+Depis village kastraki naxos,"kastraki naxos 1, Kastraki, 84301, Greece",,1439.252336448598,8.9,46 ,False,False,False,True,True,False,60.0,False,July,Naxos
+Archetypo Villas and Suites,"Λεωφόρος Νάξου Γλυναδου Απόλλωνα, Naxos Chora, 84300, Greece",4.0,1566.2790697674418,9.6,99 ,True,False,False,True,True,False,31.0,False,July,Naxos
+Helen Beach Front Luxury Villas,"Καστράκι, Kastraki, 84300, Greece",4.0,4317.361111111111,9.8,21 ,True,True,False,True,True,False,78.0,True,July,Naxos
+Traditional House in Naxos,"Angidia, Agkidia, 84300, Greece",,1129.9065420560746,,,False,False,False,False,True,False,99.0,False,July,Naxos
+Naxian Collection,"St Prokopios - Stelida, Stelida, 84300, Greece",,3800.892857142857,8.5, 6 ,True,True,True,True,True,False,55.0,False,July,Naxos
+Panormos Hotel and Studios,"Agios Georgios, Naxos Chora, 84300, Greece",,1407.4766355140187,9.0,102 ,False,False,False,True,True,False,19.0,False,July,Naxos
+Sunny Home,"Χώρα Νάξου, Naxos Chora, 84300, Greece",3.0,847.3551637279596,8.7,4 ,False,False,False,True,True,False,65.0,False,July,Naxos
+Dimora Miranda,"Νάξος Άγιος Προκόπιος, Agios Prokopios, 84300, Greece",,906.5420560747663,9.8,15 ,False,False,False,True,True,False,37.0,False,July,Naxos
+Plaka Collection,"Plaka Beach  Naxos , Plaka, 84300, Greece",4.0,2277.906976744186,8.7,11 ,True,True,False,True,True,False,99.0,False,July,Naxos
+Apollon Hotel,"Fontana, Naxos Chora, 84300, Greece",2.0,726.0,7.8,49 ,False,False,False,False,False,False,15.0,False,July,Naxos
+Optasia - Naxos Center Cozy House,"Φιλοτίου, Naxos Chora, 84300, Greece",,883.0,9.7,3 ,False,False,False,True,False,False,38.0,True,July,Naxos
+Lagos Mare Hotel,"Main Street, Agios Prokopios, 84300, Greece",4.0,1333.0,8.6,35 ,True,True,True,False,False,True,25.0,False,July,Naxos
+Naxian Touch,"agia anna, Agia Anna Naxos, 84300, Greece",,1672.2222222222222,9.4,5 ,False,False,False,True,True,False,25.0,False,July,Naxos
+Akrogiali Agios Prokopios,"Agios Prokopios, Agios Prokopios, 84300, Greece",3.0,1511.8055555555557,8.4, 32 ,True,False,False,True,False,True,35.0,False,July,Naxos
+Azure Blue Studios,"Orkos Naxos, Mikri Vigla, 84300, Greece",,1758.8785046728972,7.8,21 ,False,False,False,False,True,False,31.0,True,July,Naxos
+Evdokia - Luxury Vineyard apartment with Aegean View,"Κλειδώ Νάξος, Moutsouna Naxos, 84302, Greece",3.0,1087.9298642533936,8.7,14 ,False,False,False,True,True,False,52.0,True,July,Naxos
+"Naxian Riviera Exclusive Seafront Suites, Junior Suite","Agios Prokopios, Agios Prokopios, 84300, Greece",,1384.3749999999998,9.1,18 ,False,False,False,False,True,False,30.0,False,July,Naxos
+Alma Libre Villas Chora,"ΟΔΟΣ ΜΟΥΤΣΟΥΝΑΣ & ΤΡΑΓΑΙΑΣ - ΠΛΑΤΕΙΑ ΠΡΩΤΟΔΙΚΕΙΟΥ ΙΣΟΓΕΙΟ, Naxos Chora, 84300, Greece",,1826.1682242990653,9.6,10 ,False,False,False,True,False,False,91.0,True,July,Naxos
+Eros Apartment,"Xristos, Naxos Chora, 84300, Greece",3.0,1081.25,9.3,3 ,False,False,False,True,True,False,40.0,False,July,Naxos
+Petros Studios & Suites,"Agiou Polukarpou, Naxos Chora, 84300, Greece",3.0,983.0,9.2,109 ,False,False,True,False,True,False,20.0,False,July,Naxos
+Agnadi Hotel,"Agia Anna, Agia Anna Naxos, 84300, Greece",,962.6168224299065,9.1,97 ,False,False,True,True,True,False,27.0,True,July,Naxos
+White Cocoon,"Iria Area, Naxos, Naxos Chora, 84300, Greece",4.0,3042.9906542056074,8.5, 11 ,True,False,False,True,True,False,100.0,False,July,Naxos
+Naxos Plaka Villa,"Πλάκα Νάξος, Plaka, 84300, Greece",4.0,2700.0,10,1 ,False,True,False,False,True,False,75.0,True,July,Naxos
+Thea Suites Naxos,"Agios Prokopios Naxos, Agios Prokopios, 84300, Greece",,1457.0093457943924,9.4,45 ,False,False,False,True,True,False,24.0,False,July,Naxos
+Agrabely,"Galanadou, Galanádhon, 84300, Greece",,1302.8037383177568,8.7,11 ,False,False,False,True,True,False,69.0,True,July,Naxos
+George Studios,"Saint George Beach, Naxos Chora, 84300, Greece",3.0,886.0349127182045,8.7,171 ,False,False,False,True,True,False,19.0,True,July,Naxos
+Naxos is the Way,"Kastraki, Naxos, Kastraki, 84302, Greece",,1285.981308411215,9.0,21 ,False,False,False,True,False,False,69.0,True,July,Naxos
+Pasas Castle,"Κotti 1, Naxos Chora, 84300, Greece",,985.9813084112149,9.5,60 ,False,False,False,False,True,False,24.0,False,July,Naxos
+Aqua Naxos Apartments & Suites,"Agios Prokopios, Naxos Chora, 84300, Greece",3.0,1484.0277777777778,8.9,7 ,False,False,False,True,False,False,50.0,True,July,Naxos
+Enalios sunset suites,"Τραγαίας, Naxos Chora, 84300, Greece",4.0,1401.388888888889,9.7,3 ,False,False,False,True,False,False,20.0,False,July,Naxos
+Paradisia Villas,"Paradissia, Naxos Chora, 84300, Greece",3.0,1140.0,8.9,68 ,False,True,False,True,True,False,55.0,True,July,Naxos
+Iliopetra Apartment,"ΧΩΡΑ ΝΑΞΟΥ, Naxos Chora, 84300, Greece",,1202.803738317757,10,1 ,False,False,False,True,False,False,52.0,False,July,Naxos
+Naxos Joya Apartment,"Σωκράτους Παπαβασιλείου, Naxos Chora, 84300, Greece",3.0,885.9374999999999,,,False,False,False,False,False,False,25.0,False,July,Naxos
+The Diamond of Naxos,"Agkidia, Agkidia, 84300, Greece",,1535.9544093944278,10,7 ,True,False,False,True,True,False,34.0,False,July,Naxos
+Ocean Rose I - Old Naxos Town,"Old Market Street Naxos Town, Naxos Chora, 84300, Greece",,1202.803738317757,,,False,False,False,False,True,False,19.0,False,July,Naxos
+Narcissus Luxury Suites,"Oδός Mελάvωv, Naxos Chora, 84300, Greece",,1323.3644859813082,9.4,59 ,True,False,False,True,True,False,35.0,True,July,Naxos
+Sea and Salt Naxos 2,"Glyfada beach,Kαστρακι, Kastraki, 84300, Greece",3.0,707.0,,,False,False,False,False,True,False,20.0,False,July,Naxos
+Naxian View,"Άγιος Πολύκαρπος, Naxos Chora, 84300, Greece",4.0,1654.6511627906978,9.6,25 ,False,False,False,True,True,False,40.0,False,July,Naxos
+Pension Verykokkos,"Agios Georgios Beach, Naxos Chora, 84300, Greece",2.0,740.4135338345865,8.2, 96 ,False,False,True,True,False,False,18.0,True,July,Naxos
+Dina's Diamond,"Agios Prokopios, Agios Prokopios, 84300, Greece",3.0,1141.6666666666667,9.3,27 ,False,False,False,True,True,False,70.0,True,July,Naxos
+"Margouno Eco-Villa, Eggares, Naxos","Eggares, Naxos, Eggares, 84300, Greece",,1202.803738317757,,,False,True,False,True,True,False,79.0,False,July,Naxos
+Ariadne Suite,"Maragas Beach Naxos, Naxos Chora, 84300, Greece",,1337.9464285714284,,,False,False,False,False,False,False,60.0,False,July,Naxos
+Domus Castrum,"Καστρο Χωρα Ναξου, Naxos Chora, 84300, Greece",3.0,1749.0,9.5,11 ,False,False,False,True,True,False,65.0,False,July,Naxos
+Lefteris Studios,"Kapares Agia Anna, Agia Anna Naxos, 84300, Greece",3.0,1069.0,9.5,175 ,True,False,True,True,True,False,35.0,True,July,Naxos
+Country Villas,"Stelida, Stelida, 84300, Greece",4.0,1525.0,9.0,36 ,False,True,False,True,True,False,70.0,True,July,Naxos
+Vino suites,"Αγια Αννα, Agia Anna Naxos, 84300, Greece",3.0,830.5803571428571,9.4,9 ,False,False,False,False,True,False,25.0,False,July,Naxos
+Chrysalis Rooms Studios,"Άγιος Προκόπιος, Agios Prokopios, 84300, Greece",3.0,679.0,,,False,False,False,False,True,False,23.0,False,July,Naxos
+Naxos Pantheon House Panoramic View,"ΑΓΙΟΣ ΠΟΛΥΚΑΡΠΟΣ, Agkidia, 84300, Greece",,2104.6728971962616,8.0, 3 ,False,False,False,True,True,False,69.0,False,July,Naxos
+Riviera Naxian Home,"Agios Prokopios, Agios Prokopios, 84300, Greece",3.0,1566.0718397421138,10,2 ,True,False,False,False,True,False,30.0,True,July,Naxos
+Astra Studios,"Agios Prokopios, Agios Prokopios, 84300, Greece",,703.7383177570093,8.1, 17 ,False,False,False,True,False,False,17.0,False,July,Naxos
+Amaranto Naxos,"Λεωφόρος Νάξου Εγγαρών, Naxos Chora, 84300, Greece",,974.7663551401869,,,True,False,False,True,False,False,44.0,False,July,Naxos
+Chrysolithos Kerami Apartments,"Κεραμί 84302, Khalkíon, 84302, Greece",,451.40186915887847,8.9,14 ,False,False,False,True,True,False,36.0,False,July,Naxos
+BAROS VIEW,"ΑΠΕΡΑΘΟΣ, Apérathos, 84300, Greece",,812.1495327102804,9.5,4 ,False,False,False,False,False,False,30.0,False,July,Naxos
+Golden Sand Villas,"Αλεβρίδας Τρίποδες 84300 Βίβλος, Vívlos, 84300, Greece",4.0,3235.7142857142853,9.0,11 ,True,True,False,False,True,False,50.0,True,July,Naxos
+Villa Ilios,"Stelida, Stelida, 84300, Greece",,2814.9532710280373,,,False,False,False,False,False,False,,True,July,Naxos
+Eden Beachfront Residences & Suites,"Kastraki, Kastraki, 84302, Greece",3.0,3791.071428571428,10,2 ,True,True,True,True,True,False,20.0,False,July,Naxos
+VOLTO Suite,"Koronos Naxos, Kóronos, 84302, Greece",3.0,670.8333333333334,10,3 ,False,False,False,False,True,False,25.0,False,July,Naxos
+Villa Naxian Perfection by Anamnesia Collection,"Naxos 0, Naxos 84300, Greece, Glinado Naxos, 84300, Greece",4.0,6946.0,,,True,True,False,False,True,False,170.0,True,July,Naxos
+The Garden House,"Νάξος, Greece, Naxos Chora, 84008, Greece",3.0,1013133.3247786475,8.0, 1 ,True,False,False,True,True,False,60.0,False,July,Naxos
+Elysium,"Βίβλου-Γλινάδου, Glinádhon, 84300, Greece",,1174.5567580013815,8.8,5 ,False,False,False,False,True,False,80.0,False,July,Naxos
+Memorias Sangri Naxos,"ΆΝΩ ΣΑΓΚΡΙ, ΝΑΞΟΣ, Áno Sangríon, 84300, Greece",,1323.3644859813082,9.9,8 ,True,False,False,True,True,False,44.0,False,July,Naxos
+koronos village apartments,"Κόρωνος Νάξου Κόρωνος Νάξου, Kóronos, 84302, Greece",3.0,994.0,9.3,12 ,False,False,False,False,True,False,100.0,False,July,Naxos
+Apartments Naxos Camping,"Lagouna, Saint George Bay, Naxos Chora, 84300, Greece",,571.0280373831775,7.7,35 ,False,False,False,True,True,False,18.0,False,July,Naxos
+Villa Maria Naxos,"Michail Margariti, Naxos Chora, 84300, Greece",4.0,1804.4642857142856,9.1,19 ,True,False,False,True,True,False,65.0,False,July,Naxos
+chez irene sweet pension,"περιοχη Κοττη Χωρα Ναξος, Naxos Chora, 84300, Greece",3.0,588.1763757771126,7.3,15 ,False,False,False,True,False,False,18.0,False,July,Naxos
+"Casa Solmar, Stelida Naxos (Est 2023)","Stelida Naxos, Stelida, 84300, Greece",4.0,5047.222222222223,,,True,False,False,False,True,False,220.0,True,July,Naxos
+Elizabeth's Dream Place II,"Χωρα Ναξου Εναντι Αστυνομιας ισογειο, Naxos Chora, 84300, Greece",3.0,1495.8333333333335,,,False,False,False,False,True,False,40.0,False,July,Naxos
+Blue Bliss,"Ambrami, Ambrami, 84300, Greece",,601.8691588785047,9.6,70 ,False,False,False,True,True,False,27.0,False,July,Naxos
+Aegeas Secret,"Sokratous Papavasiliou, Naxos Chora, 84300, Greece",3.0,2174.8656061283327,10,5 ,True,False,False,False,False,False,26.0,True,July,Naxos
+Ammos Naxos Exclusive Apartments & Studios,"Laguna, Saint George Beach , Naxos Chora, 84300, Greece",4.0,986.0810499654617,9.5,37 ,True,True,True,True,True,False,30.0,True,July,Naxos
+Alenor City Hotel,"Naxos 0, Naxos Chora, 84300, Greece",2.0,1524.3055555555557,9.6,54 ,True,False,True,True,True,False,25.0,False,July,Naxos
+Cocopalm Villas Naxos,"Plaka Naxos, Naxos Chora, 84300, Greece",,8686.915887850466,9.5,11 ,True,True,True,False,True,True,150.0,True,July,Naxos
+Villa Emmanuela,"Melanes, Mélanes, 84300, Greece",3.0,879.0123456790122,,,False,False,False,False,True,False,70.0,False,July,Naxos
+Naxian Soul,"Αγια Αννα, Agia Anna Naxos, 84300, Greece",,2315.88785046729,9.3,47 ,True,False,True,True,True,False,20.0,False,July,Naxos
+Verykokkos on the beach,"Agia Anna, Agia Anna Naxos, 84300, Greece",3.0,1079.0697674418604,7.3,50 ,False,False,True,True,True,False,19.0,False,July,Naxos
+Panasea Villa Naxos,"Kalados Beach, Kalando, 84302, Greece",4.0,8952.083333333334,9.0,2 ,True,True,False,False,False,False,220.0,True,July,Naxos
+RED SUNSET VACATION HOME,"Άγιος Πολύκαρπος, Agkidia, 84300, Greece",,0.0,9.5,6 ,False,False,False,False,True,False,,True,July,Naxos
+Depis Edem luxury private villas,"Πλάκα, Νάξος, Plaka, 84300, Greece",,5940.18691588785,9.4,8 ,True,True,True,True,True,False,120.0,False,July,Naxos
+Country apartment Vlaseros,"Επαρχιακή Οδός Νάξου-Χαλκιού, Khalkíon, 84302, Greece",,475.0,9.0,6 ,False,False,True,True,False,False,50.0,True,July,Naxos
+Moutsouna Beach II,"Moutsouna, Moutsouna Naxos, 84300, Greece",3.0,414.23761423761425,7.7,24 ,False,False,True,False,True,False,25.0,True,July,Naxos
+house on the rock I,"mikri vigla, Mikri Vigla, 84300, Greece",,1628.0,10,1 ,False,False,False,False,True,False,63.0,False,July,Naxos
+Traditional House in Koronos,"ΚΟΡΩΝΟΣ, Kóronos, 84300, Greece",,565.4205607476636,,,False,False,False,False,True,True,71.0,False,July,Naxos
+Amelia villas Naxos,"Agios Georgios, Chora  Naxos, Naxos Chora, 84300, Greece",,4352.81954887218,,,False,True,False,False,True,False,90.0,False,July,Naxos
+Naxian Heart,"Χώρα Νάξου, Naxos Chora, 84300, Greece",,1564.485981308411,9.7,23 ,False,False,False,False,False,False,49.0,False,July,Naxos
+White Luxurious Apartments II,"ΓΛΙΝΑΔΟ ΝΑΞΟΣ, Glinado Naxos, 84300, Greece",,805.607476635514,9.0,1 ,False,False,False,False,True,False,,False,July,Naxos
+Crystal Naxos 2 Apartments at Mikri Vigla,"Mikri Vigla, Naxos Chora, 84300, Greece",,871.5277777777778,10,1 ,False,False,False,True,True,False,45.0,False,July,Naxos
+Naxos town sea view apartment free parking,"Agia Paraskevi aplomata, Naxos Chora, 84300, Greece",,938.3177570093458,9.0,1 ,False,False,False,False,True,False,49.0,False,July,Naxos
+Family House of Naxos 1,"Ανδρέα Παπανδρέου, Naxos Chora, 84300, Greece",,685.981308411215,9.0,10 ,False,False,False,True,False,False,30.0,False,July,Naxos
+Verykokkos on the beach,"Agia Anna, Agia Anna Naxos, 84300, Greece",,1082.2429906542056,7.3,50 ,False,False,True,True,True,False,19.0,False,July,Naxos
+Panasea Villa Naxos,"Kalados Beach, Kalando, 84302, Greece",4.0,8940.0,9.0,2 ,True,True,False,False,False,False,220.0,True,July,Naxos
+RED SUNSET VACATION HOME,"Άγιος Πολύκαρπος, Agkidia, 84300, Greece",,994.0,9.5,6 ,False,False,False,False,True,False,40.0,True,July,Naxos
+Country apartment Vlaseros,"Επαρχιακή Οδός Νάξου-Χαλκιού, Khalkíon, 84302, Greece",,2333.0,9.0,6 ,False,False,True,True,False,False,50.0,True,July,Naxos
+Sea View Studios & Apartments,"Main Street, Agia Anna Naxos, 84300, Greece",3.0,1071.0,8.2, 81 ,False,False,False,True,True,False,28.0,True,July,Naxos
+Moutsouna Beach II,"Moutsouna, Moutsouna Naxos, 84300, Greece",3.0,412.50432975406994,7.7,24 ,False,False,True,False,True,False,25.0,True,July,Naxos
+house on the rock I,"mikri vigla, Mikri Vigla, 84300, Greece",,1628.0,10,1 ,False,False,False,False,True,False,63.0,False,July,Naxos
+Traditional House in Koronos,"ΚΟΡΩΝΟΣ, Kóronos, 84300, Greece",3.0,564.0,,,False,False,False,False,True,True,72.0,False,July,Naxos
+Amelia villas Naxos,"Agios Georgios, Chora  Naxos, Naxos Chora, 84300, Greece",,4366.355140186915,,,False,True,False,False,True,False,90.0,False,July,Naxos
+Naxian Heart,"Χώρα Νάξου, Naxos Chora, 84300, Greece",,1562.5,9.7,23 ,False,False,False,False,False,False,50.0,False,July,Naxos
+Villas Naxos Grande Vista,"Avlia, Vívlos, 84300, Greece",,3800.0,8.7,18 ,False,True,False,False,True,False,90.0,False,July,Naxos
+White Luxurious Apartments II,"ΓΛΙΝΑΔΟ ΝΑΞΟΣ, Glinado Naxos, 84300, Greece",,805.607476635514,9.0,1 ,False,False,False,False,True,False,,False,July,Naxos
+Crystal Naxos 2 Apartments at Mikri Vigla,"Mikri Vigla, Naxos Chora, 84300, Greece",,871.5277777777778,10,1 ,False,False,False,True,True,False,45.0,False,July,Naxos
+Naxos town sea view apartment free parking,"Agia Paraskevi aplomata, Naxos Chora, 84300, Greece",3.0,859.9886877828054,9.0,1 ,False,False,False,False,True,False,50.0,False,July,Naxos
+Family House of Naxos 1,"Ανδρέα Παπανδρέου, Naxos Chora, 84300, Greece",,685.981308411215,9.0,10 ,False,False,False,True,False,False,30.0,False,July,Naxos
+Villa Aura,"Beach Road 1 Kastraki, Kastraki, 84300, Greece",,2827.1028037383176,,,False,True,False,True,True,False,150.0,False,July,Naxos
+Konstantza's Suites,"Χωρα Ναξου, Naxos Chora, 84300, Greece",3.0,1606.2284135390282,9.9,12 ,False,False,False,True,False,False,46.0,False,July,Naxos
+Dina Naxos Studios,"Agios Prokopios, Agios Prokopios, 84300, Greece",4.0,1174.5567580013815,9.9,37 ,False,True,False,True,True,False,20.0,False,July,Naxos
+Imellos,"Apeiranthos , Apérathos, 84302, Greece",,703.7383177570093,9.2,18 ,False,False,False,True,True,False,60.0,True,July,Naxos
+Tsikalario Castle,"Επαρχιακή Οδός Νάξου-Χαλκιού, Tsikkalarión, 84302, Greece",3.0,602.6785714285713,9.0,1 ,False,False,False,True,True,False,50.0,False,July,Naxos
+Smaragdi - Naxian traditional house with panoramic view at Eggares village,"Eggares, Engares, 84300, Greece",3.0,1018.2543906333157,9.4,17 ,True,False,False,True,True,True,60.0,True,July,Naxos
+Eleonas I,"Plaka Beach 2 Naxos, Maragkas, 84300, Greece",,1503.7383177570093,,,False,False,False,True,True,False,40.0,False,July,Naxos
+Grandma's Elegant Apartment in Naxos Town,"CHRISTOU MPRANTOUNA LETTA KOSTOPOULOU, Naxos Chora, 84300, Greece",,1082.2429906542056,8.9,12 ,True,False,False,True,False,False,40.0,False,July,Naxos
+Glyfada's Villa,"Naxos Greece, Kastraki, 84302, Greece",,4926.1682242990655,7.5,2 ,True,True,False,True,True,False,123.0,True,July,Naxos
+7Days-Suite,"Άγιος Πολύκαρπος, Χώρα Νάξου, Agkidia, 84300, Greece",,1439.252336448598,10,2 ,False,False,False,True,True,False,49.0,True,July,Naxos
+PERIVOLI 4-CHORA(5min away from the center by car),"ΛΟΥΚΑΚΙ 4, Agkidia, 84300, Greece",3.0,690.0,9.6,13 ,True,False,False,False,True,False,20.0,False,July,Naxos
+Belogna Ikons,"National Road Galanados Vivlos, Vívlos, 84300, Greece",4.0,1742.361111111111,9.4,24 ,False,True,False,True,True,False,65.0,True,July,Naxos
+Rosabella Home,"ΧΩΡΑ 0, Naxos Chora, 84300, Greece",3.0,742.3611111111111,9.2,23 ,True,False,False,True,True,False,20.0,False,July,Naxos
+White Luxurious Apartment IΙI,"GLINADO NAXOS, Naxos Chora, 84300, Greece",,1034.5794392523364,9.0,1 ,False,False,False,True,True,False,44.0,False,July,Naxos
+Aeolis Boutique Hotel,"Naxos, Naxos Chora, 84300, Greece",,901.8691588785047,7.9,220 ,True,False,True,True,True,False,22.0,False,July,Naxos
+Ariadni s Central flat,"ΧΩΡΑ ΝΑΞΟΥ, Naxos Chora, 84300, Greece",,878.7242551489702,7.8,9 ,True,False,False,False,True,False,45.0,False,July,Naxos
+Naxos Affinity Villas,"Νάξος Μάραγκας, Maragkas, 84300, Greece",,698.0,10,2 ,False,True,False,True,True,False,35.0,True,July,Naxos
+Villa Matakia,"Ano Potamia Villa Matakia, Áno Potamiá, 84300, Greece",3.0,1525.9152659451993,8.8,13 ,True,False,False,True,False,False,70.0,True,July,Naxos
+Villa Natural View,"Μουτσούνα, Moutsouna Naxos, 84300, Greece",,1098.1308411214952,,,True,False,False,True,True,False,54.0,False,July,Naxos
+Filia suite-apartment agia anna naxos,"Αγια Αννα 1, Agia Anna Naxos, 84300, Greece",,2760.7476635514017,10,6 ,True,False,True,True,True,False,49.0,True,July,Naxos
+Depis Place and Apartments,"Agios Georgios, Naxos Chora, 84300, Greece",3.0,797.3214285714284,8.2, 251 ,False,False,False,True,True,False,20.0,False,July,Naxos
+Το σπίτι της Τζένης,"Γαλανάδο Νάξος Κυκλαδες, Glinado Naxos, 84300, Greece",,638.1944444444445,,,False,False,False,True,True,False,36.0,False,July,Naxos
+Naxian Lounge Villas,"Naxos Town - Laguna Beach, Naxos Chora, 84300, Greece",4.0,3586.0,9.3,19 ,True,False,False,True,True,False,75.0,True,July,Naxos
+Blossom House Naxos,"ΧΩΡΑ-ΝΑΞΟΥ, ΑΓΙΟΣ ΝΙΚΟΛΑΟΣ, Agios Georgios, 84300, Greece",,1323.3644859813082,10,3 ,False,False,False,False,True,False,,False,July,Naxos
+Naxos Golden Beach 2,"Agia Anna, Naxos, Agia Anna Naxos, 84300, Greece",3.0,1282.3190045248869,7.7,20 ,False,False,False,False,True,False,18.0,False,July,Naxos
+ROSABELLA HOME ( FILOTI VILLAGE ),"ΦΙΛΟΤΙ ΝΑΞΟΣ 84302 1, Filótion, 84302, Greece",4.0,872.9336966394187,9.7,7 ,True,False,False,True,False,False,110.0,False,July,Naxos
+Naxos Galanado Dreamy View,"Επαρχιακή Οδός Νάξου-Απειράνθου, Galanádhon, Greece",,455.1401869158878,5.0,1 ,False,False,False,False,True,False,24.0,False,July,Naxos
+Naxian Wave Seaside Villa,"Mikri Vigla, Cyclades, Greece, Mikri Vigla, 84300, Greece",,2039.252336448598,9.5,8 ,False,False,False,True,True,False,74.0,False,July,Naxos
+Margaritari Hotel,"Naxos, Agia Anna Naxos, 84300, Greece",2.0,1429.861111111111,9.2,55 ,False,False,True,True,True,False,35.0,False,July,Naxos
+Evenos Suites,"Νάξος, Naxos Chora, 84300, Greece",3.0,1426.0,10,8 ,False,False,False,False,False,False,30.0,False,July,Naxos
+Blue Horizon Villa Spectacular views and comfort,"αγιος πολύκαρπος νάξος, Agkidia, 84300, Greece",4.0,1920.446695832374,10,1 ,False,False,False,False,True,False,240.0,False,July,Naxos
+ZAFIRI countryside 4,"Χώρα Νάξου, Agios Arsenios, 84300, Greece",3.0,541.0,10,2 ,False,False,False,False,True,False,25.0,True,July,Naxos
+Galazia Boutique Apartments,"Ποταμιάς & Απειράνθου, Naxos Chora, 84300, Greece",3.0,1141.0,9.0,2 ,False,False,False,False,False,False,22.0,False,July,Naxos
+"Villa Anamnesia, Stelida Naxos","Στελιδα Ναξος, Stelida, 84300, Greece",,17963.012240553486,,,False,True,True,False,True,False,187.0,False,July,Naxos
+"Apartments enosis, Poseidon","Agia Anna, Agia Anna Naxos, 84300, Greece",4.0,1892.361111111111,8.8,4 ,False,False,False,False,True,False,35.0,False,July,Naxos
+Ninemia Naxos Home,"CHORA NAXOS, Naxos Chora, 84300, Greece",,821.4953271028037,,,True,False,True,True,True,False,44.0,False,July,Naxos
+Egea House,"Στελίδα Νάξου, Stelida, 84300, Greece",,1196.2616822429907,,,True,False,False,False,True,False,44.0,False,July,Naxos
+Summer hοuse,"Νάξος 1ος οροφος, Vívlos, 84300, Greece",3.0,1325.0,9.1,7 ,False,False,False,True,True,False,85.0,False,July,Naxos
+Ariadne's Rooms,"Ariadne's Rooms, Apeiranthou Village, Naxos Chora, 84302, Greece",,400.0,3.0,1 ,False,False,False,False,True,False,,False,July,Naxos
+Flerianos Studios Naxos,"ΑΓΙΟΣ ΠΡΟΚΟΠΙΟΣ 1 Y ΝΑΞΟΣ, Agios Prokopios, 84300, Greece",3.0,718.0,8.4, 36 ,True,False,False,False,True,False,25.0,True,July,Naxos
+Naxian Icon Luxury Residence,"Χώρα Νάξου, Naxos Chora, 84300, Greece",,1600.0,9.9,31 ,False,False,False,False,False,False,52.0,False,July,Naxos
+Mili Art Home,"Επαρχιακή Οδός Νάξου-Μονής Μύλοι 1, Naxos Chora, 84300, Greece",,1894.392523364486,10,1 ,False,False,False,True,False,False,109.0,False,July,Naxos
+ZAFIRI countryside 3,"Χώρα Νάξου, Agios Arsenios, 84300, Greece",3.0,495.7956359765833,10,1 ,False,False,False,False,True,False,25.0,True,July,Naxos
+Village Vintage Cycladic House in Naxos,"Επαρχιακή Οδός Νάξου-Χαλκιού, Mélanes, 84300, Greece",,971.0280373831775,,,False,False,False,True,True,False,99.0,False,July,Naxos
+Kalados Studios,"Kalando, Kalando, 84302, Greece",,511.214953271028,9.5,30 ,False,False,False,True,True,True,19.0,True,July,Naxos
+Alpha Studios (Adults Only),"Kalavriton Street, Agios Georgios, Naxos Chora, 84300, Greece",3.0,1023.0,8.8,385 ,False,False,False,False,True,False,26.0,False,July,Naxos
+The Nine Graces - Agios Prokopios Beach Apartments -Option with terrace and jacuzzi,"Agios Prokopios Beach, Agios Prokopios, 84300, Greece",4.0,1539.9553571428569,10,1 ,True,False,False,False,True,False,33.0,False,July,Naxos
+Fabrica home,"Επαρχιακή Οδός Νάξου-Απειράνθου, Apérathos, 84302, Greece",,587.0,9.0,2 ,False,False,False,True,True,False,,True,July,Naxos
+Eleni's house II,"κορωνος ναξος, Kóronos, 84300, Greece",3.0,524.0,8.0, 1 ,False,False,False,False,True,False,40.0,False,July,Naxos
+Axotikon Apartment In Naxos Town,"Σταματιου Λαμπαδάκη, Naxos Chora, 84300, Greece",,1382.9034193161367,,,False,False,False,True,False,False,52.0,False,July,Naxos
+Pregadi Cycladic Suite,"Agios Arsenios, Naxos Chora, 84300, Greece",3.0,902.493765586035,,,False,False,False,True,True,False,53.0,False,July,Naxos
+Platsa's House,"Apeiranthos, Apérathos, 84302, Greece",,899.0654205607476,8.5, 15 ,False,False,False,True,False,False,79.0,True,July,Naxos
+apeiranthos traditional stone house,"aperathos, Apérathos, 84300, Greece",,722.5342323445693,8.3, 6 ,True,False,False,True,True,False,100.0,False,July,Naxos
+ZAFIRI countryside 1,"Χώρα Νάξου, Agios Arsenios, 84300, Greece",3.0,600.6944444444445,9.0,2 ,False,False,False,False,True,False,25.0,True,July,Naxos
+Zeidoron Country Houses Naxos (Elais House),"Kato Potamia. Naxos, Naxos Chora, 84300, Greece",,938.0,,,False,False,False,True,True,False,54.0,False,July,Naxos
+The Nine Graces - Agia Anna - Option With private pool or hot tub,"Agia Anna - Agios Arsenios, Agia Anna Naxos, 84300, Greece",,1781.3953488372094,8.7,4 ,True,True,False,True,True,False,36.0,False,July,Naxos
+Naxian Icon Luxury Residence 2,"Περιοχή Έλλη Ίκα, Naxos Chora, 84300, Greece",3.0,1874.343891402715,9.5,8 ,False,False,False,False,True,False,57.0,False,July,Naxos
+"Villa Anakalida, Kastraki","kastraki naxos, Naxos Chora, 84300, Greece",,2939.9680681213413,,,False,False,False,True,True,False,260.0,False,July,Naxos
+Akakia Residence - Vivlos Village,"vivlos, Naxos Chora, 84300, Greece",,962.6168224299065,9.5,2 ,True,False,False,True,True,False,98.0,False,July,Naxos
+Naxos Apartment,"Chora Naxou, Naxos Chora, 84300, Greece",4.0,2892.0,9.4,5 ,True,False,False,True,False,True,95.0,False,July,Naxos
+Diamantis Kitesurf Villa,"Mikri Vigla, Mikri Vigla, 84302, Greece",,3307.4766355140187,9.5,2 ,False,True,False,True,True,False,79.0,True,July,Naxos
+The Old ''Stony'' Mitatos,"Πυργάκι Κτήριο, Aliko Beach, 84302, Greece",4.0,720.0,9.7,4 ,False,False,False,True,True,False,45.0,True,July,Naxos
+Villa Parisi Naxos Luxury Villas&Pisina-Jacuzzi Spa,"Aggidia Naxos, Naxos Chora, 84300, Greece",4.0,3003.0,9.4,14 ,False,True,False,True,True,False,100.0,False,July,Naxos
+Hora Seaside Suites,"ΧΩΡΑ ΝΑΞΟΥ Ισόγειο, Naxos Chora, 84300, Greece",3.0,1807.0112825236013,9.5,183 ,False,False,False,True,True,False,32.0,False,July,Naxos
+Doukaki’s House Naxos,"Φιλότι Περιοχή Άγιος Κωνσταντίνος, Filótion, 84300, Greece",,836.4485981308411,7.8,6 ,False,False,False,True,False,False,60.0,False,July,Naxos
+Apiranthos House in traditional village Queen size,"Apiranthou, Naxos Chora, 84300, Greece",,793.4579439252336,10,1 ,True,False,False,True,False,False,74.0,False,July,Naxos
+Glyfada Studio with Sea View,"glyfada, Naxos Chora, 84300, Greece",,901.8691588785047,8.5, 2 ,False,False,False,True,True,False,35.0,False,July,Naxos
+Sea La Vie Apartment - 1 Bedroom Apartment,"Naxos, Agios Prokopios, Cyclades 84300, Agios Prokopios, 84300, Greece",,1353.271028037383,8.0, 2 ,False,False,False,False,True,False,40.0,False,July,Naxos
+Petite Suite,"Αγκίδια Νάξου, Agkidia, 84300, Greece",,1442.9906542056074,8.0, 1 ,False,False,False,False,True,False,30.0,True,July,Naxos
+Coralli Beach Apartments,"Mikri Vigla, Mikri Vigla, 84300, Greece",,1310.2803738317757,9.8,109 ,True,False,False,False,True,False,23.0,True,July,Naxos
+"New-Built Holiday House in Naxos, Galini","Galini, Naxos Chora, Greece",,682.9167499833367,8.3, 3 ,False,False,False,True,True,False,60.0,False,July,Naxos
+Sea and Salt Naxos 3,"Glyfada Naxos Alyko Naxos, Kastraki, 84300, Greece",,0.0,,,False,False,False,True,True,False,,False,July,Naxos
+Karades Houses Medusa,"Ορκος - Πλάκα Ναξος Κυκλάδες 1 κτίριο  1ο όροφος, Plaka, 84300, Greece",3.0,893.75,,,False,False,False,True,True,False,45.0,True,July,Naxos
+My Grandma's Deluxe Spa Suite,"Damalas, Greece Damalas Naxos, Dhamariónas, 84302, Greece",,742.9906542056075,9.0,2 ,True,False,False,True,True,False,49.0,False,July,Naxos
+Naxos beachfront private villa with pool,"m vigla, Naxos Chora, 84300, Greece",4.0,6993.75,,,True,True,False,True,True,False,140.0,False,July,Naxos
+Hill Club Naxos,"Orkos Naxos, Naxos Chora, 84300, Greece",,11616.0,,,True,True,False,False,True,False,170.0,True,July,Naxos
+Glyfada House,"Νάξου, Kastraki, 84300, Greece",,757.9439252336448,10,4 ,False,False,False,True,True,False,54.0,False,July,Naxos
+Villa Mayia by Anamnesia Collection,"Naxos, Mikri Vigla, 84302, Greece",4.0,10088.429656919181,,,True,True,False,False,True,False,190.0,False,July,Naxos
+Villa Anamnisis,"Orkos beach, Naxos Chora, 84302, Greece",,13985.668758739554,,,True,True,False,False,True,False,190.0,False,July,Naxos
+Villa Luana,"Plaka Villa Luana, Plaka, 84300, Greece",4.0,4002.0,9.3,3 ,True,True,False,True,True,False,135.0,False,July,Naxos
+Marathitis Naxian Cottage House-Unique Aegean Sea View,"Κανάκη, Kanakis, 84302, Greece",3.0,927.0833333333334,8.3, 7 ,False,False,False,True,True,False,75.0,True,July,Naxos
+Villa Agrabely & Suites,"Επαρχιακή Οδός Γαλανάδου-Σαγκρίου, Galanádhon, 84300, Greece",,1218.6915887850466,9.6,9 ,False,False,True,False,True,False,44.0,True,July,Naxos
+Argana Villa Naxos,"Argana, Agios Arsenios, Plaka, 84300, Greece",4.0,4531.053494481091,8.0, 1 ,True,True,False,True,True,False,105.0,True,July,Naxos
+Naxian green life,"Αλυκή, Agia Anna Naxos, 84300, Greece",,0.0,,,True,False,True,True,True,False,,False,July,Naxos
+My Island Homes and Residence,"naxos town main street, Naxos Chora, 84300, Greece",4.0,1972.6131221719456,9.7,22 ,False,False,False,True,True,False,90.0,False,July,Naxos
+Janakos View Apartment I with Hot Tub,"Γλινάδο , Νάξος, Glinado Naxos, 84300, Greece",,1155.1401869158879,,,True,False,False,False,True,False,35.0,False,July,Naxos
+"Villa Mayia, Mikri Vigla","Mikri Vigla naxos, Naxos Chora, 84300, Greece",,13370.093457943924,,,False,True,True,False,True,False,200.0,False,July,Naxos
+Princess Luxury Suites,"naxos 0, Naxos Chora, 84300, Greece",3.0,2808.0,,,True,True,True,False,False,False,35.0,False,July,Naxos
+Porta Marina,"Protopapadaki, Naxos Chora, 84300, Greece",4.0,2515.0,9.9,29 ,False,False,False,False,False,False,36.0,False,July,Naxos
+Sea View Maisonette by the beach,"Orkos beach, Naxos, Cyclades, Mikri Vigla, 84302, Greece",,2255.1401869158876,9.0,1 ,False,False,False,False,True,False,69.0,False,July,Naxos
+Halaros Castle,"Glinado Naxos, Glinado Naxos, 84300, Greece",3.0,1564.562374245473,8.4, 7 ,True,False,False,True,True,False,120.0,True,July,Naxos
+Beach Connection Naxos town,"Tripodon, Naxos Chora, 84300, Greece",,1271.0280373831774,9.0,4 ,False,False,False,True,True,False,49.0,False,July,Naxos
+House of God Apollonas,"Απολλωνάς 1st floor, Apollon, 84302, Greece",3.0,2206.25,,,False,False,True,True,False,False,74.0,True,July,Naxos
+Natural Life,"Naxos, Naxos Chora, 84300, Greece",,842.0560747663551,9.6,5 ,False,False,False,True,True,False,24.0,False,July,Naxos
+Hora Seaside Suites,"ΧΩΡΑ ΝΑΞΟΥ Ισόγειο, Naxos Chora, 84300, Greece",3.0,1658.3333333333335,9.5,183 ,False,False,False,True,True,False,32.0,False,July,Naxos
+Naxos Castle Diamond,"NAXOS CASTLE, Naxos Chora, 84300, Greece",3.0,969.0,,,False,False,False,False,True,False,40.0,False,July,Naxos
+Naxian Asset,"Γεωργίου Βαλληνδρά, Naxos Chora, 84300, Greece",3.0,1654.6511627906978,,,True,False,False,False,True,False,44.0,False,July,Naxos
+Villa Nausicaa Kastraki Naxos,"kastraki, Naxos Chora, 84300, Greece",4.0,2174.7767857142853,8.5, 2 ,True,False,False,True,True,False,80.0,True,July,Naxos
+Oneiric Harmony,"Mikri Vigla, Naxos, Mikri Vigla, 84300, Greece",3.0,1945.5445544554455,8.7,8 ,True,False,False,True,True,False,80.0,False,July,Naxos
+Amaranto Naxos 2,"Λεωφόρος Νάξου Εγγαρών, Naxos Chora, 84300, Greece",,758.9454294266636,,,True,False,False,True,False,False,31.0,False,July,Naxos
+Nature house #2,"Kaloxylos Naxos 1, Naxos Chora, 84300, Greece",,378.47222222222223,5.3,3 ,False,False,False,True,True,False,45.0,True,July,Naxos
+The Beach House Μουτσούνα Νάξος,"Moutsouna Naxos, Moutsouna Naxos, 84302, Greece",,787.0,,,False,False,False,True,False,True,82.0,False,July,Naxos
+Xenion Zeus,"Filoti 1, Filótion, 84302, Greece",3.0,760.0,,,False,False,False,False,True,False,70.0,False,July,Naxos
+Νio Chorio Apartment Naxos old town,"Νιο χωριό Χώρα Νάξου έναντι Μέλι και Κανέλα, Naxos Chora, 84300, Greece",4.0,1270.0,,,False,False,False,False,False,False,40.0,False,July,Naxos
+οικία στην πόλη Γαλανάδο,"Γαλανάδο, Glinado Naxos, 84300, Greece",3.0,818.6046511627907,,,False,False,False,True,True,False,85.0,True,July,Naxos
+Naxos Centro Kyriaki,"Chora Naxos, Naxos Chora, 84300, Greece",4.0,1016.0,,,False,False,False,False,False,False,50.0,False,July,Naxos
+Marina's traditional stone house,"Koronos, Kóronos, 84302, Greece",3.0,536.5961199294533,10,1 ,True,False,False,True,False,False,41.0,True,July,Naxos
+Villa Hrisa,"kalamouria 1 plaka, Plaka, 38400, Greece",,5956.07476635514,5.0,1 ,True,True,False,True,True,False,180.0,False,July,Naxos
+A Casa d'Irene,"Galanado Naxos, Naxos Chora, 84300, Greece",,2037.0,8.7,3 ,False,False,False,True,True,False,150.0,True,July,Naxos
+Moonlight Coast,"Kastraki Naxou, Naxos Chora, 84302, Greece",3.0,773.0,7.5,2 ,False,False,False,True,True,False,70.0,False,July,Naxos
+Lemonia House,"3C65+XCR, Vívlos, 84300, Greece",3.0,1102.5565610859728,,,False,False,False,True,True,False,70.0,False,July,Naxos
+Jardin Mikri Vigla,"mikri vigla, Mikri Vigla, 84300, Greece",,1244.8598130841121,,,False,False,False,False,True,False,60.0,False,July,Naxos
+Antony Suites (Adults Only),"Agios Georgios Beach, Naxos Chora, 84300, Greece",,2544.859813084112,9.3,154 ,True,False,True,True,False,False,24.0,False,July,Naxos
+"Cozy Apartment in Filoti, Naxos 2BR","Eparchiaki Odos Naxou-Apiranthou, Filótion, 84302, Greece",3.0,844.257815103646,,,True,False,False,False,True,False,70.0,False,July,Naxos
+Zeidoron Country Houses Naxos (Gaia House),"ποταμια,ναξοσ, Káto Potamiá, 84300, Greece",,1040.6976744186047,8.5, 2 ,False,False,False,False,True,False,47.0,False,July,Naxos
+Riviera Paradise : unique vacations experience,"Κεδροδάσος Αλυκού, Αλυκό Νάξου, Aliko Beach, 84302, Greece",,3729.668431959475,,,False,True,False,True,True,False,152.0,True,July,Naxos
+Tzanet Apartment,"Οδός Αγίου Πολυκάρπου, Naxos Chora, 84300, Greece",,1968.2242990654204,,,False,False,False,False,False,False,49.0,True,July,Naxos
+spitakia naxos,"Stelida, Stelida, 84300, Greece",3.0,1197.767857142857,8.5, 2 ,False,False,False,True,True,False,49.0,True,July,Naxos
+Zas Studios,"Agios Georgios, Naxos Chora, 84300, Greece",4.0,963.73474556758,9.5,140 ,False,False,False,False,True,False,18.0,False,July,Naxos
+Ένα σπίτι μέσα στο χρόνο,"Μέση Ποταμιά, Áno Potamiá, 84300, Greece",,614.623741918283,,,False,False,False,True,False,False,,False,July,Naxos
+On the road house,"Επί του επαρχιακου δρόμου της Απειρανθου Διαμέρισμα πρώτου ορόφου, Apérathos, 84302, Greece",,694.3925233644859,9.2,4 ,False,False,False,False,True,False,74.0,False,July,Naxos
+My Vivlos Home,"Vivlos Naxos, Vívlos, 84300, Greece",3.0,828.0,,,False,False,False,False,True,False,60.0,False,July,Naxos
+Diamantis kite-surf House,"Mikri Vigla Naxos, Mikri Vigla, 84302, Greece",,827.0833333333334,,,True,False,False,True,True,False,40.0,False,July,Naxos
+Ocean Breeze,"Άγιος Προκόπιος, Agios Prokopios, 84300, Greece",3.0,0.0,,,False,False,False,True,True,False,,False,July,Naxos
+"Κυκλαδίτικη Μεζονέτα, 9 λεπτά από την Χώρα, με θέα","Γαλανάδο Νάξου, Μονοκατοικια Μεζονέτα, Galanádhon, 84300, Greece",,1222.9910714285713,7.5,2 ,True,False,False,True,True,False,120.0,False,July,Naxos
+Lagom Iria Naxos,"Andrea Papandreou, Naxos Chora, 84300, Greece",4.0,1233.0,,,True,False,False,True,True,False,45.0,True,July,Naxos
+Depi's Sea Horizon Apartments,"29CM+HV Μικρή Βίγλα ,Ναξος, Mikri Vigla, 84302, Greece",,812.1495327102804,,,False,False,False,False,True,False,,False,July,Naxos
+Traditional Inn Pirethron,"Apeiranthos Traditional Inn Pirethron, Apérathos, 84302, Greece",4.0,941.0584549756716,8.7,6 ,False,False,False,False,False,False,65.0,False,July,Naxos
+Vrodos House,"Απείρανθος, Apérathos, 84302, Greece",,718.0,,,False,False,False,True,False,False,,False,July,Naxos
+Petrino House,"Νάξος - Πάρος, Apérathos, 84302, Greece",,837.9411764705882,,,False,False,False,True,True,False,85.0,False,July,Naxos
+NAXOS MARILENA,"ΧΩΡΑ ΝΑΞΟΣ, Naxos Chora, 84300, Greece",,2706.542056074766,,,False,False,False,True,True,False,45.0,False,July,Naxos
+Cycladic apartment on the hill with beautiful views!!,"naxos agios polikarpos, Naxos Chora, 84300, Greece",,749.6259351620948,,,False,False,False,False,True,False,33.0,True,July,Naxos
+Monitsia Traditional House,"Μονοίτσια ή Ράχη, Khalkíon, 84302, Greece",,1034.5794392523364,,,False,False,False,True,False,False,48.0,False,July,Naxos
+deluxe apartment irene1,"chora Naxos first floor, Naxos Chora, 84300, Greece",4.0,902.9017857142857,,,False,False,False,False,True,False,55.0,False,July,Naxos
+Sea View Villa in Naxos - Oskelos South,"Δρόμος Οσκέλου, Kastraki, 84302, Greece",4.0,2263.400653202693,,,True,False,False,False,True,False,70.0,False,July,Naxos
+Teal Blue Serenity,"Pyrgaki 20D, Agiassos, 84302, Greece",3.0,654.0,,,False,False,False,True,True,False,69.0,False,July,Naxos
+Antony Suites (Adults Only),"Agios Georgios Beach, Naxos Chora, 84300, Greece",4.0,2028693.4579439252,9.3,154 ,True,False,True,True,False,False,25.0,False,July,Naxos
+Almond Blossom Cottage,"Naxos Cyclades, Naxos Chora, 84300, Greece",4.0,1213.5338345864661,,,False,False,False,True,True,False,130.0,False,July,Naxos
+Naxian village house,"Tripodes Naxos, Naxos Chora, 84300, Greece",,1266.3551401869158,,,False,False,False,True,False,False,69.0,False,July,Naxos
+"Villa Almiriki, Stelida Naxos.","stelida naxos, Naxos Chora, 84300, Greece",,4374.0,,,False,True,False,True,True,False,100.0,True,July,Naxos
+"Traditional house inside Filoti, Naxos","Φιλοτίου, Filótion, 84302, Greece",,1248.5981308411215,9.0,2 ,True,False,False,False,True,False,53.0,False,July,Naxos
+Luxury Naxos Villas Premium Suite Air Conditioning Outdoor Pool 1 Bedroom Stelida,"Stelida (way to Ag. Prokopios), Naxos Chora, 843 00, Greece",3.0,3888.392857142857,,,False,True,False,True,False,False,100.0,False,July,Naxos
+Zas Studios,"Agios Georgios, Naxos Chora, 84300, Greece",4.0,963.0,9.5,140 ,False,False,False,False,True,False,18.0,False,July,Naxos
+Villa Salina,"agios prokopios naxos, Naxos Chora, 84300, Greece",,3849.0455594940004,,,False,False,False,True,True,False,130.0,False,July,Naxos
+Sarris Ligaridia Apartments,"ΛΙΓΑΡΙΔΙΑ ΝΑΞΟΥ ΠΕΤΡΙΝΟ 1, Naxos Chora, 84302, Greece",3.0,556.0,9.7,18 ,False,False,False,False,True,False,30.0,True,July,Naxos
+On a magnificent sandy beach,"Mikri Vigla, Plaka, 84302, Greece",4.0,2927.0,,,False,False,False,False,True,False,108.0,False,July,Naxos
+STONE VILLA NAXOS,"naxos, Naxos Chora, 84300, Greece",4.0,4841.121495327103,,,False,True,False,False,True,False,104.0,False,July,Naxos
+Konstas Sun,"Glinado, Naxos, 84300, Naxos Chora, 84300, Greece",,736.4485981308411,,,True,False,False,True,True,False,52.0,False,July,Naxos
+Old Mansion in Melanes,"Επαρχιακή Οδός Νάξου-Χαλκιού, Mélanes, 84300, Greece",3.0,877.9069767441861,,,True,False,False,False,False,False,86.0,False,July,Naxos
+Villa Summer Sense,"Αγια Αννα, Agia Anna Naxos, 84300, Greece",,3007.4766355140187,,,False,False,True,False,True,False,,False,July,Naxos
+ZAFIRI countryside 2,"Χώρα Νάξου, Agios Arsenios, 84300, Greece",,601.8691588785047,,,False,False,False,False,True,False,24.0,True,July,Naxos
+Villa Naxian Perfection,"Glinado naxos, Naxos Chora, 84300, Greece",,9126.0,,,False,True,True,False,True,False,180.0,False,July,Naxos
+Luxury Naxos Villas Grande Suite Air Conditioning Outdoor Pool 1 Bedroom Stelida,"Stelida (way to Ag. Prokopios), Naxos Chora, 843 00, Greece",,4709.345794392523,,,False,False,False,False,False,False,99.0,True,July,Naxos
+Stella’s bnb,"Naxos Chora , Naxos Chora, 84300, Greece",4.0,1022.429906542056,,,False,False,False,True,False,False,60.0,True,July,Naxos
+Naxos Allies,"Χώρα Νάξου, Naxos Chora, 84000, Greece",,1566.3551401869158,,,False,False,False,True,False,False,79.0,True,July,Naxos
+STUDIO MAIRA seafront in to the blue,"ΑΠΟΛΛΩΝΑΣ, Apollon, 84300, Greece",3.0,715.2777777777778,6.5,2 ,False,False,False,False,False,True,,False,July,Naxos
+Holiday Home Andrielos,"Μονής, Moní, 84300, Greece",,718.8562287542492,,,False,False,False,True,True,False,,False,July,Naxos
+Casa Karavola,"Eparchiaki Odos Galanadou-Polichnis, Glinado Naxos, 84300, Greece",3.0,635.4910714285713,,,False,False,False,False,False,False,100.0,False,July,Naxos
+Estelle,"https://goo.gl/maps/AtYMGx8aswJWhfoX9, Khalkíon, 84302, Greece",3.0,994.0,,,False,False,False,True,False,False,80.0,False,July,Naxos
+Evdokia-Cozy Vineyard apartement with Aegean View,"Kleido,84302, Apeirathos, Naxos Chora, 84300, Greece",,928.7895927601809,,,True,False,False,True,True,False,50.0,False,July,Naxos
+Villa Evdokia-Comfort Vineyard apartment,"Klido, Naxos Chora, 84302, Greece",,822.4299065420561,,,True,False,False,False,True,False,41.0,False,July,Naxos
+Helen Studios,"Chora Naxou, Naxos Chora, 84300, Greece",,1057.0093457943924,9.1,56 ,False,False,False,True,True,False,35.0,False,July,Naxos
+Yara Sea View Beach Apartment,"Agia Anna, Naxos, Agia Anna Naxos, 84300, Greece",4.0,2873.1521989408243,,,False,False,False,True,True,False,50.0,False,July,Naxos
+Marilia's Nest,"Filoti Naxos, Filótion, 84302, Greece",,569.0421367718167,,,False,False,False,True,True,False,50.0,False,July,Naxos
+"Enosis apartments in Agia Anna , Apartment Argo","Αγια Αννα, Agia Anna Naxos, 84300, Greece",,1166.0,,,False,False,False,False,True,False,55.0,False,July,Naxos
+ElVirtus Suites,"Chora, Naxos Chora, 84300, Greece",,1171.5277777777778,,,False,False,False,False,True,False,37.0,False,July,Naxos
+Windy House,"Νάξος, Agkidia, 84300, Greece",,556.0,,,False,False,False,False,True,False,40.0,False,July,Naxos
+9 Muses Naxos Beach hotel,"Kastraki Beach, Kastraki, 84300, Greece",,1822.429906542056,9.1,45 ,True,False,False,True,True,False,57.0,True,July,Naxos
+Casa AMARE - Naxos,"Μικρασιατών Προσφύγων, Naxos Chora, 84300, Greece",,751.1520737327189,,,False,False,False,False,False,False,46.0,False,July,Naxos
+Grotta Sunset Escape,"ΧΩΡΑ ΝΑΞΟΣ, Naxos Chora, 84300, Greece",3.0,1173.2558139534883,,,False,False,False,False,False,False,44.0,False,July,Naxos
+P&G APARTMENTS,"Protopapadaki 0, Naxos Chora, 84300, Greece",,687.0535714285713,,,False,False,False,False,True,False,33.0,False,July,Naxos
+Apleton Villa,"Naxos - Paros, Naxos Chora, 84300, Greece",,1411.111111111111,,,False,True,False,True,True,False,75.0,False,July,Naxos
+Apanemo,"ΑΝΕΓΥΡΙΔΑ ΙΣΟΓΕΙΟ, Kóronos, 84302, Greece",3.0,542.1022334791619,8.6,9 ,False,False,False,False,False,False,40.0,False,July,Naxos
+Annio boutique studios,"Plaka, Plaka, 84300, Greece",,1390.6542056074766,8.9,289 ,True,False,True,True,True,False,35.0,True,July,Naxos
+Naxos Hostel,"Αγια Αννα, Agia Anna Naxos, 84300, Greece",,192.9524886877828,6.7,73 ,False,False,True,False,False,False,23.0,False,July,Naxos
+Hostel Naxos Camping,"LAGOUNA AGIOS GEORGIOS, Naxos Chora, 84300, Greece",,180.70458208611558,6.0,35 ,False,False,False,False,True,False,33.0,False,July,Naxos

@@ -1,0 +1,677 @@
+name,location,stars,amount_conv,Rating,NumReviews,Airport,Pool,Breakfast,Family_Rooms,Parking,Restaurant,size_m2,Pets,Month,Location
+Nomads House,"Πάρος,Λογαράς, Logaras, 84400, Greece",,885.9813084112149,9.4,40 ,False,False,False,True,True,False,22.0,False,August,Paros
+Surfing Beach Village Paros,"Santa Maria Beach, Santa Maria, 84401, Greece",3.0,938.3720930232558,7.6,"1,002 ",True,True,False,True,True,True,24.0,True,August,Paros
+Londos Hotel,"Piso Livadi, Piso Livadi, 84400, Greece",2.0,568.75,8.5, 224 ,False,False,True,True,True,False,19.0,False,August,Paros
+Paros Inn,"Logaras, Logaras, 84400, Greece",,505.607476635514,8.1, 282 ,False,False,True,True,False,True,17.0,False,August,Paros
+Nicos Studios & Apartments,"Logaras, Logaras, 84400, Greece",3.0,427472.0550300946,9.0,164 ,False,False,False,False,True,False,21.0,False,August,Paros
+Amaryllis Beach Hotel,"Chrissi Akti, Chrissi Akti, 84400, Greece",3.0,855.0,8.2, 191 ,False,False,True,True,True,True,20.0,False,August,Paros
+"Mythic Paros , Adults Only","Sarakiniko-Agia Irini Mythic Esclusive Resort, Agia Irini Paros, 84400, Greece",,2657.009345794392,9.0,487 ,True,True,True,False,False,True,19.0,False,August,Paros
+PAREA Paros - Adults Only,"Eparchiaki Odos Parikias-Pountas, Kampos Paros, 84400, Greece",,2127.1028037383176,9.2,172 ,True,True,False,False,True,False,28.0,False,August,Paros
+Aegean Village,"Parikia, Parikia, 84400, Greece",2.0,644.7368421052631,8.4, 530 ,False,False,False,True,True,False,25.0,False,August,Paros
+Aphrodite Boutique Hotel,"Aliki, Aliki, 84400, Greece",,503.7383177570093,9.5,153 ,True,True,True,False,True,False,15.0,False,August,Paros
+Ostria Studios & Apartments,"Aliki, Aliki, 84400, Greece",3.0,1334.5140781108082,8.8,174 ,False,False,False,True,False,False,51.0,True,August,Paros
+Magoo Suites,"Λογαρας, Παρος, Logaras, 84400, Greece",,1135.5140186915887,8.6,88 ,False,False,False,True,True,False,40.0,False,August,Paros
+Cleopatra Seaside Homes,"Logaras, Piso Livadi, 84400, Greece",4.0,1979.861111111111,8.8,163 ,True,False,True,True,True,False,55.0,True,August,Paros
+Sunset View Hotel,"Klimata, Parikia, 84400, Greece",,2205.607476635514,8.8,650 ,True,False,False,True,True,True,44.0,False,August,Paros
+Poseidon of Paros Hotel & Spa,"Main Street, Chrissi Akti, 84400, Greece",,1682.2429906542054,9.0,187 ,True,True,True,False,True,True,24.0,False,August,Paros
+Villa Leo - Unique & Calm,"Kalami Paroikia, Kampos Paros, 84400, Greece",,3982.242990654205,10,5 ,True,True,False,False,True,False,109.0,False,August,Paros
+Elena Studios & Apartments,"Piso Livadi, Piso Livadi, 84400, Greece",3.0,647.0,9.3,292 ,True,False,False,True,True,False,25.0,False,August,Paros
+Holidays in Paros,"Aliki, Aliki, 84400, Greece",3.0,435.0,8.7,116 ,False,False,False,True,True,False,16.0,False,August,Paros
+Irenes View Apartments,"Agia Irini, Pounda, Agia Irini Paros, 84400, Greece",4.0,1214.0,9.5,46 ,True,True,False,True,True,False,36.0,True,August,Paros
+Selina Paros,"Pounda Paros, Pounda, 84400, Greece",,893.4579439252336,7.2,168 ,True,True,True,True,True,True,22.0,True,August,Paros
+Hotel Senia - Onar Hotels Collection,"Naoussa, Naousa, 84401, Greece",,3467.0,9.2,537 ,True,True,False,True,True,True,45.0,True,August,Paros
+Aloni Hotel,"Main Street, Piso Livadi, 84400, Greece",,1198.1308411214952,8.7,134 ,True,True,False,True,True,False,14.0,False,August,Paros
+Yades Suites & Spa - Adults only,"Vounali, Naousa, 84401, Greece",4.0,1563.0,9.1,194 ,False,False,True,False,True,False,30.0,False,August,Paros
+Villa Irini,"Naousa, Naousa, 84401, Greece",3.0,1603.0,9.2,329 ,False,True,True,True,False,False,25.0,False,August,Paros
+Nissiotiko Hotel,"Drios, Drios, 84400, Greece",3.0,764.1081257827664,9.2,163 ,False,False,False,False,True,False,18.0,False,August,Paros
+Cactus Beach Paros,"Logaras Beach cactus, Logaras, 84400, Greece",3.0,564.3960036330608,8.5, 150 ,True,False,False,False,True,True,25.0,False,August,Paros
+Hotel Cyclades,"Parikia, Parikia, 84400, Greece",,829.9065420560747,9.0,237 ,False,False,True,True,True,False,15.0,False,August,Paros
+Katerina mare,"Naousa, Naousa, 84400, Greece",4.0,3378.0,9.3,135 ,True,False,True,True,True,False,58.0,False,August,Paros
+Maryo Village,"Naoussa, Naousa, 84400, Greece",,942.0560747663551,9.3,231 ,True,True,True,False,True,False,26.0,False,August,Paros
+Ostria Studios & Apartments,"Aliki, Aliki, 84400, Greece",3.0,1335.1830531890398,8.8,174 ,False,False,False,True,False,False,51.0,True,August,Paros
+Horizon Sublime Pool Residence,"Glisidia, Kampos Paros, 84400, Greece",4.0,6838.88888888889,,,False,True,False,False,True,False,510.0,False,August,Paros
+Anna Platanou Hotel,"Parikia, Parikia, 84400, Greece",,852.3364485981308,8.8,343 ,False,True,True,False,True,False,17.0,False,August,Paros
+Acquamarina Resort,"Nea Chrisi Akti, Chrissi Akti, 84400, Greece",,1202.803738317757,8.8,86 ,True,True,True,False,True,True,44.0,False,August,Paros
+Sandaya Luxury Suites,"Naousa, Naousa, 84401, Greece",4.0,3066.0,8.8,272 ,True,True,True,False,True,True,20.0,False,August,Paros
+Cleopatra Seaside Homes,"Logaras, Piso Livadi, 84400, Greece",4.0,1984.8952337094174,8.8,163 ,True,False,True,True,True,False,55.0,True,August,Paros
+Argonauta Hotel,"Main Street, Parikia, 84400, Greece",,952.3364485981308,9.0,467 ,False,False,True,False,True,True,19.0,False,August,Paros
+"Quartano Luxury Cycladic Residence, Adults Only (13+)","Naousa Plaka, Naousa, 84401, Greece",,2047.663551401869,9.1,251 ,True,True,True,True,True,False,19.0,False,August,Paros
+CIEL Brand New Villa with Private Pool in Isterni,"isterni paros, Isterni, 84401, Greece",4.0,2585.416666666667,9.7,3 ,True,True,False,True,True,False,125.0,True,August,Paros
+Parosland Hotel,"Aliki Parou, Aliki, 84400, Greece",,812.1495327102804,8.9,115 ,False,False,False,True,True,True,22.0,True,August,Paros
+Asteras Paradise,"Peripheral Street Naousa- Marpissa , Naousa, 84401, Greece",4.0,863.0,8.0, 214 ,False,False,True,True,True,True,17.0,False,August,Paros
+Paros Five Senses,"Επαρχιακή Οδός Παροικιάς-Πούντας, Parasporos, 84400, Greece",3.0,971.4285714285713,9.8,24 ,True,False,True,True,True,False,15.0,False,August,Paros
+Celia Villa with Sea & Sunset View,"Kampos, Kampos Paros, 84400, Greece",,3285.9813084112147,,,True,False,False,False,True,False,235.0,False,August,Paros
+Anna Platanou Suites,"Parikia, Agia Irini Paros, 84400, Greece",,1602.0833333333335,9.3,153 ,True,True,False,False,True,False,25.0,False,August,Paros
+Hotel Naoussa,"Main Crossing Naoussa - Kolymbithres, Naousa, 84401, Greece",3.0,711.0,7.9,110 ,True,True,True,True,True,False,21.0,False,August,Paros
+Central Boutique Hotel by naoussa hills adults only,"naoussa XIROPOTAMOS, Naousa, 84401, Greece",4.0,1313.953488372093,8.4, 151 ,True,False,False,False,False,False,27.0,True,August,Paros
+Anemoi Resort,"Naoussa, Naousa, 84400, Greece",,1478.504672897196,8.3, 181 ,False,True,True,True,True,True,30.0,True,August,Paros
+Kandiani Bleu Ciel,"Agioi Anargiroi Area, Naousa, 84401, Greece",4.0,1907.4027170158877,9.5,266 ,False,False,True,True,True,False,25.0,False,August,Paros
+Panos Luxury Studios,"Parikia, Parikia, 84400, Greece",3.0,874.5535714285713,8.9,202 ,True,False,False,True,True,False,25.0,False,August,Paros
+Irene Hotel - Beachfront,"Parikia, Parikia, 84400, Greece",2.0,1038.0,8.6,276 ,False,False,False,False,True,False,18.0,True,August,Paros
+Kouros Blanc,"ΣΩΤΗΡΕΣ, Pounda, 84400, Greece",5.0,2090.0,9.6,16 ,True,True,True,False,True,True,23.0,True,August,Paros
+Summer Senses Luxury Resort,"Punda Beach Marpissa, Logaras, 84400, Greece",5.0,2004.0,9.2,328 ,True,False,True,False,False,False,25.0,False,August,Paros
+Ragoussis House,"Logaras Beach, Logaras, 84400, Greece",3.0,815.6998248687217,9.0,113 ,False,False,False,True,True,False,30.0,True,August,Paros
+Holidays in Paros,"Aliki, Aliki, 84400, Greece",,426.1682242990654,8.7,116 ,False,False,False,True,True,False,15.0,False,August,Paros
+Saint George Hotel,"Nea Chrissi Akti Beach, Chrissi Akti, 84400, Greece",4.0,1991.0,8.9,212 ,False,True,True,False,True,True,30.0,False,August,Paros
+Helliniko Hotel,"Livadia, Parikia, 84400, Greece",,927.1028037383177,8.5, 304 ,False,False,True,True,False,False,36.0,True,August,Paros
+Sunset Studios and Apartments for Adults only,"Naousa, Naousa, 84401, Greece",,1345.7943925233644,9.3,54 ,True,True,False,True,True,False,65.0,True,August,Paros
+Margarita Studios Ambelas,"Main Street, Ambelas, 84401, Greece",,700.9345794392523,9.2,147 ,True,False,True,False,True,True,20.0,True,August,Paros
+Parian Lithos Residence,"Naoussa, Naousa, 84401, Greece",,1547.663551401869,9.6,235 ,True,True,True,True,False,False,19.0,False,August,Paros
+Irenes View Apartments,"Agia Irini, Pounda, Agia Irini Paros, 84400, Greece",,1503.7383177570093,9.5,46 ,True,True,False,True,True,False,36.0,True,August,Paros
+Kanale's Rooms & Suites,"Piperi, Naousa, 84401, Greece",,2348.0,8.9,290 ,True,True,True,False,True,True,24.0,True,August,Paros
+Doukissa,"Parikia, Parikia, 84400, Greece",,1152.3364485981308,9.0,203 ,False,False,True,False,True,False,19.0,False,August,Paros
+Calme Boutique Hotel - Adults Only,"Drios, Drios, 84400, Greece",5.0,3636.0,9.3,57 ,False,True,False,True,True,True,33.0,False,August,Paros
+Aspries Suites,"Piso Livadi Ground floor, Piso Livadi, 84400, Greece",,626.1682242990654,9.6,80 ,False,False,False,True,True,False,27.0,False,August,Paros
+Marioly Studios,"Parikia, Parikia, 84400, Greece",3.0,1028.4589766878594,9.4,169 ,False,False,False,True,True,False,36.0,False,August,Paros
+Vassiliki Rooms,"Livadia, Parikia, 84400, Greece",3.0,693.0,9.4,206 ,True,False,False,False,True,False,20.0,True,August,Paros
+Minois - Small Luxury Hotels of the World,"Parikia, Parasporos, 84400, Greece",,3197.196261682243,8.7,124 ,False,True,True,True,True,True,27.0,False,August,Paros
+Hotel Fisilanis,"Logaras , Logaras, 84400, Greece",,338.31775700934577,8.5, 172 ,False,False,True,True,False,True,14.0,True,August,Paros
+Acron Villas,"Kolybithres, Kolympithres, 84401, Greece",,2580.232558139535,9.1,55 ,True,False,False,True,False,False,107.0,True,August,Paros
+Akrotiri Hotel,"Krotiri, Parikia, 84400, Greece",,1152.3364485981308,9.3,714 ,True,True,True,True,True,False,14.0,True,August,Paros
+Sea Swell Villas at Santa Maria,"Santa Maria, Santa Maria, 84401, Greece",,1503.7383177570093,9.3,17 ,False,True,False,True,True,False,44.0,False,August,Paros
+Sea Breeze Studios,"Αλυκή, Aliki, 84400, Greece",3.0,177631.77570093458,9.1,65 ,True,False,False,True,False,False,36.0,True,August,Paros
+Hotel Marinero,"Naousa, Naousa, 84401, Greece",2.0,903.0,8.8,277 ,True,True,False,False,True,False,16.0,True,August,Paros
+George's beach studios Aliki Paros,"Aliki, Aliki, 84400, Greece",3.0,675.6944444444445,9.3,126 ,False,False,False,True,True,False,35.0,False,August,Paros
+Elena Studios & Apartments,"Piso Livadi, Piso Livadi, 84400, Greece",3.0,648.4374999999999,9.3,292 ,True,False,False,True,True,False,25.0,False,August,Paros
+Corali Hotel,"Piso Livadi Paros, Piso Livadi, 84400, Greece",,481.30841121495325,9.0,1 ,False,False,True,True,False,False,19.0,False,August,Paros
+Marouso,"Molos Parou, Molos Parou, 84400, Greece",3.0,524.4186046511628,9.1,33 ,False,False,False,True,True,False,30.0,False,August,Paros
+"Guesthouse Casa De La Roca , Kostos , Paros","Casa De La Roca Casa De La Roca, Kóstos, 84400, Greece",3.0,1363.3847791378394,9.1,10 ,False,False,False,True,True,False,165.0,True,August,Paros
+Sea Breeze Studios,"Αλυκή, Aliki, 84400, Greece",,801.8691588785047,9.1,65 ,True,False,False,True,False,False,36.0,True,August,Paros
+Mellow Paros,"Eparchiaki Odos Parikias-Pountas, Parikia, 84400, Greece",,616.0,7.9,150 ,False,False,False,False,False,False,22.0,False,August,Paros
+Holidays in Paros,"Aliki, Aliki, 84400, Greece",,426.1682242990654,8.7,116 ,False,False,False,True,True,False,15.0,False,August,Paros
+"Villa Acqua · Gorgeous pool villa, stunning sea views, helipad!","Paros, Egeo 844 00, Greece, Parasporos, 844 00, Greece",,7946.728971962616,10,1 ,False,True,False,False,True,False,238.0,False,August,Paros
+Irenes View Apartments,"Agia Irini, Pounda, Agia Irini Paros, 84400, Greece",4.0,1502.0833333333335,9.5,46 ,True,True,False,True,True,False,36.0,True,August,Paros
+Selina Paros,"Pounda Paros, Pounda, 84400, Greece",4.0,906.0,7.2,168 ,True,True,True,True,True,False,22.0,True,August,Paros
+George's beach studios Aliki Paros,"Aliki, Aliki, 84400, Greece",3.0,624.0,9.3,126 ,False,False,False,True,True,False,35.0,False,August,Paros
+Nikolas Hotel,"Parikia, Parikia, 84400, Greece",,498.1308411214953,8.0, 219 ,False,False,False,True,True,False,18.0,False,August,Paros
+Hotel Senia - Onar Hotels Collection,"Naoussa, Naousa, 84401, Greece",,3779.9107142857138,9.2,537 ,True,True,False,True,True,True,45.0,True,August,Paros
+Aelia Hospitality Paros,"Nea Chryssi Akti (Tserdakia) 1, Chrissi Akti, 84400, Greece",,5863.551401869158,9.5,11 ,True,True,False,True,True,False,269.0,False,August,Paros
+Hotel Oasis,"Parikia, Paros, Parikia, 84400, Greece",2.0,717.4084165909778,8.5, 480 ,False,False,True,False,True,True,15.0,False,August,Paros
+Aloni Hotel,"Main Street, Piso Livadi, 84400, Greece",,1198.1308411214952,8.7,134 ,True,True,False,True,True,False,14.0,False,August,Paros
+Cove Paros,"Agioi Anargyroi Beach S.A., Naousa, Greece Naousa, Naousa, 84401, Greece",5.0,5467.361111111111,9.2,162 ,True,True,False,False,True,False,36.0,False,August,Paros
+San Antonio Summer House,"Eparchiaki Odos Parikias-Piso Livadiou, Piso Livadi, 84400, Greece",,757.0093457943925,7.9,260 ,True,True,False,True,True,False,15.0,False,August,Paros
+Crystal Dreams,"Μάρκου Μαυρογένη 24 Παροικιά, Parikia, 84400, Greece",4.0,1201.0,9.6,236 ,True,False,False,True,True,False,65.0,False,August,Paros
+Paros Rita Studios,"Piso Livadi, Piso Livadi, 84400, Greece",3.0,552.0,7.3,61 ,False,False,False,True,True,False,50.0,False,August,Paros
+Yades Suites & Spa - Adults only,"Vounali, Naousa, 84401, Greece",4.0,1563.0,9.1,194 ,False,False,True,False,True,False,30.0,False,August,Paros
+Villa Irini,"Naousa, Naousa, 84401, Greece",3.0,386156.0747663551,9.2,329 ,False,True,True,True,False,False,25.0,False,August,Paros
+Villa Kelly Rooms & Suites,"Main Street, Naousa, 84401, Greece",4.0,1653.0,9.0,278 ,True,True,False,True,True,False,28.0,False,August,Paros
+Silver Rocks Hotel,"Main Street, Chrissi Akti, 84400, Greece",2.0,382.0022624434389,7.5,28 ,True,True,True,True,True,False,17.0,False,August,Paros
+Daphne,"Paros, Naousa, 84401, Greece",,555.0,9.2,74 ,False,False,False,False,False,False,,False,August,Paros
+Flora Apartments,"Drios, Drios, 84400, Greece",3.0,688.5577434805748,9.6,33 ,False,False,False,True,True,False,50.0,False,August,Paros
+WHITE Brand New 1BD House with Jacuzzi in Isterni,"Isterni Paros, Isterni, 84400, Greece",3.0,1202.0833333333335,9.6,5 ,True,False,False,False,True,False,40.0,True,August,Paros
+Barbarigos luxury spa apartments,"ΝΑΟΥΣΑ ΠΑΡΟΥ, Naousa, 84401, Greece",4.0,1743.4356136820927,9.1,20 ,True,False,False,False,True,False,39.0,False,August,Paros
+Elysium Paros Houses,"Tzanes, Chrissi Akti, 84400, Greece",,1400.0,8.4, 14 ,False,True,False,True,True,False,95.0,True,August,Paros
+Yades Suites & Spa - Adults only,"Vounali, Naousa, 84401, Greece",,1409.3457943925232,9.1,194 ,False,False,True,False,True,False,30.0,False,August,Paros
+Vrohaki Studios & Rooms,"Piso Livadi, Piso Livadi, 84400, Greece",,475.7009345794392,8.6,86 ,False,False,False,True,True,False,24.0,True,August,Paros
+Kirki Rooms by the sea,"Parikia Paros, Parikia, 84400, Greece",,721.4953271028037,8.7,145 ,True,False,True,False,False,True,24.0,False,August,Paros
+Archipelagos Apartments,"Delion, Parikia, 84400, Greece",3.0,1000.0,9.6,86 ,False,False,False,True,True,False,22.0,True,August,Paros
+Angeliki's Studios Paros,"Parikia, Parikia, 84400, Greece",3.0,600.1158836893707,9.2,248 ,False,False,False,True,True,False,18.0,True,August,Paros
+Angels Pillow Luxury Boutique Residence - Adults Only,"ΝΑΟΥΣΑ ΠΑΡΟΥ ΑΓΙΟΙ ΑΝΑΡΓΥΡΟΙ, Naousa, 84401, Greece",,1731.25,9.5,208 ,True,True,True,False,True,False,25.0,False,August,Paros
+Villa Irini,"Naousa, Naousa, 84401, Greece",3.0,1603.7383177570093,9.2,329 ,False,True,True,True,False,False,25.0,False,August,Paros
+Ariti Seaside Residence,"Naoussa Parou, Naousa, 84401, Greece",4.0,1958.0,9.8,173 ,False,False,False,True,True,False,22.0,True,August,Paros
+Hotel Papadakis,"Naousa, Naousa, 84401, Greece",,0.0,9.1,193 ,True,True,False,True,True,False,,False,August,Paros
+Galinos Hotel for adults only,"Parikia, Parikia, 21480, Greece",,844.8598130841121,8.0, 448 ,True,True,True,True,True,False,23.0,False,August,Paros
+Prombona Petrino Spiti Studios,"Logaras, Piso Livadi, 84400, Greece",,400.93457943925233,8.4, 135 ,False,False,False,True,True,False,19.0,False,August,Paros
+Miltiadis Apartments,"Ambelas Naousa, Ambelas, 84401, Greece",2.0,423.3553380377874,8.2, 108 ,False,False,False,True,True,False,15.0,False,August,Paros
+"Heliessa, Adults Only (13+)","Main Road Naoussa, Naousa, 84401, Greece",,1212.7232142857142,8.5, 117 ,True,True,True,True,True,False,20.0,False,August,Paros
+Apollon Boutique Hotel,"Livadia Beach, Parikia, 84400, Greece",3.0,757.0,9.2,563 ,False,False,True,False,True,False,16.0,False,August,Paros
+Porto Bello di Paros,"paroikia, Parikia, 84400, Greece",3.0,811.0,8.8,36 ,False,False,True,False,False,False,20.0,False,August,Paros
+Aura Studios,"Logaras, Logaras, 84400, Greece",3.0,601.0,9.5,8 ,False,False,False,True,True,False,25.0,False,August,Paros
+Evita Apartments,"Aliki, Aliki, 84400, Greece",3.0,803.947963800905,9.4,85 ,False,False,False,True,True,False,30.0,False,August,Paros
+Parian Village Beach Hotel - Adults Only,"Livadia, Parikia, 84400, Greece",,1843.9252336448596,8.7,408 ,False,True,False,False,True,False,31.0,False,August,Paros
+Kymo Luxury Suites Paros,"Unamed road, Kolympithres, 84401, Greece",,1488.7850467289718,9.6,120 ,True,True,False,True,True,False,30.0,False,August,Paros
+Callisto Houses,"Eparchiaki Odos Parikias-Piso Livadiou, Márpissa, 84400, Greece",4.0,692.1874999999999,9.6,8 ,False,True,False,True,True,False,80.0,True,August,Paros
+Paros Palace,"Leoforos Lefkon, Parikia, 84400, Greece",4.0,1627.0,9.1,255 ,True,True,False,True,True,True,35.0,True,August,Paros
+Vista Mare,"Eparchiaki Odos Parikias-Naousas Νάουσα, Naousa, 84401, Greece",,676.6355140186915,8.1, 69 ,False,False,True,True,False,False,19.0,True,August,Paros
+Arokaria Seaside,"Ambelas, Ambelas, 84401, Greece",3.0,441.6666666666667,8.7,74 ,False,True,False,True,True,False,30.0,True,August,Paros
+Asterias Hotel,"Ακτή Βασιλείου, Parikia, 84400, Greece",2.0,798.0,7.8,400 ,False,False,True,False,True,False,15.0,True,August,Paros
+Corali Hotel,"Piso Livadi Paros, Piso Livadi, 84400, Greece",,481.30841121495325,9.0,1 ,False,False,True,True,False,False,19.0,False,August,Paros
+Horizon Sublime Pool Residence,"Glisidia, Kampos Paros, 84400, Greece",4.0,6820.328054298642,,,False,True,False,False,True,False,510.0,False,August,Paros
+Aella Residence,"Naoussa, Naousa, 84401, Greece",,1581.1305549159567,9.0,78 ,True,True,True,True,True,False,18.0,False,August,Paros
+Marouso,"Molos Parou, Molos Parou, 84400, Greece",3.0,525.0,9.1,33 ,False,False,False,True,True,False,30.0,False,August,Paros
+"Guesthouse Casa De La Roca , Kostos , Paros","Casa De La Roca Casa De La Roca, Kóstos, 84400, Greece",3.0,1414.0,9.1,10 ,False,False,False,True,True,False,165.0,True,August,Paros
+Mellow Paros,"Eparchiaki Odos Parikias-Pountas, Parikia, 84400, Greece",,671.9626168224298,7.9,150 ,False,False,False,False,False,False,22.0,False,August,Paros
+Nikolas Hotel,"Parikia, Parikia, 84400, Greece",,541.1214953271028,8.0, 219 ,False,False,False,True,True,False,18.0,False,August,Paros
+CIEL Brand New Villa with Private Pool in Isterni,"isterni paros, Isterni, 84401, Greece",4.0,2366.5241448692154,9.7,3 ,True,True,False,True,True,False,125.0,True,August,Paros
+Paros Agnanti Hotel,"Krios Beach, Parikia, 84400, Greece",5.0,1878.5714285714284,9.2,312 ,False,True,True,False,True,True,23.0,False,August,Paros
+Aelia Hospitality Paros,"Nea Chryssi Akti (Tserdakia) 1, Chrissi Akti, 84400, Greece",4.0,5398.883928571428,9.5,11 ,True,True,False,True,True,False,270.0,False,August,Paros
+Hotel Oasis,"Parikia, Paros, Parikia, 84400, Greece",2.0,712.233748495984,8.5, 480 ,False,False,True,False,True,True,15.0,False,August,Paros
+Ambassador Luxury Villas,"Naousa, Santa Maria, 84400, Greece",4.0,2672.5446428571427,9.5,47 ,True,True,False,True,True,False,85.0,False,August,Paros
+Cove Paros,"Agioi Anargyroi Beach S.A., Naousa, Greece Naousa, Naousa, 84401, Greece",5.0,5451.349730053989,9.2,162 ,True,True,False,False,True,False,36.0,False,August,Paros
+San Antonio Summer House,"Eparchiaki Odos Parikias-Piso Livadiou, Piso Livadi, 84400, Greece",3.0,696.5116279069767,7.9,260 ,True,True,False,True,True,False,15.0,False,August,Paros
+Crystal Dreams,"Μάρκου Μαυρογένη 24 Παροικιά, Parikia, 84400, Greece",4.0,1200.6944444444446,9.6,236 ,True,False,False,True,True,False,65.0,False,August,Paros
+Paros Rita Studios,"Piso Livadi, Piso Livadi, 84400, Greece",3.0,600.6944444444445,7.3,61 ,False,False,False,True,True,False,50.0,False,August,Paros
+Villa Kelly Rooms & Suites,"Main Street, Naousa, 84401, Greece",4.0,1651.1627906976744,9.0,278 ,True,True,False,True,True,False,27.0,False,August,Paros
+Silver Rocks Hotel,"Main Street, Chrissi Akti, 84400, Greece",2.0,355.5803571428571,7.5,28 ,True,True,True,True,True,False,17.0,False,August,Paros
+Daphne,"Paros, Naousa, 84401, Greece",,551.2782805429864,9.2,74 ,False,False,False,False,False,False,,False,August,Paros
+Ioanna Rooms,"Naousa, Naousa, 84401, Greece",3.0,1201.388888888889,8.0, 175 ,False,False,False,True,True,False,50.0,True,August,Paros
+Ampeli Apartments,"Livadia, Parikia, 84400, Greece",3.0,523.0,7.9,154 ,False,False,False,True,True,False,40.0,False,August,Paros
+White Dunes Luxury Suites,"White Dunes, Santa Maria, 84401, Greece",4.0,2803.7946428571427,9.5,54 ,True,False,True,True,False,False,24.0,False,August,Paros
+Ambelas Mare Apartments,"Ambelas, Ambelas, 84400, Greece",4.0,1989.1968325791854,9.6,69 ,True,True,True,False,True,False,45.0,True,August,Paros
+Villa Kelly Rooms & Suites,"Main Street, Naousa, 84401, Greece",4.0,1657.7319587628867,9.0,278 ,True,True,False,True,True,False,28.0,False,August,Paros
+Silver Rocks Hotel,"Main Street, Chrissi Akti, 84400, Greece",2.0,355.5803571428571,7.5,28 ,True,True,True,True,True,False,17.0,False,August,Paros
+CIEL Brand New Villa with Private Pool in Isterni,"isterni paros, Isterni, 84401, Greece",4.0,2375.0,9.7,3 ,True,True,False,True,True,False,125.0,True,August,Paros
+Daphne,"Paros, Naousa, 84401, Greece",,604.4642857142857,9.2,74 ,False,False,False,False,False,False,,False,August,Paros
+Ioanna Rooms,"Naousa, Naousa, 84401, Greece",3.0,1201.388888888889,8.0, 175 ,False,False,False,True,True,False,50.0,True,August,Paros
+Ampeli Apartments,"Livadia, Parikia, 84400, Greece",,521.4953271028037,7.9,154 ,False,False,False,True,True,False,40.0,False,August,Paros
+White Dunes Luxury Suites,"White Dunes, Santa Maria, 84401, Greece",,2801.8691588785045,9.5,54 ,True,False,True,True,False,False,23.0,False,August,Paros
+Apanema Paros,"Agioi Anargyroi, Naousa, 84401, Greece",3.0,1150.0,9.0,145 ,False,False,False,True,True,False,35.0,True,August,Paros
+Paros Five Senses,"Επαρχιακή Οδός Παροικιάς-Πούντας, Parasporos, 84400, Greece",3.0,964.7398190045249,9.8,24 ,True,False,True,True,True,False,15.0,False,August,Paros
+Ragoussis Sweet Rooms,"center of naousa paros, Naousa, 84400, Greece",,746.7289719626168,8.5, 111 ,False,False,False,True,False,True,14.0,False,August,Paros
+Villa Spitiko - Endless view,"Kostos paros, Kóstos, 84400, Greece",,996.2616822429906,8.0, 1 ,True,False,False,False,True,False,99.0,False,August,Paros
+Guesthouse Perdikouli,"Aliki, Aliki, 84400, Greece",3.0,565.9722222222223,9.4,143 ,True,False,False,True,False,False,20.0,True,August,Paros
+Irene Studios - Beachfront,"Parikia, Parikia, 84400, Greece",,1452.3364485981308,8.8,102 ,False,False,False,False,True,False,22.0,True,August,Paros
+Anatoli,"Ampelas, paros, Ambelas, 84401, Greece",,751.4018691588784,9.2,16 ,False,False,False,True,True,False,49.0,True,August,Paros
+Aratos Hotel,"Livadia , Paroikia ,Paros, Parikia, 84400, Greece",2.0,522.0,8.8,252 ,False,False,True,False,False,False,20.0,True,August,Paros
+Hara Studios and Apartments,"Vounali, next to police station, Naousa, 84401, Greece",3.0,788.8888888888889,7.9,163 ,False,False,False,True,False,False,24.0,False,August,Paros
+Minoa Hotel,"Naousa, Naousa, 84401, Greece",2.0,479.0,8.7,117 ,False,False,True,True,True,True,,True,August,Paros
+Hotel Iris,"Naousa, Naousa, 84401, Greece",3.0,1283.789592760181,8.9,181 ,False,False,False,True,True,False,23.0,False,August,Paros
+Pandrossos Hotel - Paros,"Parikia, Parikia, 84400, Greece",3.0,980.0,7.7,382 ,False,True,False,False,False,False,21.0,True,August,Paros
+Stavros Residence,"Marmara, Mármara, 84400, Greece",,882.2429906542055,,,False,False,False,True,True,False,60.0,False,August,Paros
+Athina's blue studios,"Piperi Beach, Naousa, 84400, Greece",,992.5233644859812,8.9,93 ,False,False,False,True,False,False,44.0,False,August,Paros
+Margarita Studios,"Parikia, Parikia, 84400, Greece",3.0,1314.0,9.0,273 ,True,False,False,True,True,False,70.0,True,August,Paros
+9 Muses - Paros,"Kormos, Parikia, 84400, Greece",,776.6355140186915,9.0,45 ,False,False,False,True,True,False,31.0,False,August,Paros
+Irene Hotel - Beachfront,"Parikia, Parikia, 84400, Greece",2.0,932.6388888888889,8.6,276 ,False,False,False,False,True,False,18.0,True,August,Paros
+Acqua Vatos Paros Hotel,"Eparchiaki Odos Parikias-Pountas 22746, Parikia, 84400, Greece",,883.0,8.3, 241 ,True,False,True,False,True,False,18.0,False,August,Paros
+Polos Hotel Paros,"Livadia, Parikia, 84400, Greece",3.0,849.0,7.0,283 ,True,True,False,False,True,False,20.0,False,August,Paros
+Alexandra's Rooms,"Livadia, Parikia, 84400, Greece",,714.018691588785,8.9,455 ,False,False,False,True,True,False,18.0,True,August,Paros
+THE OLIVE MILL GUEST HOUSE,"ΛΕΥΚΕΣ 84400, Lefkes, 84400, Greece",3.0,875.0,9.0,1 ,True,False,True,True,True,False,45.0,False,August,Paros
+Augusta Studios & Apartments,"Naoussa Parou, Naousa, 84401, Greece",,1012.1495327102804,9.1,148 ,False,False,False,True,True,False,44.0,True,August,Paros
+Narkissos Studios,"Aliki, Aliki, 84400, Greece",3.0,414.0,8.9,49 ,False,False,False,True,True,False,21.0,False,August,Paros
+Villa Gelly's Studios,"Αλυκή, Aliki, 84400, Greece",3.0,511.0,9.2,46 ,False,False,False,True,True,False,25.0,True,August,Paros
+Villa Irena Bianca,"Plaka, Naousa, 84400, Greece",,727.1028037383177,7.7,116 ,True,True,False,True,True,False,17.0,False,August,Paros
+Nicos Studios & Apartments,"Logaras, Logaras, 84400, Greece",,426.1682242990654,9.0,164 ,False,False,False,False,True,False,20.0,False,August,Paros
+Golden Bay luxury villas and suites,"Χρυσή Ακτή Πάρος, Chrissi Akti, 84400, Greece",,2285.0467289719627,9.5,17 ,False,False,False,False,True,False,35.0,False,August,Paros
+Cyclades Studios,"parikia paros, Parikia, 84400, Greece",,992.5233644859812,9.4,115 ,False,False,False,True,True,False,22.0,False,August,Paros
+Kouros Blanc,"ΣΩΤΗΡΕΣ, Pounda, 84400, Greece",5.0,2078.0681556527747,9.6,16 ,True,True,True,True,True,True,23.0,True,August,Paros
+Apartments Marpissa,"Μαρπησσα, Márpissa, 84400, Greece",,631.7757009345794,8.8,14 ,True,False,False,True,True,False,60.0,False,August,Paros
+Giorgia Lodging,"Parikia Paros, Parikia, 84400, Greece",,825.233644859813,9.3,113 ,False,False,False,False,True,False,18.0,True,August,Paros
+Dimos Guest House,"Φιλοθέου Ζερβάκου 5, Kampos Paros, 84400, Greece",,898.0,9.5,2 ,False,False,False,False,True,False,,False,August,Paros
+Summer Senses Luxury Resort,"Punda Beach Marpissa, Logaras, 84400, Greece",,1988.7850467289718,9.2,328 ,True,False,True,False,True,False,24.0,False,August,Paros
+Ragoussis House,"Logaras Beach, Logaras, 84400, Greece",3.0,810.0,9.0,113 ,False,False,False,True,True,False,30.0,True,August,Paros
+21 luxury apartments,"Ναούσης, Naousa, 84400, Greece",,1553.271028037383,9.1,47 ,True,False,False,True,True,False,60.0,True,August,Paros
+Kirki Rooms & Studios on the Hill,"Paros, Parikia, 84400, Greece",3.0,373.0,8.7,57 ,True,False,False,False,True,False,25.0,False,August,Paros
+Mr and Mrs White Paros,"Naousa, Naousa, 84400, Greece",4.0,1569.4444444444446,7.8,255 ,True,True,True,False,True,True,18.0,False,August,Paros
+Mosaic Suites,"Drios, Drios, 84400, Greece",3.0,978.3482142857142,9.5,13 ,False,False,False,True,True,False,63.0,True,August,Paros
+Hotel Paros,"Livadia, Parikia, 84400, Greece",,633.644859813084,8.4, 106 ,False,False,False,False,True,False,18.0,False,August,Paros
+Paros Comfy Suites,"Area of Xifaras near Naoussa, Naousa, 84401, Greece",,2545.0,9.4,63 ,True,False,True,True,True,False,24.0,True,August,Paros
+Fyrogenis palace,"Αμπελας, Ambelas, 84400, Greece",4.0,1007.6388888888889,8.0, 41 ,True,False,True,True,True,False,48.0,True,August,Paros
+KR Apartments,"Αλυκη, Aliki, 84400, Greece",,554.2056074766355,9.2,19 ,False,False,False,False,False,False,22.0,True,August,Paros
+Villa Anna Maria,"Aliki, Aliki, 84400, Greece",3.0,745.0,9.1,52 ,False,False,False,True,False,False,23.0,False,August,Paros
+Mersina Exclusive,"Paliomylos, Naousa, 84401, Greece",,1184.1121495327102,8.8,257 ,True,False,True,True,True,True,18.0,False,August,Paros
+Anemoi Resort,"Naoussa, Naousa, 84400, Greece",4.0,1473.8721804511276,8.3, 181 ,False,True,True,True,True,True,30.0,True,August,Paros
+Blue Mare Villas,"Naoussa, Naousa, 84401, Greece",,2615.8878504672894,9.6,142 ,True,False,True,True,True,False,79.0,True,August,Paros
+Anna's Dreams,"Unnamed Rd,Paros, Kampos Paros, 84400, Greece",,952.3364485981308,9.3,18 ,False,True,False,True,True,False,65.0,False,August,Paros
+Paradiso Boutique,"Martselo, Parikia, 84400, Greece",,944.3609022556391,9.3,106 ,False,False,False,True,True,False,30.0,True,August,Paros
+Naoussa Hills Boutique Resort- Adults Only (13+),"Seladia Naoussa, Naousa, 84401, Greece",4.0,1903.0,8.4, 83 ,True,True,True,False,True,True,70.0,True,August,Paros
+Almira Suites - Seafront - Naousa Paros,"Fykia, Naousa, Naousa, 84401, Greece",,831.7757009345794,9.4,137 ,False,False,True,True,True,False,18.0,True,August,Paros
+Kandiani Bleu Ciel,"Agioi Anargiroi Area, Naousa, 84401, Greece",4.0,1756.0267857142856,9.5,266 ,False,False,True,True,True,False,25.0,False,August,Paros
+Vavanos Studios,"Naousa, Naousa, 84401, Greece",,922.4299065420561,9.1,24 ,False,False,False,True,True,False,27.0,False,August,Paros
+All Blue Suites,"Αμπελάς, Ambelas, 84401, Greece",4.0,1525.0,9.2,6 ,False,False,False,False,True,True,38.0,False,August,Paros
+Stagones Luxury Villas,"Ambelás, Ambelas, 84400, Greece",,2529.9065420560746,8.9,63 ,True,True,False,True,True,False,90.0,False,August,Paros
+Sunset Villa II,"Αγια Ειρήνη Πάρου, Nea Cryssi Akti, 84400, Greece",4.0,3635.875256089233,9.1,7 ,True,True,False,True,True,False,110.0,True,August,Paros
+Rina Houses,"Lefkes, Paros, Kampos Paros, 84400, Greece",,640.2319536092781,,,False,False,False,False,False,False,40.0,False,August,Paros
+"Perivoli Luxury Homes, Paros","Πρόδρομος, Πάρος, Prodromos Paros, 84400, Greece",,1047.6635514018692,9.7,6 ,False,False,False,True,True,False,30.0,False,August,Paros
+Pyrgaki Hotel,"Livadia, Parikia, 84400, Greece",,1046.7289719626167,8.6,254 ,True,True,True,True,True,True,18.0,False,August,Paros
+Joseph Studios,"Piperi, Naousa, 84401, Greece",3.0,1129.0158371040723,8.1, 236 ,True,True,True,True,True,True,24.0,True,August,Paros
+Olithos Villas,"Krotiri, Parikia, Krotiri, 84400, Greece",4.0,2603.472222222222,,,False,True,False,False,True,False,48.0,False,August,Paros
+Noble 7 Suites - Adults Only - Onar Hotels Collection,"Ασπριες Παροικίας 0, Parikia, 84400, Greece",4.0,1265.0,9.7,48 ,True,True,False,False,True,False,27.0,False,August,Paros
+SunSal Luxury Studios - Earth,"Επαρχιακή Οδός Νάουσας-Μάρπισσας, Naousa, 84401, Greece",,1902.7777777777778,,,False,False,False,False,False,False,45.0,True,August,Paros
+Piperaki Project,"Naoussa Paros, Naousa, 84401, Greece",,1234.5794392523364,9.3,198 ,True,False,False,True,False,False,15.0,False,August,Paros
+Naoussa Bay Villas,"Náousa, Naousa, 84400, Greece",4.0,1667.4637500693734,9.7,31 ,False,True,False,True,True,False,110.0,False,August,Paros
+9 Muses - Paros,"Kormos, Parikia, 84400, Greece",4.0,780.7279561852024,9.0,45 ,False,False,False,True,True,False,32.0,False,August,Paros
+Naoussa Bay Villas,"Náousa, Naousa, 84400, Greece",,1804.6728971962616,9.7,31 ,False,True,False,True,True,False,109.0,False,August,Paros
+9 Muses - Paros,"Kormos, Parikia, 84400, Greece",,776.6355140186915,9.0,45 ,False,False,False,True,True,False,31.0,False,August,Paros
+Polos Hotel Paros,"Livadia, Parikia, 84400, Greece",3.0,849.0,7.0,283 ,True,True,False,False,True,False,20.0,False,August,Paros
+THE OLIVE MILL GUEST HOUSE,"ΛΕΥΚΕΣ 84400, Lefkes, 84400, Greece",3.0,805.0,9.0,1 ,True,False,True,True,True,False,45.0,False,August,Paros
+Panos Luxury Studios,"Parikia, Parikia, 84400, Greece",3.0,872.0,8.9,202 ,True,False,False,True,True,False,25.0,False,August,Paros
+Augusta Studios & Apartments,"Naoussa Parou, Naousa, 84401, Greece",3.0,1011.1111111111112,9.1,148 ,False,False,False,True,True,False,45.0,True,August,Paros
+Narkissos Studios,"Aliki, Aliki, 84400, Greece",3.0,448.6146095717884,8.9,49 ,False,False,False,True,True,False,21.0,False,August,Paros
+Villa Gelly's Studios,"Αλυκή, Aliki, 84400, Greece",3.0,510.4651162790698,9.2,46 ,False,False,False,True,True,False,24.0,True,August,Paros
+Villa Irena Bianca,"Plaka, Naousa, 84400, Greece",3.0,728.0,7.7,116 ,True,True,False,True,True,False,17.0,False,August,Paros
+Cyclades Studios,"parikia paros, Parikia, 84400, Greece",2.0,993.0,9.4,115 ,False,False,False,True,True,False,22.0,False,August,Paros
+Golden Bay luxury villas and suites,"Χρυσή Ακτή Πάρος, Chrissi Akti, 84400, Greece",4.0,2104.241071428571,9.5,17 ,False,False,False,False,True,False,35.0,False,August,Paros
+Apartments Marpissa,"Μαρπησσα, Márpissa, 84400, Greece",3.0,581.4732142857142,8.8,14 ,True,False,False,True,True,False,60.0,False,August,Paros
+Giorgia Lodging,"Parikia Paros, Parikia, 84400, Greece",3.0,762.4999999999999,9.3,113 ,False,False,False,False,True,False,18.0,True,August,Paros
+Dimos Guest House,"Φιλοθέου Ζερβάκου 5, Kampos Paros, 84400, Greece",,901.3888888888889,9.5,2 ,False,False,False,False,True,False,,False,August,Paros
+21 luxury apartments,"Ναούσης, Naousa, 84400, Greece",3.0,1425.0,9.1,47 ,True,False,False,True,True,False,60.0,True,August,Paros
+Mr and Mrs White Paros,"Naousa, Naousa, 84400, Greece",,1571.0280373831774,7.8,255 ,True,True,True,False,True,True,18.0,False,August,Paros
+Mosaic Suites,"Drios, Drios, 84400, Greece",,1062.6168224299065,9.5,13 ,False,False,False,True,True,False,62.0,True,August,Paros
+Hotel Paros,"Livadia, Parikia, 84400, Greece",,633.644859813084,8.4, 106 ,False,False,False,False,True,False,18.0,False,August,Paros
+Paros Comfy Suites,"Area of Xifaras near Naoussa, Naousa, 84401, Greece",,2545.0,9.4,63 ,True,False,True,True,True,False,24.0,True,August,Paros
+studios FLORA in naoussa paros,"Επαρχιακή Οδός Παροικιάς-Νάουσας, Naousa, 84401, Greece",4.0,1256.9444444444446,9.7,16 ,False,False,False,True,False,False,35.0,False,August,Paros
+Villa Byzantino,"Agios Spyridon, Lefkes, 84400, Greece",3.0,779.0697674418604,8.5, 24 ,False,False,False,False,True,False,60.0,False,August,Paros
+Panos Villa Asteras,"ASTERAS PAROU, Isterni, 84400, Greece",,1784.1121495327102,10,3 ,True,False,False,True,True,False,180.0,True,August,Paros
+Siora of Paros - Ammiralis & Castelis,"Naousa, Agioi Anargiroi, Naousa, 84400, Greece",4.0,4959.0,10,2 ,True,True,False,True,True,False,110.0,False,August,Paros
+Aspro Villas,"Logaras, Piso Livadi, 84400, Greece",4.0,1256.755315603546,9.9,14 ,True,False,False,False,True,False,84.0,False,August,Paros
+Irene's View Villas Seven,"Agia Irini - Sarakiniko, Agia Irini Paros, 84400, Greece",3.0,1927.0,,,False,True,False,False,True,False,98.0,True,August,Paros
+Lovely House Infront Of The Beach In Molos,"Molos, Molos Parou, 84400, Greece",4.0,562.7906976744187,,,False,False,False,False,False,False,40.0,False,August,Paros
+"Bohemian Luxury Boutique Hotel, Adults Only","Dimotiki Naoussa Alonia Naoussa, Naousa, 84401, Greece",4.0,3654.0,8.6,336 ,True,True,True,False,False,True,16.0,False,August,Paros
+Villa Ambelas - Traditional House,"ΑΜΠΕΛΑΣ ΠΆΡΟΥ, Ambelas, 84401, Greece",,321735.51401869155,10,1 ,False,False,False,True,True,False,92.0,False,August,Paros
+studios MARIA in naoussa paros 2-4 persons,"Επαρχιακή Οδός Παροικιάς-Νάουσας, Naousa, 84401, Greece",3.0,870.0,9.1,16 ,True,False,False,True,True,False,36.0,False,August,Paros
+Vrohaki Studios & Rooms,"Piso Livadi, Piso Livadi, 84400, Greece",3.0,476.8478010591757,8.6,86 ,False,False,False,True,True,False,25.0,True,August,Paros
+Faskomilo Naousa Paros,"Νάουσα, Πάρος Ισόγειο, Naousa, 84401, Greece",3.0,1451.5037593984962,8.8,16 ,True,False,False,True,True,False,60.0,True,August,Paros
+Alexander Suites,"Δρυός, Drios, 84400, Greece",4.0,1242.0,9.7,3 ,False,False,True,True,True,False,42.0,False,August,Paros
+Villa Bellonia,"Naoussa, Naousa, 84401, Greece",4.0,2453.0,9.7,156 ,False,True,True,False,True,False,45.0,False,August,Paros
+Bill & Alex Apartments,"Χωρίς Οδό και Αριθμό, Piso Livadi, 84400, Greece",,897.196261682243,,,False,False,False,True,False,False,41.0,False,August,Paros
+Petalides Apartments,"Krios Beach, Parikia, 84400, Greece",,1353.271028037383,8.2, 148 ,True,False,False,True,True,True,52.0,False,August,Paros
+Aegean Village,"Parikia, Parikia, 84400, Greece",2.0,646.0050656228414,8.4, 530 ,False,False,False,True,True,False,25.0,False,August,Paros
+1 bedroom cycladic house Naousa for 3 - Big,"Agios Georgios, Naousa, 84401, Greece",4.0,1002.0,9.0,2 ,False,False,False,False,True,False,44.0,False,August,Paros
+Panteronisia View Villa,"Αγκαιριάς, Angairiá, 84400, Greece",4.0,1104.0,9.9,7 ,False,False,False,True,True,False,100.0,False,August,Paros
+Blue diamonds villas Paros,"Επαρχιακή Οδός Παροικιάς-Πούντας, Pounda, 84400, Greece",,3909.345794392523,8.7,6 ,False,True,False,True,True,False,180.0,False,August,Paros
+Sunloft-Paros,"center of Naousa paros, Naousa, 84401, Greece",,977.5700934579438,8.8,19 ,True,False,False,True,True,False,24.0,True,August,Paros
+Captain Apartments Paros,"Naoussa, Paros, Naousa, 84401, Greece",3.0,1051.3297340531894,8.7,43 ,True,False,False,True,True,False,35.0,False,August,Paros
+Sunrise Paros,"Αναληψη Παρος, Naousa, 84401, Greece",3.0,756.25,7.4,196 ,True,True,False,True,False,False,18.0,False,August,Paros
+Stelia Mare Boutique Hotel,"Agioi Anargyroi, Naousa, 84401, Greece",4.0,3583.303167420814,9.3,232 ,True,True,True,False,True,True,32.0,False,August,Paros
+Hotel Kontes Comfort,"Port of Paros, Parikia, 84400, Greece",,923.1002119285498,10,1 ,False,False,True,True,False,False,20.0,False,August,Paros
+Sandom,"Stella Nikolaou, Parikia, 84400, Greece",,886.0,8.8,133 ,True,True,False,False,False,False,30.0,True,August,Paros
+Caper-2 Bedroom traditional home with amazing view,"Eparchiaki Odos Naoussas-Marpissas, Naousa, 84401, Greece",,3112.1495327102803,9.2,17 ,False,False,False,False,False,False,65.0,False,August,Paros
+Porto Paradiso,"Chrissi Akti, Chrissi Akti, 84400, Greece",,701.8691588785047,8.1, 52 ,False,False,True,True,True,False,19.0,True,August,Paros
+Damias Village,"Livadia, Parikia, 84400, Greece",3.0,677.6306700437485,9.2,82 ,False,False,False,True,True,False,35.0,False,August,Paros
+Alkionides Bungalows,"Aligaries, Naousa, 84401, Greece",3.0,941.4232857480887,9.3,46 ,False,False,False,True,True,False,25.0,False,August,Paros
+SunSal Luxury Studios - Sky,"Πάρος, Νάουσα ΟΤ 180 ΕΠΑΝΩ ΒΡΥΣΗ, Naousa, 84001, Greece",,1904.6728971962616,,,False,False,False,False,False,False,35.0,True,August,Paros
+Dinas Inn,"Piso Livadi, Piso Livadi, 84400, Greece",3.0,470.83333333333337,9.4,19 ,False,False,False,True,True,False,18.0,False,August,Paros
+Villa Kampos Naousa-Marpisa,"Eparchiaki Odos Naousas - Marpisas 3, Ambelas, 84401, Greece",,551.4018691588785,9.1,19 ,False,False,False,True,True,False,24.0,False,August,Paros
+Agnanti Studios,"Agios Andreas, Kravga , Naousa, 84401, Greece",3.0,630.5555555555555,8.7,40 ,True,False,False,True,True,False,30.0,False,August,Paros
+Sea view pension Violeta room1 for two,"Χρήστου Κωνσταντόπουλου, Parikia, 84400, Greece",3.0,556163.5322976288,8.5, 19 ,False,False,False,False,False,False,16.0,False,August,Paros
+Aspries Suites,"Piso Livadi Ground floor, Piso Livadi, 84400, Greece",,626.1682242990654,9.6,80 ,False,False,False,True,True,False,27.0,False,August,Paros
+Vagia Calm House 2,"Strati Alipranti 21, Parikia, 84400, Greece",3.0,1349.0601503759399,,,False,False,False,False,True,False,45.0,False,August,Paros
+Lovely House Infront Of The Beach In Molos,"Molos, Molos Parou, 84400, Greece",4.0,605.8139534883721,,,False,False,False,False,False,False,40.0,False,August,Paros
+Villa Ambelas - Traditional House,"ΑΜΠΕΛΑΣ ΠΆΡΟΥ, Ambelas, 84401, Greece",,1337.2767857142856,10,1 ,False,False,False,True,True,False,92.0,False,August,Paros
+studios MARIA in naoussa paros 2-4 persons,"Επαρχιακή Οδός Παροικιάς-Νάουσας, Naousa, 84401, Greece",,871.9626168224298,9.1,16 ,True,False,False,True,True,False,36.0,False,August,Paros
+Faskomilo Naousa Paros,"Νάουσα, Πάρος Ισόγειο, Naousa, 84401, Greece",3.0,1336.0,8.8,16 ,True,False,False,True,True,False,60.0,True,August,Paros
+Marioly Studios,"Parikia, Parikia, 84400, Greece",3.0,1026.7441860465117,9.4,169 ,False,False,False,True,True,False,36.0,False,August,Paros
+Alexander Suites,"Δρυός, Drios, 84400, Greece",4.0,1310.0,9.7,3 ,False,False,True,True,True,False,42.0,False,August,Paros
+Summer Dream Luxury Apartments,"Drios main Road Drios main Road, Drios, 84400, Greece",3.0,1288.0,8.8,9 ,True,False,False,True,True,False,60.0,False,August,Paros
+Bill & Alex Apartments,"Χωρίς Οδό και Αριθμό, Piso Livadi, 84400, Greece",3.0,896.5277777777778,,,False,False,False,True,False,False,42.0,False,August,Paros
+Petalides Apartments,"Krios Beach, Parikia, 84400, Greece",,1353.271028037383,8.2, 148 ,True,False,False,True,True,True,52.0,False,August,Paros
+1 bedroom cycladic house Naousa for 3 - Big,"Agios Georgios, Naousa, 84401, Greece",,1010.2803738317756,9.0,2 ,False,False,False,False,True,False,44.0,False,August,Paros
+Panteronisia View Villa,"Αγκαιριάς, Angairiá, 84400, Greece",,1202.803738317757,9.9,7 ,False,False,False,True,True,False,99.0,False,August,Paros
+Blue diamonds villas Paros,"Επαρχιακή Οδός Παροικιάς-Πούντας, Pounda, 84400, Greece",,3900.0,8.7,6 ,False,True,False,True,True,False,180.0,False,August,Paros
+Sunloft-Paros,"center of Naousa paros, Naousa, 84401, Greece",3.0,981.9953986215099,8.8,19 ,True,False,False,True,True,False,25.0,True,August,Paros
+Captain Apartments Paros,"Naoussa, Paros, Naousa, 84401, Greece",3.0,1054.1666666666667,8.7,43 ,True,False,False,True,True,False,35.0,False,August,Paros
+Sunrise Paros,"Αναληψη Παρος, Naousa, 84401, Greece",,757.0093457943925,7.4,196 ,True,True,False,True,False,False,18.0,False,August,Paros
+Sea View Villa At Paros,"Marmotas, Kampos Paros, 844 00, Greece",,1137.3831775700935,8.0, 1 ,False,False,False,False,True,False,60.0,False,August,Paros
+Hotel Kontes Comfort,"Port of Paros, Parikia, 84400, Greece",,868.0,10,1 ,False,False,True,True,False,False,20.0,False,August,Paros
+Caper-2 Bedroom traditional home with amazing view,"Eparchiaki Odos Naoussas-Marpissas, Naousa, 84401, Greece",4.0,3109.027777777778,9.2,17 ,False,False,False,False,False,False,65.0,False,August,Paros
+Porto Paradiso,"Chrissi Akti, Chrissi Akti, 84400, Greece",,699.0837104072398,8.1, 52 ,False,False,True,True,True,False,20.0,True,August,Paros
+Hotel Kontes Comfort,"Port of Paros, Parikia, 84400, Greece",,222039.25233644858,10,1 ,False,False,True,True,False,False,20.0,False,August,Paros
+Caper-2 Bedroom traditional home with amazing view,"Eparchiaki Odos Naoussas-Marpissas, Naousa, 84401, Greece",4.0,749384.1121495327,9.2,17 ,False,False,False,False,False,False,65.0,False,August,Paros
+Porto Paradiso,"Chrissi Akti, Chrissi Akti, 84400, Greece",,701.8691588785047,8.1, 52 ,False,False,True,True,True,False,19.0,True,August,Paros
+Damias Village,"Livadia, Parikia, 84400, Greece",3.0,3314.0,9.2,82 ,False,False,False,True,True,False,35.0,False,August,Paros
+Aspries Suites,"Piso Livadi Ground floor, Piso Livadi, 84400, Greece",3.0,574.83989021043,9.6,80 ,False,False,False,True,True,False,28.0,False,August,Paros
+Alkionides Bungalows,"Aligaries, Naousa, 84401, Greece",3.0,935.0,9.3,46 ,False,False,False,True,True,False,25.0,False,August,Paros
+SunSal Luxury Studios - Sky,"Πάρος, Νάουσα ΟΤ 180 ΕΠΑΝΩ ΒΡΥΣΗ, Naousa, 84001, Greece",,1904.6728971962616,,,False,False,False,False,False,False,35.0,True,August,Paros
+"Cosme, a Luxury Collection Resort, Paros","Agioi Anargyroi Naoussa Paros, Naousa, 84400, Greece",,6766.355140186915,9.7,7 ,True,True,True,False,False,False,35.0,False,August,Paros
+Martha's filoxenia,"Δρυός Παρος 264F+G7, Δρυός 844 00 Ισόγειο, Drios, 84400, Greece",3.0,1081.25,,,False,False,False,False,True,False,40.0,True,August,Paros
+Paros King,"Paros cyclades, Aliki, 84400, Greece",,585.981308411215,9.0,2 ,False,False,False,True,True,False,27.0,False,August,Paros
+Marioly Studios,"Parikia, Parikia, 84400, Greece",,1027.1028037383178,9.4,169 ,False,False,False,True,True,False,36.0,False,August,Paros
+Krios Luxury Suites,"KRIOS PAROS, Krotiri, 84400, Greece",,2701.8691588785045,9.5,24 ,True,False,False,True,True,True,95.0,False,August,Paros
+Kalimera Paros,"Santa Maria (Filizi), Santa Maria, 84400, Greece",3.0,903.4998848722082,7.6,45 ,False,True,False,False,True,False,25.0,False,August,Paros
+BilMar little palace/ steps from the beach,"Tsoukalia beach, Mármara, 84400, Greece",3.0,1177.0,10,6 ,False,False,False,True,True,False,40.0,False,August,Paros
+Villa Mariliza,"Piso Livadi, Piso Livadi, 84400, Greece",,1403.7383177570093,9.6,17 ,True,False,False,True,True,False,99.0,False,August,Paros
+Traditional house paros,"Πεταλούδες, Sarakíniko, 84400, Greece",3.0,652.5328114206769,9.7,6 ,False,False,False,False,True,False,55.0,False,August,Paros
+"Aba Ηospitalité, The Deluxe Suite, Naousa","VOUNALI, Naousa, 84401, Greece",4.0,2257.614290039358,10,1 ,False,False,False,True,True,False,55.0,False,August,Paros
+Villa Christina Santa Maria,"PAROS, Santa Maria, 84401, Greece",4.0,1706.015037593985,,,False,False,False,False,True,False,90.0,True,August,Paros
+Sersi Paros Villas & Suites,"glisidia, Kampos Paros, 84400, Greece",4.0,1784.1121495327102,9.7,19 ,True,False,False,True,True,False,48.0,False,August,Paros
+Tonia Apartments Paros,"Golden Beach, Paros, Chrissi Akti, 84400, Greece",,1350.0,9.5,2 ,False,False,False,True,True,False,92.0,True,August,Paros
+Golden View Villa with Private Swimming Pool,"Chryssi Akti, Kampos Paros, 84400, Greece",,3945.3124999999995,,,False,True,False,True,True,False,,False,August,Paros
+Panorama,"Αγίας Κυριακής 3 1ος οροφος, Parikia, 84400, Greece",,609.3457943925233,,,False,False,False,False,False,False,37.0,False,August,Paros
+Retreat Paros - The Arch Apartment,"Λοχαγού Κορτιάνου, Parikia, 84400, Greece",4.0,1402.0833333333335,9.3,32 ,False,False,False,False,False,False,54.0,True,August,Paros
+Parikia's Cosy Jewel,"Κωνσταντίνου Χερουβείμ, Parikia, 84400, Greece",3.0,1148.8372093023256,,,False,False,False,False,False,False,49.0,False,August,Paros
+Anastasia's house Ysterni,"Isterni Naousa, Isterni, 84000, Greece",,690.0,10,1 ,False,False,False,True,True,False,65.0,True,August,Paros
+Sunrise View Lefkes,"ΕΠΑΡΧΙΑΚΗ ΟΔΟΣ ΛΕΥΚΩΝ, Lefkes, 84400, Greece",3.0,706.0267857142857,,,False,False,False,True,True,False,30.0,False,August,Paros
+Livadia Seaside Studios 1,"Anastasiou Orlandou, Parikia, 84400, Greece",3.0,286969.15887850465,7.8,4 ,False,False,False,False,True,False,40.0,True,August,Paros
+3 Paros *All Season* Villas,"Kavaki Parikias, Parikia, 84400, Greece",3.0,2648.1203007518798,8.9,20 ,False,True,False,True,True,False,140.0,False,August,Paros
+Parikia's Sunny Nest,"Loxagoi Ioanni Fokianoi 9, Parikia, 84400, Greece",3.0,963.73474556758,,,False,False,False,False,False,False,52.0,False,August,Paros
+Nomads House,"Πάρος,Λογαράς, Logaras, 84400, Greece",3.0,814.5833333333334,9.4,40 ,False,False,False,True,True,False,22.0,False,August,Paros
+Chrisantakis appartments,"Paros, Drios, Greece",3.0,898.0,9.2,15 ,False,False,False,True,True,False,40.0,True,August,Paros
+PARIAN WHITE LUXURY APARTMENTS,"KALAMI, Parikia, 84400, Greece",4.0,1291.0,9.1,18 ,False,True,False,True,True,False,55.0,False,August,Paros
+"Afluencia Complex Studio No 4,5,6","37.1231445,25.2362062,17z, Naousa, 84401, Greece",3.0,1074.1883980840873,8.5, 33 ,False,False,False,False,False,False,20.0,False,August,Paros
+Iresma Suites,"Naousa, Paros , Naousa, Greece",4.0,1334.0,9.7,28 ,True,False,False,False,False,False,45.0,False,August,Paros
+Livadia Seaside Studios 8,"Anastasiou Orlandou, Parikia, 84400, Greece",,586.9158878504672,7.3,3 ,False,False,False,False,True,False,17.0,True,August,Paros
+Sea Breeze Studios,"Αλυκή, Aliki, 84400, Greece",3.0,802.4553571428571,9.1,65 ,True,False,False,True,False,False,36.0,True,August,Paros
+Aneliz Paros,"ΘΕΣΗ ΦΛΟΓΑ 0, Parikia, 84400, Greece",4.0,1584.920814479638,,,False,False,False,True,True,False,70.0,False,August,Paros
+"Casa Krotiri, bellavista mare, parcheggio interno","Krotiri 7, Parikia, 84400, Greece",,1442.9906542056074,,,False,False,True,True,True,False,60.0,True,August,Paros
+Exochi Traditional Houses,"Krotiri Paros, Krotiri, 84400, Greece",,1152.3364485981308,9.3,6 ,False,False,False,True,True,False,49.0,False,August,Paros
+Kavalli's home,"Πρόδρομος, Prodromos Paros, 84400, Greece",3.0,878.0,,,True,False,False,True,True,False,85.0,False,August,Paros
+Nostos II,"Επαρχιακή Οδός Παροικιάς-Μάρπισσας Nostos II, Prodromos Paros, 84400, Greece",4.0,823.9140271493212,9.0,2 ,False,False,False,True,True,False,55.0,False,August,Paros
+Breathtaking White Villa In Paros,"Paros, Kampos Paros, 84400, Greece",4.0,1636.0,,,False,False,False,False,True,False,121.0,False,August,Paros
+Green Retreats 2 Paros,"Paros 0, Isterni, 84400, Greece",3.0,732.0,,,False,False,False,False,True,False,18.0,True,August,Paros
+Colors In Naousa - Luxury house In the city of Naousa Paros,"Eparchiaki Odos Naoussas-Marpissas, Naousa, 84401, Greece",,3088.785046728972,9.7,3 ,False,True,False,True,False,False,113.0,False,August,Paros
+Afluencia Complex Studio No2,"Naousa, Naousa, 84001, Greece",,1557.0,9.0,5 ,False,False,False,False,False,False,30.0,False,August,Paros
+Traditional Home,"NAOUSA PAROU, Naousa, 84401, Greece",3.0,891.8604651162791,8.9,8 ,False,False,False,False,False,False,49.0,False,August,Paros
+Anna Studios,"Kolimpithres, Naousa, 84401, Greece",3.0,935.3383458646616,9.3,57 ,True,False,False,True,True,False,25.0,False,August,Paros
+Rooms Mike,"Parikia, Parikia, 84400, Greece",3.0,518.6046511627907,8.4, 168 ,True,False,False,False,True,False,19.0,True,August,Paros
+Villa Jessy 150m² with Full Privacy,"Parikia, Parikia, 84400, Greece",4.0,4005.5555555555557,9.9,9 ,False,True,False,False,True,False,150.0,True,August,Paros
+White Blue Houses & Apartments Paros,"Krotiri, Paroikia, Parikia, 84400, Greece",4.0,1308.3333333333335,9.1,28 ,False,True,False,True,True,False,45.0,False,August,Paros
+Deluxe Maisonette With Private Jacuzzi,"Paros, Molos, Molos Parou, 84400, Greece",,2237.3831775700933,,,False,False,False,False,True,False,107.0,False,August,Paros
+Meltemi Studios and Apartments,"Logaras, Paros, Logaras, 84400, Greece",3.0,575.6944444444445,9.3,13 ,False,False,False,True,True,False,40.0,True,August,Paros
+Panos Apartment Naousa,"Naousa, Naousa, 84400, Greece",4.0,1346.0,9.3,7 ,True,False,False,True,True,False,78.0,False,August,Paros
+Katianna's House,"Aliki Paros, Aliki, 84400, Greece",3.0,553.7946428571428,6.3,8 ,True,False,False,True,True,False,25.0,True,August,Paros
+Villa Bellonia,"Naoussa, Naousa, 84401, Greece",4.0,2450.0,9.7,156 ,False,True,True,False,True,False,45.0,False,August,Paros
+Cielo Room 1,"Santa Maria , Santa Maria, 84400, Greece",3.0,745.3733031674208,,,False,False,False,False,True,False,36.0,True,August,Paros
+Eagles Nest,"Ag theodoroi,kamari 1, Angairiá, 84400, Greece",3.0,749.4360902255638,9.5,13 ,False,False,False,False,True,False,50.0,True,August,Paros
+Paros Butterfly Villas,"Petaloudes, Pounda, 84400, Greece",4.0,2153.0,9.9,27 ,True,True,False,True,True,False,100.0,False,August,Paros
+Little Troll House 1,"Troll House 1, Chrissi Akti, 84400, Greece",,1178.504672897196,8.7,3 ,False,False,False,False,True,False,48.0,True,August,Paros
+Acoya Suites Paros,"Aliki, Aliki, 84400, Greece",3.0,950.0,8.4, 192 ,True,False,False,True,True,False,20.0,False,August,Paros
+Alfa Luxury Villas,"ΤΣΙΑΡΔΑΚΙΑ ΤΣΩΝΗ-ΜΑΡΠΗΣΣΑΣ, Chrissi Akti, 84400, Greece",4.0,3691.517857142857,9.6,8 ,True,True,False,False,True,False,191.0,True,August,Paros
+Paros Apartments Cottage,"ΠΑΡΟΙΚΙΑ ΣΚΛΑΒΟΜΑΡΙΑ, Parikia, 84400, Greece",,1027.1028037383178,10,7 ,False,False,False,False,True,False,44.0,True,August,Paros
+PAROS ALL INN APPARTMENTS,"Naoussa Paros Apartment, Naousa, 84000, Greece",,1161.8055555555557,,,False,False,False,False,False,False,70.0,False,August,Paros
+Soleya Suites,"Rema Floga, Parikia, 84400, Greece",,795.3271028037383,7.8,233 ,True,False,False,False,False,False,19.0,True,August,Paros
+Villa Kalamies,"Καλαμιές, Παροικίας, Parikia, 84400, Greece",3.0,752.9242459129634,9.5,13 ,True,False,False,True,True,False,45.0,False,August,Paros
+Aura Suites Paros,"Ναουσα Παρου GREECE Naoussa, Naousa, 84401, Greece",4.0,2417.509313464609,,,True,False,True,True,True,False,30.0,False,August,Paros
+Daphne's Lux Villa,"Eparchiaki Odos Parikias-Pountas, Paraspóri, 84400, Greece",4.0,3262.664057103385,9.2,9 ,False,True,False,True,True,False,160.0,False,August,Paros
+Pleiades Paros Family Apartments,"Kalami, Parikia, 84400, Greece",3.0,782.0,8.5, 49 ,False,True,False,True,True,False,30.0,False,August,Paros
+Rosemary Residence in Ampelas. 3 bedroom house,"Ampelas Paros, Kampos Paros, 84401, Greece",4.0,1748.0169726359543,,,False,False,False,False,True,False,25.0,False,August,Paros
+Studio Home,"Naousa Parou, Naousa, 84401, Greece",,751.4018691588784,8.5, 10 ,False,False,False,False,True,False,49.0,False,August,Paros
+House for two!!,"Αγκαιριά Πάρου, Angairiá, 84400, Greece",,568.2242990654205,,,False,False,False,False,True,False,37.0,False,August,Paros
+PAROS ELITAS VILLAS,"ΠΑΡΟΙΚΙΑ PAROIKIA, Parikia, 84400, Greece",4.0,2963.888888888889,9.0,5 ,False,True,False,False,True,False,100.0,False,August,Paros
+Nikos Country House,"ΝΑΟΥΣΑ ΠΑΡΟΥ, Naousa, 84401, Greece",,1037.3831775700935,10,2 ,True,False,False,True,True,False,57.0,False,August,Paros
+Parian Charming 3bedroom Home,"Cheimarros Katsikis, Parikia, 844 00, Greece",4.0,1747.2222222222224,9.4,5 ,False,False,False,False,True,False,92.0,False,August,Paros
+Villa Diorite by Rocks Estates,"Paros Santa Maria, Kampos Paros, 84401, Greece",4.0,1380.0,7.0,1 ,True,False,False,True,True,False,85.0,True,August,Paros
+Villa Filoxenia,"Eparchiaki Odos Naoussas-Marpissas 104 Isterni, Isterni, 84400, Greece",4.0,2676.3392857142853,,,True,False,False,False,True,False,186.0,True,August,Paros
+Maisonette Sail,"Επαρχιακή Οδός Νάουσας-Μάρπισσας, Naousa, 84401, Greece",4.0,2854.166666666667,,,False,True,False,True,True,False,100.0,False,August,Paros
+Luxurieus cycladisch huis met prachtig uitzicht,"Aspro Chorio, Kampos Paros, 84400, Greece",,1606.5420560747662,,,False,True,False,False,False,False,,False,August,Paros
+Villa Bellonia,"Naoussa, Naousa, 84401, Greece",4.0,2464230.438521066,9.7,156 ,False,True,True,False,True,False,45.0,False,August,Paros
+Sea front 2 bed house next to kite sports,"paros poynta, Kampos Paros, 84400, Greece",,2210.2803738317757,10,1 ,True,True,False,True,True,False,159.0,True,August,Paros
+stegio,"ΚΑΚΑΠΕΤΡΑ ΠΑΡΟΙΚΙΑΣ ΠΑΡΟΥ, Parasporos, 84400, Greece",,601.8691588785047,,,False,False,False,False,True,False,19.0,False,August,Paros
+Cycladic home in Paros,"37.011015, 25.125592, Kampos Paros, Greece",4.0,997.874149659864,10,1 ,False,False,False,False,True,False,55.0,True,August,Paros
+Villa Nausithoe,"Logaras, Logaras, 84400, Greece",4.0,2480.7466063348415,9.0,4 ,False,False,False,True,True,False,80.0,False,August,Paros
+Haroula House - Cycladic village Vibes,"Marpissa, Márpissa, 84400, Greece",,762.6168224299065,,,True,False,False,False,False,False,54.0,False,August,Paros
+Acoya Suites Paros,"Aliki, Aliki, 84400, Greece",3.0,946.5277777777778,8.4, 192 ,True,False,False,True,True,False,20.0,False,August,Paros
+Village house in Paros,"Drios 844 00, Greece, Drios, 84400, Greece",,767.0,8.7,7 ,False,False,False,True,True,False,80.0,False,August,Paros
+Villa Pisti,"Eparchiaki Odos Parikias-Naousas 104 Isterni, Ekatondapilianí, 84400, Greece",4.0,2353.0,,,True,False,False,False,True,False,160.0,True,August,Paros
+Yria apartment,"Πίσω Λιβάδι, Νο11, Piso Livadi, 84400, Greece",3.0,844.1860465116279,9.0,3 ,False,False,False,True,True,False,49.0,True,August,Paros
+Lemon Tree Maisonette - Naoussa Paros,"ΝΑΟΥΣΑ ΠΑΡΟΥ, Naousa, 84401, Greece",3.0,1209.3023255813953,9.8,6 ,False,False,False,True,False,False,54.0,False,August,Paros
+Cielo Room 3,"Santa Maria , Santa Maria, 84400, Greece",3.0,747.2222222222223,,,False,False,False,False,True,False,36.0,True,August,Paros
+Irini's house with Jacuzzi,"Επαρχιακή Οδός Παροικιάς-Μάρπισσας, Prodromos Paros, 84400, Greece",,1299.0654205607475,,,False,False,False,True,True,False,40.0,False,August,Paros
+Paros Central house,"Παροικία, Parikia, 84400, Greece",3.0,1942.9598198822307,7.6,8 ,False,False,False,True,True,False,110.0,True,August,Paros
+Solasta Residence,"Marpissa Paros, Kampos Paros, 84400, Greece",4.0,3089.983882109141,10,1 ,False,False,False,False,True,False,136.0,False,August,Paros
+Villa Busho,"Νάουσα Πάρος, Naousa, 84401, Greece",4.0,468214.0186915888,9.5,42 ,False,False,False,False,True,False,162.0,False,August,Paros
+Citadela Paros Molos - Beachfront Maisonette with Plunge Pool,"Molos Beach, Molos Parou, 84400, Greece",,3809.345794392523,10,1 ,False,False,False,False,True,False,104.0,False,August,Paros
+Livadia Studio A Paros,"Christoi Konstavtopoiloi, Parikia, 84400, Greece",,861.6822429906541,,,False,False,False,False,True,False,24.0,False,August,Paros
+Villa Hestia - Paros,"Golden Beach, Chrissi Akti, 84400, Greece",4.0,2346.9230769230767,10,3 ,False,False,False,False,True,False,128.0,False,August,Paros
+Katerina's Home - Paros old town house,"Christoi Konstavtopoiloi, Parikia, 84400, Greece",,751.4018691588784,7.8,5 ,False,False,False,True,False,False,69.0,True,August,Paros
+Nevma Naousa Boutique Apartment,"Λοχαγού Κορτιάνου, Naousa, 84401, Greece",3.0,2753.472222222222,9.8,6 ,False,False,False,True,True,False,47.0,True,August,Paros
+Villa Busho,"Νάουσα Πάρος, Naousa, 84401, Greece",,2004.6728971962616,9.5,42 ,False,False,False,False,True,False,162.0,False,August,Paros
+Citadela Paros Molos - Beachfront Maisonette with Plunge Pool,"Molos Beach, Molos Parou, 84400, Greece",,3809.345794392523,10,1 ,False,False,False,False,True,False,104.0,False,August,Paros
+"Villa Elpida · 3-bed villa with stunning sea views, plunge pool","Eparchiaki Odos Parikias-Naousas, Naousa, Greece, Naousa, 84401, Greece",,3027.1028037383176,9.3,3 ,False,False,False,False,True,False,115.0,False,August,Paros
+Livadia Studio A Paros,"Christoi Konstavtopoiloi, Parikia, 84400, Greece",,861.6822429906541,,,False,False,False,False,True,False,24.0,False,August,Paros
+Villa Bellonia,"Naoussa, Naousa, 84401, Greece",,2456.07476635514,9.7,156 ,False,True,True,False,True,False,44.0,False,August,Paros
+Villa Hestia - Paros,"Golden Beach, Chrissi Akti, 84400, Greece",,2355.1401869158876,10,3 ,False,False,False,False,True,False,128.0,False,August,Paros
+Katerina's Home - Paros old town house,"Christoi Konstavtopoiloi, Parikia, 84400, Greece",,719.7674418604652,7.8,5 ,False,False,False,True,False,False,69.0,True,August,Paros
+Nevma Naousa Boutique Apartment,"Λοχαγού Κορτιάνου, Naousa, 84401, Greece",3.0,3016.741071428571,9.8,6 ,False,False,False,True,True,False,47.0,True,August,Paros
+"MENTA HOUSE II, NAOUSA","Naousa, Paros, Naousa, 84400, Greece",4.0,2810.0,9.7,4 ,False,False,False,False,True,False,70.0,False,August,Paros
+Sweet Home Nikorenia,"Καλάμι, Krotiri, 84400, Greece",,689.7196261682243,,,False,False,False,True,True,False,35.0,True,August,Paros
+Acoya Suites Paros,"Aliki, Aliki, 84400, Greece",3.0,950.0,8.4, 192 ,True,False,False,True,True,False,20.0,False,August,Paros
+"Rising Moon villa with pool, near the beach","Molos, Kampos Paros, 84400, Greece",4.0,3412.0,,,False,True,False,False,True,False,200.0,False,August,Paros
+"Ανάσα, διαμέρισμα στην Πάρο","Μαρίνα Αλυκής, Aliki, 84400, Greece",3.0,764.7321428571428,,,False,False,False,False,True,False,25.0,True,August,Paros
+Livadia Seaside Studios 7,"Anastasiou Orlandou , Parikia, 84400, Greece",3.0,286969.15887850465,,,False,False,False,False,True,False,30.0,True,August,Paros
+Louros Spa House,"Marmara, Mármara, 84400, Greece",4.0,1288.0,9.1,36 ,True,False,False,True,True,False,90.0,False,August,Paros
+Irene Asklipios Paros,"Αγίου Αρσενίου, Parikia, 84400, Greece",4.0,1242.8571428571427,,,False,False,False,True,True,False,90.0,False,August,Paros
+Livadia Seaside Studios 11,"Anastasiou Orlandou, Parikia, 84400, Greece",3.0,1161.0,8.0, 1 ,False,False,False,False,True,False,30.0,True,August,Paros
+Les Poissons Bleus,"Eparchiaki Odos Parikias-Pountas, Kampos Paros, 84400, Greece",,1420.5607476635514,,,False,False,False,False,True,False,90.0,True,August,Paros
+Paros center houses,"Στελλα Νικολάου, Parikia, 84400, Greece",3.0,752.9242459129634,7.3,11 ,False,False,False,True,False,False,40.0,True,August,Paros
+Overlooking Sea Maisonette With BBQ For 7 Ppl,"Kostos, Kóstos, 84400, Greece",,1222.429906542056,,,False,False,False,False,True,False,140.0,False,August,Paros
+Countryside house,"Πούντα 0, Pounda, 84400, Greece",3.0,1536.5593547957076,,,False,False,False,False,True,False,92.0,False,August,Paros
+Villa Aspa Paros,"Πρόδρομος, Πάρος, Prodromos Paros, 84400, Greece",,1843.9252336448596,9.7,6 ,False,False,False,True,True,False,95.0,True,August,Paros
+SPLASH with amazing Sea Views in Piso Livadi,"Eparchiaki Odos Parikias-Piso Livadiou, Piso Livadi, 84400, Greece",4.0,1402.0,9.0,5 ,False,False,False,False,True,False,74.0,True,August,Paros
+Angels Estate Precious Villas,"Πρωτόρια, Naousa, 84401, Greece",,2714.018691588785,9.6,5 ,False,True,False,True,True,False,74.0,False,August,Paros
+Casa Lea Paros,"Naousa Parou, Naousa, 84400, Greece",3.0,781.3953488372093,8.4, 10 ,False,False,False,True,True,False,19.0,False,August,Paros
+"Joy's villa in Ampelas, Paros","Ampelas, Paros, Kampos Paros, 84401, Greece",,1985.0467289719625,,,False,False,False,False,True,False,159.0,True,August,Paros
+Nomad Central,"Πλατεία Μαντώς Μαυρογένους, Parikia, 84400, Greece",,1925.233644859813,9.3,3 ,False,False,False,False,False,False,99.0,True,August,Paros
+Green in Blue House,"Piso livadi, Logaras, 84401, Greece",,2428.860325621251,,,False,False,False,False,True,False,200.0,False,August,Paros
+Panos Villa Sunset View,"παροικια παρου, Parikia, 84400, Greece",4.0,3635.0,10,3 ,True,False,False,True,True,False,30.0,False,August,Paros
+Mirsini Studios,"Koukoumavles, Parasporos, Parasporos, 84400, Greece",3.0,452613.9294926913,8.4, 95 ,False,False,False,False,True,False,32.0,True,August,Paros
+"Lyra Seafront Apartment , Paroikia Town Center","Akti Vasiliou, Parikia, 84400, Greece",3.0,2053.0,9.6,5 ,False,False,False,False,False,False,52.0,True,August,Paros
+Sea 2 Sky Dryos,"DRYOS PAROS, Drios, 84400, Greece",4.0,916.822429906542,,,False,False,False,False,True,False,57.0,True,August,Paros
+"The old barn, in Naousa Paros","Νάουσα Πάρος, Naousa, 84401, Greece",4.0,1775.1323969606262,10,9 ,False,False,False,False,True,False,95.0,False,August,Paros
+Paros traditional house,"ΑΓΙΟΣ ΑΡΣΕΝΙΟΣ, Episkopianá, 84400, Greece",4.0,2325.6857855361595,10,3 ,False,False,False,True,True,False,130.0,False,August,Paros
+Dream Villa Santa Maria,"unnamed road, Santa Maria, 84401, Greece",4.0,4380.373831775701,10,2 ,False,False,False,True,True,False,250.0,False,August,Paros
+Fragos Apartments,"Santa Maria, Santa Maria, 84401, Greece",3.0,530.0,9.0,87 ,False,False,False,True,True,False,30.0,False,August,Paros
+Anthoula's Sea View Apartment,"Piso Livadi Parou, Piso Livadi, 84400, Greece",,1231.7757009345794,9.3,7 ,False,False,False,True,True,False,79.0,False,August,Paros
+Kolimpithres beach house,"Eparchiaki Odos Naoussas-Marpissas, Naousa, 84400, Greece",4.0,1822.0,,,False,False,False,False,True,False,88.0,False,August,Paros
+Inge's Haus Lefkes,"Κάτω χωριό, Lefkes, 84400, Greece",,954.4358080943446,,,False,False,False,True,False,False,,True,August,Paros
+Kiki's apartment huge balcony dream,"chrissi akti, Chrissi Akti, 844 00, Greece",3.0,437.0,9.1,15 ,False,False,False,False,True,False,40.0,False,August,Paros
+ONAR RESIDENCE PAROS,"TZANE ΠΑΡΟΣ, Chrissi Akti, 84400, Greece",,1385.0467289719625,9.7,3 ,False,False,False,False,True,False,85.0,False,August,Paros
+Stone House in Paros,"Kostos, Kampos Paros, 84400, Greece",3.0,639.5833333333334,,,False,False,False,False,True,False,52.0,False,August,Paros
+"TrollHouse Villa, Golden Beach","Chrissi Akti, Chrissi Akti, 84400, Greece",,1216.7194570135746,8.7,3 ,False,False,False,True,True,False,72.0,True,August,Paros
+White cycladic town house with sea vew,"Zani Kampani, Parikia, 84400, Greece",3.0,1745.712669683258,10,1 ,False,False,False,False,True,False,110.0,False,August,Paros
+Seaview Ampelas Villa,"Ampelas, Ambelas, 84400, Greece",4.0,1702.0,10,1 ,False,False,False,True,True,False,150.0,True,August,Paros
+Villa Oleum,"PISO LIVADI, Piso Livadi, 84400, Greece",,8069.158878504672,,,False,True,False,False,True,False,530.0,False,August,Paros
+SUNSET POUNDA LUXURY VERSION,"ΠΑΡΟΣ ΚΥΚΛΑΔΕΣ, Pounda, 84400, Greece",3.0,2452.3255813953488,9.5,2 ,False,False,False,False,True,False,69.0,False,August,Paros
+Ippocampos Seaside Serenity - Unwind at Paros Poolside Retreats,"Αλυκη παρος Στουντιο ιπποκαμπος, Aliki, 84400, Greece",4.0,1740.6976744186047,9.1,9 ,False,True,False,True,True,False,40.0,True,August,Paros
+Villa Sunset,"PAROS ALIKI MAGANO, Aliki, 84400, Greece",,2505.6074766355136,9.8,12 ,False,True,False,True,True,True,129.0,True,August,Paros
+Sea 2 Sky Garden 1,"DRYOS MARPISSA PAROS, Drios, 84400, Greece",4.0,730.5538892221556,,,False,False,False,False,True,False,58.0,True,August,Paros
+Blanc Sea Residence,"Xifara Pa Αμπελάς, Kampos Paros, 84401, Greece",,1350.0,,,False,False,False,False,True,False,140.0,True,August,Paros
+Villa Haritomeni,"Eparchiaki Odos Parikias-Piso Livadiou Villa Haritomeni, Parikia, Parikia, 84400, Greece",4.0,2503.472222222222,9.9,14 ,True,False,False,True,True,False,60.0,True,August,Paros
+Faros complex,"Dillion, Parikia, Parikia, 84400, Greece",3.0,918.0947312400214,8.6,20 ,False,False,False,True,True,False,33.0,True,August,Paros
+Elena Studios & Apartments,"Piso Livadi, Piso Livadi, 84400, Greece",,631.7757009345794,9.3,292 ,True,False,False,True,True,False,24.0,False,August,Paros
+Άνεσις διαμέρισμα στην Πάρο,"Μαρίνα Αλυκής, Aliki, 84400, Greece",3.0,690.6801007556675,,,False,False,False,False,True,False,25.0,True,August,Paros
+Villa Danae by the sea,"Πούντα Παροικιας, Pounda, 84400, Greece",,3255.0,,,False,False,False,True,True,False,230.0,False,August,Paros
+Tristrato,"G.B.GRAVARI 27, Parikia, 84400, Greece",,1669.1588785046729,9.0,12 ,False,False,False,True,True,False,69.0,True,August,Paros
+Sea View 3Waves Boho Studio 2 in Paros,"Krotiri, Krotiri, Greece",,876.6355140186915,,,True,False,False,False,True,False,30.0,False,August,Paros
+"Rising Sun - Natural Luxury near the beach, Paros","Molos, Molos Parou, 84400, Greece",4.0,4113.866182258553,,,False,True,False,False,True,False,200.0,False,August,Paros
+Marouso,"Molos Parou, Molos Parou, 84400, Greece",,526.1682242990654,9.1,33 ,False,False,False,True,True,False,30.0,False,August,Paros
+Nisides Villa Kostos,"Naoussa, Kóstos, 84401, Greece",,9021.495327102803,9.5,4 ,False,False,False,True,True,False,280.0,True,August,Paros
+Beautiful House in the Capital of Paros,"Kalliera, Kampos Paros, 84400, Greece",4.0,1405.757918552036,,,False,False,False,False,True,False,76.0,False,August,Paros
+Summer Dream Luxury Apartments,"Drios main Road Drios main Road, Drios, 84400, Greece",3.0,1402.0833333333335,8.8,9 ,True,False,False,True,True,False,60.0,False,August,Paros
+White Cliff 4 - Cycladic Home,"Ampelas Paros, Kampos Paros, 84400, Greece",4.0,2687.0,,,False,True,False,True,True,False,115.0,False,August,Paros
+Grand Villa Rêve Naousa Paros,"ΠΑΡΑΛΙΑ ΑΓΙΩΝ ΑΝΑΡΓΥΡΩΝ ΝΑΟΥΣΑ ΠΑΡΟΥ, Naousa, 84401, Greece",,18543.92523364486,,,False,True,False,True,True,False,390.0,True,August,Paros
+Beautiful house for 3 people with amazing view,"Thesi Kalami, Kampos Paros, 84400, Greece",3.0,675.0,7.5,4 ,False,False,False,False,True,False,60.0,False,August,Paros
+Villa Arkadia,"Αγίου Αρσενίου, Parasporos, 84400, Greece",3.0,1949.2592592592591,10,1 ,False,False,False,False,True,False,85.0,False,August,Paros
+Sea View Villa At Paros,"Marmotas, Kampos Paros, 844 00, Greece",3.0,1183.3333333333333,8.0, 1 ,False,False,False,False,True,False,60.0,False,August,Paros
+CAMPO SUITES,"ΚΑΜΠΟΣ ΠΑΡΟΥ, Kampos Paros, 84400, Greece",3.0,1187.6583007137924,9.7,12 ,False,False,False,True,True,False,20.0,False,August,Paros
+Ricardo by the sea,"Χρήστου Κωνσταντόπουλου, Parikia, 84400, Greece",,1380.3738317757009,,,False,False,False,False,True,False,48.0,False,August,Paros
+Crystal Villa II,"Chrissi Akti, Chrissi Akti, 84400, Greece",4.0,3554.8611111111113,10,1 ,True,True,False,True,True,False,135.0,True,August,Paros
+SAO II Smallport. Naoussa. Paros.,"Naoussa Paros, Naousa, 84401, Greece",3.0,1532.0,9.7,3 ,False,False,False,False,True,False,45.0,False,August,Paros
+Nefeli's Seaside and Sunset Home,"Unnamed Road, Kampos Paros, 84400, Greece",4.0,3297.222222222222,,,False,False,False,False,True,False,135.0,False,August,Paros
+"Cosme, a Luxury Collection Resort, Paros","Agioi Anargyroi Naoussa Paros, Naousa, 84400, Greece",,6766.355140186915,9.7,7 ,True,True,True,False,False,False,35.0,False,August,Paros
+Stone view Paros,"paroikia, Paraspóri, 84400, Greece",,1152.3364485981308,9.6,7 ,False,False,False,False,True,False,79.0,False,August,Paros
+"Villa Laugh, on The Limnes Beach","Kolimbithres, Kampos Paros, 84401, Greece",,1954.2056074766354,,,False,False,False,False,True,False,79.0,False,August,Paros
+BOUDARI VILLAS,"DRIOS, Drios, 84400, Greece",,3354372.312983663,,,True,True,True,True,True,False,100.0,False,August,Paros
+"SUN DROP II - DRIOS, PAROS","Eparchiaki Odos Parikias-Marpissas Drios, Drios, 84400, Greece",,2288.0,,,False,False,False,False,True,False,160.0,False,August,Paros
+Barbarigos luxury spa apartments,"ΝΑΟΥΣΑ ΠΑΡΟΥ, Naousa, 84401, Greece",4.0,1610.0,9.1,20 ,True,False,False,False,True,False,39.0,False,August,Paros
+Parion Opus,"Náoussa, Greece, Naousa, 84401, Greece",4.0,1748.8372093023256,8.8,5 ,True,False,False,False,True,False,27.0,False,August,Paros
+Portes View,"Νικολάου Περαντινού, Parikia, 84400, Greece",4.0,2004.0,9.6,8 ,False,False,False,True,True,False,119.0,False,August,Paros
+Fouli,"ΠΑΡΟΣ ΑΣΠΡΟ ΧΩΡΙΟ, Aspro Chorio Paros, 84400, Greece",3.0,1036.0,,,False,False,False,True,True,False,110.0,True,August,Paros
+Villa Blanca,"Aspro Chorio, Aspro Chorio Paros, 84400, Greece",3.0,1533.644859813084,,,False,False,False,False,True,False,100.0,False,August,Paros
+Pandesia Villas Private Pools,"Tsoukalia, Mármara, 84400, Greece",,5763.551401869158,10,2 ,False,False,False,True,True,False,180.0,True,August,Paros
+Elysium Paros Houses,"Tzanes, Chrissi Akti, 84400, Greece",4.0,1288.8392857142856,8.4, 14 ,False,True,False,True,True,False,95.0,True,August,Paros
+Mia casa,"Νάουσα 0, Naousa, 84400, Greece",,2109.345794392523,8.7,12 ,False,False,False,True,False,False,99.0,False,August,Paros
+Surfing Beach Huts,"Santa Maria Beach, Santa Maria, 84400, Greece",,475.7009345794392,6.7,66 ,True,True,True,False,True,True,,True,August,Paros
+Villalula Suites,"Main Street, Ambelas, 84401, Greece",,1553.271028037383,10,2 ,False,False,False,True,True,False,74.0,False,August,Paros
+Sophia & Chris Studios,"Σάντα Μαρία Πάρος, Santa Maria, 84401, Greece",4.0,817.0,,,True,False,False,False,True,False,33.0,True,August,Paros
+Luxurious Villa Seirios,"Isterni Naoussa, Isterni, 84401, Greece",4.0,1790.3139968068122,9.5,2 ,False,False,False,True,True,False,120.0,False,August,Paros
+Martineli Residence - A Beachfront Estate,"Drios, Drios, 84400, Greece",5.0,5704.0,10,14 ,True,False,False,True,True,False,400.0,True,August,Paros
+Villa Emerald,"Eparchiaki Odos Parikias-Naousas, Isterni, 84400, Greece",4.0,1952.7777777777778,7.5,1 ,False,False,False,True,True,False,85.0,False,August,Paros
+Villa Rojo,"unnamed road, Santa Maria, 84401, Greece",4.0,9897.201017811705,,,False,True,False,True,True,False,335.0,False,August,Paros
+Villa Ble Paros,"ΠΑΡΟΙΚΙΑ ΠΑΡΟΥ, Parikia, 84400, Greece",4.0,1196.0,9.2,5 ,True,False,False,False,True,False,70.0,False,August,Paros
+"Villa Castanea, 7 minutes from Naousa","Medittera Avra 4, Isterni, 84400, Greece",,2537.3831775700933,,,False,True,False,True,True,False,170.0,True,August,Paros
+Bonzoe #3,"Paroikia, Livadia, Parikia, 84400, Greece",3.0,678.6509364793708,,,False,False,False,False,True,False,26.0,False,August,Paros
+Callisto Plus Villa 1st and ground floor,"Marpissa Paros 84400, Márpissa, 84400, Greece",4.0,1231.9444444444446,10,1 ,False,True,False,True,True,False,120.0,False,August,Paros
+Aria Paros Residence,"Protorgia, Naoussa, Kampos Paros, 84401, Greece",4.0,5212.14953271028,,,False,True,False,False,True,False,800.0,True,August,Paros
+Wood & Stone - Paros,"253X+4CR Aspro Chorio, Aspro Chorio Paros, 84400, Greece",,1556.0747663551401,10,1 ,True,False,False,True,True,False,54.0,True,August,Paros
+Bonzoe #3,"Paroikia, Livadia, Parikia, 84400, Greece",3.0,718.2822933456137,,,False,False,False,False,True,False,26.0,False,August,Paros
+Callisto Plus Villa 1st and ground floor,"Marpissa Paros 84400, Márpissa, 84400, Greece",4.0,1230.0,10,1 ,False,True,False,True,True,False,120.0,False,August,Paros
+Aria Paros Residence,"Protorgia, Naoussa, Kampos Paros, 84401, Greece",4.0,5200.0,,,False,True,False,False,True,False,800.0,True,August,Paros
+Wood & Stone - Paros,"253X+4CR Aspro Chorio, Aspro Chorio Paros, 84400, Greece",,1584.5982142857142,10,1 ,True,False,False,True,True,False,55.0,True,August,Paros
+Barbarigos luxury spa apartments,"ΝΑΟΥΣΑ ΠΑΡΟΥ, Naousa, 84401, Greece",,1754.2056074766354,9.1,20 ,True,False,False,False,True,False,39.0,False,August,Paros
+White & Grey Villas Paros - 3 Bedroom House,"Paros, Mármara, 84400, Greece",,1703.7383177570093,9.7,4 ,False,True,False,True,True,False,99.0,True,August,Paros
+Κυκλαδίτικη παραδοσιακή κατοικία,"Δρυός, Chrissi Akti, 84400, Greece",,1659.868026394721,10,4 ,False,False,False,True,True,False,95.0,False,August,Paros
+Bluebell Resort Villa SUNSET,"KAMPOS, Kampos Paros, 84400, Greece",4.0,2378.0,10,4 ,True,True,False,True,True,False,120.0,False,August,Paros
+Villa Asterias,"Eparchiaki Odos Naoussas-Marpissas, Ambelas, 84401, Greece",,4066.666666666667,,,False,False,False,True,True,False,140.0,False,August,Paros
+Blue View Villa #3 With Jakuzzi,"Paros-Parasporos eparchiaki Odos Parikias-Pountas , Parasporos, 84400, Greece",3.0,890.0,9.0,9 ,True,False,False,True,True,False,35.0,False,August,Paros
+Elysium Paros Houses,"Tzanes, Chrissi Akti, 84400, Greece",4.0,1288.8392857142856,8.4, 14 ,False,True,False,True,True,False,95.0,True,August,Paros
+Bella Paros Apartment,"Eparchiaki Odos Parikias-Naousas, Naousa, 84401, Greece",3.0,1862.8109602006607,8.5, 4 ,False,False,False,False,False,False,23.0,False,August,Paros
+VILLA ALEXANDROS,"Κολυμπηθρες ναουσσα παρου Ισόγεια βιλα, Naousa, 84401, Greece",4.0,2760.0,,,False,True,False,True,True,False,80.0,True,August,Paros
+GRAPE YARD APARTMENT,"Επαρχιακή Οδός Παροικιάς-Πούντας, Parikia, 84400, Greece",,471.02803738317755,7.5,2 ,False,False,False,True,True,False,35.0,False,August,Paros
+ELAIA VILLAS K1,"ISTERNI NAOUSAS PAROY, Isterni, 84400, Greece",,4614.508928571428,10,1 ,False,True,False,True,True,False,132.0,True,August,Paros
+VILLA TONIA,"ΠΑΡΟΙΚΙΑ ΠΑΡΟΣ, Parasporos, 84400, Greece",4.0,1300.0,9.7,10 ,False,False,False,True,True,False,102.0,False,August,Paros
+Villa Luxury Magic View,"lefkes paros, Lefkes, 84400, Greece",,4600.0,10,1 ,False,True,False,True,True,False,135.0,False,August,Paros
+"Villa Erato · Ideal family Villa for 8 - Pool, Sea Views","Naousa, Egeo 84401, Greece, Naousa, 84401, Greece",4.0,5584.061696658097,6.5,2 ,False,True,False,False,True,False,195.0,False,August,Paros
+Bill & Alex Apartments,"Επαρχιακή Οδός Παροικιάς-Πίσω Λιβαδιού, Piso Livadi, 84400, Greece",3.0,802.9017857142857,,,False,False,False,True,False,False,35.0,False,August,Paros
+Villa Medusa,"Moni Christou Dasous, Agia Irini Paros, 84400, Greece",3.0,1950.0,10,1 ,False,True,False,False,True,False,70.0,False,August,Paros
+Georgia's quality apartments1,"Πλαγιά, Parikia, 84400, Greece",3.0,754359.4153052451,,,False,False,False,True,True,False,40.0,False,August,Paros
+Wind Villas Pounda,"Pounda, Pounda, 84400, Greece",3.0,1601.0,9.0,3 ,False,False,False,True,True,False,80.0,False,August,Paros
+paros seaside experience,"aliki paros, Aliki, 84400, Greece",,992.0,,,False,False,False,False,False,False,55.0,False,August,Paros
+HOUSE 3Bedroom Maisonette ΕΞΟΧΙΚΟ Alyki PAROS 50m from BEACH ideal for families,"Alyki Paros 84 400, Aliki, 84400, Greece",,1714.018691588785,,,False,True,False,True,True,False,74.0,False,August,Paros
+Etherio Apartment III,"Eparchiaki Odos Paroikias - Piso Livadiou, Piso Livadi, 84400, Greece",,1533.644859813084,,,False,True,False,True,True,False,40.0,False,August,Paros
+3bedroom Cycladic Villa Dorida with pool in Paros,"Drios, Kampos Paros, 84400, Greece",,3132.7102803738317,9.0,1 ,False,True,False,False,True,False,91.0,False,August,Paros
+Dunes Apartment,"Σαντα Μαρία Παρος, Santa Maria, 84401, Greece",,2004.6728971962616,,,True,True,False,True,True,True,79.0,False,August,Paros
+Villa Moonrise - Deepest Blue,"Isterni, Isterni, 84401, Greece",4.0,12758.0,,,True,True,False,False,True,False,360.0,True,August,Paros
+Empire Luxury Villas,"Ambassador Executive  Villas, Santa Maria, 84401, Greece",,9788.785046728972,8.0, 1 ,True,True,False,True,True,False,329.0,False,August,Paros
+Aelia Hospitality Paros,"Nea Chryssi Akti (Tserdakia) 1, Chrissi Akti, 84400, Greece",,5863.551401869158,9.5,11 ,True,True,False,True,True,False,269.0,False,August,Paros
+Glymar Villas Paros,"Πίσω Λειβάδι 0, Piso Livadi, 84400, Greece",,3608.4112149532707,8.0, 1 ,False,True,False,True,True,False,86.0,False,August,Paros
+NikoRama House,"Tourlos, Piso Livadi, 844 00, Greece",4.0,1000.0,9.0,1 ,True,True,False,True,True,False,75.0,True,August,Paros
+Pergola Paros Cycladic House by the Sea+Pool,"Naoussa, Naousa, 84401, Greece",4.0,2029.0,,,False,True,False,True,True,False,115.0,False,August,Paros
+Parikias Seaside House,"Parikia Seaside, Kampos Paros, 84400, Greece",4.0,1247.0,9.9,8 ,False,False,False,False,False,False,73.0,False,August,Paros
+Heritage Home with Terrace in the trendy port of Naousa,"Nαουσα Bολτο, Naousa, 84401, Greece",,1563.5514018691588,,,False,False,False,False,False,False,40.0,False,August,Paros
+Crystal Dreams,"Μάρκου Μαυρογένη 24 Παροικιά, Parikia, 84400, Greece",,1201.8691588785045,9.6,236 ,True,False,False,True,True,False,65.0,False,August,Paros
+Georgia's quality apartments 2,"Πάροs, Parikia, 84400, Greece",3.0,811.1111111111111,10,1 ,False,False,False,True,True,False,30.0,False,August,Paros
+Koukounari Cottage Paros apartment with sea view,"Livadia, 84401, Greece",,1528.9719626168223,9.0,1 ,False,False,False,False,True,False,40.0,False,August,Paros
+Paros Cave Suites,"Zori Street, Kampos Paros, 84400, Greece",,3188.0,,,False,False,False,True,True,False,40.0,False,August,Paros
+Villa Aspa Paros,"Πρόδρομος, Πάρος, Prodromos Paros, 84400, Greece",,1843.9252336448596,9.7,6 ,False,False,False,True,True,False,95.0,True,August,Paros
+Quartano Paros Residence,"Naousa Paros, Naousa, 84401, Greece",4.0,3872.222222222222,9.8,6 ,False,True,False,True,True,False,121.0,True,August,Paros
+Hillside Home (Sea & Sunset),"Επαρχιακή Οδός Παροικιάς-Νάουσας, Ekatondapilianí, 84400, Greece",4.0,2493.0232558139537,,,False,False,False,False,True,False,79.0,False,August,Paros
+Spiti Marie (Marie's House),"98 Aspro Xorio, Kampos Paros, 84400, Greece",4.0,2035.0446428571427,,,False,False,False,True,True,False,160.0,False,August,Paros
+ILSOGNO VILLA,"Tsoukalia, Mármara, 84401, Greece",,4300.0,9.0,1 ,False,True,False,False,True,False,105.0,False,August,Paros
+Kallisti Daphne · Gorgeous Villa - an oasis for 8 people,"Naousa, Paros 84401, Greece, Naousa, 84401, Greece",,2157.009345794392,9.0,2 ,False,False,False,False,True,False,103.0,False,August,Paros
+Anastasia's house Ysterni,"Υστερνι, Isterni, 84400, Greece",3.0,714.5833333333334,,,False,False,False,False,True,False,60.0,True,August,Paros
+Cielo Room 4,"Santa Maria , Santa Maria, 84400, Greece",,747.6635514018691,,,False,False,False,False,True,False,36.0,True,August,Paros
+"Hara’s Villa in Naousa , Paros","Profitis Ilias, Naousa, 84401, Greece",,3852.3364485981306,10,1 ,False,False,False,True,True,False,140.0,True,August,Paros
+Villa with Private Swimming Pool,"Αγκαιριάς, Angairiá, 84400, Greece",4.0,18656.0,,,False,True,False,True,True,False,135.0,True,August,Paros
+Amalgam Homes Paros,"Ampelas, Ambelas, 84400, Greece",4.0,3981.595022624434,9.0,3 ,False,True,False,True,True,False,135.0,True,August,Paros
+Spiti Marie (Marie's House),"98 Aspro Xorio, Kampos Paros, 84400, Greece",4.0,10826.0,,,False,False,False,True,True,False,160.0,False,August,Paros
+ILSOGNO VILLA,"Tsoukalia, Mármara, 84401, Greece",,3956.0,9.0,1 ,False,True,False,False,True,False,105.0,False,August,Paros
+Anastasia's house Ysterni,"Υστερνι, Isterni, 84400, Greece",,714.9532710280373,,,False,False,False,False,True,False,60.0,True,August,Paros
+Cielo Room 4,"Santa Maria , Santa Maria, 84400, Greece",,747.6635514018691,,,False,False,False,False,True,False,36.0,True,August,Paros
+Barbarigos luxury spa apartments,"ΝΑΟΥΣΑ ΠΑΡΟΥ, Naousa, 84401, Greece",4.0,1729.9539170506912,9.1,20 ,True,False,False,False,True,False,39.0,False,August,Paros
+Villa with Private Swimming Pool,"Αγκαιριάς, Angairiá, 84400, Greece",4.0,3814.8054340317753,,,False,True,False,True,True,False,135.0,True,August,Paros
+Amalgam Homes Paros,"Ampelas, Ambelas, 84400, Greece",4.0,3975.1851851851848,9.0,3 ,False,True,False,True,True,False,135.0,True,August,Paros
+Studio with Seaview at Faragas,"Faragas, Kampos Paros, 84400, Greece",3.0,1134.7171945701357,10,1 ,False,False,False,False,True,False,32.0,False,August,Paros
+Eight senses,"Παροικια, Parikia, 84400, Greece",,598.0,8.0, 3 ,False,False,False,False,True,False,40.0,False,August,Paros
+Konstantinos Apartments,"ΠΑΡΟΣ, Parikia, 84400, Greece",3.0,1007.390715628221,8.5, 16 ,False,False,False,True,False,False,25.0,False,August,Paros
+Elysium Paros Houses,"Tzanes, Chrissi Akti, 84400, Greece",,1400.0,8.4, 14 ,False,True,False,True,True,False,95.0,True,August,Paros
+Spiti Georgia (Georgia's House),"9 Muses, Drios, Kampos Paros, 84400, Greece",,1352.0,,,False,False,False,True,True,False,60.0,False,August,Paros
+Villa Yiarina,"PAROS VILLA, Isterni, 84400, Greece",,3304.0,,,False,True,False,True,True,False,120.0,False,August,Paros
+Villa Mariza - Everything you need,"Eparchiaki Odos Parikias-Marpissas, Maráthion, 84400, Greece",,5778.504672897196,,,True,True,False,True,True,False,319.0,True,August,Paros
+Private Luxury Villa with heated pool without chlorine,"Επαρχιακή Οδός Νάουσας-Μάρπισσας, Naousa, 84401, Greece",,9900.0,,,False,True,False,True,True,False,150.0,True,August,Paros
+Dream Villas Paros 1 ολόκληρος χώρος με πισίνα,"Θέση Ταξιαρχάκη, Parikia, 84400, Greece",,4259.813084112149,9.0,2 ,False,True,False,False,True,False,221.0,True,August,Paros
+Ktima San Antonio - Paros,"Marpissa Agios Antonios Paros, Piso Livadi, 84400, Greece",3.0,700.1066453375992,,,True,False,False,False,True,False,25.0,True,August,Paros
+Costa Pounda Villas with private pools,"Eparchiaki Odos Parikias-Pountas, Agia Irini Paros, 84400, Greece",,4782.750861381019,,,True,True,False,False,True,False,150.0,False,August,Paros
+MENTA house in Naoussa,"ναουσσα - αγιοι αναργυροι, Naousa, 84401, Greece",4.0,3080.0,9.3,3 ,False,False,False,False,True,False,100.0,False,August,Paros
+Villa Anemos · Villa Anemos,"Naousa, Egeo 84401, Greece, Naousa, 84401, Greece",4.0,5732.558139534884,10,2 ,False,True,False,False,True,False,195.0,True,August,Paros
+Cycladic Breeze Villas,"Drios, Kampos Paros, 84400, Greece",4.0,3771.0,10,2 ,False,True,False,False,True,False,160.0,False,August,Paros
+Blue View Villa #1,"Paros-Parasporos eparchiaki Odos Parikias-Pountas , Pounda, 84400, Greece",,899.2481203007518,8.8,5 ,True,True,False,True,True,False,42.0,False,August,Paros
+"Casa Glyfari in Glyfa Paros, just 80 meters from beach","glyfa paros, Kampos Paros, 84400, Greece",4.0,1593.4746384056523,8.0, 2 ,False,False,False,True,True,False,100.0,True,August,Paros
+Family seafront villa,"Unnamed Road, Naousa 844 01, Greece, Naousa, 844 01, Greece",3.0,3477.777777777778,7.0,1 ,False,False,False,False,True,False,135.0,False,August,Paros
+Villa Lámpsi - Spacious & modern,"Asteras, Isterni, 84400, Greece",,7875.700934579439,,,True,True,False,False,True,False,325.0,True,August,Paros
+Villa Callisto Paros,"Pounta, Paros, Pounda, 84400, Greece",,4475.700934579439,,,False,True,False,True,True,False,145.0,False,August,Paros
+Vera's Island Magic,"Ambelas, Ambelas, 84401, Greece",4.0,3275.6013745704468,9.2,4 ,False,False,False,False,True,False,150.0,False,August,Paros
+StAr Maisonette,"ΑΣΠΡΙΕΣ ΠΑΡΟΥ ΝΑΟΥΣΑ, Naousa, 84400, Greece",,9083.0,10,1 ,False,False,False,True,True,False,105.0,True,August,Paros
+Georgia's quality apartments 4,"Επαρχιακή Οδός Παροικιάς-Νάουσας, Parikia, 84400, Greece",3.0,1148.4954751131222,10,1 ,False,False,False,True,True,False,34.0,False,August,Paros
+Evita Apartments,"Aliki, Aliki, 84400, Greece",3.0,805.0,9.4,85 ,False,False,False,True,True,False,30.0,False,August,Paros
+Cycladic Sea & Sunset House 1,"Kampos, Kampos Paros, 84400, Greece",,2530.841121495327,,,True,False,False,False,True,False,154.0,False,August,Paros
+ELAIA VILLAS K2,"Επαρχιακή Οδός Νάουσας-Μάρπισσας, Isterni, 84400, Greece",,7517.757009345794,9.0,1 ,False,True,False,True,True,False,189.0,True,August,Paros
+Villa Gal-Paros!,"Αgioy Αrsenioy, Kampos Paros, 84400, Greece",,2305.607476635514,8.0, 1 ,False,False,False,False,True,False,120.0,False,August,Paros
+Infinity sea view cosy villa with private pool,"Parikia, Parikia, 84400, Greece",,3157.9439252336447,9.5,4 ,False,True,False,True,True,False,74.0,False,August,Paros
+"Victoria's Dream, in Naousa Paros","Vounali ,Naousa, Kampos Paros, 84401, Greece",3.0,4002.0,,,False,False,False,True,True,False,100.0,False,August,Paros
+Remvi Studios,"Pounta 1, Pounda, 84400, Greece",3.0,617820.2923473774,8.3, 99 ,False,False,False,True,True,False,28.0,False,August,Paros
+Villa Yαlάzιοs - Jacuzzi & Gym,"0 Isterni, Isterni, 84401, Greece",,10494.444444444445,,,True,True,False,False,True,False,220.0,False,August,Paros
+Villa with Seaview and private Swimming Pool,"Tzanes, Kampos Paros, 84400, Greece",4.0,4505.352262880757,,,False,True,False,True,True,False,300.0,False,August,Paros
+Paros Molos beachfront apartment,"Molos Paros, Molos Parou, 84400, Greece",,736.0,,,False,False,False,False,True,False,36.0,False,August,Paros
+Pebbles Villa with private roof garden,"Αλυκή Πάρου 84400, Aliki, 84400, Greece",,1256.6964285714284,,,False,False,False,False,True,False,140.0,True,August,Paros
+SAO Smallport. Naoussa. Paros.,"naoussa, Naousa, 84401, Greece",,1979.4392523364486,,,False,False,False,True,False,False,54.0,False,August,Paros
+Mia casaki,"Επαρχιακή Οδός Νάουσας-Μάρπισσας, Naousa, 84401, Greece",3.0,724.8217023262014,,,False,False,False,False,False,False,20.0,False,August,Paros
+Cozy Brand New Studio in the heart of Naousa,"269 Nαουσα Bολτο, Naousa, 84401, Greece",,1172.8971962616822,,,False,False,False,False,True,False,18.0,False,August,Paros
+Isterni Paros,"Isterni Paros, Isterni, 84401, Greece",4.0,4600.0,,,False,True,False,True,True,False,250.0,False,August,Paros
+Nola Traditional Villa,"Marpissa, Kampos Paros, 84400, Greece",3.0,954.4464330901745,,,True,True,False,True,True,False,70.0,False,August,Paros
+Villa Sandstone by Rocks Estates,"Πάρος, Ambelas, 84401, Greece",4.0,3676.7441860465115,,,False,False,False,True,True,False,170.0,False,August,Paros
+4-bedroom Cycladic Villa with Seaview,"Μαρπησσα, Márpissa, 84400, Greece",,3332.7102803738317,,,False,False,False,True,True,False,150.0,False,August,Paros
+Adorable 3 bedroom maisonette in Pounta,"Eparchiaki Odos Parikias-Pountas, Kampos Paros, 84400, Greece",4.0,1120.5357142857142,,,False,False,False,False,True,False,135.0,False,August,Paros
+Shades of Blue Home,"Naousa Paros, Naousa, 84401, Greece",,1441.7293233082705,,,False,False,False,False,False,False,,False,August,Paros
+Golden Beach Villa Paros,"Golden Beach Paros, Chrissi Akti, 84400, Greece",4.0,11537.946428571428,,,False,False,False,True,True,False,250.0,True,August,Paros
+Comfy House in Paros,"Aliki, Aliki, 84400, Greece",3.0,858.8785046728972,,,False,False,False,False,False,False,75.0,False,August,Paros
+"Kallisti Elia · Serene holiday villa - Views, nr Best family Beach","Naousa, Paros 84401, Greece, Naousa, 84401, Greece",4.0,2095.138888888889,,,False,False,False,False,True,False,92.0,False,August,Paros
+Villa Gaia,"Butterfly Valley Sotires, Sarakíniko, 84400, Greece",,1622.0,,,True,False,False,True,True,False,135.0,True,August,Paros
+Ad Astra Residence,"Νάουσα, Naousa, 84401, Greece",,3368.5267857142853,9.0,2 ,False,False,False,False,False,False,102.0,False,August,Paros
+Miltiadis Apartments,"Ambelas Naousa, Ambelas, 84401, Greece",2.0,426115.1136408868,8.2, 108 ,False,False,False,True,True,False,15.0,False,August,Paros
+Martineli Residence - A Beachfront Estate,"Drios, Drios, 84400, Greece",5.0,5698.837209302325,10,14 ,True,False,False,True,True,False,400.0,True,August,Paros
+Aliki house . Ideal for 4 guests,"Antiparos - Pounta, Kampos Paros, 84400, Greece",,456.91964285714283,,,False,False,False,False,True,False,,True,August,Paros
+Kostos House with terrace,"Kώστος, Kóstos, 84400, Greece",,455.3020134228188,9.0,1 ,False,False,False,False,True,False,60.0,True,August,Paros
+Cycladic home with Seaview and Swimming pool,"Aspro Chorio, Kampos Paros, 84400, Greece",4.0,1421.0,10,3 ,False,True,False,True,False,False,95.0,True,August,Paros
+NikoRamaVilla,"1 1, Kampos Paros, 84400, Greece",,4969.283905134699,,,True,True,False,True,True,False,160.0,True,August,Paros
+Aura Studios,"Logaras, Logaras, 84400, Greece",3.0,652.5328114206769,9.5,8 ,False,False,False,True,True,False,25.0,False,August,Paros
+Newly built countryside home with access to pool,"Paros, Mármara, 84400, Greece",4.0,1389.4696433440797,9.7,4 ,False,True,False,True,True,False,105.0,True,August,Paros
+Coral Villa with 4 bedrooms in Paros,"Naousa Laggeri, Paros 844 01, Greece, Santa Maria, 84401, Greece",,3641.1214953271024,,,False,False,False,False,True,False,170.0,False,August,Paros
+Villa Arleta in Punda Beach Paros for 8 with private pool,"Punda Beach Paros, Kampos Paros, 84400, Greece",4.0,5810.0,,,False,True,False,True,True,False,200.0,False,August,Paros
+Villa Meltemi on the Outskirts of Naousa,"Xifara,Paros, Kampos Paros, 84401, Greece",3.0,7000.0,,,False,True,False,True,True,False,220.0,False,August,Paros
+4-Bedroom Villa with Spacious Verandas,"Chryssi Akti, Kampos Paros, 84400, Greece",,3094.392523364486,,,False,False,False,True,True,False,230.0,False,August,Paros
+Octopus Suites Parikia,"Castro, Parikia, 84400, Greece",,1142.9906542056074,,,False,False,False,True,False,False,37.0,False,August,Paros
+Green Retreats 3 Paros,"Paros 0, Isterni, 84400, Greece",3.0,675.4505458001051,,,False,False,False,False,True,False,18.0,True,August,Paros
+"DreamCatcher, Sea view & jacuzzi/pool, Paros","Kostos, Kampos Paros, 84400, Greece",4.0,3345.0,,,False,True,False,False,True,False,180.0,False,August,Paros
+Mariam Villa,"Νάξος - Πάρος, Sarakíniko, 84400, Greece",,2172.897196261682,,,False,False,False,False,True,False,208.0,False,August,Paros
+Verbena,"Glifa, Kampos Paros, 84400, Greece",,1500.0,,,False,False,False,False,True,False,104.0,False,August,Paros
+Luxury Paros Villa Sea View Villa Private Pool 4 BDR Tserdakia,"Nea Chrissi Akti (Tserdakia), Kampos Paros, 844 00, Greece",4.0,8231.0,,,False,True,False,True,False,False,250.0,True,August,Paros
+Paros Tranquility Villa,"Archilochos Prodromos Area , Prodromos Paros, 84400, Greece",4.0,1900.0,,,False,False,False,True,True,False,200.0,False,August,Paros
+Marble Villas,"LIAROKOPI,AGIA FOTINI PARIKIA PAROS, Ekatondapilianí, 84400, Greece",,2210.2803738317757,10,2 ,False,False,False,False,True,False,79.0,False,August,Paros
+Green Retreats 4 Paros,"Paros 0, Isterni, 84400, Greece",3.0,673.3479161869675,,,False,False,False,False,True,False,25.0,True,August,Paros
+Villa Rhea,"Aspro Chorio, Drios, 84400, Greece",3.0,1561.0,,,False,False,False,False,True,False,135.0,True,August,Paros
+JΟΥ Brand New 1BD House with Jacuzzi in Isterni,"Isterni, Kampos Paros, 84400, Greece",4.0,1237.7857761780976,,,True,False,False,True,True,False,45.0,True,August,Paros
+Luxury Villa Jolly in Paros Isterni,"Isterni, Isterni, 84400, Greece",3.0,5245.12443438914,,,False,True,False,False,True,False,300.0,False,August,Paros
+Miltiadis Apartments,"Ambelas Naousa, Ambelas, 84401, Greece",,413.0841121495327,8.2, 108 ,False,False,False,True,True,False,14.0,False,August,Paros
+Deluxe Paros Villa Grand Villa Sea View Private Pool 4 BDR Tserdakia,"Nea Chrissi Akti (Tserdakia), Kampos Paros, 844 00, Greece",4.0,9495.0,,,False,True,False,True,False,False,187.0,True,August,Paros
+"AEGEAN DROP II, near Naousa!","KOSTOS 84400 PAROS, Kóstos, 84400, Greece",,3007.4766355140187,,,False,False,False,False,True,False,129.0,False,August,Paros
+RIZES ELIAS HOUSE,"ΠΑΡΟΣ ΓΛΥΦΑΔΕΣ, Isterni, 84400, Greece",3.0,1340.6976744186047,,,False,False,False,False,True,False,90.0,False,August,Paros
+Immaculate Villa & Pool in Paros - Sleeps 10,"Pandoras Box, Chrissi Akti, 84400, Greece",4.0,7063.9534883720935,,,False,False,False,False,True,False,164.0,True,August,Paros
+Villa Rinia - seaview villa,"Naousa, 844 01, Greece, Naousa, 844 01, Greece",4.0,5210.0,,,False,True,False,False,True,False,195.0,False,August,Paros
+Aura Studios,"Logaras, Logaras, 84400, Greece",3.0,601.0,9.5,8 ,False,False,False,True,True,False,25.0,False,August,Paros
+Villa Thita Estate Complex,"Tzanes 0, Tzanes 844 00, Greece, Chrissi Akti, 84400, Greece",4.0,11515.972222222223,,,True,True,False,False,True,False,385.0,False,August,Paros
+Villa Kent,"Aspro Chorio Paros, Drios, 84400, Greece",4.0,2829.0,,,False,False,False,False,True,False,150.0,False,August,Paros
+Paros Molos beachfront appartment,"Molos Beach, Kampos Paros, 84400, Greece",,1150.467289719626,,,False,False,False,False,True,False,60.0,False,August,Paros
+Luxury Paros Villa Villa Calypso Beautiful Serene Sleeps up to 11 Glisidia,"Glisidia, Kampos Paros, 84400, Greece",3.0,4124.0,,,False,True,False,False,False,False,300.0,True,August,Paros
+"Dream Inn Paros, private pool","Επαρχιακή Οδός Παροικιάς-Πούντας, Sarakíniko, 84400, Greece",,2248.308270676692,,,False,True,False,True,True,False,,False,August,Paros
+Magic 5 bdrm Villa With Swimming pool in Paros,"Lefkes, Lefkes, 84400, Greece",4.0,4906.032696292885,,,False,True,False,False,True,False,350.0,False,August,Paros
+House with private pool,"Kamares Naousas 0, Naousa, 84401, Greece",4.0,5800.694444444444,,,False,True,False,False,True,False,175.0,False,August,Paros
+Santa Maria Villa in Paros,"47MC+C3 Lagkeri, Greece, Santa Marina, 84401, Greece",4.0,2135.2714932126696,,,False,False,False,False,True,False,100.0,False,August,Paros
+Angel Villa in Paros,"47MC+C2 Lagkeri, Greece, Santa Marina, 84401, Greece",4.0,2140.972222222222,,,False,False,False,False,True,False,100.0,False,August,Paros
+Balloo - A house gazing out on the Aegean blue,"Άσπρο Χωριό, Aspro Chorio Paros, 84400, Greece",4.0,1575.3045758809446,9.0,3 ,False,False,False,False,True,False,116.0,False,August,Paros
+Villa Thita Estate,"Tzanes 0, Tzanes 844 00, Greece, Chrissi Akti, 84400, Greece",4.0,7529.20792079208,,,True,True,False,False,True,False,285.0,False,August,Paros
+Aegean Villa in Paros,"47M9+CX Lagkeri, Greece, Santa Marina, 84401, Greece",,1285.0467289719625,,,False,False,False,False,True,False,99.0,False,August,Paros
+Cycladic Luxurious Maisonette,"Επαρχιακή Οδός Παροικιάς-Νάουσας, Naousa, 84401, Greece",4.0,1802.7777777777778,10,2 ,True,False,False,True,True,False,90.0,False,August,Paros
+Blue View Villa #2,"Paros-Parasporos eparchiaki Odos Parikias-Pountas , Parasporos, 84400, Greece",,826.7441860465117,7.0,4 ,False,True,False,False,True,False,36.0,False,August,Paros
+Cycladic Villa kamari,"PO BOX 52618, Kampos Paros, 84400, Greece",,5302.0,,,False,False,False,False,True,False,140.0,False,August,Paros
+Quality Brand Villas 3br Villa Dream Amandine An incredible place with an amazing view,"Naoussa, Kampos Paros, 84400, Greece",4.0,1159046.7289719626,,,False,True,False,False,True,False,180.0,False,August,Paros
+Paradise Blue 4,"Λογαρας, Logaras, 84400, Greece",3.0,2300.0,,,False,False,False,True,True,False,102.0,False,August,Paros
+Maria Seaview Villa,"Naousa, Naousa, 84401, Greece",,2405.607476635514,8.6,5 ,False,False,False,True,True,False,99.0,False,August,Paros
+Evita Apartments,"Aliki, Aliki, 84400, Greece",3.0,872.2921914357682,9.4,85 ,False,False,False,True,True,False,30.0,False,August,Paros
+Villa PORFYRA,"Ampela, Kampos Paros, 84400, Greece",,3365.9826976467975,,,False,False,False,False,True,False,150.0,False,August,Paros
+Test Villa,"SANTA MARIA, Kampos Paros, 84401, Greece",,4743.403177527055,,,False,False,False,False,True,False,170.0,False,August,Paros
+Sea view lolantonis,"Παραλία Λολαντώνης Πάρου, Aspro Chorio Paros, 84400, Greece",,1518.0,,,False,False,False,True,True,False,90.0,False,August,Paros
+Paros 3 bedrooms Messonette for 6 persons by MPS,"Molos Beach, Paros 844 00, Kampos Paros, 84400, Greece",3.0,1112.0,,,False,False,False,False,False,False,70.0,False,August,Paros
+Seafront Brand New Studio in Little Venice of Paros,"Naousa, Paros, Greece, Naousa, 84401, Greece",,1824.2990654205607,,,False,False,False,True,False,False,35.0,False,August,Paros
+Callisto Houses,"Eparchiaki Odos Parikias-Piso Livadiou, Márpissa, 84400, Greece",4.0,690.0,9.6,8 ,False,True,False,True,True,False,80.0,True,August,Paros
+Afluencia Complex Studio No7,"Eparchiaki Odos Parikias-Naousas, Naousa, 84401, Greece",3.0,1342.0,,,False,False,False,True,False,False,28.0,False,August,Paros
+Paros Villa Alexandra,"Santa Maria, Santa Maria, 84401, Greece",,3498.130841121495,7.0,1 ,False,False,False,True,True,False,205.0,False,August,Paros
+seaside Villa Glyfa Paros,"Παραλια Γλυφά, Aspro Chorio Paros, 84400, Greece",,4619.626168224298,,,False,True,False,False,True,False,99.0,True,August,Paros
+Paros Enjoy Apartments,"Naoussa, Kampos Paros, 84400, Greece",,2344.866071428571,,,True,False,False,True,True,True,75.0,False,August,Paros
+Villa Calm House,"Ναουσα παρου, Naousa, 84400, Greece",4.0,10068.896456561894,,,False,True,False,False,True,False,140.0,False,August,Paros
+Marios L,"Μοναστηρι Παρος, Kolympithres, Greece",,2497.196261682243,,,False,False,True,True,True,False,69.0,False,August,Paros
+Villa Alena,"Agkeria, Kampos Paros, 84400, Greece",,1472.0,,,False,False,False,False,True,False,95.0,False,August,Paros
+Anemos,"Κampos , Kampos Paros, 84400, Greece",,876.9004524886877,,,False,False,False,False,True,False,42.0,False,August,Paros
+Seaside Paros House Green,"Naousa, Agioi Anargiri, Naousa, 84401, Greece",,2001.2664057103384,,,False,False,False,False,True,False,128.0,False,August,Paros
+Andriana's cycladic house close to the sea,"ΔΡΥΟΣ ΠΑΡΟΣ, Drios, 84400, Greece",,1002.8037383177569,,,False,False,False,False,True,False,70.0,True,August,Paros
+Bohu Residence,"Ράλλη Κοψίδη, Drios, 84400, Greece",,1731.7757009345794,,,False,False,False,False,True,False,60.0,False,August,Paros
+Villa Asteras,"2 Christoi Konstavtopoiloi, Kampos Paros, 84400, Greece",,2071.96261682243,,,False,False,False,True,True,False,150.0,False,August,Paros
+Punda Coast villa,"punda beach paros, Logaras, 84400, Greece",,1030.0,,,False,False,False,False,True,False,65.0,True,August,Paros
+Bedspot Apartments Paros,"Paros Naousa 844 01, Kampos Paros, 84401, Greece",,497.0,,,False,False,False,False,False,False,25.0,False,August,Paros
+VG studios,"Μαρίνα Αλυκής, Aliki, 84400, Greece",3.0,650.0,,,True,False,False,True,True,True,25.0,False,August,Paros
+Mer Bleu Luxury Apartments,"Αμπελάς, Ambelas, 84401, Greece",4.0,851.0,8.8,39 ,False,True,False,True,True,False,35.0,True,August,Paros
+Paros Parikia house,"Esodia tis Theotokou and Stratigou I.TH. Karavia, Parikia, 84400, Greece",,1280.4705725521562,9.3,6 ,False,False,False,False,False,False,70.0,False,August,Paros
+Traditional Holiday Tiny House,"Αγκαιριά, Angairiá, 84400, Greece",3.0,567.0,10,2 ,False,False,False,True,True,False,36.0,True,August,Paros
+Vanna's Studios,"Naousa, Naousa, 84401, Greece",3.0,505.33936651583707,8.4, 46 ,False,False,False,True,True,False,35.0,False,August,Paros
+Maria Studios,"Parikia, Parikia, 84400, Greece",,751.4018691588784,8.5, 113 ,False,False,False,True,True,False,19.0,False,August,Paros
+Klironomos Apartments Logaras,"Logaras, Logaras, 84400, Greece",3.0,371.0,9.0,105 ,False,False,False,True,True,False,22.0,False,August,Paros
+Hotel Manos,"Main Street, Naousa, 84401, Greece",,776.6355140186915,9.3,42 ,False,True,True,False,True,False,14.0,False,August,Paros

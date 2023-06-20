@@ -1,0 +1,842 @@
+name,location,stars,amount_conv,Rating,NumReviews,Airport,Pool,Breakfast,Family_Rooms,Parking,Restaurant,size_m2,Pets,Month,Location
+Sole d'oro Luxury Suites,"Oia, Oia, 84702, Greece",,1935.0,9.6,389 ,True,True,False,True,False,False,30.0,False,August,Santorini
+Santorini View,"Akrotiri, Santorini, Akrotiri, 84700, Greece",,1252.3364485981308,9.3,24 ,True,True,True,True,True,True,18.0,False,August,Santorini
+Mythical Blue Luxury Suites,"Nomikou M, Fira, 84700, Greece",,2613.0841121495328,9.0,338 ,True,True,True,False,True,True,35.0,False,August,Santorini
+Nefeli Homes,"Off Main Street, Imerovigli, 84700, Greece",,2214.9532710280373,9.1,301 ,True,True,True,True,True,False,44.0,False,August,Santorini
+Phos The Boutique,"Akrotiri, Akrotiri, 84700, Greece",,5016.822429906541,9.7,167 ,True,True,True,False,True,True,44.0,False,August,Santorini
+Rose Bay Hotel,"P.O. Box 11, Kamari, 84700, Greece",4.0,228577.57009345794,9.0,94 ,True,True,False,False,True,True,22.0,False,August,Santorini
+Katikies Santorini - The Leading Hotels Of The World,"Main Street, Oia, 84702, Greece",5.0,5988.157894736842,9.4,96 ,True,True,False,False,True,True,25.0,False,August,Santorini
+Andronis Luxury Suites,"Oia, Oia, 84702, Greece",5.0,6501.937632455343,9.6,105 ,True,True,False,False,False,True,32.0,False,August,Santorini
+Danae Suites Santorini,"Finikia, Oia, Santorini, Foinikiá, 84700, Greece",,1712.1495327102803,9.2,54 ,True,True,True,False,True,False,24.0,False,August,Santorini
+Summer Time Villa,"Main Street, Fira, 84700, Greece",,1353.271028037383,9.2,705 ,True,False,False,True,True,False,44.0,False,August,Santorini
+Katikies Garden Santorini - The Leading Hotels Of The World,"Fira, Fira, 84700, Greece",5.0,2774.8110831234258,8.9,151 ,True,True,True,False,True,True,46.0,True,August,Santorini
+La Ponta Villas & Suites,"Eparchiaki Odos Akrotiriou, Akrotiri, 84700, Greece",,2745.0,9.6,62 ,True,True,True,True,True,True,85.0,False,August,Santorini
+Aldea,"Karterados, Karterados, 84700, Greece",3.0,1049.0674648860236,8.9,663 ,True,True,True,True,False,False,40.0,False,August,Santorini
+Santorini Villas,"Vourvoulos, Vourvoulos, 84700, Greece",,1602.0833333333335,9.3,295 ,True,True,False,False,True,False,40.0,False,August,Santorini
+Cycladic Suites,"8 Agiou Athanasiou Cycladic Suites, Fira, 84700, Greece",,1593.6489870248122,9.6,197 ,False,False,False,False,True,False,33.0,False,August,Santorini
+Kalisperis Hotel,"Vothonas, Mesaria, 84 700, Greece",,1262.6168224299065,8.6,487 ,True,True,False,True,False,False,22.0,False,August,Santorini
+Fira Vista Hotel,"Danezi M, Fira, 84700, Greece",,1148.4954751131222,10,4 ,True,False,True,True,False,False,20.0,True,August,Santorini
+Lavadoze Luxury Suites,"Exo Gonia 84700, Éxo Goniá, 84700, Greece",,1940.0,9.6,34 ,True,True,False,False,True,False,45.0,False,August,Santorini
+Smaragdi Hotel,"Main Street, Perivolos, 84703, Greece",3.0,1049.7767857142856,9.2,759 ,False,True,False,False,True,False,28.0,False,August,Santorini
+Maison Des Lys - Luxury Suites,"Off Akrotiriou - Megalochoriou Road, Akrotiri, 84700, Greece",,1796.0,8.8,453 ,True,True,True,True,True,True,40.0,True,August,Santorini
+Altera Pars Suites,"Mesaria, Mesaria, 84700, Greece",,2006.5420560747662,9.2,334 ,True,False,False,True,True,False,35.0,False,August,Santorini
+Vogue Suites,"Oia, Oia, 84702, Greece",,1752.3364485981308,8.9,28 ,True,False,False,True,False,False,26.0,False,August,Santorini
+Bella Santorini,"Perivolos Beach, Perivolos, 84700, Greece",4.0,1145.3488372093022,9.1,85 ,True,False,True,True,True,True,40.0,False,August,Santorini
+Athermi Suites - Adults Only,"Megalochori , Megalochori, 84700, Greece",,2073.0,9.6,324 ,True,True,True,False,True,False,32.0,False,August,Santorini
+Acrothea Suites and Villas,"Akrotírion, Akrotiri, 84700, Greece",,1641.1214953271028,9.1,319 ,True,True,True,True,True,False,35.0,False,August,Santorini
+Elitoz Suites,"1, Oia, 84702, Greece",,2025.0,9.6,367 ,True,True,False,False,True,False,45.0,False,August,Santorini
+Danae Suites Santorini,"Finikia, Oia, Santorini, Foinikiá, 84700, Greece",4.0,1710.4166666666667,9.2,54 ,True,True,True,False,True,True,25.0,False,August,Santorini
+Caldera Stories private suites,"Megalochori, Megalochori, 84700, Greece",,3257.9439252336447,9.0,240 ,True,False,False,True,True,False,40.0,False,August,Santorini
+Rimida Villas,"Oia, Oia, 84702, Greece",,2706.542056074766,9.4,350 ,True,False,True,False,True,False,35.0,False,August,Santorini
+Apanemo Hotel & Suites,"Off Main Street, Akrotiri, 84700, Greece",,1903.0,9.5,395 ,True,True,True,False,True,False,15.0,True,August,Santorini
+Stella Rocca A Mare,"Imerovigli, Imerovigli, 84700, Greece",,4424.776785714285,9.5,209 ,True,True,False,False,False,False,21.0,False,August,Santorini
+Astro Palace Hotel & Suites,"Fira, Fira, 84700, Greece",5.0,2484.883720930233,9.3,452 ,True,False,True,False,False,True,35.0,True,August,Santorini
+Honeymoon Petra Villas,"Imerovigli, Imerovigli, 84700, Greece",,3044.859813084112,9.5,225 ,True,True,True,False,False,True,35.0,True,August,Santorini
+Ducato Di Oia,"Oia, Oia, 84702, Greece",,3288.785046728972,8.8,402 ,True,True,True,False,True,False,24.0,False,August,Santorini
+Eucalyptus Houses,"Mesaria, Mesaria, 84700, Greece",,1037.3831775700935,8.7,95 ,False,False,True,True,True,False,24.0,False,August,Santorini
+Katikies Garden Santorini - The Leading Hotels Of The World,"Fira, Fira, 84700, Greece",5.0,2787.5,8.9,151 ,True,True,True,False,True,True,46.0,True,August,Santorini
+Kasimatis by La Perla - Adults Only,"Imerovigli, Imerovigli, 84700, Greece",4.0,2972.093023255814,9.3,746 ,True,True,True,True,True,True,60.0,False,August,Santorini
+Cresanto Luxury Suites,"Eparchiaki Odos Firon-Ias, Imerovigli, 84700, Greece",,2575.700934579439,9.3,243 ,False,True,True,False,True,True,40.0,False,August,Santorini
+Kamares Apartments,"Fira, Fira, 84700, Greece",4.0,2116.0,9.4,444 ,True,False,True,True,True,False,30.0,False,August,Santorini
+Kalimera Hotel,"Akrotiriou - Megalochoriou Road, Akrotiri, 847 00, Greece",3.0,1161.8055555555557,9.0,283 ,True,True,False,True,True,False,30.0,False,August,Santorini
+Meltemi Village Hotel,"Main Street, Perissa, 84703, Greece",,2177.5700934579436,8.6,583 ,True,True,True,True,True,False,22.0,False,August,Santorini
+Tzekos Villas,"Fira, Fira, 84700, Greece",,1850.8781266631188,8.6,888 ,True,True,False,True,True,False,30.0,False,August,Santorini
+White Lily Santorini - Adults Only 16 Plus,"Perivolos Beach Perivolos Beach, Perivolos, 84700, Greece",,1163.953488372093,9.2,67 ,True,True,False,False,True,False,40.0,True,August,Santorini
+Kalisti Hotel & Suites,"Fira, Fira, 84700, Greece",4.0,1631.0294117647059,8.6,666 ,True,True,True,True,True,True,18.0,False,August,Santorini
+San Antonio - Small Luxury Hotels of the World,"Main Street, Imerovigli, 84700, Greece",4.0,2886.0,9.6,624 ,True,True,True,False,True,True,25.0,False,August,Santorini
+La Ponta Villas & Suites,"Eparchiaki Odos Akrotiriou, Akrotiri, 84700, Greece",,2995.1185816256043,9.6,62 ,True,True,True,False,True,True,85.0,False,August,Santorini
+Echoes Luxury Suites,"Oia Santorini, Oia, 84702, Greece",,12243.0,9.7,189 ,True,False,True,False,False,False,63.0,False,August,Santorini
+Impressive One,"Pyrgos, Pyrgos, 84700, Greece",,1867.289719626168,8.8,271 ,True,True,False,False,True,False,27.0,False,August,Santorini
+Secret View Hotel,"View Hotel by Secret Santorini, Oia, 84702, Greece",,2073.8317757009345,9.2,431 ,True,True,True,False,True,True,23.0,False,August,Santorini
+Kallisto,"Imerovigli, Imerovigli, 84700 , Greece",,2071.134020618557,9.0,186 ,True,True,False,False,True,False,60.0,False,August,Santorini
+Santorini Villas,"Vourvoulos, Vourvoulos, 84700, Greece",,1603.7383177570093,9.3,295 ,True,True,False,False,True,False,40.0,False,August,Santorini
+Kapari Natural Resort,"Imerovigli, Imerovigli, 84700, Greece",5.0,4066.279069767442,9.4,354 ,True,True,True,True,False,True,44.0,False,August,Santorini
+Anastasia Princess Luxury Residence - Adults Only,"Perissa, Perissa, 84703, Greece",4.0,1511.0,9.6,362 ,True,False,False,False,True,False,25.0,False,August,Santorini
+Nefeli Homes,"Off Main Street, Imerovigli, 84700, Greece",4.0,2213.1944444444443,9.1,301 ,True,True,True,True,True,False,45.0,False,August,Santorini
+Santorini's Balcony,"Thiras - Oias Road, Imerovigli, 84700, Greece",,3165.4205607476633,9.1,297 ,True,True,True,False,True,True,26.0,False,August,Santorini
+Nautilus Dome,"Fira, Fira, 84700, Greece",,1679.4392523364486,9.4,845 ,True,False,True,True,True,False,35.0,True,August,Santorini
+Edem Luxury Hotel,"Finikia, Oia, Oia, 84702, Greece",5.0,5000.9682387204,9.5,295 ,True,False,True,False,False,True,26.0,False,August,Santorini
+Alunia Incognito Suites - Adults Only,"Eparchiaki Odos Pirgou Kallistis, Pyrgos, 84700, Greece",,1646.7289719626167,8.9,234 ,True,False,True,False,True,False,30.0,False,August,Santorini
+Santa Elena,"Achileos Street, Kamari, 84700, Greece",,1082.2429906542056,9.6,278 ,True,True,True,False,True,False,19.0,False,August,Santorini
+Summer Time Villa,"Main Street, Fira, 84700, Greece",,1353.271028037383,9.2,705 ,True,False,False,True,True,False,44.0,False,August,Santorini
+Akis Hotel,"Kamari, Kamari, 84700, Greece",2.0,862.5,9.0,214 ,False,False,False,False,False,False,18.0,False,August,Santorini
+Panorama Boutique Hotel,"Fira, Fira, 84700, Greece",,4528.096249115357,9.2,365 ,True,True,True,False,False,False,40.0,False,August,Santorini
+White Concept Caves,"Fira Santorini, Fira, 84700, Greece",,519138.3177570093,9.1,130 ,True,True,True,False,True,False,42.0,False,August,Santorini
+Afroessa Hotel by Pearl Hotel Collection,"Maganari, Imerovigli, 84700, Greece",4.0,1579.0,8.9,139 ,True,True,True,False,False,True,25.0,False,August,Santorini
+Daylight Hotel,"Perissa, Perissa, 84703, Greece",,1527.1028037383176,9.6,219 ,True,True,False,False,True,False,27.0,False,August,Santorini
+Tamarix Del Mar Suites,"Main Street, Kamari, 84700, Greece",5.0,1716.5178571428569,9.2,340 ,True,False,False,False,True,False,50.0,False,August,Santorini
+Alesahne Beach Hotel,"Kamari, Kamari, 84700, Greece",,1256.25,8.6,441 ,True,True,True,False,False,True,17.0,False,August,Santorini
+Abyss,"Oia, Oia, 84702, Greece",5.0,4678.816127785526,9.7,155 ,True,True,True,False,False,False,45.0,False,August,Santorini
+Evgenia Villas & Suites by Calm Collection,"Main Street, Fira, 84700, Greece",,1904.9954586739327,9.0,443 ,True,True,False,True,True,True,20.0,False,August,Santorini
+Villa Irini Fira - Adults Only,"Fira, Fira, 84700, Greece",,2277.5700934579436,9.1,388 ,True,True,True,False,True,True,30.0,False,August,Santorini
+Sophia Luxury Suites,"Imerovigli, Imerovigli, 84700, Greece",,1734.734054800829,8.8,229 ,True,False,False,False,True,False,17.0,True,August,Santorini
+Ambition Suites,"Oia Santorini Greece, Oia, 84702, Greece",,3482.242990654205,9.8,289 ,False,False,True,False,False,False,36.0,False,August,Santorini
+Aspaki by Art Maisons,"Oia, Oia, 84702, Greece",5.0,6549.610077984403,9.6,184 ,True,True,True,True,True,False,35.0,False,August,Santorini
+Kalestesia Suites,"Akrotiri, Akrotiri, 84700, Greece",,1840.4017857142856,9.4,257 ,True,True,False,True,True,True,35.0,False,August,Santorini
+Evgenia Villas & Suites by Calm Collection,"Main Street, Fira, 84700, Greece",,2071.6900759843425,9.0,443 ,True,True,False,True,True,True,20.0,False,August,Santorini
+Epic View Suites,"AKROTIRI SANTORINI, Akrotiri, 84700, Greece",,1564.0897755610974,8.9,121 ,True,True,False,True,True,False,40.0,False,August,Santorini
+Villa Irini Fira - Adults Only,"Fira, Fira, 84700, Greece",4.0,2282.142857142857,9.1,388 ,True,True,True,False,True,True,30.0,False,August,Santorini
+Summer Time Villa,"Main Street, Fira, 84700, Greece",,1353.271028037383,9.2,705 ,True,False,False,True,True,False,44.0,False,August,Santorini
+Sophia Luxury Suites,"Imerovigli, Imerovigli, 84700, Greece",,383684.1121495327,8.8,229 ,True,False,False,False,True,False,17.0,True,August,Santorini
+Ambition Suites,"Oia Santorini Greece, Oia, 84702, Greece",,3478.472222222222,9.8,289 ,False,False,True,False,False,False,36.0,False,August,Santorini
+Aspaki by Art Maisons,"Oia, Oia, 84702, Greece",5.0,6585.551462122957,9.6,184 ,True,True,True,True,True,False,35.0,False,August,Santorini
+Cycladic Suites,"8 Agiou Athanasiou Cycladic Suites, Fira, 84700, Greece",,1606.0672346304398,9.6,197 ,False,False,False,False,True,False,33.0,False,August,Santorini
+Aurora Luxury Suites,"Pori Beach, Imerovigli, 84700, Greece",,2235.5140186915887,8.9,221 ,True,False,True,False,True,True,27.0,False,August,Santorini
+Aura Marina Apartments Santorini,"Akrotírion Thira, Akrotiri, 84700, Greece",,2268.2242990654204,8.7,178 ,True,True,False,True,True,False,56.0,True,August,Santorini
+Atlantis Hotel,"Mitropoleos st, Fira, 847 00, Greece",4.0,1818.0,8.8,606 ,False,True,False,False,True,False,20.0,True,August,Santorini
+Art Hotel Santorini,"Pyrgos , Pyrgos, 84700, Greece",,1238.888888888889,8.9,129 ,True,True,True,False,True,False,40.0,False,August,Santorini
+Aelia by Eltheon,"Thiras - Oias Road, Imerovigli, 84 700, Greece",3.0,1035.0,8.8,75 ,True,True,True,True,True,False,22.0,False,August,Santorini
+Antoperla Luxury Hotel & Spa,"Perissa, Perissa, 13676, Greece",5.0,1366.0,8.5, 410 ,False,True,False,False,True,True,25.0,True,August,Santorini
+Selini Ηotel,"Kamari, Kamari, 84700, Greece",,871.9626168224298,9.2,305 ,False,True,False,False,True,False,18.0,False,August,Santorini
+Casa Vitae Suites,"Kamari, Kamari, 84700, Greece",5.0,1921.0,9.1,216 ,True,True,True,True,True,True,25.0,False,August,Santorini
+Esperas,"Oia, Oia, 84702, Greece",4.0,3455.4110062169007,9.1,142 ,True,True,True,False,True,False,35.0,False,August,Santorini
+Elements Cozy Suites Pyrgos,"Pyrgos, Pyrgos, 84700, Greece",,1326.368778280543,9.6,68 ,True,True,True,True,True,False,38.0,False,August,Santorini
+Kalisperis Hotel,"Vothonas, Mesaria, 84 700, Greece",,1262.6168224299065,8.6,487 ,True,True,False,True,False,False,22.0,False,August,Santorini
+Fira Vista Hotel,"Danezi M, Fira, 84700, Greece",,1253.271028037383,10,4 ,True,False,True,True,False,False,19.0,True,August,Santorini
+Atlantis Beach Villa,"Main Street, Perivolos, 84703, Greece",3.0,583559.8130841121,8.7,383 ,False,True,True,False,True,False,18.0,False,August,Santorini
+Abasa Suites,"Kontohori - Fira, Fira, 84700, Greece",4.0,1679.1666666666667,9.4,491 ,False,True,True,True,True,False,30.0,False,August,Santorini
+Anteliz Suites,"Fira, Fira, 84700, Greece",4.0,2568.0,9.6,398 ,True,True,True,True,True,True,48.0,False,August,Santorini
+Afrodete Hotel,"Main Street, Firostefani, 84700, Greece",1.0,877.0,9.3,518 ,False,False,False,False,True,False,16.0,False,August,Santorini
+Nefeli Traditional Cave Houses,"M. Danezi, Mesaria, 84700, Greece",3.0,1001.3888888888889,9.4,34 ,True,False,False,True,True,False,38.0,False,August,Santorini
+Levante Beach Hotel,"Kamari, Kamari, 84700, Greece",2.0,937.5,8.2, 816 ,False,True,False,True,False,True,18.0,False,August,Santorini
+Perivolas Hotel,"Oia, Oia, 84702, Greece",,28868.22429906542,9.6,111 ,True,False,False,False,True,True,200.0,False,August,Santorini
+Rampelia Apartments,"Eparxiaki Odos Firon - Oias, Imerovigli, 84700, Greece",,937.3831775700934,9.1,180 ,True,True,False,True,True,False,40.0,False,August,Santorini
+Villa Rose,"Main Street, Fira, 84700, Greece",,1337.986577181208,9.3,540 ,False,True,False,True,True,False,25.0,False,August,Santorini
+M.G. Hotel Studio & Apts,"SANTORINI Perissa, Perissa, 84700, Greece",2.0,853.3156804052499,9.6,8 ,True,True,True,True,True,False,18.0,False,August,Santorini
+Andromeda Villas & Spa Resort,"Off Thiras - Oias Road, Imerovigli, 84700, Greece",,1385.981308411215,8.5, 720 ,True,True,True,False,True,True,26.0,False,August,Santorini
+Alta Vista Suites,"Firostefani, Firostefani, 84700, Greece",,9942.0,9.3,166 ,True,True,True,True,False,False,23.0,False,August,Santorini
+Amaryllis Hotel,"FIRON-ORMOU PERISSAS ROAD, Perissa, 84703, Greece",3.0,724.5535714285713,8.5, 477 ,True,True,True,False,True,True,22.0,False,August,Santorini
+Eunoia Apartments,"29 Agiou Athanasiou, Fira, 84700, Greece",3.0,890.0,9.4,31 ,True,False,False,False,False,False,30.0,False,August,Santorini
+Orama Hotel & Spa,"Fira, Fira, 84700, Greece",5.0,2107.8054298642533,9.0,521 ,True,False,True,False,True,False,30.0,False,August,Santorini
+Acrothea Suites and Villas,"Akrotírion, Akrotiri, 84700, Greece",4.0,1639.5833333333335,9.1,319 ,True,True,True,True,True,False,35.0,False,August,Santorini
+Merovigliosso,"Off Main Street, Imerovigli, 84700, Greece",4.0,2113.0,9.0,314 ,True,True,True,True,True,False,21.0,False,August,Santorini
+Hotel Hellas,"Main Street, Fira, 84700, Greece",2.0,946.0,8.2, 731 ,True,False,False,True,True,False,25.0,False,August,Santorini
+Anthemis Suites,"Imerovigli 0, Imerovigli, 84700, Greece",,1753.0,,,True,False,False,True,True,False,37.0,False,August,Santorini
+Elitoz Suites,"1, Oia, 84702, Greece",,2025.0,9.6,367 ,True,True,False,False,True,False,45.0,False,August,Santorini
+Villa Iliovasilema Santorini,"Off Akrotiriou - Megalochoriou Road, Akrotiri, 84700, Greece",,1054.6511627906978,7.3,315 ,True,True,True,True,False,False,60.0,True,August,Santorini
+Caldera's Majesty,"Imeroviglion, Imerovigli, 84700, Greece",,4063.0,9.6,153 ,True,False,True,False,True,False,26.0,False,August,Santorini
+Caldera View Resort - Adults Only,"Main Street, Akrotiri, 847 00, Greece",,659.8130841121495,8.0, 278 ,True,True,True,False,True,True,30.0,False,August,Santorini
+Adorno Oia,"Adorno Suites, Oia, Oia, 84700, Greece",,2157.9439252336447,8.8,366 ,True,True,True,False,True,True,19.0,False,August,Santorini
+Astir Thira Hotel,"Main Street, Fira, 84700, Greece",,1261.830357142857,8.5, 406 ,True,True,True,True,False,False,18.0,False,August,Santorini
+Santorini Palace,"Main Street, Fira, 84700, Greece",4.0,7161.0,8.6,624 ,True,True,True,False,True,True,20.0,False,August,Santorini
+Pancratium Villas & Suites,"Akrotiri, Akrotiri, 84700, Greece",,1106.9767441860465,9.6,103 ,True,False,True,False,True,False,24.0,False,August,Santorini
+White Pearl Cavalieri,"Imerovigli, Imerovigli, 84700, Greece",,2105.607476635514,9.9,209 ,True,True,False,False,True,True,60.0,False,August,Santorini
+White Pearl Cavalieri,"Imerovigli, Imerovigli, 84700, Greece",,2108.358277688234,9.9,209 ,True,True,False,False,True,True,60.0,False,August,Santorini
+Thera Villas,"Fira Agiou Mina, Fira, 84700, Greece",4.0,6075.0,9.9,7 ,False,False,True,True,True,False,205.0,False,August,Santorini
+Venus Sunrise Suites & Villas,"Vourvoulos Santorini, Vourvoulos, 84700, Greece",,1157.0093457943924,10,1 ,True,False,True,True,True,False,23.0,False,August,Santorini
+Oia Cave Loft,"Oia 847 02, Greece, Oia, 84702, Greece",,2906.542056074766,9.3,12 ,True,False,False,True,True,False,44.0,False,August,Santorini
+Acrothea Suites and Villas,"Akrotírion, Akrotiri, 84700, Greece",4.0,1509.0,9.1,319 ,True,True,True,True,True,False,35.0,False,August,Santorini
+Caldera Stories private suites,"Megalochori, Megalochori, 84700, Greece",,2988.3720930232557,9.0,240 ,True,False,False,True,True,False,40.0,False,August,Santorini
+Apanemo Hotel & Suites,"Off Main Street, Akrotiri, 84700, Greece",,1522.2222222222222,9.5,395 ,True,True,True,False,True,False,15.0,True,August,Santorini
+Zephyros Hotel,"Main Street, Kamari, 84700, Greece",,992.5233644859812,9.3,347 ,False,True,False,False,False,False,19.0,False,August,Santorini
+Stella Rocca A Mare,"Imerovigli, Imerovigli, 84700, Greece",,4562.616822429906,9.5,209 ,True,True,False,False,False,False,23.0,False,August,Santorini
+Astro Palace Hotel & Suites,"Fira, Fira, 84700, Greece",,2208.4112149532707,9.3,452 ,True,False,True,False,True,False,35.0,True,August,Santorini
+Merovigliosso,"Off Main Street, Imerovigli, 84700, Greece",4.0,1900.0,9.0,314 ,True,True,True,True,True,False,20.0,False,August,Santorini
+Hotel Goulielmos,"Akrotiri, Akrotiri, 84700, Greece",4.0,984.7222222222223,9.2,446 ,True,True,True,False,True,True,20.0,True,August,Santorini
+Honeymoon Petra Villas,"Imerovigli, Imerovigli, 84700, Greece",,3044.859813084112,9.5,225 ,True,True,True,False,False,True,35.0,True,August,Santorini
+King's Suites,"Kamari, Kamari, 84700, Greece",,1475.7009345794393,8.7,146 ,True,True,True,False,False,True,19.0,False,August,Santorini
+Ducato Di Oia,"Oia, Oia, 84702, Greece",4.0,3285.416666666667,8.8,402 ,True,True,True,False,True,False,25.0,False,August,Santorini
+Santa Irina Luxury Sunny Lofts,"ΠΕΡΙΒΟΛΟΣ ΑΓΙΟΣ ΓΕΩΡΓΙΟΣ, Perivolos, 84703, Greece",4.0,1942.361111111111,9.8,198 ,True,True,False,False,True,False,28.0,False,August,Santorini
+Oia Suites,"Finikia, Oia, 84700, Greece",,5964.485981308411,9.5,273 ,True,True,True,False,True,False,35.0,False,August,Santorini
+Pnoe Luxury Suites,"Σαντορινη, Fira, 84700, Greece",,2519.626168224299,,,True,True,True,True,True,False,60.0,False,August,Santorini
+Blue Waves Suites & Apartments,"Kamari, Kamari, 84700, Greece",2.0,981.9444444444445,9.2,488 ,True,True,True,True,True,False,30.0,True,August,Santorini
+Hermes Hotel,"Ermis Street, Santorini Island, Kamari, 84700, Greece",4.0,8649.0,8.8,484 ,True,False,True,True,True,True,26.0,False,August,Santorini
+Stoa Cave Villas,"Eparchiaki Odos Mesarias-Archeas Thiras βοθωνας, Mesaria, 84700, Greece",,1195.3271028037382,9.0,129 ,True,True,False,False,False,False,24.0,False,August,Santorini
+Kasimatis by La Perla - Adults Only,"Imerovigli, Imerovigli, 84700, Greece",4.0,3022.0,9.3,746 ,True,True,True,True,True,True,60.0,False,August,Santorini
+Cresanto Luxury Suites,"Eparchiaki Odos Firon-Ias, Imerovigli, 84700, Greece",,2575.700934579439,9.3,243 ,False,True,True,False,True,True,40.0,False,August,Santorini
+DELION VIEW HOTEL,"ORMOS FIRON 1, Fira, 84700, Greece",4.0,2481.308411214953,8.9,178 ,True,True,False,True,False,False,28.0,False,August,Santorini
+Kamares Apartments,"Fira, Fira, 84700, Greece",,2305.607476635514,9.4,444 ,True,False,True,True,True,False,30.0,False,August,Santorini
+Finikia Memories Hotel,"Main Street, Oia, 84702, Greece",3.0,1359.4162264008048,8.9,603 ,True,True,True,False,False,True,25.0,True,August,Santorini
+Orizontes Hotel Santorini,"Main Street, Pyrgos, 84700, Greece",,1269.1588785046729,7.9,294 ,True,True,True,True,True,True,19.0,False,August,Santorini
+Aqua Blue Beach Hotel,"Perissa, Perissa, 84703, Greece",5.0,1708.3333333333335,9.0,454 ,True,False,False,False,True,False,20.0,False,August,Santorini
+Tholos Resort,"Main Street, Imerovigli, 84700, Greece",,3405.6074766355136,9.1,283 ,True,False,False,True,True,True,30.0,False,August,Santorini
+Villa Lukas,"Imerovíglion, Imerovigli, 847 00, Greece",4.0,2308.139534883721,9.5,162 ,True,False,False,True,False,False,60.0,False,August,Santorini
+Manos Small World,"Main Street, Firostefani, 84700, Greece",,1511.414027149321,8.5, 130 ,True,False,True,True,False,False,40.0,False,August,Santorini
+Akra Suites,"Imerovigli Imerovigli, Imerovigli, 84700, Greece",,2531.775700934579,9.5,423 ,True,True,False,False,True,True,24.0,False,August,Santorini
+Cocoon Suites,"Imeroviglion, Imerovigli, 84700, Greece",,3007.4766355140187,9.2,318 ,True,False,True,False,True,True,38.0,False,August,Santorini
+Afroditi Venus Beach Hotel & Spa,"Main Street, Kamari, 84700, Greece",4.0,1185.0,8.3, 452 ,True,False,True,False,True,True,23.0,False,August,Santorini
+Casasantantonio 18th Century Luxury Mansion,"25 Martiou, Fira, 84700, Greece",4.0,2678.0,9.4,57 ,True,False,True,True,False,False,82.0,False,August,Santorini
+Gizis Exclusive,"Main Street, Imerovigli, 84700, Greece",,1387.0,8.3, 409 ,True,True,True,True,True,False,25.0,False,August,Santorini
+Pelican Hotel,"Main Street, Fira, 84700, Greece",,953.0,8.9,621 ,False,False,False,False,False,True,15.0,False,August,Santorini
+ILIADA-ODYSSEAS RESORT,"PERIVOLOS 1, Perivolos, 84703, Greece",,1111.214953271028,8.2, 41 ,True,False,False,True,True,False,23.0,False,August,Santorini
+La Bellezza Eco Boutique Hotel,"Kamari, Kamari, 84700, Greece",4.0,1801.0,9.3,193 ,True,True,True,True,True,False,46.0,True,August,Santorini
+The Last Sunbeam - Adults Only,"Fira, Fira, 84700, Greece",3.0,1656.25,9.3,484 ,True,True,False,False,True,False,25.0,False,August,Santorini
+Kratiras View Luxury Suites,"Agiou Mina, Fira, 84700, Greece",,3109.027777777778,8.2, 262 ,False,False,True,False,False,True,25.0,False,August,Santorini
+Andronikos Santorini,"Imerovigli, Imerovigli, 84700, Greece",,3318.75,9.3,83 ,True,False,False,False,False,False,30.0,False,August,Santorini
+Keti Hotel,"Firá, Fira, 84700, Greece",,3143.533794571581,9.4,331 ,True,False,True,True,True,False,30.0,True,August,Santorini
+Sellada Beach,"Main Street, Perissa, 84703, Greece",4.0,981.2499999999999,9.1,279 ,True,False,True,True,False,False,15.0,False,August,Santorini
+Avraki,"Kamari 1, Kamari, 84700, Greece",3.0,948.496967273212,9.2,225 ,True,True,True,False,True,False,30.0,False,August,Santorini
+El Greco Resort & Spa,"Main Street, Fira, 84700, Greece",,2255.1401869158876,8.9,688 ,True,False,True,False,True,True,30.0,False,August,Santorini
+Cape Sisu Suites,"Akrotiri, Akrotiri, 84700, Greece",,1132.0,9.0,499 ,False,True,True,True,True,True,28.0,False,August,Santorini
+White Santorini,"Main Street, Imerovigli, 84700, Greece",,2339.252336448598,9.0,131 ,True,True,False,False,True,False,19.0,False,August,Santorini
+Sophia Boutique Hotel,"Finikia, Oia, 84702, Greece",,2511.83879093199,8.6,284 ,True,True,False,True,True,False,18.0,True,August,Santorini
+Seaside Breeze,"Kamari, Kamari, 84700, Greece",,1461.6822429906542,9.4,313 ,True,True,False,True,True,True,30.0,False,August,Santorini
+Pelican Hotel,"Main Street, Fira, 84700, Greece",,951.3888888888889,8.9,621 ,False,False,False,False,False,True,15.0,False,August,Santorini
+ILIADA-ODYSSEAS RESORT,"PERIVOLOS 1, Perivolos, 84703, Greece",4.0,1024.1538107299102,8.2, 41 ,True,False,False,True,True,False,24.0,False,August,Santorini
+Casasantantonio 18th Century Luxury Mansion,"25 Martiou, Fira, 84700, Greece",4.0,2963.8329979879277,9.4,57 ,True,False,True,True,False,False,82.0,False,August,Santorini
+La Bellezza Eco Boutique Hotel,"Kamari, Kamari, 84700, Greece",4.0,1957.638888888889,9.3,193 ,True,True,True,True,True,False,46.0,True,August,Santorini
+La Boheme Villas,"Mesa Gonia 1, Éxo Goniá, 84700, Greece",4.0,2099.0,9.7,56 ,True,False,False,False,True,False,80.0,False,August,Santorini
+The Last Sunbeam - Adults Only,"Fira, Fira, 84700, Greece",3.0,1652.8195488721803,9.3,484 ,True,True,False,False,True,False,25.0,False,August,Santorini
+Kratiras View Luxury Suites,"Agiou Mina, Fira, 84700, Greece",,3112.1495327102803,8.2, 262 ,False,False,True,False,False,True,24.0,False,August,Santorini
+Andronikos Santorini,"Imerovigli, Imerovigli, 84700, Greece",,3317.0,9.3,83 ,True,False,False,False,False,False,30.0,False,August,Santorini
+Keti Hotel,"Firá, Fira, 84700, Greece",,3162.2726226110985,9.4,331 ,True,False,True,True,True,False,30.0,True,August,Santorini
+Sellada Beach,"Main Street, Perissa, 84703, Greece",4.0,4803.0,9.1,279 ,True,False,True,True,False,False,15.0,False,August,Santorini
+The Muse of Santorini Private Jaccuzzi Suite,"Βόθωνας, Vóthon, 84700, Greece",3.0,1163.888888888889,9.4,106 ,True,False,False,True,True,False,25.0,False,August,Santorini
+Avraki,"Kamari 1, Kamari, 84700, Greece",3.0,948.7556561085972,9.2,225 ,True,True,True,False,True,False,30.0,False,August,Santorini
+El Greco Resort & Spa,"Main Street, Fira, 84700, Greece",,2255.1401869158876,8.9,688 ,True,False,True,False,True,True,30.0,False,August,Santorini
+Dome Santorini Resort & Spa,"Provincial Road Fira to Oia, Imerovigli, 84700, Greece",,2354.2056074766356,8.7,252 ,True,True,False,False,False,True,49.0,False,August,Santorini
+Cape Sisu Suites,"Akrotiri, Akrotiri, 84700, Greece",,1194.0,9.0,499 ,False,True,True,True,True,True,28.0,False,August,Santorini
+White Santorini,"Main Street, Imerovigli, 84700, Greece",,2336.8055555555557,9.0,131 ,True,True,False,False,True,False,20.0,False,August,Santorini
+Sophia Boutique Hotel,"Finikia, Oia, 84702, Greece",,2321.0,8.6,284 ,True,True,False,True,True,False,18.0,True,August,Santorini
+Seaside Breeze,"Kamari, Kamari, 84700, Greece",,1344.8598130841121,9.4,313 ,True,True,False,True,True,True,30.0,False,August,Santorini
+La Mer Deluxe Hotel & Spa,"Ermou street , Kamari, 847 00, Greece",,1685.0467289719625,8.7,205 ,True,False,False,False,True,True,19.0,False,August,Santorini
+Irini's Rooms Fteoura,"Kamari, Kamari, 84700, Greece",,672.7163667523564,8.6,278 ,True,False,False,False,False,True,15.0,False,August,Santorini
+Aelia Luxury Suites,"Santorini Karterados, Karterados, 84700, Greece",5.0,1902.3255813953488,8.8,254 ,True,True,True,False,True,True,31.0,False,August,Santorini
+Santo Pure Oia Suites & Villas,"Thesi Fanari, Oia, 84702, Greece",5.0,4463.888888888889,9.0,231 ,True,False,True,False,True,True,35.0,False,August,Santorini
+Terra Blue Santorini,"Kamari, Kamari, 84700, Greece",3.0,769135.8555460017,9.1,374 ,True,True,True,True,True,False,36.0,False,August,Santorini
+Maregio Suites,"Oia, Oia, 84700, Greece",,4846.527777777778,9.7,321 ,True,False,False,False,True,True,35.0,False,August,Santorini
+Arise Suites,"Ημεροβίγλι περιοχή Πορί, Imerovigli, 84700, Greece",,1573086.8443680138,,,False,False,False,False,True,False,26.0,False,August,Santorini
+Evanthia Best View Thirassia Island Hotel,"Eparchiaki Odos Thirasias-Ormou Korfou, Therasia, 84702, Greece",,812.0,8.1, 59 ,False,False,False,False,False,False,25.0,False,August,Santorini
+On The Rocks - Small Luxury Hotels of the World,"Off Main Street, Imerovigli, 84700, Greece",,2716.822429906542,9.0,262 ,True,True,True,False,False,True,35.0,False,August,Santorini
+Kallisto,"Imerovigli, Imerovigli, 84700 , Greece",,2062.7906976744184,9.0,186 ,True,True,False,False,True,False,60.0,False,August,Santorini
+The Cliff Reflections - Adults Only,"Megalochori megalochori, Megalochori, 84700, Greece",,1059.8130841121495,9.2,267 ,True,False,True,False,True,False,35.0,False,August,Santorini
+Stoa Cave Villas,"Eparchiaki Odos Mesarias-Archeas Thiras βοθωνας, Mesaria, 84700, Greece",3.0,1194.4444444444446,9.0,129 ,True,True,False,False,False,False,25.0,False,August,Santorini
+Rose Suites,"Road to Oia, Vourvoulos, 84700, Greece",,951.4018691588784,9.5,81 ,False,True,False,False,True,False,19.0,False,August,Santorini
+Proteas Hotel,"Kamari , Kamari, 84700, Greece",,871.6139312542682,9.2,193 ,False,False,False,False,True,False,24.0,False,August,Santorini
+Christina Pension,"Karterados, Karterados, 84700, Greece",,842.0560747663551,7.0,261 ,False,False,False,False,False,False,60.0,False,August,Santorini
+On the Cliff,"Agiou Mina, Fira, 84700, Greece",,2354.2056074766356,10,3 ,True,False,True,True,False,True,23.0,False,August,Santorini
+Hotel Star Santorini,"Megalochori, Megalochori, 84700, Greece",,952.3364485981308,9.0,234 ,False,True,True,True,True,True,37.0,False,August,Santorini
+Mythos Traditional Stonehouse,"Episkopi Gonia, Kamari, 84700, Greece",3.0,828.0,9.2,101 ,True,False,False,True,True,False,50.0,True,August,Santorini
+Apeiron Blue Santorini,"Επαρχιακή Οδός Φηρών-Όρμου Περίσσης, Mesaria, Greece, Fira, 84700, Greece",5.0,2402.1251071122538,9.1,382 ,True,False,True,False,True,True,22.0,False,August,Santorini
+Aktis suites,"Kontochori, Fira, 84700, Greece",3.0,966.0,7.9,92 ,True,False,False,False,True,False,25.0,False,August,Santorini
+Kapari Natural Resort,"Imerovigli, Imerovigli, 84700, Greece",5.0,4500.872177241053,9.4,354 ,True,True,True,True,False,True,45.0,False,August,Santorini
+Anastasia Princess Luxury Residence - Adults Only,"Perissa, Perissa, 84703, Greece",4.0,1510.738255033557,9.6,362 ,True,False,False,False,True,False,25.0,False,August,Santorini
+Petri Suites,"Perivolos, Perivolos, 84703, Greece",,2284.598214285714,8.9,155 ,True,True,False,True,False,True,26.0,False,August,Santorini
+Santorini's Balcony,"Thiras - Oias Road, Imerovigli, 84700, Greece",,3165.4205607476633,9.1,297 ,True,True,True,False,True,True,26.0,False,August,Santorini
+Nautilus Dome,"Fira, Fira, 84700, Greece",4.0,1532.1305841924398,9.4,845 ,True,False,True,True,True,False,35.0,True,August,Santorini
+Mikro Petrino,"Vothonas, Vóthon, 84700, Greece",,1054.1666666666667,,,False,False,False,False,True,False,35.0,False,August,Santorini
+Edem Luxury Hotel,"Finikia, Oia, Oia, 84702, Greece",,3007.4766355140187,9.5,295 ,True,False,True,False,False,True,26.0,False,August,Santorini
+Alunia Incognito Suites - Adults Only,"Eparchiaki Odos Pirgou Kallistis, Pyrgos, 84700, Greece",,1645.0,8.9,235 ,True,False,True,False,True,False,30.0,False,August,Santorini
+Santa Elena,"Achileos Street, Kamari, 84700, Greece",,903.0,9.6,278 ,True,True,True,False,True,False,20.0,False,August,Santorini
+Akis Hotel,"Kamari, Kamari, 84700, Greece",2.0,208524.29906542055,9.0,214 ,False,False,False,False,False,False,30.0,False,August,Santorini
+The Saint Hotel,"Oia, Oia, 84702, Greece",5.0,5875.0,9.4,132 ,True,True,False,False,False,True,60.0,False,August,Santorini
+Anamar Santorini,"Monolithos, Monolithos, 84700, Greece",4.0,880.0,7.4,240 ,True,True,True,False,True,True,20.0,False,August,Santorini
+Eunoia Apartments,"29 Agiou Athanasiou, Fira, 84700, Greece",3.0,968.0,9.4,31 ,True,False,False,False,False,False,30.0,False,August,Santorini
+Merovigliosso,"Off Main Street, Imerovigli, 84700, Greece",4.0,1941.7081447963799,9.0,314 ,True,True,True,True,True,False,21.0,False,August,Santorini
+Hotel Hellas,"Main Street, Fira, 84700, Greece",2.0,946.0,8.2, 731 ,True,False,False,True,True,False,25.0,False,August,Santorini
+Anthemis Suites,"Imerovigli 0, Imerovigli, 84700, Greece",,1753.0,,,True,False,False,True,True,False,37.0,False,August,Santorini
+Nefeli Traditional Cave Houses,"M. Danezi, Mesaria, 84700, Greece",3.0,1001.3888888888889,9.4,34 ,True,False,False,True,True,False,38.0,False,August,Santorini
+Fortuna Perissa,"Perissa, Perissa, 84700, Greece",,981.3953488372093,8.0, 157 ,True,False,True,True,True,False,19.0,True,August,Santorini
+Villa Iliovasilema Santorini,"Off Akrotiriou - Megalochoriou Road, Akrotiri, 84700, Greece",,1049.0442655935615,7.3,315 ,True,True,True,True,False,False,60.0,True,August,Santorini
+Caldera's Majesty,"Imeroviglion, Imerovigli, 84700, Greece",,4063.0,9.6,153 ,True,False,True,False,True,False,26.0,False,August,Santorini
+Skyfall Suites - Adults Only,"Pyrgos Santorini, Pyrgos, 84700, Greece",,2435.5140186915887,9.4,193 ,True,False,False,False,True,True,40.0,False,August,Santorini
+Caldera View Resort - Adults Only,"Main Street, Akrotiri, 847 00, Greece",,563.5514018691589,8.0, 278 ,True,True,True,False,True,True,30.0,False,August,Santorini
+Santorini Mansion at Imerovigli,"Imerovigli, Imerovigli, 84700, Greece",4.0,3456.0,9.3,74 ,True,False,True,True,True,False,55.0,False,August,Santorini
+Adorno Oia,"Adorno Suites, Oia, Oia, 84700, Greece",3.0,2153.0,8.8,366 ,True,True,True,False,True,True,20.0,False,August,Santorini
+Astir Thira Hotel,"Main Street, Fira, 84700, Greece",,1260.7476635514017,8.5, 406 ,True,True,True,True,False,False,18.0,False,August,Santorini
+Santorini Palace,"Main Street, Fira, 84700, Greece",,1563.5514018691588,8.6,624 ,True,True,True,False,True,True,19.0,False,August,Santorini
+Pancratium Villas & Suites,"Akrotiri, Akrotiri, 84700, Greece",,1108.0,9.6,103 ,True,False,True,False,True,False,25.0,False,August,Santorini
+White Pearl Cavalieri,"Imerovigli, Imerovigli, 84700, Greece",,2102.777777777778,9.9,209 ,True,True,False,False,True,True,60.0,False,August,Santorini
+Thera Villas,"Fira Agiou Mina, Fira, 84700, Greece",4.0,6116.872128521234,9.9,7 ,False,False,True,True,True,False,205.0,False,August,Santorini
+Venus Sunrise Suites & Villas,"Vourvoulos Santorini, Vourvoulos, 84700, Greece",,1217.7570093457944,10,1 ,True,False,True,True,True,False,23.0,False,August,Santorini
+Oia Cave Loft,"Oia 847 02, Greece, Oia, 84702, Greece",,2906.542056074766,9.3,12 ,True,False,False,True,True,False,44.0,False,August,Santorini
+Caldera Stories private suites,"Megalochori, Megalochori, 84700, Greece",,3257.9439252336447,9.0,240 ,True,False,False,True,True,False,40.0,False,August,Santorini
+Zephyros Hotel,"Main Street, Kamari, 84700, Greece",,992.5233644859812,9.3,347 ,False,True,False,False,False,False,19.0,False,August,Santorini
+Hotel Goulielmos,"Akrotiri, Akrotiri, 84700, Greece",,985.0467289719626,9.2,446 ,True,True,True,False,True,True,19.0,True,August,Santorini
+RK Beach Hotel,"Kamari Beach Santorini, Kamari, 84700, Greece",4.0,1211.0,7.9,289 ,True,True,False,False,False,True,16.0,False,August,Santorini
+BLACK BAY CAVES SUITES,"ΑΚΡΩΤΗΡΙ ΣΑΝΤΟΡΙΝΗΣ, Akrotiri, 84700, Greece",3.0,1284.0277777777778,9.2,81 ,True,False,False,False,True,False,30.0,False,August,Santorini
+King's Suites,"Kamari, Kamari, 84700, Greece",3.0,1355.8139534883721,8.7,146 ,True,True,True,False,False,True,19.0,False,August,Santorini
+"Iconic Santorini, a Boutique Cave Hotel","Imerovigli, Imerovigli, 847 00, Greece",,5204.861111111111,9.5,57 ,True,True,False,False,True,True,44.0,False,August,Santorini
+Casa Bella,"Kamari, Kamari, 84700, Greece",,901.8691588785047,9.6,74 ,True,False,False,False,True,False,19.0,False,August,Santorini
+Azalea Hotel,"Kamari, Kamari, 84700, Greece",,739.027149321267,9.0,317 ,True,True,True,True,True,False,20.0,False,August,Santorini
+Fanouris Condo - Adults Only,"Kamari, Kamari, 84700, Greece",,1162.6168224299065,8.4, 127 ,True,False,False,False,True,False,49.0,False,August,Santorini
+Thera Villas,"Fira Agiou Mina, Fira, 84700, Greece",4.0,6098.664517614552,9.9,7 ,False,False,True,True,True,False,205.0,False,August,Santorini
+Canaves Oia Epitome - Small Luxury Hotels of the World,"Eparchiaki Odos Oia, Oia, 84702, Greece",5.0,8111.111111111111,9.6,221 ,True,True,True,False,True,True,55.0,False,August,Santorini
+Senses Boutique Hotel,"Imerovigli, Imerovigli, 84700, Greece",,1921.4953271028037,9.1,232 ,True,True,True,False,False,False,35.0,False,August,Santorini
+Senses Suites,"IMEROVIGLI THIRA GREECE, Imerovigli, 84700, Greece",,2700.0,9.5,102 ,True,False,True,False,False,False,75.0,False,August,Santorini
+Elite Houses,"Eparchiaki Odos Firon-Ormou Perissis 0, Emporio Santorini, 84703, Greece",3.0,1100.0,9.2,31 ,True,False,False,False,True,False,50.0,False,August,Santorini
+Ampelos Executive Houses,"Pyrgos, Pyrgos, 84700, Greece",4.0,1061.0,9.7,148 ,True,False,True,True,True,False,52.0,False,August,Santorini
+Oia Cave Loft,"Oia 847 02, Greece, Oia, 84702, Greece",,2906.542056074766,9.3,12 ,True,False,False,True,True,False,44.0,False,August,Santorini
+White Dream Suites,"Kontoxori Tachidromiki Thirida 1550, Fira, 84700, Greece",,9058.0,9.4,177 ,False,True,True,False,False,False,45.0,False,August,Santorini
+Evanthia Best View Thirassia Island Hotel,"Eparchiaki Odos Thirasias-Ormou Korfou, Therasia, 84702, Greece",,1088.1944444444446,8.1, 59 ,False,False,False,False,False,False,30.0,False,August,Santorini
+On The Rocks - Small Luxury Hotels of the World,"Off Main Street, Imerovigli, 84700, Greece",4.0,2714.5833333333335,9.0,262 ,True,True,True,False,False,True,35.0,False,August,Santorini
+The Cliff Reflections - Adults Only,"Megalochori megalochori, Megalochori, 84700, Greece",,1177.5700934579438,9.2,267 ,True,False,True,False,True,False,35.0,False,August,Santorini
+Rose Suites,"Road to Oia, Vourvoulos, 84700, Greece",3.0,1026.7441860465117,9.5,81 ,False,True,False,False,True,False,30.0,False,August,Santorini
+Christina Pension,"Karterados, Karterados, 84700, Greece",3.0,1203.0,7.0,261 ,False,False,False,False,False,False,60.0,False,August,Santorini
+On the Cliff,"Agiou Mina, Fira, 84700, Greece",,2356.100514683621,10,3 ,True,False,True,True,False,True,23.0,False,August,Santorini
+Hotel Star Santorini,"Megalochori, Megalochori, 84700, Greece",,1253.271028037383,9.0,234 ,False,True,True,True,True,True,40.0,False,August,Santorini
+Aktis suites,"Kontochori, Fira, 84700, Greece",3.0,989.0,7.9,92 ,True,False,False,False,True,False,25.0,False,August,Santorini
+Petri Suites,"Perivolos, Perivolos, 84703, Greece",,1596.2616822429907,8.9,155 ,True,True,False,True,False,True,26.0,False,August,Santorini
+Mikro Petrino,"Vothonas, Vóthon, 84700, Greece",,1076.0,,,False,False,False,False,True,False,35.0,False,August,Santorini
+Anamar Santorini,"Monolithos, Monolithos, 84700, Greece",4.0,1075.0,7.4,240 ,True,True,True,False,True,True,20.0,False,August,Santorini
+Amelot Art Suites,"Fira Fira, Fira, 84700, Greece",,3125.5813953488373,9.7,167 ,False,False,False,False,False,False,23.0,False,August,Santorini
+Le Petit Greek,"Fira, Fira, 84600, Greece",,1780.5803571428569,9.8,100 ,True,False,True,False,True,False,42.0,False,August,Santorini
+Caldera Esprit Suites,"Fira Caldera, Fira, 84700, Greece",,1746.5116279069769,8.2, 54 ,True,False,False,True,False,True,19.0,False,August,Santorini
+"Sonus Mare Beach Apartments, Vourvoulos Beach","Thira 84700, Vourvoulos, 84700, Greece",4.0,2102.777777777778,10,5 ,True,False,False,True,True,False,60.0,False,August,Santorini
+Artemis Suites,"Main Street, Megalochori, 84700, Greece",,1924.2990654205607,8.4, 174 ,False,True,True,True,True,False,35.0,False,August,Santorini
+ALLEGRO SUITES,"ΣΑΝΤΟΡΙΝΗ, Oia, 84702, Greece",4.0,1712.5,9.5,62 ,True,False,False,False,False,False,45.0,False,August,Santorini
+Gold Suites - Small Luxury Hotels of the World,"Imerovigli, Imerovigli, 84700, Greece",,2522.0,8.7,76 ,True,True,False,False,False,True,35.0,False,August,Santorini
+Golden East,"Main Street, Imerovigli, 84700, Greece",,1985.0467289719625,8.7,232 ,True,True,True,True,True,False,40.0,False,August,Santorini
+Pearl Inn Hotel by Pearl Hotel Collection,"Thiras - Oias Road, Imerovigli 84700, 847 00, Imerovigli, 84700, Greece",,1162.6168224299065,8.6,222 ,True,True,True,True,True,True,24.0,False,August,Santorini
+CAPE 9 Villas & Suites,"Akrotiri , Akrotiri, 84700, Greece",5.0,2768.827930174564,9.6,242 ,False,True,True,True,True,False,85.0,False,August,Santorini
+Marina's Studios,"Perivolos, Perivolos, 84700, Greece",3.0,1148.0,9.3,184 ,True,True,False,True,True,False,35.0,False,August,Santorini
+Sigal Villa,"Akrotiri, Akrotiri, 84700, Greece",4.0,1153.0,9.3,258 ,True,True,True,False,True,False,25.0,True,August,Santorini
+K & G Central Apartments Fira,"25is Martiou, Fira, 84700, Greece",,1247.6635514018692,8.1, 30 ,True,False,False,False,True,False,35.0,False,August,Santorini
+Helios Beach Hotel,"Perissa, 84703, Greece, Perissa, 84703, Greece",3.0,1261.8055555555557,9.2,142 ,True,False,False,False,True,True,19.0,False,August,Santorini
+Santorini Paradise Cave Houses,"Oia, Oia, 84702, Greece",4.0,1750.6944444444446,8.8,63 ,True,False,True,True,True,False,28.0,False,August,Santorini
+Adamant Suites,"Main Street, Fira, 84700, Greece",,5448.0,9.4,175 ,True,True,False,False,True,False,40.0,False,August,Santorini
+Harmony Suites,"SANTORINI FIRA, Fira, 84700, Greece",4.0,1603.0,9.5,144 ,True,False,False,True,False,False,45.0,False,August,Santorini
+Melidonia Suites,"00, Main Faros road Akrotiri, Akrotiri, 84700, Greece",,5052.33644859813,9.7,301 ,True,False,True,True,True,False,40.0,False,August,Santorini
+Aecon Suites,"Exo Gonia Thiras, Santorini Aecon Suites, Éxo Goniá, 84700, Greece",,2209.398496240601,10,7 ,True,False,False,True,True,False,40.0,False,August,Santorini
+Helianthus Suites- Caldera Caves,"Oia, Oia, 84700, Greece",,3089.7196261682243,9.5,122 ,True,False,False,False,True,False,49.0,False,August,Santorini
+Daydream Luxury Suites,"Fira, Fira, 84700, Greece",,2307.0,9.3,92 ,True,True,False,True,False,False,30.0,False,August,Santorini
+Myst Boutique Hotel,"Tholos, Oia, Santorini, Oia, 84702, Greece",4.0,2565.6900452488685,9.3,279 ,True,True,False,False,True,False,28.0,False,August,Santorini
+Villa Manos Hotel,"Karterados, Karterados, 84700, Greece",4.0,1151.388888888889,9.4,612 ,True,True,False,True,True,True,,False,August,Santorini
+Epavlis Hotel & Spa,"Main Street, Kamari, 84700, Greece",4.0,1105.0,7.9,721 ,True,True,False,True,True,False,20.0,False,August,Santorini
+White Utopia Apartments and Maisonettes,"Επαρχιακή Οδός Φηρών-Οίας, Imerovigli, 84700, Greece",4.0,1151.1160714285713,8.9,32 ,True,False,False,False,True,False,80.0,False,August,Santorini
+Golden East,"Main Street, Imerovigli, 84700, Greece",3.0,2197.6131221719456,8.7,232 ,True,True,True,True,True,False,40.0,False,August,Santorini
+Pearl Inn Hotel by Pearl Hotel Collection,"Thiras - Oias Road, Imerovigli 84700, 847 00, Imerovigli, 84700, Greece",4.0,1095.0,8.6,222 ,True,True,True,False,True,True,28.0,False,August,Santorini
+CAPE 9 Villas & Suites,"Akrotiri , Akrotiri, 84700, Greece",5.0,3020.6188479403295,9.6,242 ,False,True,True,True,True,False,85.0,False,August,Santorini
+Marina's Studios,"Perivolos, Perivolos, 84700, Greece",3.0,1148.0,9.3,184 ,True,True,False,True,True,False,35.0,False,August,Santorini
+Thirea Studios,"Oia, Santorini, Oia, 84702, Greece",,2074.766355140187,9.6,62 ,True,False,True,False,True,False,35.0,False,August,Santorini
+K & G Central Apartments Fira,"25is Martiou, Fira, 84700, Greece",3.0,1185.496183206107,8.1, 30 ,True,False,False,False,True,False,35.0,False,August,Santorini
+Helios Beach Hotel,"Perissa, 84703, Greece, Perissa, 84703, Greece",3.0,1051.0,9.2,142 ,True,False,False,False,True,True,19.0,False,August,Santorini
+Santorini Paradise Cave Houses,"Oia, Oia, 84702, Greece",4.0,1608.0,8.8,63 ,True,False,True,True,True,False,28.0,False,August,Santorini
+Adamant Suites,"Main Street, Fira, 84700, Greece",,5457.943925233644,9.4,175 ,True,True,False,False,True,False,40.0,False,August,Santorini
+Ino Hotel,"Kamari, Kamari, 84700, Greece",,1012.0,8.7,254 ,True,True,True,True,False,False,25.0,False,August,Santorini
+Stoa Cave Villas,"Eparchiaki Odos Mesarias-Archeas Thiras βοθωνας, Mesaria, 84700, Greece",3.0,1193.0,9.0,129 ,True,True,False,False,False,False,25.0,False,August,Santorini
+Harmony Suites,"SANTORINI FIRA, Fira, 84700, Greece",4.0,1601.1627906976744,9.5,144 ,True,False,False,True,False,False,44.0,False,August,Santorini
+Melidonia Suites,"00, Main Faros road Akrotiri, Akrotiri, 84700, Greece",5.0,4627.248536455561,9.7,301 ,True,False,True,True,True,False,40.0,False,August,Santorini
+Aecon Suites,"Exo Gonia Thiras, Santorini Aecon Suites, Éxo Goniá, 84700, Greece",,3307.4766355140187,10,7 ,True,False,False,True,True,False,40.0,False,August,Santorini
+Helianthus Suites- Caldera Caves,"Oia, Oia, 84700, Greece",4.0,3255.1339285714284,9.5,122 ,True,False,False,False,True,False,50.0,False,August,Santorini
+Daydream Luxury Suites,"Fira, Fira, 84700, Greece",,2048.5981308411215,9.3,92 ,True,True,False,True,False,False,30.0,False,August,Santorini
+Myst Boutique Hotel,"Tholos, Oia, Santorini, Oia, 84702, Greece",4.0,2567.1052631578946,9.3,279 ,True,True,False,False,True,False,28.0,False,August,Santorini
+Golden Comfort Suites,"Αγίας Παρασκευής, Vóthon, 84700, Greece",3.0,1133.0,10,6 ,True,False,False,True,True,False,20.0,False,August,Santorini
+Villa Manos Hotel,"Karterados, Karterados, 84700, Greece",4.0,1091.0746606334842,9.4,612 ,True,True,False,True,True,True,,False,August,Santorini
+Epavlis Hotel & Spa,"Main Street, Kamari, 84700, Greece",,1107.4766355140187,7.9,721 ,True,True,False,True,True,False,19.0,False,August,Santorini
+White Utopia Apartments and Maisonettes,"Επαρχιακή Οδός Φηρών-Οίας, Imerovigli, 84700, Greece",,1250.467289719626,8.9,32 ,True,False,False,False,True,False,79.0,False,August,Santorini
+Hotel Andreas,"Kamari, Kamari, 84700, Greece",,968.2242990654205,8.6,83 ,True,True,False,True,True,False,,False,August,Santorini
+Light Blue Window Kamari,"Thaleias Kamari Santorini, Kamari, 84700, Greece",,1077.5700934579438,9.7,140 ,True,False,False,True,True,False,35.0,False,August,Santorini
+"Grace Hotel Santorini, Auberge Resorts Collection","Imerovigli, Imerovigli, 84700, Greece",5.0,9235.839281602579,9.4,37 ,True,True,True,False,True,True,45.0,False,August,Santorini
+Bellonias Villas,"Kamari, Kamari, 84700, Greece",4.0,1938.1944444444446,9.5,100 ,True,True,True,False,False,True,25.0,True,August,Santorini
+Symmetry Suites,"Akrotiri Thiras, Akrotiri, 84700, Greece",,3617.8571428571427,8.5, 186 ,True,True,True,True,True,True,25.0,False,August,Santorini
+Kallisti Sunset,"Oia, Santorini 84702, Oia, 84702, Greece",4.0,10735.927601809954,10,1 ,False,False,True,False,False,False,85.0,True,August,Santorini
+"Captain John Villas-Caldera,Volcano,Sunset View","Oia, Oia, 84700, Greece",3.0,1762.5,8.9,167 ,True,False,True,True,True,False,40.0,False,August,Santorini
+Amethyst Luxury Suites Oia,"Oia Tholos, Thólos, 84702, Greece",3.0,1736.0,8.5, 257 ,True,True,False,True,False,True,40.0,False,August,Santorini
+ALLEGRO SUITES,"ΣΑΝΤΟΡΙΝΗ, Oia, 84702, Greece",,1714.018691588785,9.5,62 ,True,False,False,False,False,False,44.0,False,August,Santorini
+Mardanza House,"Imerovigli, Imerovigli, 84700, Greece",,2255.1401869158876,9.4,54 ,True,False,True,True,False,False,69.0,False,August,Santorini
+Splendour Resort,"Firostefani, Firostefani, 84700, Greece",,1028.9719626168223,8.5, 161 ,True,True,True,False,True,False,40.0,False,August,Santorini
+La Maltese Caldera Concept,"Main Street, Imerovigli, 84700, Greece",,2642.056074766355,7.9,146 ,True,True,False,True,True,True,24.0,True,August,Santorini
+Antinea Suites Hotel & Spa,"Main Street, Kamari, 84700, Greece",4.0,1193.75,8.4, 229 ,True,True,False,True,True,True,25.0,False,August,Santorini
+Carpe Diem Santorini,"Main Street, Pyrgos, 84701, Greece",,3876.6355140186915,8.9,51 ,True,False,False,False,True,True,85.0,False,August,Santorini
+Sigal Villa,"Akrotiri, Akrotiri, 84700, Greece",4.0,1083.0,9.3,258 ,True,True,True,False,True,False,25.0,True,August,Santorini
+Apanomeria Boutique Residence,"Agias Aikaterinis 26 Lagadi Oia, Oia, 84700, Greece",,2783.0,9.5,239 ,True,True,False,True,True,False,34.0,False,August,Santorini
+9 Muses Santorini Resort,"Main Street, Perivolos, 84700, Greece",5.0,1496.127441178431,8.3, 119 ,False,False,False,False,True,True,20.0,False,August,Santorini
+Caldera Senses,"Thera, Fira, 84700, Greece",4.0,4308.846426043878,8.9,68 ,True,False,False,True,False,False,80.0,False,August,Santorini
+Pezoules of Oia,"OIA SANTORINI, Oia, 84702, Greece",4.0,4443.055555555556,9.6,37 ,True,True,False,False,False,False,29.0,False,August,Santorini
+Elmarel,"Nimfon & Apollonos, Kamari, 84700, Greece",3.0,1892.8643771439356,8.8,178 ,True,True,False,True,False,False,27.0,False,August,Santorini
+Acroterra Rosa Hotel & Spa,"Akrotiri, Akrotiri, 84700, Greece",5.0,1651.388888888889,9.3,171 ,True,True,False,False,True,True,32.0,False,August,Santorini
+Santorini Crystal Blue Boutique Hotel,"Kamari, Kamari, 84700, Greece",4.0,1974.3055555555557,9.6,216 ,True,True,True,True,False,True,30.0,False,August,Santorini
+For All Seasons Mansion,"Vothonas, Vóthon, 84700, Greece",4.0,1441.6666666666667,8.8,61 ,True,False,False,True,False,False,80.0,False,August,Santorini
+Leon Luxury Suites,"ΗΜΕΡΟΒΙΓΛΙ 1, Imerovigli, 84700, Greece",5.0,2070.0,9.0,41 ,True,False,True,True,True,False,30.0,False,August,Santorini
+Hotel 28,"Kamari, Kamari, 84700, Greece",,1152.3364485981308,9.0,97 ,True,True,False,False,True,True,19.0,True,August,Santorini
+Angel Luxury Suites,"Papantis, Fira, 84700, Greece",,2603.472222222222,9.9,113 ,False,False,False,False,True,True,45.0,False,August,Santorini
+LF Suites & Villas,"Ημεροβίγλι περιοχή Πορί, Imerovigli, 84700, Greece",,2859.872611464968,9.9,23 ,True,False,True,True,True,False,35.0,False,August,Santorini
+Alta Mare by Andronis,"Oía , Oia, 84702, Greece",,4278.504672897196,9.5,11 ,True,True,False,False,True,False,30.0,False,August,Santorini
+Aroma Azalea studios & apartments,"ΚΑΜΑΡΙ ΣΑΝΤΟΡΙΝΗ, Kamari, 84700, Greece",3.0,1100.9345794392523,8.9,80 ,True,False,False,True,False,False,40.0,False,August,Santorini
+Moonlight Apartments,"Fira, Fira, 847 00, Greece",,894.3925233644859,9.3,161 ,True,True,True,True,True,False,54.0,False,August,Santorini
+Adelphi Apartments,"Perissa, Perissa, 84703, Greece",,852.3364485981308,9.9,101 ,True,False,False,True,True,False,44.0,True,August,Santorini
+Nalu Suites,"Eparchiaki Odos Firon-Ias Nalu Suites, ""Sartalieres"" Vourvoulos, Thiras, Fira, 84700, Greece",,1774.0,9.2,23 ,True,True,True,False,True,False,26.0,False,August,Santorini
+Lefkothea Hotel,"Kamari, Kamari, 84700, Greece",2.0,1053.125,8.4, 447 ,True,False,False,True,False,False,24.0,True,August,Santorini
+Mythos Traditional Stonehouse,"Episkopi Gonia, Kamari, 84700, Greece",,801.8691588785047,9.2,101 ,True,False,False,True,True,False,49.0,True,August,Santorini
+M Residence Santorini Conelia Cave,"Fira, Fira, 84700, Greece",3.0,936.0,9.7,34 ,True,False,False,False,False,False,50.0,False,August,Santorini
+Oasis Hotel,"Fira, Fira, 84700, Greece",,5321.0,8.9,176 ,True,False,True,True,False,False,25.0,False,August,Santorini
+Albatros Hotel,"Karterados, Karterados, 84700, Greece",4.0,1194.635044899839,8.1, 135 ,True,True,True,False,True,True,28.0,False,August,Santorini
+San Marino Suites by Calm Collection,"Fira Santorini Folklore Museum, Fira, 84700, Greece",,9478.0,8.9,379 ,True,True,False,False,True,True,40.0,False,August,Santorini
+Oscar Beachfront Suites,"ΑΓ. ΓΕΩΡΓΙΟΣ – ΠΕΡΙΒΟΛΟΣ, 84 703 ΘΗΡΑΣ, Perivolos, 84703, Greece",,2084.11214953271,10,1 ,True,False,False,False,True,False,32.0,False,August,Santorini
+Marton Perissa,"Perissa Santorini, Perissa, 84703, Greece",3.0,805.4315740797695,9.4,110 ,True,False,False,True,True,False,29.0,False,August,Santorini
+Symmetry Suites,"Akrotiri Thiras, Akrotiri, 84700, Greece",,3607.0,8.5, 186 ,True,True,True,True,True,True,25.0,False,August,Santorini
+Kallisti Sunset,"Oia, Santorini 84702, Oia, 84702, Greece",,10775.70093457944,10,1 ,False,False,True,False,False,False,85.0,True,August,Santorini
+"Captain John Villas-Caldera,Volcano,Sunset View","Oia, Oia, 84700, Greece",3.0,1622.0,8.9,167 ,True,False,True,True,True,False,40.0,False,August,Santorini
+Amethyst Luxury Suites Oia,"Oia Tholos, Thólos, 84702, Greece",3.0,1736.0,8.5, 257 ,True,True,False,True,False,True,40.0,False,August,Santorini
+Mardanza House,"Imerovigli, Imerovigli, 84700, Greece",,2255.1401869158876,9.4,54 ,True,False,True,True,False,False,69.0,False,August,Santorini
+Splendour Resort,"Firostefani, Firostefani, 84700, Greece",5.0,1155.8139534883721,8.5, 161 ,True,True,True,False,False,True,40.0,False,August,Santorini
+La Maltese Caldera Concept,"Main Street, Imerovigli, 84700, Greece",,2642.056074766355,7.9,146 ,True,True,False,True,True,True,24.0,True,August,Santorini
+Antinea Suites Hotel & Spa,"Main Street, Kamari, 84700, Greece",,1280.3738317757009,8.4, 229 ,True,True,False,False,True,True,24.0,False,August,Santorini
+Carpe Diem Santorini,"Main Street, Pyrgos, 84701, Greece",,3876.6355140186915,8.9,51 ,True,False,False,False,True,True,85.0,False,August,Santorini
+Apanomeria Boutique Residence,"Agias Aikaterinis 26 Lagadi Oia, Oia, 84700, Greece",,2774.7663551401865,9.5,239 ,True,True,False,True,True,False,34.0,False,August,Santorini
+9 Muses Santorini Resort,"Main Street, Perivolos, 84700, Greece",,1501.8691588785045,8.3, 119 ,False,False,False,False,True,True,19.0,False,August,Santorini
+Caldera Senses,"Thera, Fira, 84700, Greece",4.0,4073.6111111111113,8.9,68 ,True,False,False,True,False,False,80.0,False,August,Santorini
+Pezoules of Oia,"OIA SANTORINI, Oia, 84702, Greece",4.0,4427.887174028739,9.6,37 ,True,True,False,False,False,False,29.0,False,August,Santorini
+Elmarel,"Nimfon & Apollonos, Kamari, 84700, Greece",3.0,1883.0,8.8,178 ,True,True,False,True,False,False,27.0,False,August,Santorini
+Sun Anemos Resort,"Oia, Oia, 84702, Greece",,1138.3177570093458,9.6,104 ,True,False,False,True,True,False,49.0,False,August,Santorini
+Petit Palace Suites,"Fira, Fira, 84700, Greece",,2052.777777777778,9.3,135 ,True,True,False,False,True,True,40.0,False,August,Santorini
+Bonita Santorini Cave,"9FM6+92 Επισκοπή Γωνίας, Σαντορίνη, Éxo Goniá, 84700, Greece",3.0,1302.0,9.0,51 ,True,False,False,True,False,False,60.0,True,August,Santorini
+U & ME SUITES,"Firostefani , Fira, Fira, 84700, Greece",,3777.5700934579436,9.5,74 ,True,False,True,True,False,False,79.0,False,August,Santorini
+Casa Bella,"Kamari, Kamari, 84700, Greece",,901.8691588785047,9.6,74 ,True,False,False,False,True,False,19.0,False,August,Santorini
+Wine and Yard Caves,"Pyrgos 0, Pyrgos, 84700, Greece",3.0,1829.9107142857142,10,9 ,True,False,False,False,True,False,75.0,True,August,Santorini
+Canaves Oia Suites & Spa,"Main Street, Oia, 84702, Greece",5.0,10697.67441860465,9.6,237 ,True,True,True,False,True,False,44.0,False,August,Santorini
+Porto Fira Suites,"Caldera Cliffs, Fira, 84700, Greece",,5021.4953271028035,9.1,248 ,True,True,True,True,False,True,44.0,False,August,Santorini
+Loukas & Emma Houses,"Perissa, Perissa, 84703, Greece",,0.0,8.9,176 ,False,True,False,True,True,False,,True,August,Santorini
+Sea paradise,"Οία σαντορινη, Oia, 84702, Greece",,1387.8504672897195,7.5,70 ,True,True,False,True,True,False,36.0,False,August,Santorini
+Fanouris Condo - Adults Only,"Kamari, Kamari, 84700, Greece",,1046.7289719626167,8.4, 127 ,True,False,False,False,True,False,49.0,False,August,Santorini
+Potamida Suites,"ΒΟΘΩΝΑΣ, Vóthon, 84700, Greece",3.0,1907.0782331027142,9.4,61 ,True,False,True,False,True,False,33.0,False,August,Santorini
+SN SANTORINI APARTMENTS,"Σαντορινη , Καμαρι, Kamari, 84700, Greece",,1102.803738317757,,,True,False,False,True,True,False,48.0,False,August,Santorini
+Amber Light Villas,"Imerovigli, Imerovigli, 84700, Greece",4.0,2178.5714285714284,9.2,356 ,True,True,True,False,True,True,45.0,False,August,Santorini
+Villa Bordeaux,"Fira City, Fira, 84700, Greece",,8194.392523364486,9.7,18 ,True,True,True,False,False,True,65.0,True,August,Santorini
+Armonia,"Santorini, Kamari, 84700, Greece",3.0,812.593984962406,8.9,119 ,True,True,False,False,False,False,17.0,False,August,Santorini
+Skarmoutsos Holiday Home,"Βουρβούλος, Vourvoulos, 84700, Greece",3.0,1175.4432419986185,9.6,5 ,True,False,False,True,True,False,60.0,False,August,Santorini
+Triena Apartments,"Agiou Athanasiou, Fira, 84700, Greece",,1123.3644859813082,8.4, 30 ,True,False,False,True,True,False,40.0,False,August,Santorini
+Santorini Caves,"Messaria, Mesaria, 84700, Greece",4.0,1033.0,8.8,96 ,True,False,True,True,True,False,17.0,False,August,Santorini
+Athiri Santorini Family Friendly Hotel,"Imerovigli, Imerovigli, 84700, Greece",,1488.7850467289718,8.7,105 ,True,False,True,True,True,False,60.0,False,August,Santorini
+"Pyrgos 1870, A restored Winery","inside village, Pyrgos, 84700, Greece",,0.0,8.3, 66 ,True,False,False,False,False,False,,False,August,Santorini
+Grand-Mere Calliope,"Αγίου Αθανασίου, Fira, 84700, Greece",3.0,1659.0,9.8,23 ,True,False,False,True,True,False,45.0,False,August,Santorini
+Santa Irini Retreat,"Οdos xoris onomasia AGIA IRINI RIVA, Therasia, 84702, Greece",,9515.887850467288,10,3 ,True,True,False,False,True,False,195.0,True,August,Santorini
+Iris Boutique Hotel,"Kamari Beach, Kamari, 84700, Greece",3.0,1163.0,7.4,83 ,True,True,False,False,False,False,23.0,False,August,Santorini
+Theano Cave Suites & Villas,"Σαντορίνη, Imerovigli, 84700, Greece",,2420.0,9.4,21 ,True,True,True,True,True,False,25.0,False,August,Santorini
+Theano Cave Suites & Villas,"Σαντορίνη, Imerovigli, 84700, Greece",,2420.0,9.4,21 ,True,True,True,True,True,False,25.0,False,August,Santorini
+Aressana Spa Hotel & Suites - Small Luxury Hotels of the World,"Main Street, Fira, 84700, Greece",4.0,2041.2104072398188,9.1,271 ,True,True,False,False,False,True,21.0,True,August,Santorini
+Sea La View Rooms,"perissa, Perissa, 84703, Greece",,1657.1428571428569,9.8,13 ,False,True,True,False,True,False,20.0,False,August,Santorini
+Olia Villas & Suites,"25is Martiou, Imerovigli, 84700, Greece",,3858.878504672897,9.5,54 ,True,False,False,True,False,False,54.0,True,August,Santorini
+The Cliff Reflections - Adults Only,"Megalochori megalochori, Megalochori, 84700, Greece",4.0,975.0,9.2,267 ,True,False,True,False,True,False,35.0,False,August,Santorini
+Perissa Centrale Rooms,"perissa center, Perissa, 84703, Greece",,1325.0,10,6 ,False,False,False,False,True,False,17.0,False,August,Santorini
+Impresionante Fira Rooms,"Fira Fira, Fira, 84700, Greece",,1302.0833333333335,9.1,28 ,True,False,False,True,True,False,22.0,False,August,Santorini
+Atlas Boutique Hotel,"Kamari Beach Santorini, Kamari, 84700, Greece",,985.9813084112149,8.4, 134 ,True,True,False,True,False,False,24.0,False,August,Santorini
+AKRI Suites Vourvoulos,"Vourvoulos Vourvoulos 1, Vourvoulos, 84700, Greece",,2257.8733031674205,9.5,4 ,True,False,False,True,True,False,50.0,False,August,Santorini
+Rose Suites,"Road to Oia, Vourvoulos, 84700, Greece",3.0,923.0,9.5,81 ,False,True,False,False,True,False,20.0,False,August,Santorini
+Orizontes Hotel Santorini,"Main Street, Pyrgos, 84700, Greece",4.0,1264.3552036199094,7.9,294 ,True,True,True,False,True,True,20.0,False,August,Santorini
+Yiannis Suite Santorini,"25ης Μαρτίου, Fira, 84700, Greece",3.0,1710.0,7.7,34 ,False,False,False,True,False,False,105.0,True,August,Santorini
+Beach Boutique Hotel,"Kamari, Kamari, 84700, Greece",3.0,1077.7777777777778,7.3,107 ,True,True,False,False,False,True,,False,August,Santorini
+Aerno Home & Azul Ηοme - Ahilli Slow Living,"Σαντορινη οροφος, Kamari, 84700, Greece",,1475.7009345794393,9.9,28 ,True,False,False,True,False,False,65.0,True,August,Santorini
+Sun Rocks Boutique Hotel,"Main Street, Firostefani, 84700, Greece",5.0,3085.0,9.0,72 ,True,False,True,False,True,True,25.0,False,August,Santorini
+VOCA HOTEL & SUITES,"Καμάρι, Kamari, 84700, Greece",4.0,1001.3888888888889,,,False,True,False,True,True,False,20.0,False,August,Santorini
+Perissa Secret,"PERISSA SANTORINI, Perissa, 84703, Greece",3.0,229811.214953271,,,False,False,False,False,True,False,40.0,False,August,Santorini
+Amara Suites Santorini,"Kamari, Kamari, 84700, Greece",5.0,2478.472222222222,9.8,185 ,False,True,False,False,True,True,35.0,False,August,Santorini
+perissa playa rooms,"perissa, Perissa, 84703, Greece",,1288.0,10,3 ,False,False,False,False,True,False,18.0,True,August,Santorini
+Marann Cave,"ΑΚΡΩΤΗΡΙ , Akrotiri, 84700, Greece",3.0,948.676030393737,9.5,54 ,True,False,True,True,False,False,35.0,False,August,Santorini
+"Firalia, Casa in Rock Suites","Fira, Fira, 84700, Greece",,2029.9065420560746,9.2,5 ,True,False,True,True,False,False,37.0,False,August,Santorini
+Santorini Traditional Apartments,"Σαντορίνη, Megalochori, 84700, Greece",3.0,916.4932126696832,8.9,22 ,True,True,False,True,True,False,55.0,False,August,Santorini
+La Boheme Villas,"Mesa Gonia 1, Éxo Goniá, 84700, Greece",4.0,2275.0,9.7,56 ,True,False,False,False,True,False,80.0,False,August,Santorini
+Central apartment in Oia,"louka nomikou, Oia, 84702, Greece",3.0,1058.0,9.0,2 ,False,False,False,False,False,False,55.0,False,August,Santorini
+Vlychada's Diamond Apartments,"Βλυχάδα, Vlychada, 84703, Greece",3.0,887.2767857142857,8.0, 99 ,True,True,True,True,True,True,55.0,False,August,Santorini
+Villa Sertis Santorini,"Imerovigli, Imerovigli, 84700, Greece",3.0,380122.429906542,9.5,24 ,True,False,True,True,True,False,30.0,False,August,Santorini
+Fira Sun Suites,"Marinatou, Fira, 84700, Greece",,0.0,10,4 ,True,False,False,True,False,False,,False,August,Santorini
+Ethos Vegan Suites,"Fira ,Santorini, Fira, 84700, Greece",,1850.0,9.8,49 ,True,False,True,True,True,False,23.0,True,August,Santorini
+Rose Suites,"Road to Oia, Vourvoulos, 84700, Greece",3.0,950.0,9.5,81 ,False,True,False,False,True,False,20.0,False,August,Santorini
+Ancient Thera Studios Kamari & Swimming Pool,"ARXEAS THIRAS, Kamari, 84700, Greece",3.0,957.0,8.0, 135 ,True,True,False,True,True,False,30.0,False,August,Santorini
+Elements of Caldera Suites,"Caldera Akrotiri, Akrotiri, 84700, Greece",,2320.0,9.3,84 ,True,True,True,False,True,False,35.0,False,August,Santorini
+Abyssanto Suites and Spa,"Imerovigli, Imerovigli, 84700, Greece",,3018.0,9.7,54 ,True,True,True,True,True,True,25.0,False,August,Santorini
+Lithos Houses,"Pyrgos, Pyrgos, 84700, Greece",,1152.3364485981308,9.7,18 ,False,False,False,True,True,False,49.0,False,August,Santorini
+Christina Pension,"Karterados, Karterados, 84700, Greece",3.0,1198.4276018099547,7.0,261 ,False,False,False,False,False,False,60.0,False,August,Santorini
+Saint Sin Suites - Adults Only,"Imerovigli, Imerovigli, 84700, Greece",4.0,1526.0,9.1,23 ,True,False,True,False,False,False,21.0,False,August,Santorini
+Thera Mare,"Perivolos, Perissa, 84703, Greece",4.0,590.2777777777778,7.6,126 ,True,True,True,False,True,False,20.0,False,August,Santorini
+Amphora Santorini,"Αθανασιασ Αθανασιου Μαρτινου, Akrotiri, 84700, Greece",3.0,793.8348416289592,8.7,39 ,True,False,False,True,True,False,25.0,True,August,Santorini
+Hotel Galini,"Firostefani, Firostefani, 84700, Greece",2.0,1478.0,8.9,51 ,True,False,False,True,False,False,16.0,False,August,Santorini
+Luxurious & spacious Villa* The Luna Suite,"Emporio Santorini, Emporio Santorini, 84703, Greece",3.0,1510.0,8.5, 13 ,False,False,False,True,False,False,85.0,False,August,Santorini
+Villa naya,"santorini, Megalochori, 84700, Greece",3.0,1113.888888888889,9.7,12 ,False,False,False,False,True,False,70.0,False,August,Santorini
+Zenith Blue Villas,"Imerovigli, Imerovigli, 84700, Greece",,1829.861111111111,7.7,94 ,True,False,False,False,False,False,20.0,False,August,Santorini
+Black Rose Beach Suites,"Perivolos Beach, Perivolos, 84703, Greece",,2696.4592760180994,9.6,107 ,True,True,True,False,True,False,45.0,True,August,Santorini
+GeoMare Beach House,"Monolithos beach, Monolithos, 84700, Greece",3.0,1098.8839285714284,7.4,21 ,True,False,False,True,True,False,52.0,False,August,Santorini
+Altea Apartments,"Fira, Fira, 84700, Greece",3.0,1774.0,8.8,155 ,True,False,False,True,True,False,45.0,False,August,Santorini
+Arvanitis Cave Village,"Akrotiri , Akrotiri, 84700, Greece",,1804.6728971962616,9.3,80 ,True,False,False,True,True,False,79.0,False,August,Santorini
+Island View Santorini,"Pyrgos, Santorini, Pyrgos, 84701, Greece",4.0,1761.8351370020723,9.2,24 ,True,False,True,False,True,False,65.0,False,August,Santorini
+Demilmar Luxury Suites,"PERISSA PERISSA BEACH, Perissa, 84703, Greece",,2706.542056074766,8.7,161 ,False,False,False,True,True,True,30.0,False,August,Santorini
+Euphoria Escape,"Επαρχιακή Οδός Μεσαριάς-Αρχαίας Θήρας 1ος Όροφος, Mesaria, 84700, Greece",3.0,1194.0,9.3,14 ,True,False,False,True,True,False,75.0,True,August,Santorini
+Christou Estate & Villas,"Pyrgos , Santorini, Pyrgos, 84700, Greece",,3214.0,9.6,24 ,False,False,True,True,True,False,50.0,False,August,Santorini
+Bliss Holidays Spot,"Bliss Holidays Spot, Fira, 84700, Greece",,1442.9906542056074,9.2,10 ,True,False,False,True,True,False,37.0,False,August,Santorini
+The Luna Caverns,"kontochori santorini, Fira, 84700, Greece",3.0,1748.0,7.3,47 ,False,False,False,True,False,False,90.0,False,August,Santorini
+Santorini Loft,"Makedonias, Kamari, 84700, Greece",,2742.056074766355,9.3,39 ,True,True,False,True,True,False,99.0,False,August,Santorini
+Christina Pension,"Karterados, Karterados, 84700, Greece",,1202.803738317757,7.0,261 ,False,False,False,False,False,False,60.0,False,August,Santorini
+Mentoras' Complex,"Emporio, Emporio Santorini, 84703, Greece",3.0,956.0,9.0,3 ,False,False,False,False,False,False,70.0,False,August,Santorini
+Litmus,"Agiou Athanasiou, Fira, 84700, Greece",,1288.0,10,1 ,False,False,False,False,True,False,30.0,False,August,Santorini
+"Istoria, a Member of Design Hotels","Perivolos Beach, Perivolos, 84703, Greece",,3182.0,9.5,68 ,True,True,False,False,True,True,37.0,False,August,Santorini
+Endless Traditional Houses,"Fira, Fira, 84700, Greece",3.0,3318.6046511627906,9.5,17 ,True,False,False,False,True,False,60.0,False,August,Santorini
+Alios Country houses,"Exo katoikies, Fira, 84700, Greece",3.0,878.0,9.4,19 ,True,False,False,False,True,False,60.0,False,August,Santorini
+Aktis suites,"Kontochori, Fira, 84700, Greece",,1052.3364485981308,7.9,92 ,True,False,False,False,True,False,24.0,False,August,Santorini
+De Sol Hotel & Spa,"Fira, Fira, 84700, Greece",5.0,1948.0,9.0,152 ,True,True,True,False,True,True,25.0,False,August,Santorini
+Kampanelia Village Suites,"Pirgos, Fira, 84701, Greece",3.0,973.0,9.5,208 ,True,False,False,False,True,False,19.0,False,August,Santorini
+Kamari's Dome,"Μηρτιδιώτισσας καμαρίου, Kamari, 84700, Greece",3.0,949.2481203007518,9.0,26 ,True,False,False,False,True,False,18.0,False,August,Santorini
+Katikies Garden Santorini - The Leading Hotels Of The World,"Fira, Fira, 84700, Greece",,2790.6542056074763,8.9,151 ,True,True,True,False,True,True,45.0,True,August,Santorini
+Kamara Sea View Villa,"ΚΑΜΑΡΙ ΘΗΡΑΣ ΕΠΙΣΚ ΓΩΝΙΑΣ, Kamari, 84700, Greece",4.0,2611.0,10,2 ,True,False,False,True,True,False,90.0,False,August,Santorini
+Pegasus Spa Hotel,"Imerovigli, Imerovigli, 84700, Greece",5.0,2521.0,8.8,44 ,True,True,False,True,True,False,30.0,False,August,Santorini
+Avaton Resort And Spa,"Main Street, Imerovigli, 84700, Greece",,3240.0,9.6,34 ,True,True,True,False,True,False,22.0,False,August,Santorini
+Cosy Messaria,"Eparchiaki Odos Firon-Ormou Perissis, Mesaria, 84700, Greece",,967.2897196261682,9.0,2 ,False,False,False,False,True,False,44.0,False,August,Santorini
+Mod Santorini,"25is Martiou Firostefani, Fira, 84700, Greece",,1924.2990654205607,9.0,5 ,True,False,False,False,True,False,20.0,False,August,Santorini
+οικογενειακό διαμέρισμα στην Οία,"Oia, Egeo, Grecia, Oia, 20301, Greece",,3181.308411214953,,,False,False,False,True,False,False,60.0,True,August,Santorini
+Aratos Apartments - Kallisto 2bedroom Apartment,"Fira, Fira, 84700, Greece",3.0,1839.04282115869,,,False,False,False,True,False,False,80.0,False,August,Santorini
+Chariot Apartments Santorini,"Μακεδονίας, Kamari, 84700, Greece",,1002.8037383177569,9.2,78 ,False,False,False,True,True,False,40.0,False,August,Santorini
+Mati Cave Villas,"Santorini ,karterados, Karterados, 84700, Greece",,1754.2056074766354,8.4, 7 ,True,False,True,True,True,False,52.0,False,August,Santorini
+Sea Bliss Villas,"Exo Gialos Karterados, Karterados, 84700, Greece",4.0,1023.9696062629519,9.4,121 ,True,True,False,True,True,False,50.0,False,August,Santorini
+Elea Hub,"Oia, Oia, 84700, Greece",,1578.504672897196,8.2, 23 ,True,False,False,False,False,False,44.0,False,August,Santorini
+Aerial Apartment,"Επαρχιακή Οδός Φηρών-Όρμου Περίσσης 1, Karterados, 84700, Greece",3.0,1061.3839285714284,9.8,35 ,True,False,False,True,False,False,50.0,False,August,Santorini
+Heart of Oia - Private house with Jacuzzi,"Οια Σαντορινη κεντρο, Oia, 84702, Greece",,1533.644859813084,9.6,22 ,True,False,False,True,False,False,40.0,False,August,Santorini
+Christou Estate & Villas,"Pyrgos , Santorini, Pyrgos, 84700, Greece",,3501.8691588785045,9.6,24 ,False,False,True,True,True,False,49.0,False,August,Santorini
+Ampelos Executive Houses,"Pyrgos, Pyrgos, 84700, Greece",4.0,953.4883720930233,9.7,148 ,True,False,True,True,True,False,52.0,False,August,Santorini
+Bliss Holidays Spot,"Bliss Holidays Spot, Fira, 84700, Greece",,0.0,9.2,10 ,True,False,False,True,True,False,,False,August,Santorini
+The Luna Caverns,"kontochori santorini, Fira, 84700, Greece",,1682.2429906542054,7.3,47 ,False,False,False,True,False,False,90.0,False,August,Santorini
+Santorini Loft,"Makedonias, Kamari, 84700, Greece",,2742.056074766355,9.3,39 ,True,True,False,True,True,False,99.0,False,August,Santorini
+Mentoras' Complex,"Emporio, Emporio Santorini, 84703, Greece",3.0,1040.0,9.0,3 ,False,False,False,False,False,False,70.0,False,August,Santorini
+Litmus,"Agiou Athanasiou, Fira, 84700, Greece",,1403.7383177570093,10,1 ,False,False,False,False,True,False,30.0,False,August,Santorini
+The Cliff Reflections - Adults Only,"Megalochori megalochori, Megalochori, 84700, Greece",4.0,971.628959276018,9.2,267 ,True,False,True,False,True,False,35.0,False,August,Santorini
+Endless Traditional Houses,"Fira, Fira, 84700, Greece",3.0,3318.6046511627906,9.5,17 ,True,False,False,False,True,False,60.0,False,August,Santorini
+Alios Country houses,"Exo katoikies, Fira, 84700, Greece",3.0,803.0,9.4,19 ,True,False,False,False,True,False,40.0,False,August,Santorini
+De Sol Hotel & Spa,"Fira, Fira, 84700, Greece",5.0,1704.126695066827,9.0,152 ,True,True,True,False,True,True,25.0,False,August,Santorini
+Kampanelia Village Suites,"Pirgos, Fira, 84701, Greece",,1060.7476635514017,9.5,208 ,True,False,False,False,True,False,19.0,False,August,Santorini
+Kamari's Dome,"Μηρτιδιώτισσας καμαρίου, Kamari, 84700, Greece",3.0,787.0,9.0,26 ,True,False,False,False,True,False,18.0,False,August,Santorini
+Kamara Sea View Villa,"ΚΑΜΑΡΙ ΘΗΡΑΣ ΕΠΙΣΚ ΓΩΝΙΑΣ, Kamari, 84700, Greece",4.0,2604.785067873303,10,2 ,True,False,False,True,True,False,90.0,False,August,Santorini
+Pegasus Spa Hotel,"Imerovigli, Imerovigli, 84700, Greece",5.0,2506.8702290076335,8.8,44 ,True,True,False,False,True,False,30.0,False,August,Santorini
+Avaton Resort And Spa,"Main Street, Imerovigli, 84700, Greece",,3240.0,9.6,34 ,True,True,True,False,True,False,22.0,False,August,Santorini
+Cosy Messaria,"Eparchiaki Odos Firon-Ormou Perissis, Mesaria, 84700, Greece",,897.196261682243,9.0,2 ,False,False,False,False,True,False,44.0,False,August,Santorini
+Mod Santorini,"25is Martiou Firostefani, Fira, 84700, Greece",,1924.2990654205607,9.0,5 ,True,False,False,False,True,False,20.0,False,August,Santorini
+Emorfia Apartment,"Μακεδονιασ, Kamari, 84700, Greece",,827.1028037383177,9.2,10 ,False,False,False,False,True,False,44.0,False,August,Santorini
+οικογενειακό διαμέρισμα στην Οία,"Oia, Egeo, Grecia, Oia, 20301, Greece",3.0,3177.777777777778,,,False,False,False,True,False,False,60.0,True,August,Santorini
+Aratos Apartments - Kallisto 2bedroom Apartment,"Fira, Fira, 84700, Greece",3.0,1845.0,,,False,False,False,True,False,False,80.0,False,August,Santorini
+Chariot Apartments Santorini,"Μακεδονίας, Kamari, 84700, Greece",,852.3364485981308,9.2,78 ,False,False,False,True,True,False,40.0,False,August,Santorini
+Onar Villas - Onar Hotels Collection,"Oia, Oia, 84702, Greece",,0.0,9.4,402 ,True,False,True,True,False,False,,False,August,Santorini
+Voreina Gallery Suites,"Pirgos Thiras, Pyrgos, 84701, Greece",4.0,0.0,9.7,223 ,True,True,True,True,True,False,,True,August,Santorini
+Pleiades Eco Houses,"Vothonas, Vóthon, 84700, Greece",4.0,0.0,9.6,98 ,True,True,True,True,True,True,,True,August,Santorini
+Santorini View,"Akrotiri, Santorini, Akrotiri, 84700, Greece",,0.0,9.3,24 ,True,True,True,True,True,True,,False,August,Santorini
+Milos Villas Hotel,"Main Street, Fira, 84700, Greece",,0.0,8.3," 1,505 ",True,True,False,True,True,True,,False,August,Santorini
+Alti Santorini Suites,"Eparchiaki Odos Ormou Athiniou , Megalochori, 84700, Greece",4.0,0.0,9.6,244 ,True,False,True,False,True,False,,False,August,Santorini
+Delta Suites,"Οδός Πλοιάρχων, Oia, 84702, Greece",4.0,0.0,9.7,405 ,True,False,False,True,False,False,,False,August,Santorini
+Zorbas Hotel Santorini,"Pyrgos, Santorini, Pyrgos, 84700, Greece",,0.0,7.4,"1,094 ",True,True,False,True,True,True,,True,August,Santorini
+Roula Villa Studios & Apartments,"Main Street, Perissa, 84700, Greece",,0.0,9.2,893 ,True,True,False,True,True,False,,True,August,Santorini
+BlackStone Luxury Suites,"Emporio Santorini, Emporio Santorini, 84700, Greece",4.0,0.0,9.5,143 ,True,False,True,False,True,False,,False,August,Santorini
+Santorini Kastelli Resort,"Main Street, Kamari, 84700, Greece",5.0,0.0,9.4,916 ,True,True,False,True,True,True,,False,August,Santorini
+Timedrops Santorini Villas,"Emporeio, Emporio Santorini, 84703, Greece",4.0,0.0,9.0,82 ,True,False,False,False,True,False,,False,August,Santorini
+Babis Hotel,"Karterados, Karterados, 84700, Greece",1.0,0.0,8.8,912 ,True,True,True,True,True,False,,False,August,Santorini
+Smaragdi Hotel,"Main Street, Perivolos, 84703, Greece",3.0,0.0,9.2,759 ,False,True,False,False,True,False,,False,August,Santorini
+Absolute Bliss,"Main Street, Imerovigli, 84700, Greece",,0.0,9.7,513 ,True,True,False,False,True,True,,False,August,Santorini
+Maison Des Lys - Luxury Suites,"Off Akrotiriou - Megalochoriou Road, Akrotiri, 84700, Greece",,0.0,8.8,453 ,True,True,True,True,True,True,,True,August,Santorini
+Mythical Blue Luxury Suites,"Nomikou M, Fira, 84700, Greece",,0.0,9.0,338 ,True,True,True,False,True,True,,False,August,Santorini
+Akrotiri Hotel,"Main Street, Akrotiri, 84700, Greece",2.0,0.0,9.4,806 ,True,False,True,False,True,True,,True,August,Santorini
+Bella Santorini,"Perivolos Beach, Perivolos, 84700, Greece",,0.0,9.1,85 ,True,False,True,True,True,True,,False,August,Santorini
+Remvi Suites,"Main Street, Firostefani, 84700, Greece",,0.0,9.1,426 ,True,False,False,False,True,True,,True,August,Santorini
+Bedspot Hostel,"Αγίου Αθανασίου ΠΑΡΟΔΟΣ ΑΠΕΝΑΝΤΙ ΑΠΟ ΤΟ ΚΕΝΤΡΟ ΥΓΕΙΑΣ, Fira, 84700, Greece",,0.0,9.0,852 ,True,False,False,False,False,False,,False,August,Santorini
+Hotel Sunshine,"Kamari Beach, Kamari, 84700, Greece",3.0,0.0,9.1,640 ,True,True,False,False,False,True,,False,August,Santorini
+Noir Santorini,"Μονόλιθος, Greece, Monolithos, 84700, Greece",,0.0,9.2,72 ,True,True,True,False,True,False,,False,August,Santorini
+The Best,"Po.Box E13, Perissa, 84703, Greece",,0.0,8.9,537 ,True,False,False,True,True,False,,False,August,Santorini
+Deluxe Hotel Santorini,"Fira , Fira, 84700, Greece",,0.0,8.4," 1,139 ",True,True,True,False,False,False,,False,August,Santorini
+beachfront view,"perissa beach Santorini, Perissa, 84703, Greece",,4506.542056074766,,,False,True,False,True,False,False,24.0,False,August,Santorini
+Kyklos Villa with outdoor Whirlpool,"Oia Santorini, Oia, 84702, Greece",,3680.0,,,True,False,False,True,True,True,40.0,False,August,Santorini
+Sandys Paradise Rooms,"perissa, Perissa, 84703, Greece",,1804.6728971962616,,,False,True,True,False,True,False,19.0,True,August,Santorini
+V Angelo Apartment,"santorini, Perissa, 84703, Greece",,1348.5981308411215,,,False,True,True,False,True,False,24.0,False,August,Santorini
+Golden East,"Main Street, Imerovigli, 84700, Greece",,1985.0467289719625,8.7,232 ,True,True,True,True,True,False,40.0,False,August,Santorini
+V Angelo Suite,"santorini, Perissa, 84703, Greece",,1804.6728971962616,,,False,True,False,False,True,False,22.0,False,August,Santorini
+Katikies Chromata Santorini - The Leading Hotels of the World,"Main Street, Imerovigli, 84700, Greece",5.0,4446.152591616339,9.0,45 ,True,True,True,False,False,True,20.0,False,August,Santorini
+Oasis Apartments,"Eparchiaki Odos Firon-Ormou Perissis, Perissa, 84703, Greece",,1025.233644859813,,,True,False,False,True,True,False,44.0,False,August,Santorini
+Sandys Infinity Rooms,"santorini, Perissa, 84703, Greece",,1656.0,,,False,True,True,False,True,False,20.0,False,August,Santorini
+V D Fira Rooms,"fira, Fira, 84700, Greece",3.0,1029.0497737556561,,,False,False,False,True,False,False,19.0,False,August,Santorini
+Marina's Studios,"Perivolos, Perivolos, 84700, Greece",,1247.6635514018692,9.3,184 ,True,True,False,True,True,False,35.0,False,August,Santorini
+Aegean Blue Santorini Perivolos,"Perivolos , Perivolos, 84703, Greece",3.0,1341.0,6.0,1 ,False,False,False,False,True,False,60.0,False,August,Santorini
+Petit Homme by Andreas,"Perissa Santorini, Perissa, 84700, Greece",,1433.5597513239695,,,False,True,False,False,True,False,70.0,False,August,Santorini
+DreamCatcher cave house 2,"Άγιου Αθανάσιο, Fira, 84700, Greece",,1234.5794392523364,,,False,False,False,True,False,False,37.0,False,August,Santorini
+V D Kontoxori Rooms,"fira, Fira, 84700, Greece",3.0,6258.333333333334,,,False,False,False,False,False,False,21.0,False,August,Santorini
+Airth House,"Firostefani, Firostefani, 84700, Greece",4.0,4856.944444444444,10,6 ,False,False,False,False,True,False,25.0,False,August,Santorini
+Christianna & George Luxury Apartment with Outdoor Hot Tub,"Exo Katikies, Fira, 84700, Greece",3.0,2217.6917252724993,9.2,5 ,True,False,False,True,True,False,75.0,False,August,Santorini
+Avenoir one bedroom cave villa,"Vothonas santorini, Vóthon, 84700, Greece",3.0,303750.4672897196,,,False,False,False,False,False,False,70.0,False,August,Santorini
+Glamourous One Bedroom Suite in Santorini,"Vothonas, Vóthon, 84703, Greece",,2482.2429906542056,,,False,False,False,False,True,False,,False,August,Santorini
+Apartment Athiri,"Foinikiá, 84702, Greece",,3664.485981308411,,,False,True,False,False,True,False,69.0,False,August,Santorini
+Apartment Nykteri,"Foinikiá, 84702, Greece",4.0,3648.483235763704,,,False,True,False,False,True,False,70.0,False,August,Santorini
+Apartment Vinsanto,"Foinikiá, 84702, Greece",4.0,3941.666666666667,,,False,True,False,False,True,False,70.0,False,August,Santorini
+Centro Apartment Down Town,"Agiou Athanasiou, Fira, 84700, Greece",4.0,1491.5841584158416,1.0,1 ,True,False,False,False,False,False,100.0,True,August,Santorini
+Mary Castelia villa Akrotiri,"Αθανασιασ Αθανασιου Μαρτινου, Akrotiri, 84700, Greece",3.0,1240.6976744186047,,,False,False,False,True,False,False,40.0,False,August,Santorini
+One of One - Altheda,"Nikolaou Nomikou One of One, Oia, 84702, Greece",,4002.532811420677,,,False,False,False,False,False,False,40.0,False,August,Santorini
+Santorious Cavehouse,"Megalochori Main Street, 1, Megalochori, 84700, Greece",,1503.7383177570093,,,False,False,False,False,True,False,40.0,True,August,Santorini
+Santorious Family Apartment,"Megalochori Main Street, 1, Megalochori, 84700, Greece",3.0,1311.111111111111,,,False,False,False,False,True,False,50.0,False,August,Santorini
+Private luxury villa with pool&sunbeds,"Φάρος ,Σαντορινη, Akrotiri, 84700, Greece",,1046040.4127257094,9.0,1 ,False,True,False,False,True,False,40.0,True,August,Santorini
+Tony & Erato Cavehouse,"ΟΡΙΟ ΟΙΚΙΣΜΟΥ ΘΗΡΑΣ - ΕΠΙΣΚΟΠΗΣ ΓΩΝΙΑΣ, Fira, 84700, Greece",3.0,1028.259712613092,,,False,False,False,True,True,False,46.0,False,August,Santorini
+Marina's Studios,"Perivolos, Perivolos, 84700, Greece",3.0,1148.0,9.3,184 ,True,True,False,True,True,False,35.0,False,August,Santorini
+The Ancient Thera Villa,"ΒΟΘΩΝ ΚΥΚΛΑΔΕΣ ΘΗΡΑ, Vóthon, Vóthon, 84700, Greece",,2704.022988505747,,,False,False,False,False,True,False,120.0,False,August,Santorini
+Dona Beach Resort,"Perivolos, Perissa, 84700, Greece",4.0,1447.6744186046512,9.8,15 ,True,False,False,True,True,False,49.0,False,August,Santorini
+Santonero - The Philoxenia Project,"Akrotiri Santonero, Akrotiri, 84700, Greece",5.0,3277.906976744186,9.5,179 ,True,False,True,True,True,False,49.0,False,August,Santorini
+Pnoi Luxury Suites,"Kartherados, Karterados, 84700, Greece",3.0,1438.0,9.1,28 ,True,False,True,True,False,False,50.0,False,August,Santorini
+Unique Galini Oia - Adults Only,"Finikia - Oia, Oia, 84702, Greece",,1202.803738317757,9.1,440 ,True,True,True,False,True,False,35.0,False,August,Santorini
+K & G Central Apartments Fira,"25is Martiou, Fira, 84700, Greece",3.0,1034.1517857142856,8.1, 30 ,True,False,False,False,True,False,35.0,False,August,Santorini
+Langas Villas,"Imerovigli, Imerovigli, 847 00, Greece",4.0,2004.0,9.4,263 ,True,True,True,True,True,False,40.0,False,August,Santorini
+Dana Villas & Infinity Suites,"Firostefani, Firostefani, 84700, Greece",,4089.719626168224,9.2,481 ,True,True,True,False,True,True,69.0,False,August,Santorini
+Fava Eco Suites,"Foinikia, Oia, 84700, Greece",4.0,2400.516678344089,8.9,23 ,True,False,False,True,True,False,45.0,False,August,Santorini
+Nikos Villas,"Main Street, Oia, 84702, Greece",4.0,1650.0,9.4,274 ,False,True,True,False,True,False,25.0,False,August,Santorini
+Anezina Villas,"Perissa, Perissa, 84703, Greece",4.0,1352.0833333333335,9.1,386 ,True,True,True,True,False,False,55.0,False,August,Santorini
+Paradise Resort,"Off Main Street, Akrotiri, 847 00, Greece",,1097.196261682243,8.0, 351 ,True,True,False,True,True,True,26.0,True,August,Santorini
+Family Villages Santorini,"Santorini Vlychada, Vlychada Beach, 84703, Greece",3.0,1196.0,9.1,250 ,True,True,False,True,True,True,30.0,False,August,Santorini
+Muses Cycladic Suites,"Main Street, Oia, 84702, Greece",4.0,1547.0,8.9,390 ,True,False,False,False,False,False,33.0,False,August,Santorini
+Aethrio Sunset Village - Oia,"Main Street, Oia, 84702, Greece",,1413.0841121495325,9.0,760 ,True,True,False,True,True,False,27.0,False,August,Santorini
+Antonia Apartments,"Fira, Fira, 84700, Greece",3.0,1048.0,8.7,"1,039 ",True,True,False,False,False,False,25.0,False,August,Santorini
+Anemoessa Villa,"2nd entrance from main street OIA to FINIKIA village, Oia, 84702, Greece",4.0,1279.8829164449176,9.4,951 ,False,True,True,False,False,False,30.0,False,August,Santorini
+Casa Iphigenia,"Kamari Thiras, Kamari, 84700, Greece",3.0,921.4819004524886,8.4, 473 ,True,True,False,True,False,False,50.0,False,August,Santorini
+Ianthe Apartments & Villa,"Oia, Oia, 84702, Greece",4.0,1285.0,9.4,467 ,True,True,False,True,True,False,30.0,False,August,Santorini
+Exi Sea Side Suites,"ΠΕΡΙΣΣΑ 0, Perissa, 84700, Greece",,1342.056074766355,9.2,238 ,True,False,True,True,True,False,30.0,False,August,Santorini
+Roubeti Village,"Nea Eparxiaki Odos Firon, Mesaria, 84700, Greece",,1202.803738317757,8.9,134 ,True,True,False,True,True,False,40.0,False,August,Santorini
+Thallos Cave House and Apartments,"ΚΑΡΤΕΡΑΔΟΣ, Karterados, 84700, Greece",,1014.9532710280373,9.2,134 ,True,False,False,True,True,False,30.0,False,August,Santorini
+Joanna Villas,"Kamari, Kamari, 84700, Greece",4.0,1216.5909778988798,9.6,230 ,True,True,False,True,True,False,20.0,False,August,Santorini
+Santorini Paradise Cave Houses,"Oia, Oia, 84702, Greece",4.0,1758155.6319862425,8.8,63 ,True,False,True,True,True,False,28.0,False,August,Santorini
+Villa Irini Studios,"Kamari, Kamari, 84700, Greece",,1378.504672897196,9.1,205 ,True,True,False,True,True,False,30.0,False,August,Santorini
+Atrina Canava 1894,"Oia, Oia, 84702, Greece",4.0,3508.4112149532707,9.4,167 ,True,True,False,True,False,False,35.0,False,August,Santorini
+Nissia Beach Apartments & Suites,"Nymfon & Antheon, Kamari, 84700, Greece",,1238.3177570093458,9.0,430 ,True,True,True,False,False,True,23.0,False,August,Santorini
+Anemi House & Villas,"Oia, Oia, 84702, Greece",4.0,2700.0,9.8,214 ,True,False,False,False,False,False,65.0,False,August,Santorini
+Olive Tree Suites,"Agiou Athanasiou Fira, Fira, 84700, Greece",3.0,1105.0,9.0,304 ,False,False,False,True,False,False,25.0,False,August,Santorini
+Harmony Suites,"SANTORINI FIRA, Fira, 84700, Greece",4.0,1603.0,9.5,144 ,True,False,False,True,False,False,45.0,False,August,Santorini
+Birds Villa Apartments - Including Car Rental,"Main Street, Perissa, 84703, Greece",4.0,1352.0833333333335,8.8,87 ,True,True,True,True,True,False,35.0,False,August,Santorini
+Thea Luxury Resort,"Fira, Fira, 84700, Greece",,975.7009345794391,8.1, 706 ,True,True,True,True,True,False,22.0,True,August,Santorini
+AENAON ESTATE 1896 by K&K,"10 Eparchiaki Odos Pirgou Kallistis - Profiti Ilia, Pyrgos, 84700, Greece",3.0,1044.0,9.9,11 ,True,False,False,True,False,False,28.0,True,August,Santorini
+Anamnesis City Spa,"Main Street, Fira, 84700, Greece",4.0,1378.0,8.8,668 ,True,True,True,True,False,False,20.0,False,August,Santorini
+Strogili,"Oia, Oia, 84700, Greece",,1884.1121495327102,9.0,390 ,True,True,True,True,True,False,24.0,False,August,Santorini
+Horizon Aeifos Suites,"Oia, Oia, 84702, Greece",,2285.0467289719627,9.2,235 ,True,False,True,False,False,False,30.0,False,August,Santorini
+Aspa Villas,"Main Street, Oia, 84700, Greece",,1358.8785046728972,9.4,307 ,True,True,False,False,False,False,14.0,False,August,Santorini
+Belle Etoile Villas,"Provincial road Fira-Oia, Imerovigli, 84700, Greece",4.0,1289.5833333333335,8.6,249 ,True,True,True,True,True,False,30.0,False,August,Santorini
+Ambeli Apartments,"Perivolos, Perivolos, 84703, Greece",4.0,1036.352729454109,9.2,316 ,True,True,True,True,True,False,40.0,False,August,Santorini
+Anthonas Apartments,"Imerovigli, Imerovigli, 84700, Greece",3.0,1102.7777777777778,9.5,271 ,True,True,False,True,True,False,30.0,True,August,Santorini
+Dragonfly Villas,"kamari, Kamari, 84700, Greece",4.0,1448.0,9.9,91 ,True,True,True,False,True,False,19.0,False,August,Santorini
+Aerenia Luxury Suites,"KARTERADOS 1, Karterados, 84700, Greece",,1172.8971962616822,9.2,126 ,True,False,True,True,False,False,37.0,False,August,Santorini
+Preka Maria,"Main Street, Kamari, 84700, Greece",3.0,1033.6425339366515,9.1,224 ,True,True,True,True,True,False,35.0,False,August,Santorini
+Sunflower ApartHotel,"Kamari, Kamari, 84700, Greece",3.0,879.0,8.4, 244 ,True,True,False,True,True,False,45.0,True,August,Santorini
+Exi Sea Side Suites,"ΠΕΡΙΣΣΑ 0, Perissa, 84700, Greece",4.0,1347.8957499058827,9.2,238 ,True,False,True,True,True,False,30.0,False,August,Santorini
+Roubeti Village,"Nea Eparxiaki Odos Firon, Mesaria, 84700, Greece",4.0,976.3888888888889,8.9,134 ,True,True,False,True,True,False,36.0,False,August,Santorini
+Thallos Cave House and Apartments,"ΚΑΡΤΕΡΑΔΟΣ, Karterados, 84700, Greece",4.0,1016.4402486760304,9.2,134 ,True,False,False,True,True,False,30.0,False,August,Santorini
+Joanna Villas,"Kamari, Kamari, 84700, Greece",,1214.9532710280373,9.6,230 ,True,True,False,True,True,False,19.0,False,August,Santorini
+Golden East,"Main Street, Imerovigli, 84700, Greece",3.0,2207.4812967581047,8.7,232 ,True,True,True,True,True,False,40.0,False,August,Santorini
+Anemi Vine Villas,"Baxes, Foinikiá, 84702, Greece",4.0,1575.0,10,6 ,True,False,False,False,True,False,35.0,True,August,Santorini
+Villa Irini Studios,"Kamari, Kamari, 84700, Greece",3.0,1304.1791641671666,9.1,205 ,True,True,False,True,True,False,30.0,False,August,Santorini
+Atrina Canava 1894,"Oia, Oia, 84702, Greece",,3508.4112149532707,9.4,167 ,True,True,False,True,False,False,35.0,False,August,Santorini
+Nissia Beach Apartments & Suites,"Nymfon & Antheon, Kamari, 84700, Greece",,1238.3177570093458,9.0,430 ,True,True,True,False,False,True,23.0,False,August,Santorini
+Anemi House & Villas,"Oia, Oia, 84702, Greece",4.0,2700.0,9.8,214 ,True,False,False,False,False,False,65.0,False,August,Santorini
+Marina's Studios,"Perivolos, Perivolos, 84700, Greece",,1247.6635514018692,9.3,184 ,True,True,False,True,True,False,35.0,False,August,Santorini
+Olive Tree Suites,"Agiou Athanasiou Fira, Fira, 84700, Greece",3.0,1167.372783790007,9.0,304 ,False,False,False,True,False,False,25.0,False,August,Santorini
+Birds Villa Apartments - Including Car Rental,"Main Street, Perissa, 84703, Greece",4.0,1355.261340087497,8.8,87 ,True,True,True,True,True,False,35.0,False,August,Santorini
+Thea Luxury Resort,"Fira, Fira, 84700, Greece",4.0,927.9301745635911,8.1, 706 ,True,True,True,True,True,False,22.0,True,August,Santorini
+AENAON ESTATE 1896 by K&K,"10 Eparchiaki Odos Pirgou Kallistis - Profiti Ilia, Pyrgos, 84700, Greece",3.0,1044.0,9.9,11 ,True,False,False,True,False,False,28.0,True,August,Santorini
+Anamnesis City Spa,"Main Street, Fira, 84700, Greece",4.0,1381.9196428571427,8.8,668 ,True,True,True,True,False,False,20.0,False,August,Santorini
+Irida - Santorini,"Main Street, Imerovigli, 84700, Greece",4.0,1760167.6698194325,9.8,55 ,True,True,False,False,True,False,28.0,False,August,Santorini
+Strogili,"Oia, Oia, 84700, Greece",4.0,1887.3244301174304,9.0,390 ,True,True,True,True,True,False,25.0,False,August,Santorini
+Horizon Aeifos Suites,"Oia, Oia, 84702, Greece",,2285.0467289719627,9.2,235 ,True,False,True,False,False,False,30.0,False,August,Santorini
+Aspa Villas,"Main Street, Oia, 84700, Greece",,1358.8785046728972,9.4,307 ,True,True,False,False,False,False,14.0,False,August,Santorini
+Villa Markos,"Perissa, Perissa, 84703, Greece",3.0,926.3888888888889,8.2, 213 ,True,True,False,True,True,True,50.0,True,August,Santorini
+Belle Etoile Villas,"Provincial road Fira-Oia, Imerovigli, 84700, Greece",4.0,1292.9196408012895,8.6,249 ,True,True,True,True,True,False,30.0,False,August,Santorini
+Ambeli Apartments,"Perivolos, Perivolos, 84703, Greece",,928.9719626168223,9.2,316 ,True,True,True,True,True,False,22.0,False,August,Santorini
+Anthonas Apartments,"Imerovigli, Imerovigli, 84700, Greece",,966.3551401869158,9.5,271 ,True,True,False,True,True,False,30.0,True,August,Santorini
+Dragonfly Villas,"kamari, Kamari, 84700, Greece",4.0,1454.6015424164525,9.9,91 ,True,True,True,False,True,False,19.0,False,August,Santorini
+Amera Suites,"Fira, Fira, 84700, Greece",4.0,766278.5046728972,9.5,205 ,True,False,False,False,True,False,65.0,False,August,Santorini
+La Casa de Caldera,"Oia ,Santorini, Oia, 84702, Greece",,3608.4112149532707,8.7,43 ,False,False,False,False,False,False,60.0,False,August,Santorini
+SantoRossa Luxury Villas,"Emporio 1, Emporio Santorini, 84703, Greece",4.0,1223.0,9.7,40 ,True,False,True,True,True,False,32.0,False,August,Santorini
+Panorama Oia Apartments,"Finikia, Oia, 84702, Greece",3.0,1194.4343891402714,9.1,234 ,True,False,False,True,True,False,21.0,False,August,Santorini
+"Captain John Villas-Caldera,Volcano,Sunset View","Oia, Oia, 84700, Greece",3.0,1756.6790846194785,8.9,167 ,True,False,True,True,True,False,40.0,False,August,Santorini
+Casa Bu,"Kontochori, Fira, 84700, Greece",3.0,1348.235294117647,8.8,93 ,True,False,False,True,True,False,35.0,False,August,Santorini
+Vacay Suites,"Φηροστεφάνι,Σαντορίνη, Firostefani, 84700, Greece",4.0,2229.0,9.5,27 ,True,False,False,True,True,False,70.0,False,August,Santorini
+Echo Caves Suites,"FIRA, Fira, 84700, Greece",,2004.6728971962616,8.8,82 ,True,False,False,True,True,False,44.0,True,August,Santorini
+The Nook,"Imerovigli, Imerovigli, 84700, Greece",3.0,1650.7253050886484,8.8,26 ,True,False,False,False,True,False,35.0,False,August,Santorini
+Acave Santorini Suites,"Vothonas Santorini, Vóthon, 84700, Greece",3.0,1204.0,9.3,36 ,True,False,False,True,False,False,42.0,True,August,Santorini
+Mardanza House,"Imerovigli, Imerovigli, 84700, Greece",4.0,2648.053786270347,9.4,54 ,True,False,True,True,False,False,70.0,False,August,Santorini
+El Destino Suites,"Akrotiri, Akrotiri, 84700, Greece",4.0,2247.0588235294117,9.0,9 ,True,False,False,True,True,False,32.0,False,August,Santorini
+George & Joanna Suites Santorini,"Fira, Fira, 84700, Greece",4.0,2168.4089339166476,9.1,122 ,True,False,False,True,True,False,40.0,False,August,Santorini
+Chroma Suites,"Main Street, Oia, 84700, Greece",4.0,1791.0,8.3, 54 ,True,False,False,True,False,False,40.0,False,August,Santorini
+Ayoba Santorini,"Imerovigli, Imerovigli, 84700, Greece",3.0,1195.0,8.7,79 ,True,False,True,True,True,False,25.0,False,August,Santorini
+Volcan Secret Cave,"καρτεράδος, Karterados, 84700, Greece",,0.0,9.8,61 ,True,False,False,True,True,False,,False,August,Santorini
+Hidden Gem,"Kontochori, Fira, 84700, Greece",3.0,2310.857317796652,,,True,False,False,False,True,False,45.0,False,August,Santorini
+Spitia Tzitzi,"Imerovigli, Imerovigli, 84700, Greece",4.0,2288.878655307391,9.6,84 ,True,False,True,True,True,False,25.0,False,August,Santorini
+Sun Stories Suites,"vothonas, Vóthon, 84700, Greece",3.0,1196.0,9.8,13 ,False,False,False,True,True,False,90.0,False,August,Santorini
+Stardust Suites,"Kamari, Kamari, 84700, Greece",4.0,1556.032696292885,9.6,57 ,True,False,False,False,False,False,65.0,False,August,Santorini
+Kamari holiday renovated villa,"Βασιλέως Φιλίππου, Kamari, 84700, Greece",4.0,3500.0,,,True,True,True,True,True,False,380.0,True,August,Santorini
+Almira Luxury Suites,"Περίβολος Εξωμύτης, Perivolos, 84703, Greece",,1385.981308411215,10,2 ,True,False,False,True,True,False,47.0,False,August,Santorini
+"Legacy Private Villa ,Oia","Finikia, Oia, 84702, Greece",,1562.0,8.7,7 ,True,False,False,True,True,False,40.0,False,August,Santorini
+Gervi Suites,"Αγίου Αθανασίου, Fira, 84700, Greece",3.0,1373.0,10,5 ,False,False,False,True,True,False,50.0,False,August,Santorini
+Marousi Suites,"Perissa, Perissa, 84700, Greece",,1308.411214953271,8.5, 149 ,False,True,False,False,False,False,30.0,True,August,Santorini
+"Legacy Private Villa ,Oia","Finikia, Oia, 84702, Greece",,1534.8837209302326,8.7,7 ,True,False,False,True,True,False,40.0,False,August,Santorini
+Gervi Suites,"Αγίου Αθανασίου, Fira, 84700, Greece",3.0,1465.6919180290122,10,5 ,False,False,False,True,True,False,50.0,False,August,Santorini
+Marousi Suites,"Perissa, Perissa, 84700, Greece",3.0,1250.0,8.5, 149 ,False,True,False,False,False,False,28.0,True,August,Santorini
+Dagris Villa Studios,"Kamari, Kamari, 84700, Greece",,1253.271028037383,9.1,106 ,True,False,False,True,True,False,18.0,True,August,Santorini
+Madame Kalitsi Cozy Suites,"Vothonas, Fira, 84700, Greece",3.0,1485.1396872801718,9.3,185 ,True,True,True,False,False,False,50.0,True,August,Santorini
+Kastro Mansion,"ΔΑΣΚΑΛΟΥ ΚΟΝΤΑΡΑΤΟΥ, Pyrgos, 84700, Greece",4.0,1918.5267857142856,9.4,47 ,True,False,True,True,True,False,65.0,False,August,Santorini
+Luna Rossa,"Luna Rossa Apartments - Eparx odos Firon Oias Imerovigli, Imerovigli, 84700, Greece",4.0,1556.032696292885,9.3,228 ,True,True,True,True,True,False,36.0,False,August,Santorini
+24K Caldera Suites,"caldera, Fira, 84700, Greece",3.0,1978.0,10,6 ,False,False,False,False,False,False,22.0,False,August,Santorini
+Residence by Georgia Studios,"Fira, Fira, 84700, Greece",3.0,2944.0,8.7,29 ,False,False,False,True,True,False,120.0,False,August,Santorini
+Santorini Dreams Villas,"Ag.Theodosia 1 Pyrgos Kalistis, Pyrgos, 84700, Greece",4.0,1968.6046511627908,8.8,26 ,True,False,True,True,False,False,49.0,True,August,Santorini
+Studios Apartments Kapetanios,"Perissa Perivolos, Perissa, 84700, Greece",3.0,1037.1571072319202,8.4, 345 ,True,True,True,True,True,False,40.0,True,August,Santorini
+Domus Hestia Suites,"Eparchiaki Odos Pirgou Kallistis - Profiti Ilia, Pyrgos, 84700, Greece",4.0,1305.0,9.9,24 ,True,False,True,False,False,False,40.0,False,August,Santorini
+Day One Fira Mansion,"Katonos Asimi, Fira, 84700, Greece",3.0,1082.7067669172932,8.2, 70 ,False,False,False,True,False,False,25.0,True,August,Santorini
+Oldtown Suites Fira,"Επισκοπή Γωνιάς, Fira, 84700, Greece",3.0,1937.9464285714284,8.3, 26 ,True,False,False,True,False,False,30.0,True,August,Santorini
+Ananda Suites,"Imerovigli Santorini Greece, Imerovigli, 84700, Greece",4.0,2635.2291043057794,8.4, 22 ,True,False,False,True,False,False,45.0,False,August,Santorini
+ALSAKI SUITE by K&K,"Oia, Thira, Greece, Oia, 84702, Greece",3.0,1282.748578137627,8.2, 60 ,True,False,False,False,False,False,25.0,True,August,Santorini
+Bluewhite Villa Santorini,"Eparchiaki Odos Pirgou Kallistis - Profiti Ilia 10, Pyrgos, 84700, Greece",,5413.084112149532,9.0,64 ,True,True,True,True,False,False,189.0,False,August,Santorini
+Sensia Luxury Studio,"Eparchiaki Odos Firon-Ias, Oia, 84702, Greece",3.0,1355.8139534883721,9.5,27 ,True,False,True,True,True,False,19.0,False,August,Santorini
+Yposkafon Concept Villa,"MEGALOCHORI SANTORINI, Megalochori, 84700, Greece",,1821.4953271028037,10,1 ,False,False,False,False,False,False,99.0,False,August,Santorini
+Folia Bianca Apartments,"Imerovigli, Imerovigli, 84700, Greece",,1567.289719626168,9.1,14 ,True,False,False,True,True,False,40.0,False,August,Santorini
+Serendipity Cliffside Villa & Suites,"Imerovigli, Imerovigli, 84700, Greece",,3383.1775700934577,9.8,12 ,True,False,True,False,False,False,35.0,False,August,Santorini
+Mylopetres Traditional Houses Finikia,"Οια, Oia, 84702, Greece",3.0,1074.624060150376,8.4, 47 ,False,False,False,True,False,False,37.0,False,August,Santorini
+The Vine Suites,"Βουρβούλος, Vourvoulos, 84700, Greece",,1190.6542056074766,,,True,False,False,True,True,False,35.0,False,August,Santorini
+Sensyo Traditional Caves,"Firostefani, Firostefani, 84700, Greece",,2069.158878504673,9.5,14 ,False,False,False,True,True,False,19.0,False,August,Santorini
+Sensia Luxury Apartment,"Eparchiaki Odos Firon-Ias, Oia, 84702, Greece",4.0,2252.777777777778,9.8,36 ,True,False,True,True,False,False,20.0,False,August,Santorini
+Stardust Suites,"Kamari, Kamari, 84700, Greece",,1553.271028037383,9.6,57 ,True,False,False,False,False,False,65.0,False,August,Santorini
+Kamari holiday renovated villa,"Βασιλέως Φιλίππου, Kamari, 84700, Greece",,3508.4112149532707,,,True,True,True,True,True,False,379.0,True,August,Santorini
+Almira Luxury Suites,"Περίβολος Εξωμύτης, Perivolos, 84703, Greece",4.0,1088.0,10,2 ,True,False,False,True,True,False,47.0,False,August,Santorini
+"Legacy Private Villa ,Oia","Finikia, Oia, 84702, Greece",,1534.8837209302326,8.7,7 ,True,False,False,True,True,False,40.0,False,August,Santorini
+M Residence Santorini Conelia Cave,"Fira, Fira, 84700, Greece",,1019.626168224299,9.7,34 ,True,False,False,False,False,False,49.0,False,August,Santorini
+Spiridoula Villa - Santorini Summer Retreats,"Perissa, Perissa, 84703, Greece",3.0,1070.0,8.8,153 ,True,False,True,True,True,False,30.0,False,August,Santorini
+Gervi Suites,"Αγίου Αθανασίου, Fira, 84700, Greece",3.0,1461.8055555555557,10,5 ,False,False,False,True,True,False,50.0,False,August,Santorini
+Marousi Suites,"Perissa, Perissa, 84700, Greece",3.0,1126.388888888889,8.5, 149 ,False,True,False,False,False,False,28.0,True,August,Santorini
+Dagris Villa Studios,"Kamari, Kamari, 84700, Greece",,0.0,9.1,106 ,True,False,False,True,True,False,,True,August,Santorini
+Kastro Mansion,"ΔΑΣΚΑΛΟΥ ΚΟΝΤΑΡΑΤΟΥ, Pyrgos, 84700, Greece",4.0,1918.5267857142856,9.4,47 ,True,False,True,True,True,False,65.0,False,August,Santorini
+Kallisti Sunset,"Oia, Santorini 84702, Oia, 84702, Greece",4.0,10732.966739985337,10,1 ,False,False,True,False,False,False,85.0,True,August,Santorini
+24K Caldera Suites,"caldera, Fira, 84700, Greece",3.0,1976.7441860465117,10,6 ,False,False,False,False,False,False,22.0,False,August,Santorini
+Residence by Georgia Studios,"Fira, Fira, 84700, Greece",,3207.4766355140187,8.7,29 ,False,False,False,True,True,False,120.0,False,August,Santorini
+Domus Hestia Suites,"Eparchiaki Odos Pirgou Kallistis - Profiti Ilia, Pyrgos, 84700, Greece",,1308.411214953271,9.9,24 ,True,False,True,False,False,False,40.0,False,August,Santorini
+Day One Fira Mansion,"Katonos Asimi, Fira, 84700, Greece",3.0,1082.1719457013573,8.2, 70 ,False,False,False,True,False,False,25.0,True,August,Santorini
+Oldtown Suites Fira,"Επισκοπή Γωνιάς, Fira, 84700, Greece",3.0,1929.468325791855,8.3, 26 ,True,False,False,True,False,False,30.0,True,August,Santorini
+Ananda Suites,"Imerovigli Santorini Greece, Imerovigli, 84700, Greece",,2630.841121495327,8.4, 22 ,True,False,False,True,False,False,44.0,False,August,Santorini
+ALSAKI SUITE by K&K,"Oia, Thira, Greece, Oia, 84702, Greece",3.0,1283.0,8.2, 60 ,True,False,False,False,False,False,25.0,True,August,Santorini
+Bluewhite Villa Santorini,"Eparchiaki Odos Pirgou Kallistis - Profiti Ilia 10, Pyrgos, 84700, Greece",4.0,9035.056412618005,9.0,64 ,True,True,True,True,False,False,190.0,False,August,Santorini
+Sensia Luxury Studio,"Eparchiaki Odos Firon-Ias, Oia, 84702, Greece",,1478.504672897196,9.5,27 ,True,False,True,True,True,False,19.0,False,August,Santorini
+Yposkafon Concept Villa,"MEGALOCHORI SANTORINI, Megalochori, 84700, Greece",,1817.0,10,1 ,False,False,False,False,False,False,100.0,False,August,Santorini
+Folia Bianca Apartments,"Imerovigli, Imerovigli, 84700, Greece",,1703.7383177570093,9.1,14 ,True,False,False,True,True,False,40.0,False,August,Santorini
+Serendipity Cliffside Villa & Suites,"Imerovigli, Imerovigli, 84700, Greece",4.0,3369.6527361194426,9.8,12 ,True,False,True,False,False,False,35.0,False,August,Santorini
+Mylopetres Traditional Houses Finikia,"Οια, Oia, 84702, Greece",3.0,988.7218045112782,8.4, 47 ,False,False,False,True,False,False,37.0,False,August,Santorini
+The Vine Suites,"Βουρβούλος, Vourvoulos, 84700, Greece",,1047.6635514018692,,,True,False,False,True,True,False,35.0,False,August,Santorini
+LUX & EASY Caldera Santorini Suites,"CALDERA FIRA, Fira, 84700, Greece",,0.0,,,False,False,True,True,False,False,,False,August,Santorini
+Sweet Nectar Villa with Hot Tub,"Thira, Pyrgos, 84701, Greece",4.0,1450.0,9.6,11 ,True,False,False,True,True,False,65.0,False,August,Santorini
+Studio in Old Port of Fira Sea view Santorini,"Old Port, Fira, 84700, Greece",3.0,1906.0267857142856,,,False,False,False,False,False,False,25.0,True,August,Santorini
+Angel Cave Houses,"Main Street, Oia, 84702, Greece",4.0,1737.0,8.6,365 ,True,False,False,True,False,False,35.0,False,August,Santorini
+Santo Margarita,"Tholos, Oia, 84702, Greece",3.0,872.0,8.7,171 ,True,True,True,True,True,True,25.0,True,August,Santorini
+Altemar Suites,"Fira, Fira, 84700, Greece",4.0,1393.178733031674,9.0,449 ,True,True,False,True,True,False,30.0,False,August,Santorini
+Fira capital rooms,"fira, Fira, 84700, Greece",3.0,1134.8837209302326,8.7,157 ,False,False,False,False,False,False,14.0,False,August,Santorini
+Ocean Bay Suites,"Main Coast Street, Kamari, 84700, Greece",3.0,1253.0,9.5,148 ,True,False,False,False,True,False,20.0,False,August,Santorini
+Santorini Blue Dome Rooms,"perissa, Perissa, 84703, Greece",,1107.3660714285713,10,12 ,False,False,False,False,True,False,,True,August,Santorini
+Sunray Lodgings,"Kamari, Kamari, 84700, Greece",,1052.3364485981308,9.3,99 ,True,False,False,True,True,False,24.0,False,August,Santorini
+"Jacuzzi Villa, Vista Mare, The Luna Suite","Emporio Santorini, Emporio Santorini, 84703, Greece",3.0,1589.0,6.8,18 ,False,False,False,True,False,False,70.0,False,August,Santorini
+Solaris Apartments,"Fira, Solaris, Fira, 84700, Greece",3.0,1100.0,8.0, 173 ,True,True,False,True,True,False,20.0,False,August,Santorini
+fira my cozy rooms,"fira, Fira, 84700, Greece",2.0,1035.0,7.1,91 ,True,False,False,True,False,False,16.0,False,August,Santorini
+perissa magic rooms,"perissa, Perissa, 84703, Greece",,1111.8055555555557,10,1 ,False,False,False,False,True,False,,True,August,Santorini
+Santorinian Fira Spirit,"Fira, Fira, 84700, Greece",,2155.561468866418,,,False,False,False,True,False,False,40.0,False,August,Santorini
+Mareva's House,"Πύργος Σαντορίνη, Pyrgos, 84700, Greece",3.0,902.0089285714284,9.6,18 ,False,False,True,False,False,False,48.0,False,August,Santorini
+Voreina Gallery Suites,"Pirgos Thiras, Pyrgos, 84701, Greece",4.0,2508.2589285714284,9.7,223 ,True,True,True,True,True,False,67.0,True,August,Santorini
+Pleiades Eco Houses,"Vothonas, Vóthon, 84700, Greece",4.0,2804.166666666667,9.6,98 ,True,True,True,True,True,True,86.0,True,August,Santorini
+Nimbus Santorini,"Oia, Oia, 84702, Greece",,2864.485981308411,9.1,275 ,True,False,False,False,True,True,28.0,False,August,Santorini
+Symphony Suites Santorini,"Thira, Pyrgos, 84700, Greece",4.0,26.594012462747223,9.3,396 ,True,False,False,True,True,False,25.0,False,August,Santorini
+Anemomilos,"Oia, Oia, 84702, Greece",4.0,1843.0,8.8,"1,423 ",True,True,True,True,True,True,22.0,False,August,Santorini
+Afora Houses,"1 Vothonas Santorini, Vóthon, 84700, Greece",4.0,1151.968685240617,9.4,62 ,True,False,False,False,True,False,38.0,False,August,Santorini
+Brilliance Suites,"Eparchiaki Odos Firon-Ias, Imerovigli, 84700, Greece",4.0,2243.0,9.6,166 ,True,False,False,False,True,False,25.0,False,August,Santorini
+Lemon Suites Santorini,"Fira Santorini, Fira, 84700, Greece",,1453.271028037383,9.5,394 ,True,False,False,False,True,False,26.0,False,August,Santorini
+Victoria Caves,"Vothonas, Vóthon, 84700, Greece",,1702.8037383177568,9.3,12 ,True,False,True,True,True,False,30.0,False,August,Santorini
+The Vine Suites,"Βουρβούλος, Vourvoulos, 84700, Greece",3.0,964.0,,,True,False,False,True,True,False,35.0,False,August,Santorini
+Sensyo Traditional Caves,"Firostefani, Firostefani, 84700, Greece",3.0,1904.910714285714,9.5,14 ,False,False,False,True,True,False,20.0,False,August,Santorini
+Sensia Luxury Apartment,"Eparchiaki Odos Firon-Ias, Oia, 84702, Greece",4.0,2068.6046511627906,9.8,36 ,True,False,True,True,False,False,19.0,False,August,Santorini
+Saint Apostles Villas,"Exo Katoikies, Fira, 84700, Greece",,6014.018691588784,9.9,22 ,True,True,False,True,True,False,150.0,False,August,Santorini
+Moonlight Apartments,"Fira, Fira, 847 00, Greece",3.0,894.1860465116279,9.3,161 ,True,True,True,True,True,False,54.0,False,August,Santorini
+Volcave Suites Akrotiri,"Akrotiri, Akrotiri, 84700, Greece",3.0,1297.0,,,False,False,False,True,False,False,30.0,False,August,Santorini
+Le grand blue,"Akrotiri, Akrotiri, 84700, Greece",,0.0,10,7 ,True,True,False,True,True,False,,False,August,Santorini
+Lava Oia's,"Ag. Giorgis, Oia, 84700, Greece",4.0,2436.164189667374,9.7,11 ,True,False,False,True,True,False,28.0,True,August,Santorini
+LUX & EASY Caldera Santorini Suites,"CALDERA FIRA, Fira, 84700, Greece",4.0,4140.0,,,False,False,True,True,False,False,28.0,False,August,Santorini
+Sweet Nectar Villa with Hot Tub,"Thira, Pyrgos, 84701, Greece",,1453.271028037383,9.6,11 ,True,False,False,True,True,False,65.0,False,August,Santorini
+M Residence Santorini Conelia Cave,"Fira, Fira, 84700, Greece",3.0,1024.0701823420948,9.7,34 ,True,False,False,False,False,False,50.0,False,August,Santorini
+Studio in Old Port of Fira Sea view Santorini,"Old Port, Fira, 84700, Greece",,1904.6728971962616,,,False,False,False,False,False,False,24.0,True,August,Santorini
+Angel Cave Houses,"Main Street, Oia, 84702, Greece",4.0,1736.8055555555557,8.6,365 ,True,False,False,True,False,False,35.0,False,August,Santorini
+Voreina Gallery Suites,"Pirgos Thiras, Pyrgos, 84701, Greece",,2255.1401869158876,9.7,223 ,True,True,True,True,True,False,66.0,True,August,Santorini
+Pleiades Eco Houses,"Vothonas, Vóthon, 84700, Greece",4.0,2810.902601888096,9.6,98 ,True,True,True,True,True,True,86.0,True,August,Santorini
+Nimbus Santorini,"Oia, Oia, 84702, Greece",,2864.485981308411,9.1,275 ,True,False,False,False,True,True,28.0,False,August,Santorini
+AVAL All Suite Hotel,"Μεσαριά, Mesaria, 84700, Greece",4.0,1738.888888888889,9.7,107 ,True,True,True,True,True,False,37.0,False,August,Santorini
+Caldera Premium Villas,"Main Street, Oia, 84702, Greece",,2567.289719626168,8.8,698 ,True,True,False,False,False,False,24.0,False,August,Santorini
+Aplada Suites,"Oia, Oia, 84702, Greece",4.0,2322.522624434389,9.4,361 ,True,False,True,False,False,False,35.0,False,August,Santorini
+Margarenia,"Perissa, Perissa, 84700, Greece",4.0,897.3839662447258,9.8,573 ,True,True,True,True,True,False,33.0,False,August,Santorini
+Sea Sound White Katikies,"Agios Georgios, Perivolos, 84703, Greece",4.0,1099.0,8.9,266 ,True,True,True,False,True,False,45.0,False,August,Santorini
+Karat Suites,"Βόθωνας 1, Vóthon, 84700, Greece",4.0,2280.5555555555557,9.4,196 ,True,False,False,True,True,False,45.0,False,August,Santorini
+Ifestia Hotel,"Kamari, Kamari, 84700, Greece",3.0,901.1627906976744,8.0, 232 ,True,True,True,False,False,False,19.0,False,August,Santorini
+Acropole Sunrise,"Kamari, Kamari, 84700, Greece",,1037.3831775700935,9.5,452 ,True,False,True,False,True,False,14.0,False,August,Santorini
+Honeymoon Beach Studios,"Main Street, Perivolos, 84703, Greece",3.0,1013.1944444444445,8.4, 280 ,True,True,True,True,True,False,30.0,True,August,Santorini
+Aplada Suites,"Oia, Oia, 84702, Greece",4.0,561270.0934579439,9.4,361 ,True,False,True,False,False,False,35.0,False,August,Santorini
+Exi Castle Suites,"Emporio Emporio, Emporio Santorini, 84703, Greece",3.0,1530.0,9.1,117 ,False,False,False,False,False,False,35.0,False,August,Santorini
+Altana Cliffside Villas,"Caldera,Imerovigli, Imerovigli, 84700, Greece",4.0,3523.382352941176,9.6,75 ,False,False,True,True,True,False,55.0,False,August,Santorini
+Margarenia,"Perissa, Perissa, 84700, Greece",4.0,1051.025641025641,9.8,573 ,True,True,True,True,True,False,33.0,False,August,Santorini
+For All Seasons Mansion,"Vothonas, Vóthon, 84700, Greece",4.0,1403.0,8.8,61 ,True,False,False,True,False,False,80.0,False,August,Santorini
+Sea Sound White Katikies,"Agios Georgios, Perivolos, 84703, Greece",4.0,1099.0,8.9,266 ,True,True,True,False,True,False,45.0,False,August,Santorini
+Karat Suites,"Βόθωνας 1, Vóthon, 84700, Greece",4.0,2270.277078085642,9.4,196 ,True,False,False,True,True,False,45.0,False,August,Santorini
+Ifestia Hotel,"Kamari, Kamari, 84700, Greece",3.0,898.8235294117646,8.0, 232 ,True,True,True,False,False,False,20.0,False,August,Santorini
+Acropole Sunrise,"Kamari, Kamari, 84700, Greece",3.0,1036.4197530864196,9.5,452 ,True,False,True,False,True,False,15.0,False,August,Santorini
+Aeon Suites - Adults Only,"1 Pyrgos, Pyrgos, 84700, Greece",,2016.8224299065419,9.6,295 ,True,True,True,False,False,True,35.0,False,August,Santorini
+Aroma Azalea studios & apartments,"ΚΑΜΑΡΙ ΣΑΝΤΟΡΙΝΗ, Kamari, 84700, Greece",3.0,939.0,8.9,80 ,True,False,False,True,False,False,40.0,False,August,Santorini
+Honeymoon Beach Studios,"Main Street, Perivolos, 84703, Greece",,1067.289719626168,8.4, 280 ,True,True,True,True,True,False,30.0,True,August,Santorini
+Atoles Retreat,"IMEROVIGLI, Imerovigli, 84700, Greece",4.0,3793.0,9.9,68 ,True,False,False,True,False,False,42.0,False,August,Santorini
+Symphony Suites Santorini,"Thira, Pyrgos, 84700, Greece",,2600.0,9.3,396 ,True,False,False,True,True,False,24.0,False,August,Santorini
+Maria's Place - Adults Only,"Oia - Finikia Road, Oia, 84702, Greece",4.0,12.561500948252506,9.3,340 ,True,True,True,False,True,False,30.0,False,August,Santorini
+Amaya Selection of Villas,"Oia, Oia, 84701, Greece",4.0,3632.0,9.2,316 ,True,False,True,True,True,False,50.0,True,August,Santorini
+May Seven Suites - Adults Only,"Eparchiaki Odos Firon-Ormou Perissis, Megalochori, 84703, Greece",,1781.3084112149531,8.8,214 ,True,True,False,False,True,False,27.0,False,August,Santorini
+Anemomilos,"Oia, Oia, 84702, Greece",,2004.6728971962616,8.8,"1,423 ",True,True,True,True,True,True,22.0,False,August,Santorini
+Nano Oia Villas,"Οία, Oia, 84702, Greece",,5598.130841121495,9.3,81 ,True,False,True,True,False,False,49.0,False,August,Santorini
+Virginia's Cave Villas,"Oia, Oia, 84702, Greece",4.0,2734325.23364486,9.4,271 ,True,False,False,False,False,False,60.0,False,August,Santorini
+Alexander's Suites,"Main Street, Oia, 84702, Greece",3.0,2648.0,8.0, 413 ,True,True,True,True,False,True,70.0,False,August,Santorini
+Sando Traditional Cave Villas with Jacuzzi and Sea view,"Βουρβούλος, Vourvoulos, 84700, Greece",4.0,2151.0,9.5,22 ,True,True,True,True,True,False,50.0,True,August,Santorini
+1812 Caves 'n Mansion,"Θέση Βουνίτσος Καρτεράδος Θήρας Ισόγειο, Karterados, 84700, Greece",,1070.0934579439252,9.8,198 ,True,False,True,True,False,False,44.0,True,August,Santorini
+Agave Santorini Design Boutique Hotel,"Imerovigli, Imerovigli, 84700, Greece",3.0,1236.654135338346,8.8,365 ,True,False,False,True,False,False,18.0,True,August,Santorini
+Afora Houses,"1 Vothonas Santorini, Vóthon, 84700, Greece",,1150.467289719626,9.4,62 ,True,False,False,False,True,False,37.0,False,August,Santorini
+Alexander's Suites,"Main Street, Oia, 84702, Greece",,2883.1775700934577,8.0, 413 ,True,True,True,True,False,True,69.0,False,August,Santorini
+Afora Houses,"1 Vothonas Santorini, Vóthon, 84700, Greece",4.0,1149.3055555555557,9.4,62 ,True,False,False,False,True,False,38.0,False,August,Santorini
+Andronis Arcadia Hotel,"Oia, Oia, 84700, Greece",5.0,5083.337104072398,9.2,134 ,True,True,False,True,True,True,42.0,True,August,Santorini
+myLithos Suites,"Μονόλιθος, Monolithos, 84700, Greece",,2371.96261682243,9.6,73 ,True,True,True,True,True,False,24.0,False,August,Santorini
+Villa Dima,"Perissa Beach, Perissa, 84703, Greece",,721.4953271028037,8.5, 374 ,True,False,True,True,True,False,15.0,True,August,Santorini
+Brilliance Suites,"Eparchiaki Odos Firon-Ias, Imerovigli, 84700, Greece",4.0,2243.0,9.6,166 ,True,False,False,False,True,False,25.0,False,August,Santorini
+Allure Suites,"Firostefani, Firostefani, 84700, Greece",4.0,2852.861990950226,9.7,131 ,True,False,False,True,True,False,60.0,True,August,Santorini
+Lemon Suites Santorini,"Fira Santorini, Fira, 84700, Greece",,1453.271028037383,9.5,394 ,True,False,False,False,True,False,26.0,False,August,Santorini
+Avista Suites,"Imerovigli, Imerovigli, 84700, Greece",4.0,4833.0,9.9,84 ,True,True,False,True,True,False,120.0,False,August,Santorini
+"Captain John Villas-Caldera,Volcano,Sunset View","Oia, Oia, 84700, Greece",3.0,1762.5,8.9,167 ,True,False,True,True,True,False,40.0,False,August,Santorini
+Krokos Villas,"Main Street, Imerovigli, 84700, Greece",,1822.429906542056,8.8,95 ,False,False,True,False,True,False,22.0,False,August,Santorini
+Abelonas Village,"Megalochori, Megalochori, 84700, Greece",,751.4018691588784,9.1,390 ,True,True,False,False,True,False,18.0,False,August,Santorini
+Maison Dalidaz,"Vothonas, Vóthon, 84700, Greece",3.0,1755554.1137602993,9.4,5 ,True,True,False,True,False,False,72.0,True,August,Santorini
+Victoria Caves,"Vothonas, Vóthon, 84700, Greece",3.0,1696.074660633484,9.3,12 ,True,False,True,True,True,False,30.0,False,August,Santorini
+Kaleidoscope Imerovigli Suites,"Ημεροβίγλι, Imerovigli, 84700, Greece",4.0,2866.0,9.2,15 ,True,False,True,True,False,False,70.0,False,August,Santorini
+Abelonas Retreat,"Imerovigli, Imerovigli, 84700, Greece",,1962.6168224299065,9.1,434 ,True,True,True,False,True,False,15.0,False,August,Santorini
+Villa Clio,"Beach, Perissa, 84703, Greece",3.0,678.0,9.0,418 ,True,True,True,True,True,False,18.0,False,August,Santorini
+Villa Galinia,"Akrotírion, Akrotiri, 84700, Greece",,1262.6168224299065,9.1,459 ,True,True,True,True,True,True,24.0,False,August,Santorini
+Canvas Suites,"Oia, Oia, 84702, Greece",4.0,3190.0,9.4,539 ,True,False,True,True,True,True,19.0,False,August,Santorini
+Ambeli Sunset Villas,"Eparchiaki Odos Akrotiriou, Megalochori, 84700, Greece",4.0,2226.397019691325,9.6,117 ,True,True,True,True,True,False,80.0,False,August,Santorini
+Villa Fotini,"Firostefani, Firostefani, 84700, Greece",,952.3364485981308,9.1,384 ,True,False,False,False,False,False,19.0,False,August,Santorini
+Stelios Place,"Main Street PO Box P72, Perissa, 84703, Greece",,882.2429906542055,9.4,424 ,True,True,False,True,True,False,24.0,False,August,Santorini
+Elements Suites,"Megalochori, Megalochori, 84700, Greece",4.0,1288.0,9.2,17 ,False,False,True,True,True,False,50.0,True,August,Santorini
+Villa Eleftheria,"- -, Perivolos, 84703, Greece",,904.6728971962616,9.1,309 ,True,True,True,True,True,False,24.0,False,August,Santorini
+Elixir Del Mar on the Beach,"Main Street, Kamari, 84700, Greece",4.0,1222.0,9.1,180 ,False,True,False,False,False,True,18.0,False,August,Santorini
+Kastro Oia Houses,"Oia, Oia, 84702, Greece",,2400.0,9.1,271 ,True,False,False,False,True,True,60.0,False,August,Santorini
+Makris Beach Hotel,"Kamari, Kamari, 84700, Greece",,998.1308411214952,9.0,719 ,True,False,True,True,False,True,19.0,False,August,Santorini
+Marcos Rooms,"Oia, Oia, 84700, Greece",3.0,901.8691588785047,7.2,713 ,True,False,False,False,True,False,15.0,False,August,Santorini
+Studios Apartments Kapetanios,"Perissa Perivolos, Perissa, 84700, Greece",,769.1588785046729,8.4, 345 ,True,True,True,True,True,False,19.0,True,August,Santorini
+Elia Cave Suites,"Imerovigli, Imerovigli, 84700, Greece",,3616.822429906542,8.9,82 ,True,False,False,False,False,False,28.0,False,August,Santorini
+Aigli Villa,"25 Martiou, Fira, 84700, Greece",3.0,892.3303229337712,9.2,213 ,True,False,False,True,False,False,20.0,False,August,Santorini
+Cal Day Rooms Santorini,"Perissa Santorini, Perissa, 84700, Greece",3.0,946.5277777777778,9.4,132 ,True,False,False,False,True,False,23.0,False,August,Santorini
+Caldera Premium Villas,"Main Street, Oia, 84702, Greece",,2567.289719626168,8.8,698 ,True,True,False,False,False,False,24.0,False,August,Santorini
+Symphony Residence,"Βόθωνας, Vóthon, 84700, Greece",4.0,2303.6596523330286,9.9,9 ,True,False,False,True,True,False,110.0,False,August,Santorini
+Aura Marina Apartments Santorini,"Akrotírion Thira, Akrotiri, 84700, Greece",4.0,2259.7398190045246,8.7,178 ,True,True,False,True,True,False,56.0,True,August,Santorini
+Stavros Villas,"Main Street, Karterados, 84700, Greece",,1027.1028037383178,8.4, 339 ,True,True,False,True,True,False,40.0,False,August,Santorini
+Atrium Villa,"Fira, Fira, 84700, Greece",4.0,943.2859578549165,9.9,161 ,True,False,False,True,True,False,35.0,False,August,Santorini
+Ilioperato Hotel,"Main Street, Imerovigli, 84700, Greece",4.0,1819.2194570135746,8.9,236 ,True,True,True,True,True,False,30.0,False,August,Santorini
+Gianna Suites,"Main Street, Fira, 84700, Greece",3.0,1213.4049773755655,8.4, 810 ,True,True,True,True,False,False,18.0,False,August,Santorini
+Mary Rooms,"Perivolos, Perivolos, 84703, Greece",,1052.3364485981308,8.8,200 ,True,True,False,True,True,False,27.0,False,August,Santorini
+Thousand Stars Suites&Rooms,"Kamari, Santorini, Greece, Kamari, 84700, Greece",,1183.177570093458,9.1,178 ,True,True,False,True,False,False,19.0,False,August,Santorini
+Blue White Residence,"Μονιλιθος, Monolithos, 84700, Greece",4.0,2468.75,8.6,47 ,True,False,False,False,True,False,150.0,False,August,Santorini
+Dreams Luxury Suites,"Imerovigli, Imerovigli, 84700, Greece",,5863.551401869158,9.7,124 ,True,False,True,True,False,False,69.0,False,August,Santorini
+Blessed Blue Boutique Cave Suite,"Monastiri, Oia, 84702, Greece",4.0,3427.0,10,42 ,True,False,True,True,False,False,40.0,False,August,Santorini
+Reverie Santorini Hotel,"Main Street, Firostefani, 84700, Greece",4.0,1251.388888888889,9.5,201 ,True,True,False,True,True,False,22.0,False,August,Santorini
+Gemini Caves,"Foinikia, Oia, 84702, Greece",,1878.504672897196,9.6,102 ,True,False,False,False,False,False,30.0,False,August,Santorini
+Sunrise Villa Santorini,"Vourvoulo, Vourvoulos, 84700, Greece",3.0,1325.0,9.4,7 ,True,False,False,True,True,False,80.0,False,August,Santorini
+Secret Gem Suites,"Amoudi, Oia, 84702, Greece",3.0,2456.602012930747,8.9,260 ,False,False,False,True,True,False,25.0,False,August,Santorini
+Aplada Suites,"Oia, Oia, 84702, Greece",4.0,2323.872180451128,9.4,361 ,True,False,True,False,False,False,35.0,False,August,Santorini
+Oia Kissiri - private pool villas,"Οια, Oia, 84702, Greece",4.0,1520.0,9.9,112 ,True,False,True,False,True,False,50.0,False,August,Santorini
+Ikia Kriton,"Fira-Oia Pathway, Imerovigli, 84700, Greece",4.0,2246.4373791908283,9.6,69 ,True,False,False,False,False,False,62.0,False,August,Santorini
+Tristhenia,"Perissa - Emporio Main Road , Perissa, 84703, Greece",3.0,993.515875116432,8.7,216 ,True,True,True,True,True,False,25.0,False,August,Santorini
+La Estrella 4 Suites with Sea View & 4 Prive Hot Tub,"Santorini, Vourvoulos, Vourvoulos, 84700, Greece",3.0,1757.364253393665,9.0,13 ,False,False,False,False,True,False,36.0,False,August,Santorini
+"Jacuzzi Villa, Vista Mare, The Luna Suite","Emporio Santorini, Emporio Santorini, 84703, Greece",3.0,1593.5267857142856,6.8,18 ,False,False,False,True,False,False,70.0,False,August,Santorini
+Villa Ariadni Cave Houses in Oia,"Oia, Oia, 84701, Greece",,2132.7102803738317,9.1,141 ,True,False,False,True,True,False,,True,August,Santorini
+Marousi Rooms,"Perissa, Perissa, 84700, Greece",3.0,1403.0,8.6,347 ,True,False,False,False,True,False,50.0,False,August,Santorini
+Caldera's Memories,"29, Ionos Dragoumi Str., Imerovigli, 84700, Greece",4.0,3921.527777777778,9.7,64 ,True,True,False,False,True,False,30.0,False,August,Santorini
+WeSense Santorini,"Imerovigli, Imerovigli, 84700, Greece",4.0,2807.0,10,1 ,False,False,False,False,True,False,50.0,False,August,Santorini
+Pink Freud Villas Santorini,"Foinikia, Santorini, Oia, 84702, Greece",4.0,1842.361111111111,9.5,21 ,False,False,False,True,True,False,55.0,False,August,Santorini
+Madame Kalitsi Cozy Suites,"Vothonas, Fira, 84700, Greece",3.0,1562.349610757254,9.3,185 ,True,True,True,False,False,False,50.0,True,August,Santorini
+Alloro Perissa,"Perissa, Santorini, Perissa, 84703, Greece",3.0,1058.0,10,1 ,False,True,False,True,True,False,32.0,False,August,Santorini
+Majestic Sky Luxury Suites,"Μεγαλοχώρι Σαντορίνης, Megalochori, 84700, Greece",,1659.8130841121495,9.5,113 ,True,False,True,False,True,False,49.0,False,August,Santorini
+IoTa Monocave by Thireon,"Nikolaou Nomikou, Oia, 84702, Greece",,2704.6728971962616,9.2,5 ,True,False,False,False,False,False,54.0,False,August,Santorini
+Aegean Melody Suites,"Vlichada, Vlychada, 84700, Greece",,2866.355140186916,9.9,132 ,True,False,False,True,True,False,47.0,False,August,Santorini
+Villa Libertad,"Imerovigli, Imerovigli, 84700, Greece",4.0,279770.09345794393,8.8,146 ,True,True,False,True,True,False,30.0,False,August,Santorini
+Episkopi Estate Cycladic Villas,"Exp gonia, Éxo Goniá, 84700, Greece",,1353.271028037383,8.1, 62 ,True,False,True,False,False,False,49.0,False,August,Santorini
+Santoriviera house,"Μητροπόλεως, Fira, 84700, Greece",,3031.775700934579,8.6,33 ,True,False,False,True,False,False,98.0,False,August,Santorini
+Joy Beach Ηotel,"Perivolos, Perivolos, 84703, Greece",3.0,1124.2760180995474,8.6,175 ,True,True,False,True,True,False,38.0,True,August,Santorini
+Sophia Castle View,"Oia Castle, Oia, 84702, Greece",4.0,3592.6024481106974,9.3,58 ,True,False,False,False,False,False,39.0,False,August,Santorini
+Native Eco Villas,"Imerovigli Caldera Rim, Imerovigli, 84700, Greece",4.0,3235.757918552036,9.9,55 ,True,False,True,True,False,False,65.0,True,August,Santorini
+Sensia Caldera 360 Sea View,"Oia, Oia, 84702, Greece",4.0,1798.6842105263156,9.9,14 ,True,False,True,True,True,False,70.0,False,August,Santorini
+De Profundis by Thireon,"oia po box 114, Oia, 84702, Greece",,4094.392523364486,9.5,24 ,True,False,False,True,False,False,54.0,False,August,Santorini
+Meli Meli,"Thiras - Oias Road, Imerovigli, 84700, Greece",,1137.3831775700935,9.2,120 ,True,True,False,False,True,False,24.0,False,August,Santorini
+Sagma Beach Rooms,"Perissa Beach, Perissa, 84700, Greece",3.0,1074.3055555555557,7.8,276 ,True,False,True,True,True,False,22.0,False,August,Santorini

@@ -1,0 +1,736 @@
+name,location,stars,amount_conv,Rating,NumReviews,Airport,Pool,Breakfast,Family_Rooms,Parking,Restaurant,size_m2,Pets,Month,Location
+Hotel Lefkas,"Filippa Panagou 2, Lefkada, 31100, Greece",3.0,326.0,9.0,71 ,False,False,True,True,False,True,15.0,False,June,Lefkada
+Villa Elenia,"Tsoukalades, Tsoukalades, 31100, Greece",3.0,800.0,9.4,85 ,False,True,True,True,True,False,45.0,False,June,Lefkada
+George House,"Kariotes, Lygia, 31080, Greece",,168.22429906542055,8.5, 138 ,True,False,False,True,True,False,23.0,True,June,Lefkada
+Pansion Filoxenia Apartments & Studios,"Tsoukalades, Tsoukalades, 31100, Greece",,260.74766355140184,8.6,369 ,False,False,False,True,True,False,17.0,False,June,Lefkada
+Lefkas Petra,"Agios Nikitas, Agios Nikitas, 31080, Greece",3.0,380.0,8.9,344 ,False,True,True,False,True,False,18.0,False,June,Lefkada
+Akroyiali Resort,"Vasiliki, Vasiliki, 31082, Greece",2.0,468.0908162176173,8.2, 250 ,False,False,True,True,True,False,,False,June,Lefkada
+Florena Hotel,"Episkopos, Nikiana, 31100, Greece",,281.30841121495325,9.2,243 ,True,False,False,False,True,False,17.0,False,June,Lefkada
+Lefkadio Suites,"Karavela, Lefkada, 31100, Greece",4.0,650.0,8.9,492 ,True,False,True,True,True,False,37.0,False,June,Lefkada
+Spacious Studios Lefkada Mountain View Near Beach,"Eparchiaki Odos Komiliou - Akrotiriou Lefkatas, Dhráganon, 31082, Greece",3.0,270.1388888888889,9.2,18 ,False,False,False,True,True,False,35.0,True,June,Lefkada
+Niriides,"Karavela Perivolia Lefkados, Lefkada, 31100, Greece",3.0,379.3974538425648,9.5,293 ,False,False,False,True,False,False,35.0,True,June,Lefkada
+Hotel Tesoro,"Main Street, Nikiana, 31100, Greece",3.0,682.6502417683629,9.2,102 ,False,True,True,True,True,True,30.0,False,June,Lefkada
+San Lazzaro,"Nydri , Nydri, 31100, Greece",,453.27102803738313,9.1,276 ,True,False,False,True,True,False,27.0,True,June,Lefkada
+Sundance - Fabulous 4 Bedroom Private Villa,"Lefkada Sivota, Sivota, 31082, Greece",,1497.9166666666667,,,False,True,False,False,True,False,250.0,False,June,Lefkada
+Sea view apartments,"Λευκάδα Τσουκαλαδες, Tsoukalades, 31100, Greece",,666.3551401869158,9.5,44 ,False,True,False,True,True,False,40.0,True,June,Lefkada
+Santa Marina Hotel,"Agios Nikitas, Agios Nikitas, 31080, Greece",3.0,446.0,8.2, 484 ,False,True,False,False,True,True,25.0,False,June,Lefkada
+SECRET HILL,"Aπολλώνιοι, Athani, 31082, Greece",,679.0697674418604,9.0,169 ,False,True,True,False,True,True,30.0,True,June,Lefkada
+Smile Inn,"Eparchiaki Odos Lefkas - Vasilikis, Nydri, 31084, Greece",,320.5607476635514,8.6,226 ,True,False,False,False,False,False,24.0,False,June,Lefkada
+Veatriki Lefkada,"1η Πάροδος Αναπαύσεως, Lefkada, 31100, Greece",,259.4611662769406,,,False,False,False,True,True,False,,False,June,Lefkada
+13 Keys Suites,"Eparchiaki Odos Lefkas - Vasilikis 1, Nydri, 31082, Greece",3.0,341.45837499166834,9.6,102 ,False,True,False,True,False,False,20.0,False,June,Lefkada
+Red Tower Hotel,"Nikiana, Nikiana, 31100, Greece",4.0,430.87727377388904,8.1, 37 ,True,True,True,True,True,True,21.0,False,June,Lefkada
+Villa Diana,"Nikiana, Nikiana, 31100, Greece",3.0,233.72093023255815,9.2,32 ,False,False,False,True,True,False,36.0,False,June,Lefkada
+Green Villa,"13ο km. Epar. Odos Lefkas-Εxanthias, Agios Nikitas, 31100, Greece",3.0,340.0,9.3,107 ,False,True,False,True,True,False,26.0,True,June,Lefkada
+Ionio Sea Poros Studios,"Mikros Yalos Porou Lefkadas, Mikros Gialos, 31100, Greece",,180.37383177570092,9.0,51 ,False,False,False,True,True,False,19.0,False,June,Lefkada
+Mikros Gialos Apartments,"Mikros Gialos, Mikros Gialos, 31084, Greece",3.0,378.5714285714286,9.3,108 ,True,False,True,True,False,False,55.0,False,June,Lefkada
+Welcome In,"Mikros Gialos Lefkada, Mikros Gialos, 31082, Greece",3.0,337.3129173382454,8.6,67 ,True,True,False,True,True,False,18.0,True,June,Lefkada
+Casa Ovata,"Tsoukalades, Lefkada, Greece, Tsoukalades, 31100, Greece",3.0,436.8055555555556,9.6,34 ,False,False,False,False,True,False,30.0,False,June,Lefkada
+Pension Holidays,"Vasiliki, Vasiliki, 31082, Greece",3.0,265.58021728987535,9.3,241 ,False,False,False,True,True,False,15.0,False,June,Lefkada
+Bohèmian Boutique Hotel Lefkada,"Agias Paraskevis 10 lefkada, Lefkada, 31100, Greece",,816.0,9.6,192 ,False,False,False,False,False,False,25.0,False,June,Lefkada
+Irene Studios,"Επαρχιακή Οδός Λευκάδας - Βασιλικής, Nydri, 31100, Greece",,280.3738317757009,8.9,71 ,False,False,False,False,True,False,19.0,True,June,Lefkada
+Pansion Filoxenia Apartments & Studios,"Tsoukalades, Tsoukalades, 31100, Greece",3.0,260.0,8.6,369 ,False,False,False,True,True,False,17.0,False,June,Lefkada
+Ianos Hotel,"Marina Lefkadas, Lefkada, 31100, Greece",3.0,464.58333333333337,7.3,754 ,False,True,True,False,True,False,36.0,False,June,Lefkada
+The Garden's Studios,"Vlicho, Vlikhon, 31084, Greece",,160.74766355140187,8.9,70 ,False,False,False,False,True,False,14.0,True,June,Lefkada
+Eleana Boutique Hotel & Blue Infinity,"Main Street, Nikiana, 31100, Greece",,1323.3644859813082,9.4,133 ,False,True,True,True,True,False,150.0,False,June,Lefkada
+Pansion Laertes,"Tsoukaládhes, Tsoukalades, 31100, Greece",3.0,152.08333333333334,9.1,16 ,False,False,False,True,True,False,20.0,True,June,Lefkada
+Stone Suites at Lefkada's Old Port,"Petrou Filippa Papagou, Lefkada, 31100, Greece",3.0,560.0,9.0,82 ,True,False,False,False,False,False,40.0,False,June,Lefkada
+Lefkadio Suites,"Karavela, Lefkada, 31100, Greece",4.0,650.0,8.9,492 ,True,False,True,True,True,False,38.0,False,June,Lefkada
+Crystal Waters,"Nikiana, Nikiana, 31100, Greece",4.0,793.0555555555555,9.2,517 ,True,False,True,False,True,True,28.0,False,June,Lefkada
+Aristea Apartments,"Nikiana, Nikiana, 31100, Greece",,180.37383177570092,9.6,208 ,False,False,False,False,True,False,30.0,False,June,Lefkada
+Matina Studios,"Nikiana, Nikiana, 31100, Greece",3.0,160.62629518765831,9.2,159 ,False,False,False,False,True,False,16.0,False,June,Lefkada
+Aiolos Rooms,"Tsoukalades, Tsoukalades, 31100, Greece",,168.22429906542055,9.1,33 ,False,False,False,True,True,False,,False,June,Lefkada
+Christianna Studios,"Nikiana, Nikiana, 31100, Greece",3.0,237.0,9.4,54 ,False,False,False,True,True,False,30.0,False,June,Lefkada
+Sea Sound,"Ponti, Vasiliki, 31082, Greece",3.0,274.4186046511628,8.4, 106 ,True,False,False,True,True,False,19.0,False,June,Lefkada
+Kondilw Rooms,"Kalamitsi Lefkados, Kalamitsi, 31080, Greece",,0.0,8.6,104 ,False,False,False,True,True,False,,True,June,Lefkada
+Vliho Bay Boutique Hotel,"Yeni, Yenion, 31100, Greece",,441.12149532710276,9.0,94 ,False,True,True,False,True,True,19.0,True,June,Lefkada
+Theodora Studios,"Yénion, Yenion, 31084, Greece",3.0,145.13888888888889,7.3,91 ,False,False,False,True,True,False,21.0,True,June,Lefkada
+Townhouse Lefkada,"8 Ιωάννη Καραβέλα, Lefkada, 31100, Greece",4.0,641.9642857142857,9.5,21 ,False,False,False,False,True,False,36.0,False,June,Lefkada
+Pantheon Studios,"Nikiana, Nikiana, 31100, Greece",3.0,214.58333333333334,9.6,39 ,False,False,False,False,True,False,28.0,False,June,Lefkada
+Fraxa,"Lygia , Lygia, 31100, Greece",3.0,131.0,8.3, 62 ,False,False,False,True,True,False,,False,June,Lefkada
+The Dynasty Villas,"Syvotas Lefkada, Sivota, 31082, Greece",4.0,1573.8721804511276,8.6,33 ,True,True,False,True,True,False,130.0,True,June,Lefkada
+Bella Vista,"Perigiali, Nydri, 31100, Greece",3.0,240.2777777777778,8.7,70 ,False,False,False,True,True,False,30.0,False,June,Lefkada
+The Dynasty Villas,"Syvotas Lefkada, Sivota, 31082, Greece",,1715.8878504672896,8.6,33 ,True,True,False,True,True,False,129.0,True,June,Lefkada
+Bella Vista,"Perigiali, Nydri, 31100, Greece",,240.18691588785046,8.7,70 ,False,False,False,True,True,False,30.0,False,June,Lefkada
+Faros Studios,"Lygia, Lygia, 31100, Greece",,200.93457943925233,9.0,150 ,False,False,False,True,True,False,19.0,True,June,Lefkada
+Seaview Rooms,"ponti vasiliki, Vasiliki, 31082, Greece",3.0,236.67065842829047,8.4, 39 ,False,False,False,True,True,False,20.0,False,June,Lefkada
+Spacious Studios Lefkada Mountain View Near Beach,"Eparchiaki Odos Komiliou - Akrotiriou Lefkatas, Dhráganon, 31082, Greece",3.0,250.1946960527642,9.2,18 ,False,False,False,True,True,False,35.0,True,June,Lefkada
+Tajo VIllas,"Athani Lefkadas, Athani, 31082, Greece",,842.0560747663551,8.5, 14 ,True,False,True,True,True,False,120.0,True,June,Lefkada
+Katerina Lefkada,"Ponti, Vasiliki, 31082, Greece",3.0,282.90136906116874,9.1,366 ,True,True,True,True,True,False,20.0,False,June,Lefkada
+Efthalia Apartments & Studios,"Eparchiaki Odos Lefkas - Vasilikis Νυδρί, Λευκάδας, Nydri, 31084, Greece",,359.524886877828,9.0,57 ,False,False,False,True,True,False,,False,June,Lefkada
+Steven,"Vasilikí, Vasiliki, 31082, Greece",3.0,242.0,9.7,111 ,False,False,False,True,True,False,27.0,False,June,Lefkada
+Aggelina,"Nydri, Nydri, 31084, Greece",3.0,201.67966406718656,8.6,75 ,False,True,False,True,False,False,23.0,True,June,Lefkada
+Santa Maria Rooms,"Country Road of St.Nikita-Kalamitsiou, Agios Nikitas, 31100, Greece",3.0,234.0,8.4, 55 ,False,False,False,False,True,False,19.0,False,June,Lefkada
+Villa Melisti,"Tsoukalades, Tsoukalades, 31100, Greece",3.0,180.2325581395349,8.4, 91 ,False,False,False,False,True,False,19.0,False,June,Lefkada
+Ethereal Villas Lefkas,"Nanou Valaoriti, Nydri, 31084, Greece",4.0,600.0,8.9,135 ,False,False,False,True,True,False,90.0,False,June,Lefkada
+VILLA PINEA - Newly built modern villa with Sea access,"Amousso Bay, Évyiros, 31082, Greece",,2820.93023255814,,,False,True,False,False,True,False,,True,June,Lefkada
+Grand TheoNi Boutique Hotel & Spa,"Vasiliki, Vasiliki, 31082, Greece",4.0,529.5112781954887,8.4, 219 ,True,True,True,False,True,False,40.0,False,June,Lefkada
+Villa Galini,"Nikiana, Nikiana, 31100, Greece",,133.6448598130841,7.7,349 ,True,False,False,True,False,False,18.0,False,June,Lefkada
+Kalias Hotel,"Vasilikí, Vasiliki, 31082, Greece",,432.7102803738318,9.2,207 ,True,False,False,True,True,True,14.0,True,June,Lefkada
+Diamond Blue Villas Lefkada,"Επαρχιακή Οδός Λευκάδας - Βασιλικής, Nydri, 31084, Greece",4.0,1607.0,10,3 ,True,True,False,True,True,False,100.0,False,June,Lefkada
+LEFKADIOS HERN studios,"LEFKADA VARDANIA, Lefkada, 31100, Greece",,200.0,8.2, 13 ,False,False,False,False,True,False,16.0,True,June,Lefkada
+Ionion Star Hotel,"Lefkada Beach, Lefkada, 31100, Greece",,1068.2242990654206,7.0,373 ,True,True,True,False,False,True,57.0,True,June,Lefkada
+Happyland Hotel Apartments,"Vlasopoulou Street, Nydri, 31084, Greece",2.0,227.0,9.0,273 ,False,True,False,True,True,False,25.0,False,June,Lefkada
+Babis Apartments,"Nydri, Nydri, 31084, Greece",3.0,282.0,8.7,217 ,False,False,False,True,False,False,18.0,False,June,Lefkada
+Allure Central Boutique Hotel,"Karaiskaki 1/Mpoumpoulinas, Lefkada, 31100, Greece",4.0,578.0,9.3,612 ,True,False,True,True,True,False,40.0,False,June,Lefkada
+VKastri,"Kastri Amousso, Vasiliki, 31100, Greece",3.0,300.0,8.7,217 ,False,False,False,True,True,False,20.0,False,June,Lefkada
+kostas apartment,"vlyho lefkada, Vlikhon, 31084, Greece",,401.55422518996085,9.2,9 ,False,False,False,False,False,False,,False,June,Lefkada
+Ionian White Apartments,"Stadiou, Lefkada, 31100, Greece",,280.3738317757009,9.2,13 ,False,False,False,False,True,False,35.0,False,June,Lefkada
+Miranda Resort,"Nikiana Lefkada, Nikiana, 31100, Greece",,252.33644859813083,8.8,102 ,False,False,False,True,True,False,36.0,True,June,Lefkada
+George Studios,"Geni, Yenion, 31100, Greece",,260.74766355140184,8.9,43 ,False,False,False,False,True,False,19.0,True,June,Lefkada
+Sundance - Fabulous 4 Bedroom Private Villa,"Lefkada Sivota, Sivota, 31082, Greece",,1494.0384615384614,,,False,True,False,False,True,False,250.0,False,June,Lefkada
+Anthias Garden,"Ayios Ioannis, Lefkada, 31100, Greece",3.0,320.0,9.2,109 ,False,False,False,True,True,False,26.0,False,June,Lefkada
+Gialos,"Yénion, Yenion, 31100, Greece",3.0,200.0,8.7,60 ,False,False,False,False,True,False,,False,June,Lefkada
+Villa Milia,"Ayios Nikitas, Agios Nikitas, 31080, Greece",3.0,690.6746488602348,9.0,73 ,False,True,False,True,True,False,70.0,True,June,Lefkada
+Tsoutsis Apartments,"Eparchiaki Odos Marantochoriou - Ormos Sivotas, Marantochori, 31082, Greece",,360.74766355140184,9.9,62 ,False,False,False,True,True,False,54.0,True,June,Lefkada
+Olive Tree Hotel,"Eparchiaki Odos Lefkas - Kato Exanthias, Agios Nikitas, 31080, Greece",2.0,339.6616541353383,7.7,153 ,True,False,True,True,True,False,17.0,False,June,Lefkada
+Sea view apartments,"Λευκάδα Τσουκαλαδες, Tsoukalades, 31100, Greece",,666.3551401869158,9.5,44 ,False,True,False,True,True,False,40.0,True,June,Lefkada
+Pirofani,"Central Shopping Area - 10 Dorpfeld Str., Lefkada, 31100, Greece",,681.3084112149533,9.1,293 ,False,True,False,True,False,False,54.0,True,June,Lefkada
+Thomais Boutique Hotel,"Episkopos - Nikiana, Nikiana, 31100, Greece",4.0,587.0,8.8,77 ,True,True,True,False,True,True,25.0,False,June,Lefkada
+Argo Apartments,"Ponti, Vasiliki, 31100, Greece",3.0,187.0,7.8,139 ,True,False,False,True,True,False,25.0,False,June,Lefkada
+Nely's Luxury Home,"Nidri, Nydri, 31084, Greece",,400.0,9.9,7 ,False,False,False,True,True,False,55.0,False,June,Lefkada
+Natasa Studios,"Mikros Gialos, Mikros Gialos, 31084, Greece",3.0,261.6279069767442,9.4,50 ,False,False,True,False,True,False,18.0,False,June,Lefkada
+Ola Kala Apartments and Rooms,"Eparchiaki Odos Lefkas - Vasilikis, Vlikhon, Greece",3.0,180.2325581395349,9.1,123 ,False,False,False,False,True,False,19.0,False,June,Lefkada
+Camelia Studios,"Geni, Vlicho, Lefkada, Yenion, 31100, Greece",3.0,220.13888888888889,9.5,142 ,False,False,False,True,True,False,23.0,True,June,Lefkada
+Villa Verde,"Agios Ioannis, Lefkada, 31100, Greece",3.0,289.4092602448111,9.3,87 ,False,True,False,True,True,False,28.0,False,June,Lefkada
+Fetsis Apartments,"Agios Nikitas, Agios Nikitas, 31080, Greece",3.0,962.0,9.2,32 ,True,False,False,True,False,False,35.0,True,June,Lefkada
+Studios Ermis,"-street without adress-, Kalamitsi, 31080, Greece",3.0,174.5250949810038,8.7,80 ,False,False,False,False,True,False,16.0,False,June,Lefkada
+Ostria House,"Pinakochori, Pinakokhórion, 31080, Greece",,362.6168224299065,9.5,2 ,False,False,False,False,True,False,134.0,False,June,Lefkada
+The Victoria Lefkada,"The Victoria Lefkada Antoniou Tseveleki, Lefkada, 31100, Greece",4.0,520.0,9.7,160 ,False,True,False,True,True,False,45.0,False,June,Lefkada
+Casa di Giorgio,"Nikiana, Nikiana, 31100, Greece",,164.4859813084112,9.3,64 ,False,False,False,True,True,False,24.0,True,June,Lefkada
+Chalikias Rooms,"Asprogerakata, Asprogerakata, 31080, Greece",3.0,161.0362257877151,8.3, 45 ,False,False,False,False,True,False,17.0,False,June,Lefkada
+Florena Hotel,"Episkopos, Nikiana, 31100, Greece",2.0,282.5581395348837,9.2,243 ,True,False,False,False,True,False,17.0,False,June,Lefkada
+Asterida,"Syvota, Lefkada , Sivota, 49100, Greece",4.0,319.0,9.7,29 ,False,False,False,True,True,False,35.0,False,June,Lefkada
+ntinas house,"Eparchiaki Odos Lefkas - Kato Exanthias, Tsoukalades, 31100, Greece",,188.78504672897196,8.1, 17 ,False,False,False,False,True,False,23.0,False,June,Lefkada
+Lefkadio Suites,"Karavela, Lefkada, 31100, Greece",,649.5327102803737,8.9,492 ,True,False,True,True,True,False,37.0,False,June,Lefkada
+George House,"Kariotes, Lygia, 31080, Greece",3.0,169.05047030592175,8.5, 138 ,True,False,False,True,True,False,23.0,True,June,Lefkada
+IRIS STUDIOS,"Άγιος νικητας Άγιος Νικήτας, Agios Nikitas, 31080, Greece",3.0,261.45927601809956,8.6,92 ,False,False,False,True,False,False,25.0,False,June,Lefkada
+Casa di Maura,"64 Pefaneromenis Street, Lefkada, 31100, Greece",3.0,209.4247817103246,8.9,41 ,False,False,False,True,True,False,28.0,True,June,Lefkada
+Azul Apartments,"21 Ellomenou, Nydri, 31084, Greece",4.0,480.5555555555556,9.5,45 ,False,True,False,False,True,False,34.0,False,June,Lefkada
+Carabella Residence,"57 Ιωάννη Καραβέλα, Lefkada, 31100, Greece",,882.2429906542055,,,False,False,False,False,True,False,49.0,False,June,Lefkada
+Koukoutsi Studio,"1 Nanou, Lefkada, 31100, Greece",3.0,344.6125142828864,9.1,8 ,False,False,False,False,True,False,33.0,False,June,Lefkada
+Pansion Filoxenia Apartments & Studios,"Tsoukalades, Tsoukalades, 31100, Greece",,260.74766355140184,8.6,369 ,False,False,False,True,True,False,17.0,False,June,Lefkada
+Apricus Apartments,"Απολπαινα, Apolpaina, 31100, Greece",3.0,259.6606334841629,9.2,9 ,False,False,False,True,True,False,30.0,False,June,Lefkada
+Virginia studio 2,"Agios Ioannis Lefkadas, Lefkada, 31100, Greece",3.0,319.0,,,False,False,False,False,True,False,26.0,True,June,Lefkada
+Valedina Rooms,"Nikiana, Nikiana, 31100, Greece",3.0,220.13888888888889,9.6,72 ,False,False,False,True,True,False,16.0,False,June,Lefkada
+Theocharis Bros - Studios Apartments,"Παραλία Κάθισμα Παραλία Κάθισμα Καλαμιτσίου Λευκάδας, Agios Nikitas, 31100, Greece",3.0,424.0,8.4, 48 ,False,False,False,True,True,True,23.0,False,June,Lefkada
+Merlot Village 1,"Karya, Lefkada, Kariá, 31080, Greece",3.0,402.71578703988473,9.7,24 ,False,True,False,True,True,False,108.0,False,June,Lefkada
+Althea Studios,"Agios Nikitas, Agios Nikitas, 31100, Greece",3.0,384.0,8.9,130 ,True,False,False,False,True,False,25.0,True,June,Lefkada
+Pansion Margarita,"Άγιος Νικητας Λευκαδα Άγιος Νικήτας Λευκαδα, Agios Nikitas, 31080, Greece",,320.5607476635514,8.3, 124 ,False,False,False,True,False,False,19.0,True,June,Lefkada
+Gea Villas,"Lygia, Lygia, 31100, Greece",3.0,575.5813953488372,9.3,37 ,True,True,False,True,True,False,65.0,False,June,Lefkada
+Almondtree House Exanthia,"Εξανθεια Λευκάδος, Exanthia, 31080, Greece",,562.1805203776191,9.7,16 ,False,False,False,True,True,False,100.0,False,June,Lefkada
+Vaso Studios,"Nikiana, Nikiana, 31100, Greece",3.0,260.8840448077505,9.1,47 ,True,False,False,True,True,False,25.0,True,June,Lefkada
+Spacious Studios Lefkada Mountain View Near Beach,"Eparchiaki Odos Komiliou - Akrotiriou Lefkatas, Dhráganon, 31082, Greece",3.0,270.75892857142856,9.2,18 ,False,False,False,True,True,False,35.0,True,June,Lefkada
+Sunset View Studios,"Eparchiaki Odos Leykadas-Kato Exanthias, Exanthia, 31100, Greece",4.0,275.6334841628959,9.5,47 ,False,True,False,True,True,False,30.0,True,June,Lefkada
+Casa Dina,"Pefaneromenis 54 Neapoli, Lefkada, 31100, Greece",,280.3738317757009,9.5,55 ,False,False,False,True,True,False,40.0,True,June,Lefkada
+Niriides,"Karavela Perivolia Lefkados, Lefkada, 31100, Greece",,381.30841121495325,9.5,293 ,False,False,False,True,False,False,35.0,True,June,Lefkada
+Athina résidence,"Megalo Aulaki Ellomenou, Nydri, 31080, Greece",3.0,312.22527106588166,9.1,253 ,True,False,False,True,True,False,17.0,True,June,Lefkada
+VK Luxury Suites Nidri Lefkada - Adults Only,"Eparchiaki Odos Lefkas - Vasilikis, Nydri, 31100, Greece",4.0,400.0,9.7,24 ,False,False,False,False,True,False,35.0,False,June,Lefkada
+Blue White House,"KALAMITSI LEFKADA GREECE KALAMITSI LEFKADAS, Kalamitsi, 31080, Greece",3.0,200.0,8.5, 51 ,False,False,False,False,True,False,22.0,True,June,Lefkada
+Asterida,"Syvota, Lefkada , Sivota, 49100, Greece",4.0,318.02901220354596,9.7,29 ,False,False,False,True,True,False,35.0,False,June,Lefkada
+Villa Diana,"Nikiana, Nikiana, 31100, Greece",,234.57943925233644,9.2,32 ,False,False,False,True,True,False,36.0,False,June,Lefkada
+ntinas house,"Eparchiaki Odos Lefkas - Kato Exanthias, Tsoukalades, 31100, Greece",3.0,188.0,8.1, 17 ,False,False,False,False,True,False,23.0,False,June,Lefkada
+IRIS STUDIOS,"Άγιος νικητας Άγιος Νικήτας, Agios Nikitas, 31080, Greece",3.0,281.09601657840204,8.6,92 ,False,False,False,True,False,False,25.0,False,June,Lefkada
+Casa di Maura,"64 Pefaneromenis Street, Lefkada, 31100, Greece",3.0,221.42857142857142,8.9,41 ,False,False,False,True,True,False,28.0,True,June,Lefkada
+Limonero New City Apartment 2 with Private Parking,"Πεφανερωμενης 2, Lefkada, 31100, Greece",3.0,344.8629594240804,8.1, 16 ,True,False,False,True,True,False,25.0,False,June,Lefkada
+Azul Apartments,"21 Ellomenou, Nydri, 31084, Greece",4.0,480.0,9.5,45 ,False,True,False,False,True,False,34.0,False,June,Lefkada
+Green Villa,"13ο km. Epar. Odos Lefkas-Εxanthias, Agios Nikitas, 31100, Greece",3.0,340.0,9.3,107 ,False,True,False,True,True,False,26.0,True,June,Lefkada
+Carabella Residence,"57 Ιωάννη Καραβέλα, Lefkada, 31100, Greece",,809.3023255813954,,,False,False,False,False,True,False,49.0,False,June,Lefkada
+Koukoutsi Studio,"1 Nanou, Lefkada, 31100, Greece",,372.8971962616822,9.1,8 ,False,False,False,False,True,False,32.0,False,June,Lefkada
+Apricus Apartments,"Απολπαινα, Apolpaina, 31100, Greece",3.0,260.4166666666667,9.2,9 ,False,False,False,True,True,False,30.0,False,June,Lefkada
+Virginia studio 2,"Agios Ioannis Lefkadas, Lefkada, 31100, Greece",3.0,317.75700934579436,,,False,False,False,False,True,False,26.0,True,June,Lefkada
+Valedina Rooms,"Nikiana, Nikiana, 31100, Greece",3.0,224.45338283828383,9.6,72 ,False,False,False,True,True,False,16.0,False,June,Lefkada
+Theocharis Bros - Studios Apartments,"Παραλία Κάθισμα Παραλία Κάθισμα Καλαμιτσίου Λευκάδας, Agios Nikitas, 31100, Greece",3.0,423.45022624434387,8.4, 48 ,False,False,False,True,True,True,23.0,False,June,Lefkada
+Merlot Village 1,"Karya, Lefkada, Kariá, 31080, Greece",,400.93457943925233,9.7,24 ,False,True,False,True,True,False,108.0,False,June,Lefkada
+Althea Studios,"Agios Nikitas, Agios Nikitas, 31100, Greece",3.0,352.81674208144796,8.9,130 ,True,False,False,False,True,False,25.0,True,June,Lefkada
+Pansion Margarita,"Άγιος Νικητας Λευκαδα Άγιος Νικήτας Λευκαδα, Agios Nikitas, 31080, Greece",,320.0,8.3, 124 ,False,False,False,True,False,False,20.0,True,June,Lefkada
+Gea Villas,"Lygia, Lygia, 31100, Greece",3.0,575.5813953488372,9.3,37 ,True,True,False,True,True,False,65.0,False,June,Lefkada
+Almondtree House Exanthia,"Εξανθεια Λευκάδος, Exanthia, 31080, Greece",,513.3443020436439,9.7,16 ,False,False,False,True,True,False,100.0,False,June,Lefkada
+Vaso Studios,"Nikiana, Nikiana, 31100, Greece",3.0,260.4166666666667,9.1,47 ,True,False,False,True,True,False,25.0,True,June,Lefkada
+Sunset View Studios,"Eparchiaki Odos Leykadas-Kato Exanthias, Exanthia, 31100, Greece",4.0,299.60407239819,9.5,47 ,False,True,False,True,True,False,30.0,True,June,Lefkada
+Casa Dina,"Pefaneromenis 54 Neapoli, Lefkada, 31100, Greece",3.0,258.0,9.5,55 ,False,False,False,True,True,False,40.0,True,June,Lefkada
+Villa Makis,"Vassiliki, Vasiliki, 31082, Greece",,240.18691588785046,7.9,56 ,False,False,False,True,True,False,19.0,False,June,Lefkada
+Matzanas House,"Κατούνα, Katouna, 31100, Greece",,621.4953271028037,9.9,9 ,False,False,False,False,True,False,,False,June,Lefkada
+Cleopatra rooms,"Επαρχιακή Οδός Λευκάδας - Βασιλικής, Nikiana, 31100, Greece",3.0,200.0,9.7,12 ,False,False,False,True,True,False,51.0,True,June,Lefkada
+Lefkada Triola Apartments,"Mitropoleos 20, Lefkada, 31100, Greece",3.0,581.9444444444445,8.9,32 ,False,False,False,True,False,False,27.0,False,June,Lefkada
+Mikros Gialos Apartments,"Mikros Gialos, Mikros Gialos, 31084, Greece",3.0,379.3974538425648,9.3,108 ,True,False,True,True,False,False,55.0,False,June,Lefkada
+Vasiliki Blue,"Βασιλική, Λευκάδος 1, Vasiliki, 31082, Greece",3.0,281.09601657840204,9.7,41 ,False,False,False,True,False,False,20.0,False,June,Lefkada
+Olive Tree Apartments,"Απόλπαινα, Lefkada, 31100, Greece",,721.4953271028037,9.5,61 ,False,False,False,False,True,False,60.0,False,June,Lefkada
+Vissala Village,"Eparchiaki Odos Lefkas - Vasilikis, Chortáta, 31082, Greece",,757.9439252336448,9.9,32 ,False,True,False,True,True,False,60.0,False,June,Lefkada
+Argo rooms,"Αγιος Νικητας 1, Agios Nikitas, 31080, Greece",,220.0,8.5, 2 ,False,False,False,False,False,False,19.0,False,June,Lefkada
+Blue Apartment,"Ellomenou 99 0, Nydri, 31084, Greece",3.0,350.37275253034744,,,False,False,False,False,True,False,35.0,False,June,Lefkada
+Welcome In,"Mikros Gialos Lefkada, Mikros Gialos, 31082, Greece",3.0,336.04651162790697,8.6,67 ,True,True,False,True,True,False,18.0,True,June,Lefkada
+Konstantinos Hotel & Apartments I,"Nydri, Nydri, 31100, Greece",,0.0,9.0,135 ,False,True,False,True,True,False,,False,June,Lefkada
+Geni Bay,"Yenion, Yenion, 31100, Greece",3.0,202.0,9.2,39 ,False,False,False,False,True,False,30.0,False,June,Lefkada
+Lefkada Town Apartment,"Τέρμα Καποδιστρίου, Lefkada, 31100, Greece",3.0,296.77419354838713,9.4,27 ,False,False,False,False,True,False,47.0,False,June,Lefkada
+Giannis Studios,"Nikiana, Lefkada, Nikiana, 31100, Greece",3.0,182.0,9.1,49 ,False,False,False,True,True,False,22.0,False,June,Lefkada
+Ionian Breeze Studios,"Paredrou Efstathiou Mavrouli str, Aghios Ioannis, Lefkada, 31100, Greece",,288.78504672897196,8.6,56 ,False,False,False,False,True,False,24.0,True,June,Lefkada
+Filippos House,"Τηλυκράτη 3, Lefkada, 31100, Greece",,320.5607476635514,9.4,18 ,False,False,False,False,False,False,,True,June,Lefkada
+Karavias cosy Vlicho house,"Επαρχιακή Οδός Λευκάδας - Βασιλικής, Vlikhon, 31100, Greece",3.0,245.13888888888889,9.9,14 ,False,False,False,True,False,False,34.0,False,June,Lefkada
+Ithaki Holidays,"Agios Ioannis, Lefkada, 31100, Greece",3.0,252.98180980888787,9.3,199 ,False,True,False,True,True,False,25.0,True,June,Lefkada
+Gardenia studios,"Νυδρι, Nydri, 31084, Greece",3.0,282.0,9.1,21 ,False,False,False,True,True,False,30.0,False,June,Lefkada
+TRADITIONAL GUESTHOUSES XENOFON,"ΔΡΥΜΩΝΑΣ ΛΕΥΚΑΔΑ ΔΡΥΜΩΝΑΣ, Drymon, 31080, Greece",3.0,294.0,8.9,22 ,False,False,False,True,True,False,35.0,False,June,Lefkada
+Melissi,"Karavela, Kalligoni, Lefkada, 31100, Greece",3.0,189.7020595880824,8.0, 69 ,False,False,False,True,True,False,15.0,False,June,Lefkada
+Vlastaras Apartment,"Επαρχιακή Οδός Μαραντοχώριου - Ορμος Σύβοτας, Sivota, 31082, Greece",3.0,282.0,,,False,False,False,True,True,False,60.0,True,June,Lefkada
+Nidri Bay Studios,"νυδρι Καλλιθέα, Nydri, 31100, Greece",,240.18691588785046,8.1, 18 ,True,True,False,True,True,False,,False,June,Lefkada
+Sun meets Sea,"Αθάνι, Athani, 31082, Greece",3.0,501.69542839842563,9.4,8 ,False,False,False,False,True,False,50.0,False,June,Lefkada
+Gazena House,"Vournikas leukada 31082, Sívros, 31082, Greece",,324.0,9.5,8 ,False,False,False,False,True,False,,False,June,Lefkada
+Lefkothea Apartments,"EPARCHIAKI ODOS LEFKAS - VASILIKIS, Nikiana, 31100, Greece",,275.7518796992481,9.3,6 ,False,False,False,True,True,False,40.0,False,June,Lefkada
+Dionysia Rooms,"Anapafseos, Lefkada, 31100, Greece",,260.74766355140184,9.2,92 ,False,False,False,True,True,False,35.0,True,June,Lefkada
+Vessarios,"Nikiana, Nikiana, 31100, Greece",3.0,208.80727607644485,9.1,39 ,False,False,False,True,True,False,28.0,False,June,Lefkada
+Welcome In,"Mikros Gialos Lefkada, Mikros Gialos, 31082, Greece",3.0,309.0,8.6,67 ,True,True,False,True,True,False,18.0,True,June,Lefkada
+Vicula Mauras,"Επαρχιακή Οδός Λευκάδας - Απόλπαινας, Lefkada, 31100, Greece",3.0,897.2292191435768,9.8,9 ,False,False,False,True,True,False,100.0,False,June,Lefkada
+Eros appartments,"Kalamitsi, Kalamitsi, 31080, Greece",,198.1308411214953,,,False,False,False,False,True,False,,False,June,Lefkada
+Halcyon,"Frini MEF Building, Lefkada, 31100, Greece",4.0,760.0,9.9,7 ,False,True,False,True,True,False,75.0,False,June,Lefkada
+Villa Nektaria,"Νικιάνα, Nikiana, 31100, Greece",,500.93457943925233,9.8,27 ,False,False,False,True,True,False,79.0,False,June,Lefkada
+Lazaris Apartments in Agios Ioannis Lefkada,"ΑΓΙΟΣ ΙΩΑΝΝΗΣ ΛΕΥΚΑΔΑ, Lefkada, 31100, Greece",3.0,261.01772967994475,8.3, 74 ,False,False,False,True,True,False,20.0,False,June,Lefkada
+Filoxenia Kontogiannis,"Lazarata, Lazaráta, 31080, Greece",3.0,128.82613888414946,9.0,84 ,False,False,False,True,True,False,23.0,False,June,Lefkada
+Blue Symphony Suites & Apartments,"Episkopos Nikianas, Nikiana, 31100, Greece",,441.12149532710276,,,False,True,False,True,True,False,36.0,False,June,Lefkada
+Christos House,"Pigadinisoi Lefkados, Kariá, 31080, Greece",,400.93457943925233,9.8,9 ,False,False,False,True,True,False,99.0,False,June,Lefkada
+The Lemon Yard 1bedroom apartment,"Ethnikis Antistaseos, Lefkada, 31100, Greece",3.0,0.0,9.7,6 ,False,False,False,True,True,False,,True,June,Lefkada
+Nidri Studios Apartments,"Νυδρι, Nydri, 31084, Greece",,279.4039382650346,9.7,10 ,False,False,False,False,True,False,18.0,False,June,Lefkada
+South Side,"Eparchiaki Odos Komiliou - Akrotiriou Lefkatas,, Athani, 31082, Greece",3.0,215.0,8.9,75 ,False,False,False,True,True,False,20.0,True,June,Lefkada
+Smile Inn,"Eparchiaki Odos Lefkas - Vasilikis, Nydri, 31084, Greece",,320.5607476635514,8.6,226 ,True,False,False,False,False,False,24.0,False,June,Lefkada
+Villagio,"Agia Marina Lefkada, Lefkada, 31100, Greece",3.0,378.0,8.4, 98 ,False,True,True,True,True,False,33.0,True,June,Lefkada
+Nerina Studios Agios Nikitas,"Eparchiaki Odos Lefkadas, Agios Nikitas, 31080, Greece",,314.0,8.3, 84 ,True,False,False,False,True,False,25.0,True,June,Lefkada
+Libretto Suites,"ΡΟΝΤΟΓΙΑΝΝΗ ΛΟΧ. 7, Lefkada, 31100, Greece",,456.0747663551402,8.1, 62 ,True,False,False,False,False,False,30.0,False,June,Lefkada
+Spiros Sea View,"ΠΕΡΙΓΙΑΛΙ Περιγιάλι 1, Nydri, 31100, Greece",,337.35294117647055,9.6,81 ,True,False,False,False,True,False,24.0,False,June,Lefkada
+Harmony,"Kalamitsi, Kalamitsi, 31080, Greece",3.0,240.0,8.1, 35 ,False,False,False,True,True,False,25.0,True,June,Lefkada
+Inorato - Luxury Villa with Private Swimming Pool,"Καλαμίτσι, Kalamitsi, 31080, Greece",4.0,1612.5,10,5 ,False,False,False,False,True,False,90.0,False,June,Lefkada
+Petrinο Katochori,"Agias Aikaterinis 22, Katokhórion, 31100, Greece",3.0,442.0,9.9,32 ,False,False,False,True,True,False,120.0,False,June,Lefkada
+Sivota Lefkas Luxury Villas,"Sivota, Sivota, 31100, Greece",,701.8691588785047,,,False,True,False,False,True,False,20.0,False,June,Lefkada
+Sivota Lefkas Luxury Villas,"Sivota, Sivota, 31100, Greece",,643.1561085972851,,,False,True,False,False,True,False,20.0,False,June,Lefkada
+Armonia Nakas,"Geni, Yenion, 31082, Greece",3.0,400.0,8.9,20 ,False,True,False,True,True,False,40.0,False,June,Lefkada
+Niriides,"Perigiali, Nydri, 31100, Greece",3.0,261.63141993957703,,,False,False,False,False,True,False,27.0,False,June,Lefkada
+AGIOS PETROS APARTMENTS,"Eparchiaki Odos Lefkas - Vasilikis, Ágios Pétros, 31082, Greece",,308.411214953271,,,False,False,False,False,True,False,35.0,False,June,Lefkada
+San Giovanni Beach Resort and Suites,"Ag.Ioannis, Lefkada, 31100, Greece",4.0,746.0,8.5, 372 ,True,False,False,True,True,False,35.0,False,June,Lefkada
+Levkosh Apartments at Lefkada's Heart,"4 Varseli, Lefkada, 31100, Greece",3.0,396.51162790697674,8.8,232 ,False,False,False,True,False,False,49.0,False,June,Lefkada
+Soldatos Rooms,"Marandokhórion, Marantochori, 31082, Greece",3.0,151.4129621800917,9.0,121 ,False,False,False,True,True,False,23.0,False,June,Lefkada
+Avra Beach Hotel,"Main Street 31100, Nydri, 31084, Greece",3.0,764.4343891402715,8.4, 243 ,True,False,True,False,True,True,22.0,False,June,Lefkada
+Dionysos Luxury Apartments,"Nydri, Nydri, 31084, Greece",,360.74766355140184,9.2,71 ,False,False,False,True,True,False,52.0,True,June,Lefkada
+Casa Ovata,"Tsoukalades, Lefkada, Greece, Tsoukalades, 31100, Greece",,451.40186915887847,9.6,34 ,False,False,False,False,True,False,30.0,False,June,Lefkada
+Anna's Apartments,"ΝΙΚΙΑΝΑ ΛΕΥΚΑΔΑ, Nikiana, 31100, Greece",3.0,345.0,9.9,21 ,False,False,False,True,True,False,28.0,False,June,Lefkada
+Aelia Villa,"25th km. Lefkadas-Vasilikis, Sivota, 31082, Greece",4.0,915.9722222222223,9.2,11 ,False,True,False,True,True,False,100.0,False,June,Lefkada
+Imperial Studios,"Vasiliki, Lefkada, Vasiliki, 31082, Greece",,360.74766355140184,8.8,63 ,False,False,False,True,True,False,40.0,True,June,Lefkada
+Vicky Apartments,"Nikiana, Nikiana, 31100, Greece",,232.71028037383175,8.1, 36 ,False,True,False,True,False,False,18.0,True,June,Lefkada
+Above Blue Maisonettes Grey Diamond,"Eparchiaki Odos Nikianas - Alexandrou, Nikiana, 31100, Greece",,541.1214953271028,9.5,12 ,True,True,False,False,True,False,47.0,False,June,Lefkada
+Emilios Eleni studios,"Επαρχιακή Οδός Λευκάδας - Βασιλικής, Nydri, 31084, Greece",3.0,262.0,,,False,False,False,True,True,False,25.0,False,June,Lefkada
+Secret Paradise,"Καρυά, Kariá, 31080, Greece",3.0,588.0316742081448,9.8,14 ,False,True,False,True,True,False,36.0,False,June,Lefkada
+K-houses I67,"Parodos Pefaneromenis Troika, Lefkada, 31100, Greece",,320.5607476635514,9.1,22 ,False,False,False,True,True,False,49.0,False,June,Lefkada
+Apagio Apartments,"Mikros Gialos - Lefkada, Mikros Gialos, 31084, Greece",3.0,247.0,9.0,74 ,False,False,True,True,False,True,25.0,True,June,Lefkada
+Sea n' Smile,"Απόλπαινα Λευκάδα, Apolpaina, 31100, Greece",,621.4953271028037,9.0,1 ,False,True,False,True,True,False,65.0,False,June,Lefkada
+Pirofani Villa Apartments,"Apolpaina, Apolpaina, 31100, Greece",4.0,399.4796380090497,9.4,7 ,False,True,False,True,True,False,66.0,True,June,Lefkada
+Nefeli,"Ponti, Vasiliki, Vasiliki, 31082, Greece",3.0,701.0,7.2,132 ,True,True,True,False,False,False,70.0,True,June,Lefkada
+Vasiliki Cottages,"Katsiki Cottage, Vasiliki, 31082, Greece",,848.0,9.6,24 ,False,True,False,False,True,False,60.0,False,June,Lefkada
+Ionio Hotel,"Nikiana, Nikiana, 31100, Greece",,252.33644859813083,,,True,False,True,True,True,False,15.0,False,June,Lefkada
+Sivota Lefkas Luxury Villas,"Sivota, Sivota, 31100, Greece",,700.0,,,False,True,False,False,True,False,20.0,False,June,Lefkada
+Armonia Nakas,"Geni, Yenion, 31082, Greece",3.0,400.0,8.9,20 ,False,True,False,True,True,False,40.0,False,June,Lefkada
+Niriides,"Perigiali, Nydri, 31100, Greece",3.0,262.0,,,False,False,False,False,True,False,27.0,False,June,Lefkada
+AGIOS PETROS APARTMENTS,"Eparchiaki Odos Lefkas - Vasilikis, Ágios Pétros, 31082, Greece",,309.1987105687313,,,False,False,False,False,True,False,35.0,False,June,Lefkada
+San Giovanni Beach Resort and Suites,"Ag.Ioannis, Lefkada, 31100, Greece",,745.7943925233644,8.5, 372 ,True,False,False,True,True,False,35.0,False,June,Lefkada
+Tsoutsis SUITE,"Επαρχιακή Οδός Λευκάδας - Βασιλίκης, Vasiliki, 31082, Greece",,340.0,,,False,False,False,True,True,False,32.0,False,June,Lefkada
+Levkosh Apartments at Lefkada's Heart,"4 Varseli, Lefkada, 31100, Greece",,438.31775700934577,8.8,232 ,False,False,False,True,False,False,49.0,False,June,Lefkada
+Soldatos Rooms,"Marandokhórion, Marantochori, 31082, Greece",3.0,152.59037531660144,9.0,121 ,False,False,False,True,True,False,23.0,False,June,Lefkada
+Avra Beach Hotel,"Main Street 31100, Nydri, 31084, Greece",3.0,200800.93457943923,8.4, 243 ,True,False,True,False,True,True,22.0,False,June,Lefkada
+Dionysos Luxury Apartments,"Nydri, Nydri, 31084, Greece",4.0,341.45837499166834,9.2,71 ,False,False,False,True,True,False,52.0,True,June,Lefkada
+Casa Ovata,"Tsoukalades, Lefkada, Greece, Tsoukalades, 31100, Greece",3.0,450.0,9.6,34 ,False,False,False,False,True,False,30.0,False,June,Lefkada
+Anna's Apartments,"ΝΙΚΙΑΝΑ ΛΕΥΚΑΔΑ, Nikiana, 31100, Greece",,345.7943925233645,9.9,21 ,False,False,False,True,True,False,27.0,False,June,Lefkada
+Aelia Villa,"25th km. Lefkadas-Vasilikis, Sivota, 31082, Greece",4.0,915.0,9.2,11 ,False,True,False,True,True,False,100.0,False,June,Lefkada
+Imperial Studios,"Vasiliki, Lefkada, Vasiliki, 31082, Greece",,360.74766355140184,8.8,63 ,False,False,False,True,True,False,40.0,True,June,Lefkada
+Vicky Apartments,"Nikiana, Nikiana, 31100, Greece",3.0,232.0,8.1, 36 ,False,True,False,True,False,False,18.0,True,June,Lefkada
+Above Blue Maisonettes Grey Diamond,"Eparchiaki Odos Nikianas - Alexandrou, Nikiana, 31100, Greece",4.0,540.2777777777778,9.5,12 ,True,True,False,False,True,False,47.0,False,June,Lefkada
+Emilios Eleni studios,"Επαρχιακή Οδός Λευκάδας - Βασιλικής, Nydri, 31084, Greece",,260.74766355140184,,,False,False,False,True,True,False,24.0,False,June,Lefkada
+Secret Paradise,"Καρυά, Kariá, 31080, Greece",3.0,638.9855362260881,9.8,14 ,False,True,False,True,True,False,36.0,False,June,Lefkada
+K-houses I67,"Parodos Pefaneromenis Troika, Lefkada, 31100, Greece",3.0,319.7674418604651,9.1,22 ,False,False,False,True,True,False,49.0,False,June,Lefkada
+Apagio Apartments,"Mikros Gialos - Lefkada, Mikros Gialos, 31084, Greece",,266.3551401869159,9.0,74 ,False,False,True,True,False,True,24.0,True,June,Lefkada
+Sea n' Smile,"Απόλπαινα Λευκάδα, Apolpaina, 31100, Greece",4.0,588.0690528560955,9.0,1 ,False,True,False,True,True,False,66.0,False,June,Lefkada
+Pirofani Villa Apartments,"Apolpaina, Apolpaina, 31100, Greece",4.0,401.03092783505156,9.4,7 ,False,True,False,True,True,False,66.0,True,June,Lefkada
+Nefeli,"Ponti, Vasiliki, Vasiliki, 31082, Greece",3.0,703.5344232097628,7.2,132 ,True,True,True,False,True,False,70.0,True,June,Lefkada
+Vasiliki Cottages,"Katsiki Cottage, Vasiliki, 31082, Greece",,849.3055555555555,9.6,24 ,False,True,False,False,True,False,60.0,False,June,Lefkada
+Ionio Hotel,"Nikiana, Nikiana, 31100, Greece",2.0,254.0,,,True,False,True,True,True,False,16.0,False,June,Lefkada
+Lefki's house,"Επαρχιακή Οδός Λευκάδας - Κάτω Εξανθείας ΣΠΙΤΙ, Drymon, 31100, Greece",3.0,305.0,9.5,15 ,False,False,False,False,False,False,120.0,True,June,Lefkada
+Pavezzo Country Retreat,"Katouna, Katouna, 31100, Greece",4.0,619.7674418604652,9.4,47 ,True,False,False,True,True,True,44.0,True,June,Lefkada
+Villa Gerasimoula,"ΟΔΗΓΗΤΡΙΑ, Lefkada, 31100, Greece",3.0,882.5581395348837,9.5,28 ,False,False,False,True,True,False,74.0,False,June,Lefkada
+Drimonas Villas,"Drimonas Lefkadas, Drymon, 31080, Greece",4.0,1398.8372093023256,9.1,21 ,False,True,False,True,True,False,79.0,True,June,Lefkada
+Eleana Boutique Hotel & Blue Infinity,"Main Street, Nikiana, 31100, Greece",,1323.3644859813082,9.4,133 ,False,True,True,True,True,False,150.0,False,June,Lefkada
+G & K City Apartments,"18 Lefkata, Lefkada, 31100, Greece",3.0,440.9669211195929,9.5,46 ,True,False,False,True,False,False,65.0,False,June,Lefkada
+Melina apartments,"Σταδίου, Lefkada, 31100, Greece",3.0,440.0,9.4,46 ,False,False,False,True,True,False,60.0,False,June,Lefkada
+Katsenos studios,"6th km Lefkada-Nydri, Nikiana, 31100, Greece",3.0,239.5636305511895,9.7,72 ,True,False,False,False,True,False,20.0,False,June,Lefkada
+Olivo Nydri,"Επαρχιακή Οδός Λευκάδας - Βασιλικής, Nydri, 31100, Greece",3.0,520.0,9.1,24 ,False,False,False,False,True,False,49.0,False,June,Lefkada
+Liopetra,"Lygia, Lygia, 31100, Greece",3.0,260.4166666666667,9.3,24 ,False,False,False,True,True,False,25.0,False,June,Lefkada
+Pansion Laertes,"Tsoukaládhes, Tsoukalades, 31100, Greece",3.0,152.32558139534885,9.1,16 ,False,False,False,True,True,False,19.0,True,June,Lefkada
+Serenity Boutique Suites,"Athánion, Lefkada, Athani, 31082, Greece",,1015.4639175257732,9.0,99 ,False,True,True,True,True,False,75.0,True,June,Lefkada
+CASA BLU,"Επαρχιακή οδός Νικιάνας - Αλεξάνδρου, Nikiana, 31100, Greece",,207.47663551401868,10,2 ,False,False,False,True,True,False,27.0,False,June,Lefkada
+Asplathia Villas,"Sfakiotes , Spanokhórion, 31080, Greece",4.0,800.0,9.2,19 ,True,True,False,True,True,False,50.0,True,June,Lefkada
+Dimarion Villas,"Άγιος Νικήτας, Agios Nikitas, 31100, Greece",3.0,400.69444444444446,9.0,70 ,False,False,False,True,True,False,20.0,False,June,Lefkada
+Bohèmian Boutique Hotel Lefkada,"Agias Paraskevis 10 lefkada, Lefkada, 31100, Greece",,816.0,9.6,192 ,False,False,False,False,False,False,25.0,False,June,Lefkada
+Amousso Beach Villas,"Marantochori - Amousso, Marantochori, 31082, Greece",,1242.9906542056074,9.3,9 ,False,True,False,True,True,False,44.0,False,June,Lefkada
+Alkea house,"Νεοχώρι λευκαδα, Palaiokhóri, 31100, Greece",,360.0,10,3 ,False,False,False,False,True,False,70.0,True,June,Lefkada
+MANGO apartments,"John Kennedy 34, Lefkada, 31100, Greece",,223.26923076923075,9.0,1 ,False,False,False,True,False,False,40.0,False,June,Lefkada
+Sofia's House,"Σύβοτα, Sivota, 31082, Greece",,320.5607476635514,9.3,15 ,False,False,False,True,True,False,26.0,False,June,Lefkada
+Smirties Villas,"PERIGIALI LEFKADA, Nydri, 31084, Greece",,1606.5420560747662,,,False,True,False,True,True,False,69.0,False,June,Lefkada
+Dion apartment,"Επαρχιακή Οδός Λευκάδας - Βασιλικής, Lygia, 31100, Greece",,574.8270356572646,,,False,False,False,True,True,False,65.0,False,June,Lefkada
+Villa Prolithia,"VLIHO lEFKADA 31100, Vlikhon, 31100, Greece",3.0,441.29464285714283,9.4,7 ,True,False,False,False,True,False,90.0,True,June,Lefkada
+SunilioS Apartments Lefkada,"Περιβόλια, Lefkada, 31100, Greece",,200.93457943925233,9.6,27 ,False,False,False,True,True,False,30.0,False,June,Lefkada
+Summer House Louisa,"Lygia, Lygia, 31100, Greece",3.0,135.0,7.1,63 ,False,False,False,True,True,False,23.0,False,June,Lefkada
+Villa Prolithia,"VLIHO lEFKADA 31100, Vlikhon, 31100, Greece",,441.12149532710276,9.4,7 ,True,False,False,False,True,False,90.0,True,June,Lefkada
+SunilioS Apartments Lefkada,"Περιβόλια, Lefkada, 31100, Greece",4.0,222.0,9.6,27 ,False,False,False,True,True,False,30.0,False,June,Lefkada
+Summer House Louisa,"Lygia, Lygia, 31100, Greece",3.0,133.72093023255815,7.1,63 ,False,False,False,True,True,False,23.0,False,June,Lefkada
+Rhea's studio,"Δ. Κουνιάκη, Lefkada, 31100, Greece",3.0,285.9375,10,2 ,False,False,False,False,True,False,25.0,False,June,Lefkada
+Stone Suites at Lefkada's Old Port,"Petrou Filippa Papagou, Lefkada, 31100, Greece",,561.6822429906541,9.0,82 ,True,False,False,False,False,False,40.0,False,June,Lefkada
+Eleana Studios,"Agios Ioannis Lefkadas, Lefkada, 31100, Greece",3.0,240.93944278148746,9.3,73 ,False,False,False,False,True,False,20.0,False,June,Lefkada
+Adria Luxury Apartments,"Nydri, Nydri, 31084, Greece",,793.4579439252336,9.6,94 ,True,False,True,True,True,False,54.0,False,June,Lefkada
+Linari Bohemian Living,"Επαρχιακή Οδός Λαζαράτας - Βαυκερής, Kávallos, 31080, Greece",4.0,367.5226244343891,10,9 ,False,False,False,False,False,False,35.0,False,June,Lefkada
+Summer Dream Lefkas,"Eparchiaki Odos Lefkadas - Apolpainas 225, Lefkada, 31100, Greece",4.0,440.27777777777777,9.4,108 ,False,True,True,True,True,False,25.0,False,June,Lefkada
+Villas Goudis,"Tsoukaládhes, Tsoukalades, 31100, Greece",,2164.4859813084113,9.5,44 ,True,False,False,True,True,False,140.0,True,June,Lefkada
+Aristea Apartments,"Nikiana, Nikiana, 31100, Greece",,180.37383177570092,9.6,208 ,False,False,False,False,True,False,30.0,False,June,Lefkada
+Elena’s House Sivota Lefkadas,"Sivota Lefkadas, Sivota, 31082, Greece",4.0,588.9580990668702,8.0, 1 ,False,False,False,True,True,False,100.0,True,June,Lefkada
+Mare Vita Apartments,"Perigiali Lefkadas, Nydri, 31084, Greece",,320.5607476635514,9.7,90 ,True,False,False,True,True,False,27.0,False,June,Lefkada
+Villa Rania,"Eparchiaki Odos Lefkas - Vasilikis, Vasiliki, 31082, Greece",3.0,200.0,8.2, 39 ,False,False,False,False,True,False,45.0,False,June,Lefkada
+Domenica house,"ΚΟΝΤΑΡΑΙΝΑ, Kondáraina, 31082, Greece",,256.0,8.4, 9 ,False,False,False,True,True,False,35.0,True,June,Lefkada
+Angela apartments,"Απόλπαινα, Lefkada, 31100, Greece",3.0,259.4611662769406,9.0,7 ,False,False,False,False,True,False,29.0,True,June,Lefkada
+Morfi,"Parodos Karavella, Lefkada, 31100, Greece",3.0,220.13888888888889,8.9,41 ,False,False,False,True,True,False,45.0,False,June,Lefkada
+Katouna Holiday House,"Επαρχιακή Οδός Κατούνης, Katouna, 31100, Greece",,541.1214953271028,,,False,False,False,True,True,False,99.0,False,June,Lefkada
+En Lefko Boutique Apartments,"Eparchiaki Odos Nikianas - Alexandrou, Nikiana, 31100, Greece",3.0,460.0,8.3, 19 ,False,True,False,False,True,False,32.0,False,June,Lefkada
+Captain's House,"Sivota, Lefkada, Sivota, 31082, Greece",3.0,280.55555555555554,9.2,33 ,False,False,False,True,True,False,25.0,False,June,Lefkada
+Εvdokia's house,"Καλαμίτσι Λευκάδα 31080, Kalamitsi, 31080, Greece",3.0,359.28685470995214,7.4,5 ,False,False,False,False,False,False,50.0,True,June,Lefkada
+Armonia Sea View Villa - Frini Lefkada,"Eparchiaki Odos Lefkas - Kato Exanthias, Lefkada, 31100, Greece",,681.3084112149533,9.5,4 ,False,False,False,True,True,False,175.0,True,June,Lefkada
+K-Houses Π3,"Stadiou, Lefkada, 31100, Greece",3.0,401.55422518996085,9.2,10 ,False,False,False,False,True,False,65.0,False,June,Lefkada
+Lefkas house with garden,"Τσουκαλάδες, Tsoukalades, 31100, Greece",,420.83333333333337,9.3,6 ,False,False,False,False,True,False,80.0,True,June,Lefkada
+summer holidays,"Επαρχιακή οδός Νικιάνας - Αλεξάνδρου, Nikiana, 31100, Greece",3.0,200.0,8.8,25 ,False,False,False,True,True,False,36.0,False,June,Lefkada
+Maria's Rose Garden,"Perivolia Lefkadas, Lefkada, 31100, Greece",,0.0,9.1,82 ,False,False,False,True,True,False,,False,June,Lefkada
+Stavros boutique apartments,"Απολπαινα 2ος, Lefkada, 31100, Greece",,479.06976744186045,9.2,8 ,True,False,False,True,True,False,65.0,True,June,Lefkada
+Olive Garden,"Επαρχιακή Οδός Λευκάδας - Βασιλικής, Lefkada, 31100, Greece",4.0,668.8800904977376,,,False,False,False,True,True,False,200.0,False,June,Lefkada
+Emma's House,"Λευκάδας ΠΑΡΑΘΕΡΙΣΤΙΚΗ ΚΑΤΟΙΚΙΑ, Spasméni Vrísi, 30002, Greece",,360.74766355140184,,,False,False,False,True,True,False,74.0,False,June,Lefkada
+Matina Studios,"Nikiana, Nikiana, 31100, Greece",3.0,161.62790697674419,9.2,159 ,False,False,False,False,True,False,15.0,False,June,Lefkada
+Aristoula House,"Syvota - Lefkada, Sivota, 31082, Greece",3.0,639.918533604888,9.1,12 ,False,False,False,True,True,False,122.0,True,June,Lefkada
+Eirinis Home - Σπίτι της Ειρήνης,"Eparchiaki Odos Lefkas - Vasilikis, Ágios Pétros, 31082, Greece",4.0,736.0,9.5,2 ,False,False,False,True,True,False,140.0,False,June,Lefkada
+Kris&Strato's Studio,"Επαρχιακή Οδός Λευκάδας - Βασιλικής, Lygia, 31100, Greece",3.0,383.50515463917526,9.9,8 ,False,False,False,True,True,False,50.0,True,June,Lefkada
+Nick's Studios Lefkada,"67 Τζον Κέννεντυ Ισόγειο, Lefkada, 31100, Greece",,263.55140186915884,,,False,False,True,False,True,False,22.0,False,June,Lefkada
+VILLA NONA,"SIVOTA, Sivota, 31082, Greece",,1920.0,9.3,3 ,False,True,False,False,True,False,100.0,False,June,Lefkada
+Aiolos Rooms,"Tsoukalades, Tsoukalades, 31100, Greece",3.0,168.57402361489554,9.1,33 ,False,False,False,True,True,False,,False,June,Lefkada
+La Centralle - Lefkada apartment,"21 Konstantínou Kalkáni, Lefkada, 31100, Greece",3.0,220.83333333333334,,,False,False,False,True,False,False,40.0,False,June,Lefkada
+Araxovoli Studios - Aραξοβολι Studios,"Eparchiaki Odos Lefkas - Agiou Nikita, Tsoukalades, 31100, Greece",,180.0,8.9,38 ,False,False,False,True,False,False,23.0,False,June,Lefkada
+Villa Lygia,"Ep. Odos Leykadas - Vasilikis, Lygia, 31100, Greece",3.0,239.68325791855202,9.1,56 ,False,False,False,True,True,False,15.0,True,June,Lefkada
+Liovore Apartments,"Lefkada island, Lygia, 31100, Greece",3.0,443.0803571428571,9.7,42 ,False,False,False,False,True,False,75.0,False,June,Lefkada
+Pantazis Studios,"Nikiana, Nikiana, 31100, Greece",,260.74766355140184,8.7,30 ,False,False,False,True,True,False,23.0,True,June,Lefkada
+Aggeliki's Hideaway Studio,"Καλλιγόνι, Lefkada, 31100, Greece",3.0,280.55555555555554,9.6,13 ,False,False,False,False,True,False,35.0,False,June,Lefkada
+Alexandros,"1xm Lefkadas KariasTsechlibou, Lefkada, 31100, Greece",3.0,211.62790697674419,8.5, 100 ,False,False,False,True,True,False,31.0,False,June,Lefkada
+Anesi Vista Apartment,"John Gazi Ioannou, Vasiliki, 31082, Greece",4.0,679.106334841629,10,5 ,False,False,False,True,True,False,75.0,False,June,Lefkada
+Aetos House,"Εξάνθεια, Exanthia, 31080, Greece",3.0,804.6802386561875,7.7,3 ,False,False,False,True,True,False,90.0,True,June,Lefkada
+"Ariti Luxury Apartment, Nikiana","Επίσκοπος Νικιάνα, Nikiana, 31100, Greece",3.0,783.3333333333334,9.4,7 ,True,True,False,True,False,False,80.0,False,June,Lefkada
+"Horizon Blue, Kalamitsi, Lefkas","Καλαμίτσι , Kalamitsi, 31080, Greece",3.0,240.0,9.3,15 ,False,False,False,True,True,False,28.0,False,June,Lefkada
+Ziv Boutique Apartments Lefkada Town Square Apt 8-13,"ΠΑΝΑΔΑ 1, Lefkada, 31100, Greece",4.0,255.0,9.1,14 ,False,False,False,False,False,False,22.0,False,June,Lefkada
+Petra Maisonettes,"Καρυά, Kariá, 31080, Greece",,372.8971962616822,,,False,False,False,False,True,False,75.0,True,June,Lefkada
+Hotel Arion,"Περιγιαλι Λευκαδα 1, Nydri, 31084, Greece",,200.78286898457287,9.0,71 ,False,False,False,True,True,False,30.0,False,June,Lefkada
+Aurelia,"Eparchiaki Odos Lefkas - Vasilikis, Nikiana, 31100, Greece",,372.91647756581267,9.3,15 ,False,True,False,False,True,False,21.0,False,June,Lefkada
+Desun Suites,"Vafkeris, Nydri, Kolónion, 31100, Greece",,1804.6728971962616,9.8,29 ,False,True,False,False,True,False,32.0,False,June,Lefkada
+Kalliope Apartments,"Tsoukalades Thesi Kleidi, Tsoukalades, 31100, Greece",,272.8971962616822,9.7,46 ,False,True,False,True,True,False,31.0,False,June,Lefkada
+Eolos Apartments with Private Parking,"Agios Nikitas, Agios Nikitas, 31100, Greece",3.0,320.0616013296128,7.4,54 ,True,False,False,True,True,False,40.0,False,June,Lefkada
+Aiolos Rooms,"Tsoukalades, Tsoukalades, 31100, Greece",3.0,168.0,9.1,33 ,False,False,False,True,True,False,,False,June,Lefkada
+A luxurious attic with splendid view,"Palla 1, Lefkada, 31100, Greece",,378.50467289719626,9.2,4 ,False,False,False,False,True,False,69.0,False,June,Lefkada
+ligustro,"ΟΔΟΣ ΑΝΑΠΑΥΣΕΩΣ ΑΠΟΛΠΑΙΝΑ ΛΕΥΚΑΔΑΣ, Lefkada, 31100, Greece",3.0,219.7674418604651,9.8,30 ,False,False,False,False,True,False,30.0,False,June,Lefkada
+Vice city studios,"ΖΑΠΡΑΛΗ 7, Lefkada, 31100, Greece",,218.0,,,False,False,False,False,False,False,34.0,False,June,Lefkada
+Georgias House,"Σταδίου, Lefkada, 31100, Greece",3.0,260.4166666666667,9.1,54 ,False,False,False,True,True,False,42.0,False,June,Lefkada
+Seaview Kaposantes Apartments,"Aggelou Sikelianou 38, Lefkada, 31100, Greece",3.0,730.0,7.5,78 ,True,False,False,True,True,False,95.0,False,June,Lefkada
+Christianna Studios,"Nikiana, Nikiana, 31100, Greece",,235.51401869158877,9.4,54 ,False,False,False,True,True,False,30.0,False,June,Lefkada
+Allure Wellness Retreat,"Αγία Μαρίνα Λευκάδας 00, Lefkada, 31100, Greece",,353.27102803738313,8.8,8 ,False,True,False,False,True,False,19.0,True,June,Lefkada
+Oikia Demetria Lefkas,"Επαρχιακή Οδός Λευκάδας - Βασιλικής, Nydri, 31084, Greece",4.0,609.0277777777778,,,True,False,False,True,True,False,60.0,False,June,Lefkada
+Camping Village Episkopos,"Episkopos Nikiana, Nikiana, 31100, Greece",,240.0,9.0,36 ,False,True,True,True,True,False,30.0,False,June,Lefkada
+Ionis Studios,"Agios Ioannis, Lefkada, Lefkada, 31100, Greece",,341.12149532710276,9.5,69 ,False,True,False,False,True,False,24.0,False,June,Lefkada
+Georgakis George Rooms,"Vasiliki, Vasiliki, 31082, Greece",3.0,160.41666666666669,8.9,13 ,False,False,False,True,True,False,22.0,False,June,Lefkada
+Frezia Apartment 2,"Stadiou, Lefkada, 31100, Greece",,0.0,10,8 ,False,False,False,False,True,False,,False,June,Lefkada
+Celine Deluxe Apartment,"Tsexlibou, Lefkada, 31100, Greece",4.0,757.0583070469253,10,8 ,False,False,False,True,True,False,145.0,False,June,Lefkada
+Villa Amolena,"Karya, Kariá, 31080, Greece",4.0,990.2286209424782,9.9,11 ,False,True,False,True,True,False,82.0,False,June,Lefkada
+Casa De Blue,"Καρυά, Kariá, 31080, Greece",,320.5607476635514,9.8,18 ,False,False,False,True,True,False,31.0,False,June,Lefkada
+Alkionis,"Apolpaina, Lefkada, 31100, Greece",3.0,260.4166666666667,9.1,67 ,False,True,False,True,True,False,20.0,False,June,Lefkada
+Arente Apartments,"Ioanni Karavela, Lefkada, 31100, Greece",,522.0239465807045,10,1 ,True,True,False,True,True,False,55.0,False,June,Lefkada
+Calypso Luxury Studios,"Vasiliki, Vasiliki, 31082, Greece",3.0,286.8303571428571,7.4,77 ,False,True,False,True,True,False,27.0,False,June,Lefkada
+Niriton Pension,"Nydri, Lefkada, Nydri, 31084, Greece",3.0,259.6606334841629,8.6,24 ,False,False,False,True,True,False,16.0,False,June,Lefkada
+Ionian Grand - Apartments,"35 Filarmonikis 1st Floor, Lefkada, 31100, Greece",3.0,320.0,9.1,17 ,False,False,False,True,False,False,50.0,False,June,Lefkada
+Kohyli,"Anapafseos 2, Lefkada, 31100, Greece",,260.74766355140184,8.6,171 ,False,False,False,True,True,False,30.0,False,June,Lefkada
+Sunrise Hotel Nikiana Lefkada,"Nikiana, Nikiana, 31100, Greece",2.0,330.0,9.2,167 ,False,True,True,False,False,False,33.0,False,June,Lefkada
+Scorpina Villas,"Agios Nikitas-Drymonas, Agios Nikitas, 31100, Greece",3.0,669.4444444444445,8.7,36 ,False,False,False,True,True,False,115.0,False,June,Lefkada
+Seadrop Suites,"Άγιοι Απόστολοι, Φρύνι, Lefkada, 31100, Greece",,378.0,,,False,True,False,True,True,False,24.0,False,June,Lefkada
+Pantheon Studios,"Nikiana, Nikiana, 31100, Greece",3.0,216.27906976744185,9.6,39 ,False,False,False,False,True,False,27.0,False,June,Lefkada
+Villa Vasso Maisonette,"Eparchiaki Odos Lefkas - Vasilikis 2, Nikiana, 31100, Greece",,418.6915887850467,8.2, 8 ,True,False,False,True,True,False,79.0,True,June,Lefkada
+Spiros House and Studios,"ΓΕΝΙ ΒΛΥΧΟΥ, Yenion, 31100, Greece",,511.214953271028,8.7,24 ,False,False,False,True,True,False,56.0,False,June,Lefkada
+Salome's home Lefkada,"Απόλπαινα, Apolpaina, 31100, Greece",,300.93457943925233,9.0,3 ,False,False,False,True,True,False,60.0,False,June,Lefkada
+Hotel Patrai,"1 Μεγανησίου, Lefkada, 31100, Greece",,231.79074446680082,,,False,False,False,True,False,False,30.0,False,June,Lefkada
+One Vision,"Lefkada, Nikiana, 31100, Greece",,305.607476635514,9.5,90 ,False,False,False,True,True,False,24.0,False,June,Lefkada
+The Dynasty Villas,"Syvotas Lefkada, Sivota, 31082, Greece",4.0,1712.0,8.6,33 ,True,True,False,True,True,False,130.0,True,June,Lefkada
+Arodo,"Anapafseos, Lefkada, 31100, Greece",3.0,259.6606334841629,9.6,47 ,False,False,False,True,True,False,30.0,False,June,Lefkada
+Levanda Cozy Apartments,"Apolpaina, Lefkada, 31100, Greece",3.0,315.27494908350303,8.5, 8 ,False,False,False,True,True,False,25.0,True,June,Lefkada
+COCO SUITES,"Επαρχιακή Οδός Λευκάδας - Βασιλικής, Vasiliki, 31082, Greece",3.0,376.0,9.4,35 ,False,False,False,False,True,False,30.0,False,June,Lefkada
+Averto,"Eparchiaki Odos Lefkas - Kato Exanthias Averto Hotel, Lefkada, 31100, Greece",,326.0,7.9,48 ,False,False,False,True,False,False,30.0,True,June,Lefkada
+Spyros perigiali houses,"Eparchiaki Odos Lefkas - Vasilikis, Nydri, 31100, Greece",,692.5233644859812,,,True,False,False,True,True,False,90.0,True,June,Lefkada
+Golden Star,"38.7087915, 20.7107911, Nydri, 31084, Greece",,342.0,9.0,23 ,True,True,True,True,True,False,32.0,False,June,Lefkada
+VASILIKI ROYAL STOUDIOS,"Βασιλική Λευκάδας , Vasiliki, 31082, Greece",3.0,258.0,9.1,25 ,False,False,False,False,True,False,24.0,False,June,Lefkada
+Branello Inn,"Lefkada center, Lefkada, 31100, Greece",,397.19626168224295,9.7,4 ,True,False,False,True,False,False,54.0,False,June,Lefkada
+Villa Veneziano,"Perigiali- Nidri, Nydri, 31100, Greece",,6414.953271028037,9.5,83 ,False,True,True,True,True,False,599.0,True,June,Lefkada
+Fabulous apt. w/breakfast near the sea!,"lefkada sivota, Sivota, 31082, Greece",3.0,646.0559796437659,8.2, 9 ,False,False,True,True,False,False,55.0,False,June,Lefkada
+Santas Rooms,"Asproyerakata Lefkada, Asprogerakata, 31080, Greece",3.0,160.0,8.9,13 ,False,False,False,False,True,False,22.0,False,June,Lefkada
+Thea Family Apartment 2,"Geni 2nd floor, Yenion, 31084, Greece",,921.5277777777778,9.6,8 ,False,False,False,True,True,False,110.0,True,June,Lefkada
+Nina's & Mara's Apartments,"Eparchiaki Odos Lefkas - Vasilikis, Lygia, 31100, Greece",,211.0,,,False,False,False,True,True,False,20.0,True,June,Lefkada
+Elena's Summer House,"Επαρχιακή Οδός Μαραντοχώριου - Ορμος Σύβοτας, Marantochori, 31082, Greece",4.0,334.34426349393414,,,False,True,False,False,True,False,25.0,True,June,Lefkada
+Avelia Blue,"Επαρχιακή Οδός Λευκάδας - Βασιλίκης, Asprogerakata, Greece",3.0,279.2374858361661,9.4,12 ,False,False,False,True,True,False,48.0,True,June,Lefkada
+Joy's House,"5 Marinou, Lefkada, 31100, Greece",4.0,570.3703703703703,9.7,3 ,False,False,False,False,False,False,90.0,False,June,Lefkada
+Zenstay Hotel,"ΑΓΙΟΣ ΝΙΚΟΛΑΟΣ ΛΕΥΚΑΔΑ, Áyios Nikólaos Nirás, 30002, Greece",,182.24299065420558,,,False,True,False,True,True,False,24.0,True,June,Lefkada
+WoodHome,"Λευκαδα Καλαμιτσι, Kalamitsi, 31080, Greece",4.0,519.7674418604652,,,False,False,False,True,True,False,49.0,False,June,Lefkada
+Pantheon Studios,"Nikiana, Nikiana, 31100, Greece",3.0,213.86389388788908,9.6,39 ,False,False,False,False,True,False,28.0,False,June,Lefkada
+Faidra's House,"Επαρχιακή Οδός Λευκάδας - Απόλπαινας, Lefkada, 31100, Greece",3.0,800.0,9.4,40 ,False,False,False,True,True,False,120.0,False,June,Lefkada
+Valena Studios,"Nydri, Nydri, 31084, Greece",3.0,322.09302325581393,8.6,23 ,False,False,True,True,False,False,40.0,False,June,Lefkada
+Lefkada Princess Junior Suite,"5 Σκιαδαρέση, Lefkada, 31100, Greece",,400.93457943925233,9.3,18 ,True,False,False,True,False,False,37.0,False,June,Lefkada
+House of Aggelos - Karya Lefkadas,"Καρυά, Kariá, 31080, Greece",,529.2307692307692,10,1 ,False,False,False,True,True,False,120.0,False,June,Lefkada
+Oscar Hotel,"Nidri Lefkadas, Nydri, 31084, Greece",2.0,235.33794571580628,7.0,113 ,True,True,True,True,True,False,15.0,True,June,Lefkada
+The Dynasty Villas,"Syvotas Lefkada, Sivota, 31082, Greece",4.0,1712.0,8.6,33 ,True,True,False,True,True,False,130.0,True,June,Lefkada
+Sivylla Apartments,"7 Κύπρου, Lefkada, 31100, Greece",3.0,450.0,9.5,17 ,False,False,False,True,False,False,46.0,False,June,Lefkada
+Okeanos Luxury Villas - Resort,"Athani Village, Athani, 31082, Greece",,3086.9158878504672,9.8,43 ,False,True,False,True,True,False,138.0,True,June,Lefkada
+metaxas house,"POROS 31084 LEFKADA, Mikros Gialos, 31084, Greece",,672.8971962616822,10,6 ,True,False,False,False,True,False,150.0,True,June,Lefkada
+Studios Niki B,"Agia Marina, Lefkadas, Lefkada, 31100, Greece",,260.74766355140184,9.5,12 ,False,False,False,True,True,False,40.0,False,June,Lefkada
+zafiri house,"Kavalos Sfakiotes, Kávallos, 31080, Greece",,481.86737278379,9.2,6 ,False,False,False,True,True,False,,False,June,Lefkada
+Locanda Villas,"Επαρχιακή Οδός Λευκάδας - Κάτω Εξανθείας, Lefkada, 31100, Greece",,875.7009345794391,,,True,True,False,True,True,False,79.0,False,June,Lefkada
+San Pedro,"Agios Petros-Lefkada, Vasiliki, 31082, Greece",3.0,147.66355140186914,8.0, 1 ,False,False,False,True,True,False,18.0,False,June,Lefkada
+ALMOND TREES,"Πλατύστομα, Platístoma, 31080, Greece",,442.15938303341903,9.0,3 ,True,False,False,False,True,False,100.0,True,June,Lefkada
+Lagkada Suites,"Ανώνυμος καρυα, Kariá, 31080, Greece",3.0,320.0,9.6,19 ,False,False,False,True,True,False,45.0,False,June,Lefkada
+Nikoleta Apartment A,"Epar.Od. Nikianas - Alexandrou 104, Nikiana, 31100, Greece",4.0,394.3054816391698,,,False,False,False,False,True,False,45.0,False,June,Lefkada
+Homer's Studio,"Nydri, Lefkada, Nydri, 31100, Greece",,220.56074766355138,7.5,25 ,False,False,False,True,True,False,19.0,True,June,Lefkada
+Menes Hotel,"Vliho Desimi, Yenion, 31100, Greece",3.0,380.55555555555554,7.7,47 ,True,True,True,False,True,True,25.0,False,June,Lefkada
+Camping & Rooms Kariotes,"Lefkada Kariotes street, Lygia, 31100, Greece",,260.74766355140184,8.7,12 ,False,True,True,False,True,True,35.0,False,June,Lefkada
+Zeus and Hera Apartments,"NIKIANA, Nikiana, 31100, Greece",3.0,431.94444444444446,9.6,18 ,False,False,False,True,True,False,75.0,False,June,Lefkada
+Menes Hotel,"Vliho Desimi, Yenion, 31100, Greece",3.0,375.57603686635946,7.7,47 ,True,True,True,False,True,True,25.0,False,June,Lefkada
+Camping & Rooms Kariotes,"Lefkada Kariotes street, Lygia, 31100, Greece",3.0,260.0,8.7,12 ,False,True,True,False,True,True,35.0,False,June,Lefkada
+Zeus and Hera Apartments,"NIKIANA, Nikiana, 31100, Greece",3.0,431.94444444444446,9.6,18 ,False,False,False,True,True,False,75.0,False,June,Lefkada
+To Ampelaki,"Antzouli, Tsoukaladhes, Tsoukalades, 31100, Greece",,260.74766355140184,9.0,7 ,False,False,False,True,True,False,37.0,True,June,Lefkada
+Bella Vista,"Perigiali, Nydri, 31100, Greece",,240.18691588785046,8.7,70 ,False,False,False,True,True,False,30.0,False,June,Lefkada
+Sofita attic,"Stadiou, Lefkada, 31100, Greece",,410.0,9.8,5 ,False,False,False,False,True,False,60.0,False,June,Lefkada
+Irinis House,"Κομηλιο Λευκάδα, Komílion, 31082, Greece",4.0,749.0814173111288,9.1,13 ,False,False,False,True,True,False,120.0,True,June,Lefkada
+Limonero New City Apartment 1 with Private Parking,"2 Ρήγα Φεραίου, Lefkada, 31100, Greece",3.0,375.4370217103562,7.7,39 ,False,False,False,True,True,False,37.0,True,June,Lefkada
+Thea Thalatta Villas,"Tsoukalades Lefkados, Tsoukalades, 31100, Greece",,778.2178217821782,,,False,True,False,True,True,False,40.0,False,June,Lefkada
+Tasias Home,"Eparchiaki Odos Lefkas - Vasilikis, Kondáraina, 31082, Greece",,143.92523364485982,,,False,False,False,False,False,False,30.0,False,June,Lefkada
+Faros Studios,"Lygia, Lygia, 31100, Greece",3.0,200.78286898457287,9.0,150 ,False,False,False,True,True,False,20.0,True,June,Lefkada
+Andry's Apartment,"14 Αγωνιστή Στράτου Τσέγιου, Lefkada, 31100, Greece",3.0,583.7209302325582,9.4,9 ,True,False,False,False,False,False,120.0,True,June,Lefkada
+Meliades villas,"Επαρχιακή Οδός Λευκάδας - Απόλπαινας, Apolpaina, 31100, Greece",,1122.429906542056,,,False,True,False,True,True,False,79.0,True,June,Lefkada
+Laertis Villa,"Επαρχιακή Οδός Κατούνης, Lygia, 31100, Greece",4.0,1296.0,10,3 ,False,True,False,False,True,False,16.0,False,June,Lefkada
+Katerina Holiday Studios,"Nikiana, Nikiana, 31100, Greece",3.0,329.32410856838743,9.3,27 ,False,False,False,True,False,False,38.0,False,June,Lefkada
+Estate Dafnopanagia Luxury Apartment Ourania,"D.D Karyas, Exantheias, Agiou Ilia, Nikoli Dimou Karyas, Sfakioton, Apollonion kai Ellomenou, Kariá, 31080, Greece",,300.0,8.6,9 ,False,True,False,True,True,False,40.0,False,June,Lefkada
+ΑΓΝΑΝΤΙΟ μεζονέτα 110 τ.μ.,"Σπανοχώρι Λευκάδας, Spanokhórion, 31080, Greece",3.0,550.9896901723633,,,False,False,False,True,True,False,110.0,False,June,Lefkada
+Gianna Studios,"Perigiali, Nydri, 31100, Greece",,196.26168224299064,8.5, 34 ,True,False,False,False,True,False,19.0,False,June,Lefkada
+DeSquare 1,"Lefkadios Hern 4, Lefkada, 31100, Greece",,288.78504672897196,8.6,18 ,False,False,False,False,False,False,40.0,False,June,Lefkada
+Spyros perigiali houses,"Επαρχιακή Οδός Λευκάδας - Βασιλικής, Nydri, 31100, Greece",,685.981308411215,,,True,False,False,True,True,False,90.0,True,June,Lefkada
+Seaside Family House,"Επαρχιακή Οδός Λευκάδας - Βασιλικής Επίσκοπος, Nikiana, 31100, Greece",,513.0841121495326,9.0,10 ,False,False,False,True,True,False,69.0,True,June,Lefkada
+Remvi House,"Επαρχιακή Οδός Λευκάδας - Κάτω Εξανθείας, Lefkada, 31100, Greece",,680.0,9.1,9 ,False,False,False,True,False,False,120.0,False,June,Lefkada
+Casa Nostos,"Ammuso bay Marandokori, Vasiliki, 31082, Greece",3.0,364.0,9.3,28 ,False,False,False,True,True,False,65.0,True,June,Lefkada
+Zephyros one bedroom Villa,"Kalamitsi, Kalamitsi, 31080, Greece",,793.4579439252336,10,1 ,False,True,False,False,True,False,49.0,False,June,Lefkada
+AnKo & AnKo 1,"Νυδρί Λευκάδα Greece, Nydri, 31084, Greece",3.0,260.0,8.9,78 ,False,False,False,False,True,False,15.0,False,June,Lefkada
+Thea family apartments 3,"Λευκάδα Γενι, Yenion, 31081, Greece",,478.00751879699243,9.7,3 ,False,False,False,False,True,False,,True,June,Lefkada
+Maria Apartments,"Apoplaina Vardas, Lefkada, 31100, Greece",,320.5607476635514,9.2,9 ,False,False,False,True,True,False,35.0,False,June,Lefkada
+Vila kavalina Leukada Kavalos,"Kavalos Lefkada, Asprogerakata, 37011, Greece",,422.4299065420561,,,False,True,False,False,True,False,60.0,False,June,Lefkada
+Marathos Apartment,"68 Πεφανερωμενης, Lefkada, 31100, Greece",3.0,321.24107759613173,9.5,15 ,False,False,False,True,True,False,50.0,False,June,Lefkada
+Seaview Rooms,"ponti vasiliki, Vasiliki, 31082, Greece",,228.0373831775701,8.4, 39 ,False,False,False,True,True,False,19.0,False,June,Lefkada
+Oceanida Ipothoi,"Epar.Od. Lefkas - Vasilikis, Nikiana, 31100, Greece",4.0,1175.0,,,False,True,False,False,True,False,100.0,False,June,Lefkada
+Ionion Fos,"Nikiana, Nikiana, 31100, Greece",3.0,598.7828812244215,9.1,66 ,False,False,False,True,True,False,95.0,False,June,Lefkada
+"La Casa di Caterina: Nature,Relax and Private Garden","Vardania,Lefkada vardania, Lefkada, 31100, Greece",4.0,500.0,8.5, 24 ,True,False,False,True,True,False,100.0,True,June,Lefkada
+Sun And Stone,"ΕΠΙ ΑΓΡΟΤΕΜΑΧΙΟΥ, ΕΓΚΡΕΜΝΟΙ, Athani, 31100, Greece",,962.6168224299065,9.5,15 ,False,False,False,True,True,False,69.0,False,June,Lefkada
+FORTI RETREAT,"FONTI RETREAT, Kariotes, 31100, Greece",3.0,429.06976744186045,9.2,6 ,False,False,False,True,True,False,44.0,False,June,Lefkada
+Tajo VIllas,"Athani Lefkadas, Athani, 31082, Greece",4.0,839.4736842105262,8.5, 14 ,True,False,True,True,True,False,120.0,True,June,Lefkada
+John&Effie's Studio,"Eparchiaki Odos Lefkas - Vasilikis, Lygia, 31100, Greece",3.0,385.5361596009975,9.6,5 ,False,False,False,False,True,False,48.0,True,June,Lefkada
+Filippa's Katoi,"Drimonas, Drymon, 30008, Greece",,437.38317757009344,9.6,11 ,False,False,False,False,False,False,69.0,True,June,Lefkada
+Nonikaas house 2,"Επαρχιακή Οδός Λευκάδας - Κάτω Εξανθείας, Tsoukalades, 31100, Greece",,198.1308411214953,8.8,9 ,False,False,False,False,True,False,44.0,False,June,Lefkada
+Poly's Villa Lefkada,"Lefkadas, Lefkada, 31100, Greece",3.0,852.2648154830396,9.5,10 ,True,False,False,True,True,False,100.0,True,June,Lefkada
+Angello Villas,"Επαρχιακή Οδός Λευκάδας - Κάτω Εξανθείας, Agios Nikitas, 31100, Greece",3.0,805.4315740797695,9.5,13 ,True,False,False,True,True,False,70.0,False,June,Lefkada
+IL SOGNO LEFKAS,"Eparchiaki Odos Nikianas - Alexandrou, Nikiana, 31100, Greece",,641.1214953271028,9.5,6 ,False,False,False,True,True,False,129.0,False,June,Lefkada
+Kontrata Cottage,"Πινακοχώρι, Pinakokhórion, 31080, Greece",,320.0,7.2,5 ,True,False,False,True,True,False,100.0,False,June,Lefkada
+Irida's Guesthouse,"Επαρχιακή οδός Νικιάνας - Αλεξάνδρου, Nikiana, 31100, Greece",3.0,359.524886877828,9.1,8 ,False,False,False,False,True,False,45.0,False,June,Lefkada
+Odysseus journey,"Επαρχιακή οδός Νικιάνας - Αλεξάνδρου, Nikiana, 31100, Greece",4.0,602.0,10,3 ,False,True,False,True,True,False,50.0,False,June,Lefkada
+Gemareia Lodge,"Ιωάννου Γαζή 7, Lefkada, 31100, Greece",,400.93457943925233,10,8 ,False,False,False,False,False,False,60.0,False,June,Lefkada
+Casa Maria,"Επαρχιακή Οδός Λευκάδας - Βασιλικής, Nydri, 31100, Greece",3.0,600.0,,,False,False,False,False,True,False,100.0,False,June,Lefkada
+Silencio Villas,"3rd Km Lefkada - Karya, Lefkada, 31100, Greece",4.0,380.55555555555554,9.4,54 ,False,False,False,True,True,False,45.0,False,June,Lefkada
+Argyros Studios,"Perigiali Ellomenou, Nydri, 31100, Greece",3.0,182.0,9.4,41 ,True,False,False,True,True,False,17.0,False,June,Lefkada
+Labrinis City Apartment,"Φιλοσόφων, Lefkada, 31100, Greece",4.0,320.0,,,False,False,False,True,True,False,75.0,False,June,Lefkada
+Seaside resort Vasiliki,"Ponti Vasiliki, Vasiliki, 31082, Greece",,1405.4570573336403,9.2,6 ,False,True,False,True,True,False,30.0,False,June,Lefkada
+Trocolo Apartments,"Trocolo Cafe Bar Sivota bay, Sivota, 31082, Greece",3.0,172.74436090225564,6.7,24 ,False,False,False,True,False,False,30.0,True,June,Lefkada
+Eva's Apartment,"ΝΥΔΡΙ ΛΕΥΚΑΔΑΣ 1ος, Nydri, 31084, Greece",,882.2429906542055,,,False,False,False,False,True,False,126.0,False,June,Lefkada
+Zoggos Apartment,"Eparchiaki Odos Lefkas - Vasilikis, Ágios Pétros, 31082, Greece",3.0,594.0,9.0,1 ,False,False,False,False,True,False,62.0,False,June,Lefkada
+Gialos,"Yénion, Yenion, 31100, Greece",,200.93457943925233,8.7,60 ,False,False,False,False,True,False,,False,June,Lefkada
+"KOTSERIS LUXURY VILLAS, Jiovanni Villa & Angelina Villa","Συβοτα Λευκάδας, Sivota, 31082, Greece",4.0,3100.0,10,5 ,False,True,False,True,True,False,120.0,True,June,Lefkada
+Dimitra Studios Nidri,"ΜΕΓΑΛΟ ΑΥΛΑΚΙ ΝΥΔΡΙ ΕΠΑΡΧΙΑΚΗ ΛΕΥΚΑΔΑΣ - ΒΑΣΙΛΙΚΗΣ 208, Nydri, 31100, Greece",3.0,199.624765478424,9.4,11 ,False,False,False,False,True,False,20.0,True,June,Lefkada
+Dream on houses,"Konstantinoy Leykadioy Thermoy, Lefkada, 31100, Greece",,476.0,,,False,False,False,True,True,False,47.0,True,June,Lefkada
+Anemomilos Villa,"Κάβαλος, Asprogerakata, 31080, Greece",,922.4299065420561,9.7,4 ,False,True,False,False,True,False,54.0,False,June,Lefkada
+center apartments,"Filippa Panagou 0, Lefkada, 31100, Greece",3.0,240.0,6.4,38 ,True,False,False,True,True,False,20.0,True,June,Lefkada
+Villa Milia,"Ayios Nikitas, Agios Nikitas, 31080, Greece",3.0,652.5628207691794,9.0,73 ,False,True,False,True,True,False,70.0,True,June,Lefkada
+to mikro boutique apartment,"Ιωάννη Καραβέλα, Lefkada, 31100, Greece",3.0,297.6923076923077,6.0,1 ,False,False,False,False,True,False,32.0,False,June,Lefkada
+VK Villas,"Apolpaina, Apolpaina, 31100, Greece",4.0,720.8333333333334,9.4,12 ,False,True,False,True,True,False,87.0,False,June,Lefkada
+Lefkas Centre-Ville Apt,"21 Εθνικής Αντιστάσεως 1st floor, Lefkada, 31100, Greece",,400.0,,,False,False,False,False,False,False,,False,June,Lefkada
+Momento Luxury Apartments walking distance from the beach,"Επίσκοπος Νικιάνα Λευκάδα, Nikiana, 31100, Greece",,481.30841121495325,,,False,False,False,True,False,False,30.0,False,June,Lefkada
+VICTORIA'S HOUSE IN LEFKADA CITY,"2 Riga Fereou, Lefkada, 31100, Greece",3.0,552.0,9.2,9 ,False,False,False,True,True,False,60.0,False,June,Lefkada
+Politia Hotel,"Agios Nikitas, Agios Nikitas, 31080, Greece",,260.74766355140184,7.4,25 ,False,True,True,False,True,True,20.0,False,June,Lefkada
+Diodati Villas,"2nd km of Nikianas - Alexandrou Road, Nikiana, 31100, Greece",,1603.7383177570093,9.9,11 ,False,True,False,True,True,False,150.0,True,June,Lefkada
+"Spacious House With Sea View , Athani Lefkada","Επαρχιακή Οδός - Ακρωτηρίου Λευκάτας, Athani, 31082, Greece",,719.7793357914358,,,True,False,False,True,True,False,75.0,True,June,Lefkada
+Skyfall Villa,"katouna, Lygia, 31100, Greece",4.0,2372.3502304147464,9.7,3 ,True,True,False,False,True,False,270.0,False,June,Lefkada
+Spiro's Apartment,"Parodos Pefaneromenis, Lefkada, 31100, Greece",,266.3551401869159,8.9,20 ,True,False,False,True,True,False,40.0,False,June,Lefkada
+Nicks cosy apartment,"ΚΟΥΖΟΥΜΠΕΗ ΛΕΥΚΑΔΑΣ ΙΣΟΓΕΙΟ, Lefkada, 31100, Greece",,572.8971962616822,8.1, 15 ,False,False,False,True,True,False,54.0,True,June,Lefkada
+AK View Apartments,"Φρύνι, Lefkada, 31100, Greece",3.0,320.0,9.6,42 ,True,False,False,False,False,False,27.0,False,June,Lefkada
+Sunny and Central apartment in Lefkada,"Επαρχιακή Οδός Λευκάδας - Νυδριού Κτήριο, 1ος όροφος, Lefkada, 31100, Greece",,237.3525294941012,9.4,5 ,False,False,False,False,False,False,42.0,False,June,Lefkada
+Stella 's Sea Front Apartments,"Yénion, Yenion, 31100, Greece",4.0,462.0,9.2,11 ,True,True,False,True,True,False,62.0,True,June,Lefkada
+Dimitra Studios Nidri,"ΜΕΓΑΛΟ ΑΥΛΑΚΙ ΝΥΔΡΙ ΕΠΑΡΧΙΑΚΗ ΛΕΥΚΑΔΑΣ - ΒΑΣΙΛΙΚΗΣ 208, Nydri, 31100, Greece",3.0,202.67857142857142,9.4,11 ,False,False,False,False,True,False,20.0,True,June,Lefkada
+Dream on houses,"Konstantinoy Leykadioy Thermoy, Lefkada, 31100, Greece",,477.57009345794387,,,False,False,False,True,True,False,47.0,True,June,Lefkada
+Anemomilos Villa,"Κάβαλος, Asprogerakata, 31080, Greece",,922.4299065420561,9.7,4 ,False,True,False,False,True,False,54.0,False,June,Lefkada
+center apartments,"Filippa Panagou 0, Lefkada, 31100, Greece",3.0,240.0,6.4,38 ,True,False,False,True,True,False,20.0,True,June,Lefkada
+Efthalia Apartments & Studios,"Eparchiaki Odos Lefkas - Vasilikis Νυδρί, Λευκάδας, Nydri, 31084, Greece",,360.0,9.0,57 ,False,False,False,True,True,False,,False,June,Lefkada
+to mikro boutique apartment,"Ιωάννη Καραβέλα, Lefkada, 31100, Greece",,325.23364485981307,6.0,1 ,False,False,False,False,True,False,31.0,False,June,Lefkada
+VK Villas,"Apolpaina, Apolpaina, 31100, Greece",4.0,780.0,9.4,12 ,False,True,False,True,True,False,87.0,False,June,Lefkada
+Lefkas Centre-Ville Apt,"21 Εθνικής Αντιστάσεως 1st floor, Lefkada, 31100, Greece",,96539.2523364486,,,False,False,False,False,False,False,,False,June,Lefkada
+Momento Luxury Apartments walking distance from the beach,"Επίσκοπος Νικιάνα Λευκάδα, Nikiana, 31100, Greece",,479.06976744186045,,,False,False,False,True,False,False,30.0,False,June,Lefkada
+VICTORIA'S HOUSE IN LEFKADA CITY,"2 Riga Fereou, Lefkada, 31100, Greece",,601.8691588785047,9.2,9 ,False,False,False,True,True,False,60.0,False,June,Lefkada
+Steven,"Vasilikí, Vasiliki, 31082, Greece",,240.18691588785046,9.7,111 ,False,False,False,True,True,False,27.0,False,June,Lefkada
+Politia Hotel,"Agios Nikitas, Agios Nikitas, 31080, Greece",,260.74766355140184,7.4,25 ,False,True,True,False,True,True,20.0,False,June,Lefkada
+Diodati Villas,"2nd km of Nikianas - Alexandrou Road, Nikiana, 31100, Greece",,1603.7383177570093,9.9,11 ,False,True,False,True,True,False,150.0,True,June,Lefkada
+"Spacious House With Sea View , Athani Lefkada","Επαρχιακή Οδός - Ακρωτηρίου Λευκάτας, Athani, 31082, Greece",,714.2857142857142,,,True,False,False,True,True,False,75.0,True,June,Lefkada
+Skyfall Villa,"katouna, Lygia, 31100, Greece",,2405.607476635514,9.7,3 ,True,True,False,False,True,False,269.0,False,June,Lefkada
+Spiro's Apartment,"Parodos Pefaneromenis, Lefkada, 31100, Greece",3.0,265.656108597285,8.9,20 ,True,False,False,True,True,False,35.0,False,June,Lefkada
+Nicks cosy apartment,"ΚΟΥΖΟΥΜΠΕΗ ΛΕΥΚΑΔΑΣ ΙΣΟΓΕΙΟ, Lefkada, 31100, Greece",,544.4444444444445,8.1, 15 ,False,False,False,True,True,False,55.0,True,June,Lefkada
+AK View Apartments,"Φρύνι, Lefkada, 31100, Greece",3.0,321.0717529518619,9.6,42 ,True,False,False,False,False,False,27.0,False,June,Lefkada
+Sunny and Central apartment in Lefkada,"Επαρχιακή Οδός Λευκάδας - Νυδριού Κτήριο, 1ος όροφος, Lefkada, 31100, Greece",,250.0,9.4,5 ,False,False,False,False,False,False,42.0,False,June,Lefkada
+Stella 's Sea Front Apartments,"Yénion, Yenion, 31100, Greece",,460.74766355140184,9.2,11 ,True,True,False,True,True,False,61.0,True,June,Lefkada
+Lefkada Triola Apartments,"Mitropoleos 20, Lefkada, 31100, Greece",,582.2429906542055,8.9,32 ,False,False,False,True,False,False,27.0,False,June,Lefkada
+Casa Smaragdi Villas,"Agios Ioannis Lefkada, Lefkada, 31100, Greece",4.0,1396.572398190045,9.0,7 ,False,True,False,False,True,False,92.0,False,June,Lefkada
+Porto Nirikos,"Kaligoni, Lefkada, 31100, Greece",3.0,241.23711340206185,8.7,32 ,True,False,False,True,True,False,35.0,True,June,Lefkada
+"Lefkada Blue Luxury Apartments B7, Perigiali top floor","Eparchiaki Odos Lefkas - Vasilikis B7 Penthouse, Nydri, 31100, Greece",,593.4579439252336,,,False,False,False,True,True,False,39.0,False,June,Lefkada
+Lefkada Unique Sea View Apartment,"Επαρχιακή Οδός Λευκάδας - Βασιλικής, Nydri, 31100, Greece",,352.0,9.2,6 ,False,False,False,True,True,False,30.0,False,June,Lefkada
+Lefkada Unique Sea View Apartment,"Επαρχιακή Οδός Λευκάδας - Βασιλικής, Nydri, 31100, Greece",,353.3732443011743,9.2,6 ,False,False,False,True,True,False,30.0,False,June,Lefkada
+Ziv Beach Front Penthouses,"Λυγιά Λευκάδας, Lygia, 31100, Greece",,428.9719626168224,9.2,6 ,False,False,False,True,True,False,41.0,False,June,Lefkada
+Platanos,"Επαρχιακή Οδός Λευκάδας - Βασιλικής, Vasiliki, 31082, Greece",,1202.803738317757,9.9,7 ,False,False,False,True,True,False,219.0,False,June,Lefkada
+Panorama Rooms and Apartments,"Eparchiaki Odos Lefkas - Vasilikis, Póndi, 31082, Greece",3.0,685.0,9.9,8 ,False,False,False,True,True,False,60.0,False,June,Lefkada
+Aggelina,"Nydri, Nydri, 31084, Greece",3.0,202.0,8.6,75 ,False,True,False,True,False,False,23.0,True,June,Lefkada
+Nisos,"Genion, Yenion, 31100, Greece",,296.9924812030075,8.7,4 ,False,False,False,False,True,False,33.0,False,June,Lefkada
+Amelia Villa,"Eparchiaki Odos Nikianas - Alexandrou 370 Coordinate: 38.746428, 20.725846 - Building No.12 - Mobile: +306979200126, Nikiana, 31100, Greece",,660.3383458646616,,,False,True,False,True,True,False,90.0,True,June,Lefkada
+LAURA_SEA VIEW_HOUSE,"ΚΑΤΟΥΝΑ ΛΥΓΙΑ, Katouna, 31100, Greece",,854.6874999999999,9.0,1 ,False,True,False,True,True,False,70.0,False,June,Lefkada
+Oceanida apartment vasso B,"Epar.Od. Lefkas - Vasilikis, Nikiana, 31100, Greece",,733.644859813084,,,False,True,False,False,True,False,49.0,False,June,Lefkada
+NALIEMA,"7 Παπαφλέσσα, Lefkada, 31100, Greece",,521.4953271028037,9.7,6 ,False,False,False,True,False,False,74.0,False,June,Lefkada
+Santa Maria Rooms,"Country Road of St.Nikita-Kalamitsiou, Agios Nikitas, 31100, Greece",,232.71028037383175,8.4, 55 ,False,False,False,False,True,False,19.0,False,June,Lefkada
+Garden House Lefkada,"Λυγια Λευκαδας Λυγιά Λευκάδας, Lygia, 31100, Greece",,376.3888888888889,9.7,3 ,True,False,False,True,True,False,40.0,False,June,Lefkada
+Kosta n`tina Guest House,"Doxara 2, Lefkada, 31100, Greece",3.0,398.0,10,2 ,False,False,False,True,False,False,90.0,True,June,Lefkada
+Lampros House Agios Ioannis - LefkadaBnB,"Agios Ioannis Lefkada, Lefkada, 31100, Greece",,240.18691588785046,,,False,False,False,False,True,False,40.0,False,June,Lefkada
+Frezia Apartment 1,"Stadiou, Lefkada, 31100, Greece",,381.30841121495325,8.0, 1 ,False,False,False,False,True,False,34.0,False,June,Lefkada
+George's Apartment,"Katouna, Lefkada, 31100, Greece",3.0,259.4611662769406,9.2,13 ,False,False,False,True,False,False,50.0,True,June,Lefkada
+Rachi Home,"rachi lefkadas, Nydri, 31100, Greece",3.0,439.4230769230769,7.7,3 ,False,False,False,True,False,False,90.0,False,June,Lefkada
+Konstantino's House,"Eparchiaki Odos Karias - Sivrou, Áyios Ilías, 31100, Greece",3.0,306.3653935879491,10,3 ,False,False,False,False,True,False,100.0,False,June,Lefkada
+Villa Auriga,"Sivota Village, Sivota, 31082, Greece",4.0,5939.0,,,True,True,True,False,True,False,200.0,True,June,Lefkada
+Pretty Home,"6 Sevreon, Lefkada, 31100, Greece",3.0,422.0,9.2,6 ,False,False,False,False,False,False,70.0,True,June,Lefkada
+Niki's Apartment,"Apolpena, Lefkada, 31100, Greece",,352.0,9.0,3 ,False,False,False,True,True,False,43.0,True,June,Lefkada
+Balver Luxury Apartments,"ΚΑΡΥΩΤΕΣ, Lygia, 31100, Greece",,721.4953271028037,9.1,17 ,False,False,False,True,True,False,85.0,False,June,Lefkada
+Casa de la Vita,"Κατωχώρι, Katokhórion, 31100, Greece",,321.0717529518619,10,2 ,True,False,False,True,True,False,44.0,False,June,Lefkada
+VILLA DAMIANI SUPERIOR STAY NEAR BEACH,"Επαρ.Οδ. Λευκάδας - Βασιλικής, Νικιάνα, Nikiana, 31100, Greece",3.0,612.9032258064516,7.1,9 ,False,False,False,True,True,False,120.0,True,June,Lefkada
+MAISTRA APARTHOTEL,"Eparchiaki Odos Lefkas - Vasilikis, Lygia, 31100, Greece",3.0,414.0,10,1 ,False,True,False,True,False,False,32.0,False,June,Lefkada
+Villa Asterias,"Sivota Blue Cave Villas, Sivota, 31082, Greece",4.0,2724.5682707805663,10,2 ,True,True,False,False,True,False,85.0,False,June,Lefkada
+"Private, pool, sunsets, beaches, amenities - Eleni","Athani, Lefkada, Greece, Athani, 31082, Greece",,1397.196261682243,9.0,2 ,False,True,False,True,True,False,99.0,True,June,Lefkada
+Red,"Επαρχιακή Οδός Λευκάδας - Βασιλικής 1, Vlikhon, 31100, Greece",,940.9722222222223,,,False,False,False,False,True,False,100.0,False,June,Lefkada
+RIZOMATA LUXURY VILLAS,"ΑΓΙΟΣ ΙΩΑΝΝΗΣ ΛΕΥΚΑΔΑΣ, Lefkada, 31100, Greece",4.0,888.0,9.7,3 ,False,False,False,False,True,False,62.0,False,June,Lefkada
+Ola Kala Apartments and Rooms,"Eparchiaki Odos Lefkas - Vasilikis, Vlikhon, Greece",3.0,165.3846153846154,9.1,123 ,False,False,False,False,True,False,20.0,False,June,Lefkada
+Elichrison Studios,"Eparchiaki Odos Koutounis, Lygia, 31100, Greece",,721.4953271028037,9.7,23 ,False,False,False,True,True,False,,False,June,Lefkada
+Arokaria Apartment,"Αγίου Παντελεήμονος, Lefkada, 31100, Greece",,521.4953271028037,9.8,17 ,False,False,False,False,True,False,90.0,False,June,Lefkada
+Ponti Bay Apartments,"Eparchia Odas Lefkas Vasilikis, Vasiliki, 31082, Greece",,561.6822429906541,7.2,25 ,False,False,True,False,True,True,24.0,False,June,Lefkada
+Virginia studio 3,"Agios Ioannis Lefkadas, Lefkada, 31100, Greece",,366.3551401869159,,,False,False,False,False,True,False,26.0,True,June,Lefkada
+Pavezzo Country Retreat,"Katouna, Katouna, 31100, Greece",,621.4953271028037,9.4,47 ,True,False,False,True,True,True,44.0,True,June,Lefkada
+Camelia Studios,"Geni, Vlicho, Lefkada, Yenion, 31100, Greece",3.0,220.13888888888889,9.5,142 ,False,False,False,True,True,False,23.0,True,June,Lefkada
+Karya House,"Καρυα Καρυα, Kariá, 31080, Greece",,325.23364485981307,7.2,11 ,False,False,False,True,True,False,69.0,True,June,Lefkada
+Μπουκαμβίλια - Bougainvillea,"Eparchiaki Odos Marantochoriou - Ormos Sivotas second floor, Sivota, 31082, Greece",3.0,582.2588072760765,8.6,9 ,False,False,False,False,True,False,60.0,False,June,Lefkada
+Villa Gerasimoula,"ΟΔΗΓΗΤΡΙΑ, Lefkada, 31100, Greece",,962.6168224299065,9.5,28 ,False,False,False,True,True,False,74.0,False,June,Lefkada
+Kantounia Stonehouse,"Βαυκερη Λευκάδος, Vavkerí, 31080, Greece",3.0,259.30232558139534,10,1 ,False,False,False,False,True,False,40.0,True,June,Lefkada
+Amousso Beach Villas,"Marantochori - Amousso, Marantochori, 31082, Greece",,1242.9906542056074,9.3,9 ,False,True,False,True,True,False,44.0,False,June,Lefkada
+Villa Eloiza,"Ag. Christoforos, Nydri, 31100, Greece",3.0,534.0778263872899,8.6,5 ,False,False,False,True,True,False,100.0,False,June,Lefkada
+Villa Altina,"Agios Ioannis, Lefkada, 31100, Greece",4.0,563.8392857142857,8.3, 32 ,False,True,False,False,True,False,100.0,False,June,Lefkada
+Sofias Room,"Eparchiaki Odos Marantochoriou - Ormos Sivotas, Marantochori, 31082, Greece",3.0,234.0277777777778,10,3 ,False,False,False,False,True,False,44.0,False,June,Lefkada
+Oceanida apartment,"Epar.Od. Lefkas - Vasilikis, Nikiana, 31100, Greece",4.0,1266.0008791325893,,,False,True,False,False,True,False,120.0,False,June,Lefkada
+Holiday Lefkas Moonlight Luxury Appartments,"Eparchiaki Odos Lefkas - Vasilikis, Nikiana, Greece",,400.0,9.7,12 ,False,False,False,True,True,False,110.0,False,June,Lefkada
+Eleana Studios,"Agios Ioannis Lefkadas, Lefkada, 31100, Greece",3.0,227.64113843897886,9.3,73 ,False,False,False,False,True,False,20.0,False,June,Lefkada
+Rachi Apartments,"Rachi, Nydri, 31084, Greece",3.0,381.47593829150355,6.3,6 ,False,False,False,True,False,False,45.0,True,June,Lefkada
+An amazing place for you! GIANNAS HOME,"Evgiros, Évyiros, 31082, Greece",3.0,360.0,9.6,5 ,False,False,False,True,True,False,60.0,False,June,Lefkada
+Villas Goudis,"Tsoukaládhes, Tsoukalades, 31100, Greece",4.0,2161.8055555555557,9.5,44 ,True,False,False,True,True,False,140.0,True,June,Lefkada
+Elichrison Studios,"Eparchiaki Odos Koutounis, Lygia, 31100, Greece",3.0,720.0,9.7,23 ,False,False,False,True,True,False,,False,June,Lefkada
+Arokaria Apartment,"Αγίου Παντελεήμονος, Lefkada, 31100, Greece",4.0,520.0,9.8,17 ,False,False,False,False,True,False,90.0,False,June,Lefkada
+Ponti Bay Apartments,"Eparchia Odas Lefkas Vasilikis, Vasiliki, 31082, Greece",3.0,561.1111111111111,7.2,25 ,False,False,True,False,True,True,25.0,False,June,Lefkada
+Virginia studio 3,"Agios Ioannis Lefkadas, Lefkada, 31100, Greece",,366.3551401869159,,,False,False,False,False,True,False,26.0,True,June,Lefkada
+VILLA PINEA - Newly built modern villa with Sea access,"Amousso Bay, Évyiros, 31082, Greece",,3293.0,,,False,True,False,False,True,False,,True,June,Lefkada
+Karya House,"Καρυα Καρυα, Kariá, 31080, Greece",,324.0325865580448,7.2,11 ,False,False,False,True,True,False,70.0,True,June,Lefkada
+Μπουκαμβίλια - Bougainvillea,"Eparchiaki Odos Marantochoriou - Ormos Sivotas second floor, Sivota, 31082, Greece",3.0,635.3092783505155,8.6,9 ,False,False,False,False,True,False,60.0,False,June,Lefkada
+Kantounia Stonehouse,"Βαυκερη Λευκάδος, Vavkerí, 31080, Greece",3.0,260.0,10,1 ,False,False,False,False,True,False,40.0,True,June,Lefkada
+Villa Eloiza,"Ag. Christoforos, Nydri, 31100, Greece",3.0,533.6658354114713,8.6,5 ,False,False,False,True,True,False,100.0,False,June,Lefkada
+Villa Altina,"Agios Ioannis, Lefkada, 31100, Greece",,561.6822429906541,8.3, 32 ,False,True,False,False,True,False,99.0,False,June,Lefkada
+Villa Galini,"Nikiana, Nikiana, 31100, Greece",,133.6448598130841,7.7,349 ,True,False,False,True,False,False,18.0,False,June,Lefkada
+Sofias Room,"Eparchiaki Odos Marantochoriou - Ormos Sivotas, Marantochori, 31082, Greece",3.0,234.0277777777778,10,3 ,False,False,False,False,True,False,44.0,False,June,Lefkada
+Oceanida apartment,"Epar.Od. Lefkas - Vasilikis, Nikiana, 31100, Greece",,1271.0280373831774,,,False,True,False,False,True,False,120.0,False,June,Lefkada
+Holiday Lefkas Moonlight Luxury Appartments,"Eparchiaki Odos Lefkas - Vasilikis, Nikiana, Greece",,370.65880896705806,9.7,12 ,False,False,False,True,True,False,110.0,False,June,Lefkada
+Rachi Apartments,"Rachi, Nydri, 31084, Greece",,381.30841121495325,6.3,6 ,False,False,False,True,False,False,40.0,True,June,Lefkada
+An amazing place for you! GIANNAS HOME,"Evgiros, Évyiros, 31082, Greece",3.0,361.2170753860127,9.6,5 ,False,False,False,True,True,False,60.0,False,June,Lefkada
+Casa memories,"Περιβόλια, Lefkada, 31100, Greece",,288.78504672897196,9.3,11 ,False,False,False,True,True,False,30.0,False,June,Lefkada
+EYANTHIA HOUSE,"Eparchiaki Odos Lefkas - Vasilikis, Nikiana, 31100, Greece",,520.0,7.0,1 ,True,False,False,False,True,False,100.0,True,June,Lefkada
+Guest house TSANES,"Πινακοχώρι, Pinakokhórion, 31100, Greece",3.0,440.08508302456426,10,4 ,False,False,False,False,True,False,25.0,False,June,Lefkada
+Ionian White - Apartment C,"Stadiou, Lefkada, 31100, Greece",,432.7102803738318,10,4 ,False,False,False,False,True,False,69.0,False,June,Lefkada
+Lagoon View villa,"Vardania, Lefkada, 31100, Greece",,1202.803738317757,9.0,9 ,False,True,False,True,True,False,99.0,True,June,Lefkada
+Lefkada Beachfront Apartment,"Eparchiaki Odos Lefkas - Vasilikis Nikiana, Nikiana, 31100, Greece",,960.0,9.2,4 ,False,False,False,False,True,False,85.0,False,June,Lefkada
+Μaria Αpartments,"Eparchiaki Odos Lefkadas-Apolpainas Vardas, Lefkada, 31100, Greece",,320.5607476635514,9.0,3 ,False,False,False,True,True,False,35.0,False,June,Lefkada
+Kostel studio,"Περιβολια, Lefkada, 31100, Greece",,220.56074766355138,9.1,12 ,False,False,False,False,True,False,27.0,False,June,Lefkada
+Pergola Casa,"Επτανήσων, Katouna, 31100, Greece",4.0,587.0,10,1 ,False,False,False,False,True,False,180.0,True,June,Lefkada
+"Lefkada Blue Luxury Apartments, Perigiali A6 top floor","Eparchiaki Odos Lefkas - Vasilikis third, Nydri, 31100, Greece",,546.4285714285713,8.8,5 ,False,False,False,True,True,False,37.0,False,June,Lefkada
+Urban Chic Apartments Lefkada,"Μπουμπουλίνας σε Μακρή και Μπουμπουλίνας, Lefkada, 31100, Greece",3.0,960.0,9.3,3 ,False,False,False,False,True,False,70.0,False,June,Lefkada
+Amarandos Villas,"Μαραντοχώρι (Αμμούσω) Λευκάδα, Marantochori, 31082, Greece",4.0,1281.4814814814813,9.5,22 ,False,True,False,True,True,False,90.0,False,June,Lefkada
+Meltheane,"Karyotes, Lygia, 31100, Greece",,441.12149532710276,,,False,False,False,True,True,False,27.0,False,June,Lefkada
+Fetsis Apartments,"Agios Nikitas, Agios Nikitas, 31080, Greece",3.0,961.6279069767442,9.2,32 ,True,False,False,True,False,False,35.0,True,June,Lefkada
+Villa Spitaki,"EPISKOPOS LEFKADAS, Nikiana, 31100, Greece",4.0,1238.0323935212957,9.7,11 ,True,False,False,False,True,False,90.0,False,June,Lefkada
+Hercules Studio,"Eparchiaki Odos Lefkas - Vasilikis, Vasiliki, 31082, Greece",,554.8611111111111,7.2,6 ,False,False,True,False,True,False,20.0,True,June,Lefkada
+Appaggio Villa Theia,"Eparchiaki Odos Lefkas - Vasilikis, Nydri, 31100, Greece",4.0,4390.0,,,False,True,False,False,True,False,100.0,True,June,Lefkada
+Luxury Loft Lefkas,"Loxagou Kourti 13, Lefkada, 31100, Greece",3.0,389.1089108910891,9.0,6 ,False,False,False,True,False,False,35.0,False,June,Lefkada
+Lefkada Villas Panoramic,"Κατουνα Λευκαδα, Katouna, 31100, Greece",,255.6674208144796,7.3,7 ,False,False,False,True,False,False,90.0,False,June,Lefkada
+Studios Ermis,"-street without adress-, Kalamitsi, 31080, Greece",3.0,189.7020595880824,8.7,80 ,False,False,False,False,True,False,16.0,False,June,Lefkada
+Casa di fiori,"Φωτεινού, Lefkada, 31100, Greece",3.0,439.5348837209302,9.6,19 ,False,False,False,True,True,False,30.0,False,June,Lefkada
+Harry’s Apartmet Lefkada,"Περιβόλια Λευκάδας, Lefkada, 31100, Greece",,381.30841121495325,9.3,6 ,False,False,False,False,True,False,49.0,False,June,Lefkada
+Odysseia Apartments,"Nikiana, Lefkada, Nikiana, 31100, Greece",3.0,1400.0,7.6,8 ,False,False,False,True,True,False,20.0,False,June,Lefkada
+Aelia House - Elia,"Άγιος Ιωάννης,, Lefkada, 31100, Greece",3.0,480.0,,,False,False,False,False,True,False,45.0,False,June,Lefkada
+Jennifer's Apartments,"Λευκαδα Λευκαδα Πολη, Lefkada, 31100, Greece",3.0,800.0,9.0,2 ,True,False,False,True,True,False,115.0,False,June,Lefkada
+Nonika’s House,"Επαρχιακή Οδός Λευκάδας - Κάτω Εξανθείας, Tsoukalades, 31100, Greece",3.0,224.76536481986074,9.0,10 ,False,False,False,False,True,False,80.0,False,June,Lefkada
+Nikorina apts,"Επαρχιακή Οδός Λευκάδας - Απόλπαινας, Lefkada, 31100, Greece",3.0,404.476861167002,10,9 ,False,False,False,True,True,False,50.0,False,June,Lefkada
+Fabulous apt. w/breakfast near the sea!,"lefkada sivota, Sivota, 31082, Greece",,645.7943925233644,8.2, 9 ,False,False,True,True,False,False,54.0,False,June,Lefkada
+Villa Apaggio Eos,"Eparchiaki Odos Lefkas - Vasilikis, Nydri, 31100, Greece",4.0,4106.0,10,1 ,False,True,False,False,True,False,92.0,True,June,Lefkada
+Villa Amoudia,"BP 3588, Sivota, 31082, Greece",4.0,4240.571885622875,10,1 ,True,True,False,False,True,False,140.0,True,June,Lefkada
+Jimmy’s Studios,"18 Αγίας Παρασκευής, Lefkada, 31100, Greece",,328.9719626168224,9.2,16 ,False,False,False,False,False,False,,False,June,Lefkada
+Villa Salomi,"Parodos ,Anapauseos Villa Salomi, Lefkada, 31100, Greece",,782.2429906542055,9.7,9 ,False,False,False,False,True,False,,True,June,Lefkada
+Villa Votistis A2,"Karia, Kariá, 31100, Greece",3.0,391.0,,,False,False,False,False,True,False,46.0,False,June,Lefkada
+βίλα Ολγα,"Ραχη Νυδρι, Kolónion, 31084, Greece",3.0,354.6511627906977,8.4, 30 ,False,False,False,False,True,False,60.0,True,June,Lefkada
+Nonika’s House,"Επαρχιακή Οδός Λευκάδας - Κάτω Εξανθείας, Tsoukalades, 31100, Greece",3.0,224.0428159736517,9.0,10 ,False,False,False,False,True,False,80.0,False,June,Lefkada
+Nikorina apts,"Επαρχιακή Οδός Λευκάδας - Απόλπαινας, Lefkada, 31100, Greece",3.0,406.25,10,9 ,False,False,False,True,True,False,50.0,False,June,Lefkada
+Villa Apaggio Eos,"Eparchiaki Odos Lefkas - Vasilikis, Nydri, 31100, Greece",4.0,4106.0,10,1 ,False,True,False,False,True,False,92.0,True,June,Lefkada
+Villa Amoudia,"BP 3588, Sivota, 31082, Greece",4.0,4253.472222222223,10,1 ,True,True,False,False,True,False,140.0,True,June,Lefkada
+Babis Apartments,"Nydri, Nydri, 31084, Greece",3.0,281.09601657840204,8.7,217 ,False,False,False,True,False,False,18.0,False,June,Lefkada
+Jimmy’s Studios,"18 Αγίας Παρασκευής, Lefkada, 31100, Greece",,286.2160901153103,9.2,16 ,False,False,False,False,False,False,,False,June,Lefkada
+Villa Salomi,"Parodos ,Anapauseos Villa Salomi, Lefkada, 31100, Greece",,782.2429906542055,9.7,9 ,False,False,False,False,True,False,,True,June,Lefkada
+Villa Votistis A2,"Karia, Kariá, 31100, Greece",3.0,388.7826961770624,,,False,False,False,False,True,False,46.0,False,June,Lefkada
+βίλα Ολγα,"Ραχη Νυδρι, Kolónion, 31084, Greece",,327.10280373831773,8.4, 30 ,False,False,False,False,True,False,60.0,True,June,Lefkada
+Kremeas House,"Κατουνα, Lefkada, 31100, Greece",4.0,560.0,9.3,3 ,False,True,False,True,True,False,90.0,False,June,Lefkada
+Allure Central Boutique Hotel,"Karaiskaki 1/Mpoumpoulinas, Lefkada, 31100, Greece",,0.0,9.3,612 ,True,False,True,True,True,False,,False,June,Lefkada
+"Breathtaking seaviews, privacy, close to beach and Nidri - villa Pasithea","Nydri - Perigiali, Nydri, 31084, Greece",4.0,1713.5563380281692,10,2 ,True,True,False,True,True,False,85.0,True,June,Lefkada
+Phil's Apartment,"Πάνου Ροντογιάννη, Lefkada, 31100, Greece",,240.18691588785046,9.6,11 ,False,False,False,False,True,False,35.0,False,June,Lefkada
+Modern Apartment 15 mins from the town of Lefkas,"Eparchiaki Odos Lazarata - Vasilikis - John Gazi Ioannou, Lefkada, Kávallos, 31100, Greece",,331.9587628865979,,,False,False,False,True,True,False,62.0,True,June,Lefkada
+Grappolo Lefkada Villas - Vilana ideal for families and small groups,"Apolpaina, Apolpaina, 31100, Greece",4.0,1240.0,,,False,True,False,True,True,False,102.0,False,June,Lefkada
+Rodia Apartment Agios Ioannis,"Giannoulatou, Lefkada, 31100, Greece",,381.30841121495325,10,2 ,False,False,False,False,True,False,30.0,False,June,Lefkada
+"Lefkada Blue Luxury Apartments , Perigiali A2 deck level","Eparchiaki Odos Lefkas - Vasilikis, Nydri, 31100, Greece",,863.8392857142857,10,1 ,False,False,False,True,True,False,97.0,False,June,Lefkada
+"Apollon Paian , Luxury Nature Relax","Eparchiaki Odos Lefkadas - Apolpainas, Lefkada, 31100, Greece",,1264.1968325791854,10,9 ,True,False,False,True,True,False,165.0,True,June,Lefkada
+Nikoleta Studio 4,"Epar.Od. Nikianas - Alexandrou 104, Nikiana, 31100, Greece",3.0,236.16142564469448,,,False,False,False,False,True,False,15.0,False,June,Lefkada
+Myrtillo Luxury Traditional House,"Spanochori, Spanokhórion, 31080, Greece",,721.4953271028037,10,3 ,False,False,False,True,True,False,133.0,True,June,Lefkada
+NIKO'S & KONSTANTINA'S FAMILY VACATION HOUSE,"ΟΔΗΓΗΤΡΙΑ ΛΕΥΚΑΔΑΣ, Lefkada, 31100, Greece",3.0,0.0,9.0,6 ,False,False,False,True,True,False,,False,June,Lefkada
+Spiros Studios,"Anapafseos, Lefkada, 31100, Greece",3.0,320.3703703703703,9.7,8 ,False,False,False,False,True,False,40.0,True,June,Lefkada
+LEFKADA CENTRAL SQUARE APARTMENT,"Λευκαδίου Χερν 1   first floor above THE BURBER HOUSE, Lefkada, 31100, Greece",3.0,231.53846153846152,8.4, 25 ,False,False,False,False,False,False,30.0,True,June,Lefkada
+"Lefkada Blue Luxury Apartments, Perigiali A4 Entrance Level","Eparchiaki Odos Lefkas - Vasilikis, Nydri, 31100, Greece",,593.4579439252336,8.5, 2 ,True,False,False,True,True,False,39.0,False,June,Lefkada
+Εξοχική μονοκατοικία κοντά στο κέντρο,"Ιωάννου Γαζή Ioannou, Lazaráta, 31080, Greece",,505.607476635514,8.0, 1 ,False,False,False,False,True,False,69.0,False,June,Lefkada
+Villa Asprolia,"Lygia Lefkadas, Lygia, 31100, Greece",4.0,1593.0,10,2 ,True,True,False,True,True,False,100.0,False,June,Lefkada
+Nefeli’s guest house,"Επαρχιακή Οδός Λευκάδας - Βασιλικής Κτήριο, ισόγειο, Nydri, 31100, Greece",3.0,276.7857142857143,8.5, 13 ,False,False,False,True,True,False,45.0,False,June,Lefkada
+Efi's studio,"38.8315056,20.6956357,17 1, Lefkada, 31100, Greece",,260.74766355140184,9.5,24 ,False,False,False,False,True,False,32.0,False,June,Lefkada
+Nikiana Club - Studio 10,"Paralia Nikianas, Nikiana, Nikiana, 31100, Greece",3.0,268.75,,,False,True,False,False,True,False,15.0,True,June,Lefkada
+Sti Chora Apartments,"Κουνιακη 6, Lefkada, 31100, Greece",3.0,294.8412698412698,8.9,94 ,False,False,False,False,False,False,49.0,False,June,Lefkada
+Villa Floisvos Desimi by Villa Plus,"Desimi, Lefkada, Katokhórion, 31084, Greece",,1863.5514018691588,10,1 ,False,True,False,False,False,False,,False,June,Lefkada
+Ionian Villas,"Aghios Nikitas, Agios Nikitas, 31100, Greece",,1030.8411214953271,9.4,25 ,True,True,False,True,True,False,120.0,True,June,Lefkada
+Maistros Apartments,"Tsoukalades, Tsoukalades, 31100, Greece",,304.67289719626166,9.6,17 ,False,True,False,True,True,False,44.0,False,June,Lefkada
+BORGO! Ευχάριστο εξοχικό σπίτι δίπλα στη θάλασσα!!,"Gyra lefkada, Lefkada, 31100, Greece",,747.2222222222223,10,1 ,True,False,False,True,True,False,95.0,True,June,Lefkada
+Summer Bed Nydri,"Nydri, Nydri, 31084, Greece",,177.57009345794393,7.5,119 ,False,False,False,False,False,False,24.0,False,June,Lefkada
+Konti villa,"Κονταραινα, Kondáraina, 31082, Greece",,292.1875,,,False,False,False,True,True,False,35.0,False,June,Lefkada
+IONIAN HOSPITALITY ΠΑΣΙΘΕΑ,"Eparchiaki Odos Lefkas - Vasilikis, Lygia, 31100, Greece",,481.86737278379,8.0, 2 ,False,False,False,False,True,False,55.0,False,June,Lefkada
+Lefkothea apartment 2,"Frini , Lefkada, 31100, Greece",,342.0560747663551,,,False,False,False,False,True,False,49.0,False,June,Lefkada
+Villa Boubouki,"Villa Boubouki Villas Thalassa, Évyiros, 31082, Greece",4.0,2402.3255813953488,,,True,True,False,False,True,False,74.0,True,June,Lefkada
+180 Villas,"Επαρχιακή Οδός Λευκάδας - Βασιλικής, Nydri, 31084, Greece",,2165.4205607476633,,,True,False,False,False,True,False,239.0,True,June,Lefkada
+SokosApartments,"ΠΕΡΙΓΙΑΛΙ , Nydri, 31084, Greece",,318.42105263157896,8.4, 13 ,False,False,False,True,True,False,40.0,False,June,Lefkada
+"Secluded, sunset, beaches, walk to village-Melina","Eparchiaki Odos Komiliou - Akrotiriou Lefkatas, Athani, 31082, Greece",4.0,1394.0,9.5,2 ,False,True,False,True,True,False,90.0,True,June,Lefkada
+Blue,"Eparchiaki Odos Lefkas - Vasilikis 1, Nydri, 31100, Greece",,757.1428571428572,9.5,2 ,False,False,False,False,True,False,82.0,False,June,Lefkada
+LAURA_SEA VIEW_APARTMENT 2,"Eparchiaki Odos Koutounis, Lygia, 31100, Greece",,613.0841121495326,9.5,2 ,False,True,False,False,True,False,57.0,False,June,Lefkada
+villa hospitality,"Επαρχιακή οδός Νικιάνας - Αλεξάνδρου, Nikiana, 31100, Greece",,560.0,9.5,2 ,False,False,False,False,False,False,110.0,False,June,Lefkada
+Blue Dream Villa,"2o χλμ επαρχιακής οδού Νικιάνας - Αλεξάνδρου, Episkopos, 31100, Greece",,2104.6728971962616,10,1 ,False,False,False,False,True,False,150.0,False,June,Lefkada
+Jerry's Villa,"Οδηγήτρια Λευκάδας, Απόλπαινα, Lefkada, 31100, Greece",,957.0,,,False,False,False,True,True,False,72.0,False,June,Lefkada
+Paganatos Place,"Σύβρος, Sívros, 31082, Greece",,320.0,8.2, 4 ,False,False,False,True,True,False,120.0,False,June,Lefkada
+Jerry's Villa,"Οδηγήτρια Λευκάδας, Απόλπαινα, Lefkada, 31100, Greece",,1042.056074766355,,,False,False,False,True,True,False,71.0,False,June,Lefkada
+Paganatos Place,"Σύβρος, Sívros, 31082, Greece",,320.5607476635514,8.2, 4 ,False,False,False,True,True,False,120.0,False,June,Lefkada
+Marianta's House Agios Ioannis - LefkadaBnB,"Agios Ioannis Lefkada, Lefkada, 31100, Greece",,260.4166666666667,,,False,False,False,False,True,False,40.0,True,June,Lefkada
+Villas Adiora,"Sivota Bay, Sivota, 31082, Greece",,11638.317757009345,,,False,False,False,False,True,False,370.0,True,June,Lefkada
+kostas apartment,"vlyho lefkada, Vlikhon, 31084, Greece",,399.4796380090497,9.2,9 ,False,False,False,False,False,False,,False,June,Lefkada
+Villa Joanna Lefkada,"Frínion, Lefkada, 31100, Greece",,481.30841121495325,9.4,19 ,False,False,False,True,True,False,74.0,True,June,Lefkada
+Lefkada house with private yard parking 2,"Eparchiaki Odos Lefkas - Vasilikis, Nydri, 31100, Greece",,390.6542056074766,,,False,False,False,False,True,False,49.0,False,June,Lefkada
+Villa Atokos,"Villa Atokos Villas Thalassa, Sivota, 31082, Greece",,2841.121495327103,9.0,1 ,False,True,False,False,True,False,109.0,True,June,Lefkada
+Marilia house,"Ρήγα Φεραίου 3, Lefkada, 31100, Greece",,320.5607476635514,,,False,False,False,False,True,False,54.0,False,June,Lefkada
+Lefkadia's Bayview 2,"Epar.Od. Lefkadas - Apolpainas 2, Apolpaina, 31100, Greece",4.0,1170.966561456475,,,False,False,False,False,True,False,100.0,False,June,Lefkada
+Ionian White Apartments,"Stadiou, Lefkada, 31100, Greece",3.0,258.0,9.2,13 ,False,False,False,False,True,False,35.0,False,June,Lefkada
+Lefkadia's Bayview 1,"Epar.Od. Lefkadas - Apolpainas 2, Apolpaina, 31100, Greece",4.0,1366.0,,,False,False,False,False,True,False,116.0,False,June,Lefkada
+Stone Villa Hermione,"Καρύα Λευκάδας 50μ απο την Κεντρικη πλατεία Καρυάς, Kariá, 31080, Greece",,721.4953271028037,10,1 ,False,False,False,True,True,False,87.0,True,June,Lefkada
+Villa Votistis A1,"Karia, Kariá, 31100, Greece",,391.58878504672896,,,False,False,False,False,True,False,45.0,False,June,Lefkada
+Katouna Home I Πέτρινο σπίτι με κήπο και θέα στον ελαιώνα,"Κατούνα Λευκαδα 31100, Katouna, 31100, Greece",,757.9439252336448,,,False,False,False,True,True,False,70.0,True,June,Lefkada
+Jerrys Home Agios Petros,"Eparchiaki Odos Lefkas - Vasilikis, Ágios Pétros, 31082, Greece",3.0,531.6964285714286,8.5, 2 ,False,False,False,False,True,False,65.0,False,June,Lefkada
+Green View House,"ΚΑΒΑΛΟΣ, Kávallos, 31080, Greece",3.0,526.0,9.5,2 ,False,False,False,True,True,False,60.0,True,June,Lefkada
+Modern Eco Apartment Groundfloor,"Επαρχιακή Οδός Λευκάδας - Βασιλικής, Lygia, 31100, Greece",4.0,681.25,9.2,5 ,False,False,False,True,True,False,100.0,True,June,Lefkada
+Verani Residence **New Listing Discount 20%** Balcony*Parking*,"Sivros Lefkadas, Sívros, 31082, Greece",3.0,352.81674208144796,,,False,False,False,True,True,False,120.0,True,June,Lefkada
+Villa Sapfo,"Apollonii, Sivota, 31100, Greece",4.0,2634.0,,,False,True,False,False,True,False,102.0,False,June,Lefkada
+Villa Porto katsiki,"Apollonii, Sivota, 31100, Greece",4.0,2634.0,,,False,True,False,False,True,False,102.0,False,June,Lefkada
+Menelia Cottage,"Platystoma Lefkada , Platístoma, 31080, Greece",,801.8691588785047,9.9,10 ,False,False,False,True,True,True,120.0,True,June,Lefkada
+"Lefkada Blue Luxury Apartments, Perigiali A5 Entrance Level","Eparchiaki Odos Lefkas - Vasilikis, Nydri, 31100, Greece",,592.0,10,1 ,False,False,False,True,True,False,38.0,False,June,Lefkada
+Nonna,"Λόρδου Βύρωνος 17, Lefkada, 31100, Greece",,401.55422518996085,,,False,False,False,True,False,False,75.0,False,June,Lefkada
+Petros house,"Eparchiaki Odos Lefkas - Vasilikis, Katokhórion, 31100, Greece",3.0,481.86737278379,,,False,False,False,False,True,False,50.0,False,June,Lefkada
+Oceanida Thetis room,"Epar.Od. Lefkas - Vasilikis, Nikiana, 31100, Greece",3.0,585.0,,,False,True,False,False,True,False,27.0,False,June,Lefkada
+Oceanida Galini room,"Epar.Od. Lefkas - Vasilikis, Nikiana, 31100, Greece",,562.6168224299065,,,False,True,False,False,True,False,27.0,False,June,Lefkada
+Nikiana Loft,"Επαρχιακή Οδός Λευκάδας - Βασιλικής όροφος, Nikiana, 31100, Greece",4.0,500.0,8.0, 5 ,False,False,False,False,True,False,55.0,False,June,Lefkada
+Oceanida aelia room 2,"Epar.Od. Lefkas - Vasilikis, Nikiana, 31100, Greece",,562.6168224299065,,,False,True,False,False,True,False,49.0,False,June,Lefkada
+Miranda Resort,"Nikiana Lefkada, Nikiana, 31100, Greece",3.0,252.98180980888787,8.8,102 ,False,False,False,True,True,False,37.0,True,June,Lefkada
+Yellow House,"Μιχαήλ Σικελιανού Κτήριο, Lefkada, 31100, Greece",,476.63551401869154,8.3, 3 ,False,False,False,False,False,False,82.0,False,June,Lefkada
+Villa Ladina,"Kariotes, Lygia, 31100, Greece",,340.0,10,2 ,False,False,False,True,True,False,68.0,False,June,Lefkada
+Villa Thanasis,"Tsoukalades, Tsoukalades, 31100, Greece",4.0,2442.3611111111113,,,False,True,False,False,True,False,140.0,True,June,Lefkada
+"Lefkada Blue Luxury Apartments B1, Perigiali deck level","Eparchiaki Odos Lefkas - Vasilikis, Nydri, Greece",,593.0555555555555,,,False,False,False,True,True,False,40.0,False,June,Lefkada
+"Lefkada Blue Luxury Apartments, Perigiali A7 top floor","Eparchiaki Odos Lefkas - Vasilikis A7 3rd floor, Nydri, 31100, Greece",,593.4579439252336,,,False,False,False,True,True,False,36.0,False,June,Lefkada
+Afroditi Pansion,"Agios Nikitas, 1, Lefkada Agios Nikitas 310 80, Agios Nikitas, 31080, Greece",3.0,382.0,8.9,116 ,True,False,False,True,True,False,23.0,False,June,Lefkada
+Perigiali Apartment,"Eparchiaki Odos Lefkas - Vasilikis, Nydri, Greece",,0.0,9.0,1 ,True,False,False,False,True,False,,False,June,Lefkada
+Villa Evelyn,"Tsoukalades, Tsoukalades, 31100, Greece",4.0,2061.0,,,False,True,False,False,True,False,140.0,True,June,Lefkada
+Mandevilla Hillside Luxury Villas,"Άγιος Νικήτας, Agios Nikitas, 31080, Greece",,2205.607476635514,,,False,True,False,False,True,False,85.0,False,June,Lefkada
+Oceanida Villa,"Epar.Od. Lefkas - Vasilikis, Nikiana, 31100, Greece",4.0,704.6780684104629,,,False,True,False,False,False,False,60.0,False,June,Lefkada
+Mella Roa Teal studio,"Epar.Od. Lefkas - Vasilikis 167, Nydri, 31100, Greece",,293.4579439252336,,,False,False,False,False,True,False,19.0,False,June,Lefkada
+"Lefkada Blue Luxury Apartments, Perigiali A3 second floor","Eparchiaki Odos Lefkas - Vasilikis, Nydri, 31100, Greece",,593.4579439252336,,,False,False,False,True,True,False,40.0,False,June,Lefkada
+Limanaki Villa,"Agias Paraskevis 19, Lefkada, 31100, Greece",,1218.6915887850466,,,False,False,False,True,False,False,129.0,False,June,Lefkada
+Oceanida Aelia room,"Epar.Od. Lefkas - Vasilikis, Nikiana, 31100, Greece",3.0,563.0,,,False,False,False,False,True,False,50.0,False,June,Lefkada
+lefkada blue luxury sea front apartments -by del mar,"Lefkada, Nydri, 31100, Greece",,441.12149532710276,,,False,False,False,True,True,False,40.0,False,June,Lefkada
+"Angel suite,Sea View-Garden-BBQ","Καρυώτες Λευκάδα, Lygia, 31100, Greece",,400.93457943925233,,,False,False,False,True,True,False,31.0,True,June,Lefkada
+Babis Lappas villas,"Επαρχιακή Οδός Λευκάδας - Κάτω Εξανθείας, Agios Nikitas, 31080, Greece",3.0,572.5111690529558,8.5, 13 ,True,False,False,True,True,False,50.0,False,June,Lefkada
+Villa Columba,"Sivota Bay, Sivota, 31082, Greece",4.0,5218.0,9.0,1 ,True,True,True,False,True,False,170.0,True,June,Lefkada
+Virginia apartment,"Agios Ioannis Lefkadas, Lefkada, 31100, Greece",3.0,539.0,,,False,False,False,False,True,False,50.0,True,June,Lefkada
+Polys Villa Lefkada 1,"Epar.Od. Lefkadas - Apolpainas, Lefkada, 31100, Greece",,1173.8317757009345,,,False,False,False,False,True,False,99.0,False,June,Lefkada
+Lefkothea apartment 4,"Frini , Lefkada, 31100, Greece",,342.0560747663551,,,False,False,False,False,True,False,49.0,False,June,Lefkada
+Lefkothea apartment 5,"Frini , Lefkada, 31100, Greece",3.0,343.0,,,False,False,False,False,True,False,50.0,False,June,Lefkada
+Casa di Roccia,"Katouna Lefkadas, Katouna, 31100, Greece",,325.23364485981307,,,False,False,False,False,False,False,,False,June,Lefkada
+BeacHouse- Art Meets Luxury,"Dimosari lefkada 31100, Lefkada, 31100, Greece",,1458.8785046728972,,,False,False,False,True,True,False,150.0,True,June,Lefkada
+George Studios,"Geni, Yenion, 31100, Greece",3.0,259.0578455143748,8.9,43 ,False,False,False,False,True,False,20.0,True,June,Lefkada
+Villa Crystal,"Vlicho Villa Crystal, Palaiokatoúna, 31084, Greece",4.0,2697.0,,,True,True,False,False,True,False,140.0,False,June,Lefkada
+Casa Azul,"Επαρχιακή Οδός Λευκάδας - Κάτω Εξανθείας, Agios Nikitas, 31080, Greece",4.0,2130.9278350515465,9.7,3 ,False,True,False,False,True,False,170.0,False,June,Lefkada
+Villa Fyki,"Sivota Blue Cave Villas, Sivota, 31082, Greece",4.0,2724.5682707805663,,,True,True,False,False,True,False,85.0,False,June,Lefkada
+Ecstasy Luxury Villas,"Apolpaina, Apolpaina, 31100, Greece",,962.6168224299065,,,False,True,False,False,True,False,109.0,True,June,Lefkada
+Villa Koumaria,"Villa Koumaria Villas Thalassa, Sivota, 31082, Greece",,3084.11214953271,,,True,True,False,False,True,False,140.0,False,June,Lefkada
+Anthias Garden,"Ayios Ioannis, Lefkada, 31100, Greece",3.0,294.1860465116279,9.2,109 ,False,False,False,True,True,False,26.0,False,June,Lefkada
+Villa Owls Secret by Villa Plus,"Drymon, 31080, Greece",,2959.0,,,False,True,False,False,False,False,,False,June,Lefkada
+Lefkada Perigiali Nikol Vila amazing panoramic view,"Επαρχιακή Οδός Λευκάδας - Βασιλικής, Nydri, Greece",,519.626168224299,,,False,False,False,True,True,False,90.0,True,June,Lefkada
+Villa Filaretos,"Vafkeri Lefkadas, Vavkerí, 31100, Greece",3.0,400.0777640547093,8.9,14 ,False,False,False,True,True,False,102.0,False,June,Lefkada
+Villa Gabriella Lefkada,"Villa Gabriella, Mediterra, Vafkeri, Lefkada 31084, Vafkeri, 31084, Greece",,1110.2803738317757,,,False,True,False,False,True,False,239.0,False,June,Lefkada
+"Appartement 2 bedrooms, 4 persons, LEFKADA","Plagia 1, Spasméni Vrísi, 30002, Greece",,290.6542056074766,,,False,False,False,False,True,False,65.0,True,June,Lefkada
+Hillside Private Villa Lefkada,"Επαρχιακή Οδός Βασιλίκης - Μαραντοχώριου, Fternón, 31082, Greece",3.0,380.55555555555554,,,False,False,False,False,True,False,120.0,True,June,Lefkada
+K & M appartment,"Amaxikis 15, Lefkada, 31100, Greece",3.0,384.0,,,False,False,False,True,False,False,38.0,False,June,Lefkada
+Vardia studio A,"Mikros Gialos, Mikros Gialos, 311 00, Greece",,293.4579439252336,3.0,1 ,False,False,False,False,True,False,30.0,True,June,Lefkada
+SOL!,"Μαραντοχώρι, Marantochori, 31109, Greece",,539.5348837209302,,,False,False,False,False,True,False,60.0,False,June,Lefkada
+Lefkada Beach Villa,"St John's  beach area, Lefkada, 31100`, Greece",4.0,3323.280542986425,6.0,1 ,True,True,False,False,True,False,166.0,False,June,Lefkada
+Jeanneau Sun Odyssey 54 DS LULU’,"Nidri, Nydri, 31084, Greece",,1202.7989821882952,,,False,False,False,False,False,False,15.0,False,June,Lefkada
+KONTI VILLA,"Κοντάραινα, Kondáraina, 31082, Greece",,344.23635770131045,,,False,False,False,False,True,False,60.0,False,June,Lefkada
+Pure Blue House,"athani 0, Athani, 31082, Greece",,448.0,,,False,False,False,True,True,False,65.0,False,June,Lefkada
+Kallithea Guesthouse,"Eparchiaki Odos Lefkas - Vasilikis, Nydri, 31084, Greece",,251.54639175257734,,,False,False,False,True,True,False,42.0,False,June,Lefkada
+TRL Lefkada,"Eparchiaki Odos Lefkas - Vasilikis, Nydri, 31084, Greece",,595.0795215387485,,,False,False,False,False,True,False,39.0,False,June,Lefkada
+Elpida Luxurious Apartments & Suites - Nydri,"Eparchiaki Odos Lefkas - Vasilikis, Nydri, 31100, Greece",,481.30841121495325,,,False,False,False,False,True,False,40.0,False,June,Lefkada
+Cozy 2-bdrm-house with garden and view,"38.781453741262, 20.709238727826, Lefkada, 31100, Greece",,606.5420560747663,,,False,False,False,False,True,False,90.0,True,June,Lefkada
+Voulgaris City Apartments,"Δ. Γιαννουλάτου 19, Lefkada, 31100, Greece",,226.0,,,False,False,False,False,True,False,40.0,False,June,Lefkada
+Gialos,"Yénion, Yenion, 31100, Greece",3.0,200.0,8.7,60 ,False,False,False,False,True,False,,False,June,Lefkada
+seven studios,"Επαρχιακή οδός Νικιάνας - Αλεξάνδρου, Nikiana, 31100, Greece",,320.0,,,False,False,False,True,True,False,15.0,False,June,Lefkada
+Villa Nika,"NEOCHORI Lefkada, Palaiokhóri, 31084, Greece",,500.0,,,False,False,False,False,True,False,40.0,False,June,Lefkada
+Exochi Family House,"Επαρχιακή Οδός Λευκάδας - Βασιλικής, Lefkada, 31100, Greece",,380.35714285714283,,,False,False,False,False,True,False,80.0,False,June,Lefkada
+Iris Apartments,"Anapafseos 210, Apolpaina, 31100, Greece",3.0,0.0,8.9,24 ,False,False,False,True,True,False,,False,June,Lefkada
+Polikarpos Villas,"Tsoukalades, Tsoukalades, 31100, Greece",,561.6822429906541,9.6,20 ,True,False,False,True,True,False,54.0,True,June,Lefkada
+Villa Milia,"Ayios Nikitas, Agios Nikitas, 31080, Greece",,689.7196261682243,9.0,73 ,False,True,False,True,True,False,69.0,True,June,Lefkada
+Filio Studios,"Tilemahou Sterioti 7, Nydri, 31084, Greece",3.0,200.0,9.3,53 ,False,False,False,False,False,False,15.0,True,June,Lefkada
+Lenia Studios,"Kalamitsi, Kalamitsi, 31080, Greece",,220.56074766355138,8.5, 121 ,False,False,False,False,True,False,31.0,True,June,Lefkada
+Oasis Hotel,"Perigiali, Nydri, 31100, Greece",,400.93457943925233,9.9,43 ,True,True,False,True,True,False,15.0,False,June,Lefkada

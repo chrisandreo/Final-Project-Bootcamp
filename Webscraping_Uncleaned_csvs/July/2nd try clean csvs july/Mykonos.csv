@@ -1,0 +1,550 @@
+name,location,stars,amount_conv,Rating,NumReviews,Airport,Pool,Breakfast,Family_Rooms,Parking,Restaurant,size_m2,Pets,Month,Location
+Mr & Mrs White Mykonos,"Platis Yalos, Platis Gialos, 84600, Greece",4.0,2052.777777777778,8.0, 99 ,True,True,True,True,True,False,22.0,False,July,Mykonos
+Saint John Hotel Villas & Spa,"Agios Ioannis, Agios Ioannis Mykonos, 84600, Greece",5.0,3355.5555555555557,8.7,"1,069 ",True,False,True,False,True,False,30.0,False,July,Mykonos
+Asty Mykonos Hotel & Spa,"Drafaki Mykonos, Drafaki, 84600, Greece",5.0,4390.178571428571,9.3,98 ,True,True,True,True,True,True,35.0,True,July,Mykonos
+Ftelia Bay Boutique Hotel,"Ftelia, Ftelia, 84600, Greece",4.0,2084.027777777778,8.9,326 ,True,True,False,True,False,True,23.0,False,July,Mykonos
+Mykonos Residence Villas & Suites Merchia Beach,"Merchia Beach, Παραλία Μερχιάς, Merchia Beach, 84600, Greece",4.0,2673.0,8.9,33 ,True,True,True,False,True,False,35.0,True,July,Mykonos
+Hotel Tagoo,"Tagoo Area, Mikonos, 84600, Greece",4.0,2845.0,9.1,360 ,True,True,True,True,False,False,20.0,False,July,Mykonos
+Manoula's Beach Mykonos Resort,"Main Street, Agios Ioannis Mykonos, 84600, Greece",4.0,2665.1162790697676,9.2,501 ,True,True,True,False,True,False,24.0,False,July,Mykonos
+Lyo Boutique Hotel Mykonos,"Super Paradise, Super Paradise Beach, 84600, Greece",4.0,4815.887850467289,9.5,474 ,True,False,True,False,True,True,30.0,False,July,Mykonos
+Mykonos Lolita,"Main Street, Agios Sostis Mykonos, 84600, Greece",,3049.5327102803735,8.7,108 ,True,True,False,True,True,True,32.0,False,July,Mykonos
+Arte & Mare Elia Luxury Suites & Vllas,"Main Street, Elia Beach, 84600, Greece",,4240.18691588785,8.5, 428 ,True,False,True,False,False,False,49.0,False,July,Mykonos
+Venus Myconian Residences,"Lia Beach, Mykonos, Kalafatis, 84600, Greece",4.0,1732.0,9.5,208 ,True,False,False,True,True,False,35.0,True,July,Mykonos
+Archipelagos All Suites,"ELIA MAIN ROAD, Elia Beach, 84600, Greece",,4121.4953271028035,9.0,63 ,True,True,True,False,True,False,31.0,False,July,Mykonos
+Anemela Villas & Suites Mykonos,"Agrari Mykonos, Agrari, 84600, Greece",,2208.4112149532707,9.6,64 ,True,True,False,False,True,False,53.0,False,July,Mykonos
+Smy Mykonos Suites & Villas - ex Greco Philia,"Main Street, Elia Beach, 84600, Greece",5.0,4049.0,8.8,176 ,True,True,True,False,True,True,20.0,False,July,Mykonos
+Nimbus My Aktis,"Super Paradise beach, Super Paradise Beach, 84600, Greece",,5180.0,9.3,463 ,True,True,True,False,False,False,21.0,False,July,Mykonos
+Charisma Hotel and Wellness Suites,"Plintri Agios Isidoros, Plintri, 84600, Greece",4.0,3621.0,9.3,141 ,True,False,True,False,False,False,30.0,False,July,Mykonos
+Aeolos Resort,"Road Mykonou-Ano Meras, Mikonos, 48600, Greece",4.0,3456.5363217540885,9.6,"1,285 ",True,False,True,False,True,True,25.0,True,July,Mykonos
+Kensho Ornos,"Ornos Mykonou , Ornos, 84600, Greece",5.0,4748.364805692392,9.4,214 ,True,True,True,False,True,False,25.0,True,July,Mykonos
+The Wild by Interni,"Kalafatis, Kalafatis, 84600, Greece",5.0,3775.1470588235293,8.8,503 ,False,True,True,False,True,True,21.0,True,July,Mykonos
+Agrari Ninemia Hotel Mykonos,"ΑΓΡΑΡΙ, Agrari, 84600, Greece",,2886.9158878504672,9.0,10 ,True,False,False,False,True,True,35.0,False,July,Mykonos
+Pietra e Mare,"Kalo Livadi, Mykonos, Kalo Livadi, 84700, Greece",4.0,1841.0,7.9,226 ,True,True,True,False,True,True,30.0,False,July,Mykonos
+Porto Mykonos,"Mykonos City, Mikonos, 84600, Greece",4.0,2879.0,8.6,411 ,True,False,True,True,True,True,24.0,True,July,Mykonos
+Destino Pacha Mykonos,"Agrotiki Odos, Agios Stefanos, Agios Stefanos, 84600, Greece",5.0,4477.0,9.2,89 ,True,True,True,False,True,False,26.0,True,July,Mykonos
+Aeonic Suites and Spa,"Korfos Ornos, Mikonos, 84600, Greece",5.0,6650.0,9.5,318 ,True,True,False,False,False,True,50.0,False,July,Mykonos
+"Radisson Blu Euphoria Resort, Mykonos","Kalo Livadi Mykonos, Kalo Livadi, 84600, Greece",5.0,3240.0759843426204,8.8,222 ,True,True,False,False,True,True,35.0,False,July,Mykonos
+Nimbus Mykonos,"mykonos ag stefanos, Agios Stefanos, 84600, Greece",,5033.404977375565,9.3,418 ,True,True,False,True,True,True,24.0,False,July,Mykonos
+Hotel Alkyon,"Ano Mera - Peripheral Road, Mikonos, 84600, Greece",,2609.345794392523,9.0,800 ,True,True,False,False,True,False,19.0,False,July,Mykonos
+Venus Myconian Residences,"Lia Beach, Mykonos, Kalafatis, 84600, Greece",4.0,1882.0,9.5,208 ,True,False,False,True,True,False,35.0,True,July,Mykonos
+Kamari Hotel,"Main Street, Platis Gialos, 84600, Greece",3.0,2522.093023255814,8.7,389 ,False,True,False,True,True,False,44.0,False,July,Mykonos
+Villas Kalafatis Apartments,"Kalafatis bay, Kalafatis, 84600, Greece",3.0,1743.0,8.1, 190 ,True,False,False,True,True,False,40.0,False,July,Mykonos
+Deliades Hotel,"Main Street, Ornos, 84500, Greece",4.0,3558.5750112249516,8.4, 251 ,True,True,False,True,True,True,35.0,False,July,Mykonos
+Mykonos Essence Adults Only,"Ornos, Ornos, 84600, Greece",,2413.0841121495328,9.3,324 ,True,True,True,True,True,True,24.0,False,July,Mykonos
+Agnandi Cielo,"Vorna Tourlou, P.O.Bx 417, Tourlos, 84600, Greece",,0.0,9.5,151 ,True,True,False,True,True,True,,False,July,Mykonos
+Zephyros,"Main Street, Paraga, 84600, Greece",3.0,3087.149321266968,9.3,140 ,True,True,False,True,True,True,28.0,True,July,Mykonos
+Mykonia Inn,"Ano Mera 84600 Mykonos, Ano Mera, 84600, Greece",3.0,1459.7222222222222,9.5,4 ,False,True,True,True,True,False,20.0,False,July,Mykonos
+Alkistis Beach Hotel - Adults Only,"Agios Stefanos, Agios Stefanos, 84600, Greece",3.0,1612.2767857142856,8.4, 556 ,True,True,True,False,True,True,22.0,False,July,Mykonos
+Grand Beach Hotel,"Megali Ammos, Mikonos, 84600, Greece",4.0,2147.2285067873304,8.8,356 ,False,True,True,False,True,True,28.0,False,July,Mykonos
+Rocabella Mykonos Hotel,"Main Street, Agios Stefanos, 84600, Greece",5.0,5356.0,8.5, 155 ,True,True,True,False,True,False,35.0,False,July,Mykonos
+San Marco Hotel and Villas,"Main Street, Houlakia, 84600, Greece",5.0,2046.0,7.3,258 ,True,True,True,False,False,False,32.0,True,July,Mykonos
+Amazon Suites,"aghios ioannis mykonos, Agios Ioannis Mykonos, 84600, Greece",5.0,7200.0,9.9,151 ,True,False,True,False,True,True,28.0,False,July,Mykonos
+Sea View Residence,"Costa Ilios area, Ornos, 84600, Greece",,1995.3488372093022,9.1,200 ,True,True,False,True,True,False,20.0,False,July,Mykonos
+Lithos by Spyros & Flora,"Agios Ioannis, Agios Ioannis Mykonos, 84600, Greece",,2761.6822429906542,9.8,359 ,True,True,True,True,True,False,40.0,False,July,Mykonos
+Petinos Beach Hotel,"Beach, Platis Gialos, 84600, Greece",4.0,7710.794297352342,9.0,394 ,True,True,True,False,False,True,50.0,False,July,Mykonos
+Koukoumi Vegan Boutique Hotel,"Ano Mera Mykonos, Ano Mera, 84600, Greece",5.0,3127.0412584149835,9.3,158 ,True,True,True,False,True,False,34.0,True,July,Mykonos
+Mykonos Double Luxury Mini Suites - Adults only,"ΑΝΩ ΜΕΡΑ, Ano Mera, 84600, Greece",,1360.7476635514017,9.3,166 ,True,False,False,False,True,False,24.0,False,July,Mykonos
+Katikies Mykonos - The Leading Hotels of the World,"Agios Ioannis Mykonos, 84600, Greece",5.0,5390.0,8.8,89 ,True,False,True,False,True,False,25.0,True,July,Mykonos
+Hippie Chic Hotel,"Agios Ioannis Mykonos , Agios Ioannis Mykonos, 84600, Greece",,3900.0,8.8,145 ,True,True,True,False,False,True,40.0,False,July,Mykonos
+Paradise View Hotel,"Main Street, Paradise Beach, 84600, Greece",,3608.4112149532707,9.5,846 ,False,True,False,True,True,True,24.0,False,July,Mykonos
+Eternal Suites,"Σχολη καλών Τεχνών -, Mikonos, 84600, Greece",,2556.07476635514,9.0,789 ,True,False,False,True,True,False,23.0,False,July,Mykonos
+The Ammonite Resort,"ΘΕΣΗ ΧΑΛΑΡΑ SUPER PARADISE, Super Paradise Beach, 84600, Greece",4.0,3360.0,9.7,115 ,True,False,True,False,True,False,23.0,False,July,Mykonos
+The George Hotel Mykonos,"Platis Gialos Beach, Platis Gialos, 84600, Greece",,2634.579439252336,9.0,501 ,True,False,True,True,True,False,24.0,False,July,Mykonos
+Alana Mykonos,"Agios Antonios , Mikonos, 84600, Greece",,1948.5981308411215,9.6,40 ,True,False,False,False,False,False,23.0,False,July,Mykonos
+Destino Pacha Mykonos,"Agrotiki Odos, Agios Stefanos, Agios Stefanos, 84600, Greece",,4851.401869158878,9.2,89 ,True,True,True,False,False,True,26.0,True,July,Mykonos
+She Mykonos Boutique Hotel,"Petasos, Mikonos, 84600, Greece",,3016.822429906542,8.9,560 ,True,True,True,False,False,True,15.0,False,July,Mykonos
+Magic View Suites Mykonos,"Kaminaki , Mikonos, 84600, Greece",4.0,1923.0,9.0,139 ,False,False,False,True,False,False,,False,July,Mykonos
+Granite Village Mykonos,"Mykonos Lia, Ano Mera, 84600, Greece",,0.0,9.3,73 ,True,True,False,True,True,False,,True,July,Mykonos
+With-inn Mykonos Suites,"Gefiraki, Tourlos, 84600, Greece",4.0,2292.0,9.3,607 ,False,False,False,False,True,False,35.0,True,July,Mykonos
+"Radisson Blu Euphoria Resort, Mykonos","Kalo Livadi Mykonos, Kalo Livadi, 84600, Greece",5.0,3266.0,8.8,222 ,True,True,False,False,True,True,35.0,False,July,Mykonos
+Mykonos Residence Villas & Suites Merchia Beach,"Merchia Beach, Παραλία Μερχιάς, Merchia Beach, 84600, Greece",4.0,2673.0,8.9,33 ,True,True,True,False,True,False,35.0,True,July,Mykonos
+"Mykonos Blu, Grecotel Boutique Resort","Main Street, Psarou, 84600, Greece",,4742.056074766355,8.7,189 ,True,True,False,False,False,True,28.0,False,July,Mykonos
+Koumi Homes Mykonos,"FTELIA, Ftelia, 84600, Greece",3.0,2877.906976744186,9.3,27 ,True,False,False,True,True,False,44.0,False,July,Mykonos
+Nimbus Mykonos,"mykonos ag stefanos, Agios Stefanos, 84600, Greece",,4546.728971962617,9.3,418 ,True,True,False,True,True,True,23.0,False,July,Mykonos
+Hotel Alkyon,"Ano Mera - Peripheral Road, Mikonos, 84600, Greece",4.0,2739.7148676171078,9.0,800 ,True,True,False,False,True,False,20.0,False,July,Mykonos
+Venus Myconian Residences,"Lia Beach, Mykonos, Kalafatis, 84600, Greece",4.0,1737.0535714285713,9.5,208 ,True,False,False,True,True,False,35.0,True,July,Mykonos
+The Summit of Mykonos,"Kalo Livadi, Kalo Livadi, 84600, Greece",4.0,1998.80267186898,9.0,226 ,True,True,True,True,True,False,30.0,True,July,Mykonos
+Sunrise Hotel and Suites,"Main Street, Agrari, 84600, Greece",3.0,1665.2777777777778,7.3,263 ,True,True,False,False,True,True,30.0,False,July,Mykonos
+Hotel Madalena,"ΞΕΝΟΔΟΧΕΙΟ ΜΑΝΤΑΛΕΝΑ Τ.Θ. 94, Mikonos, 84600, Greece",3.0,2804.3212669683257,9.1,830 ,True,True,True,True,True,False,25.0,False,July,Mykonos
+Kamari Hotel,"Main Street, Platis Gialos, 84600, Greece",3.0,2521.119909502262,8.7,389 ,False,True,False,True,True,False,45.0,False,July,Mykonos
+The TownHouse Mykonos,"Manto Square Cyclades, , 84600, Greece Mykonos Town - Chora, Mikonos, 84600, Greece",,3670.093457943925,9.5,310 ,True,False,True,False,False,False,18.0,False,July,Mykonos
+Due Mari Mykonos,"AGIOS IOANNIS, MYKONOS, Agios Ioannis Mykonos, 84600, Greece",,2760.4651162790697,9.6,196 ,True,True,True,True,True,False,35.0,True,July,Mykonos
+Deliades Hotel,"Main Street, Ornos, 84500, Greece",4.0,3496.0,8.4, 251 ,True,True,False,True,True,True,35.0,False,July,Mykonos
+Mykonos Grand Hotel & Resort,"Agios Ioannis, Agios Ioannis Mykonos, 84600, Greece",5.0,14081.39534883721,9.6,245 ,True,True,False,False,True,True,85.0,False,July,Mykonos
+My Oasis Studios Mykonos,"Μύκονος, Klouvas, 84600, Greece",3.0,1729.0,8.2, 100 ,True,True,False,True,True,False,,False,July,Mykonos
+Mykonos Essence Adults Only,"Ornos, Ornos, 84600, Greece",4.0,2239.5089285714284,9.3,324 ,True,True,True,True,True,True,25.0,False,July,Mykonos
+Villas Kalafatis Apartments,"Kalafatis bay, Kalafatis, 84600, Greece",,1743.9252336448596,8.1, 190 ,True,False,False,True,True,False,40.0,False,July,Mykonos
+Hermes Mykonos Hotel,"Road Mykonou-Ano Meras, Mikonos, 84600, Greece",4.0,2687.053571428571,9.2,857 ,True,True,True,False,True,False,20.0,False,July,Mykonos
+Zannis Hotel,"Sxoli Kalon Texnon , Mikonos, 84600, Greece",3.0,4104.0,7.8,235 ,False,True,False,False,False,False,60.0,False,July,Mykonos
+Adorno Beach Hotel and Suites,"Ornos, Ornos, 84600, Greece",4.0,3205.486284289277,9.2,292 ,True,True,False,False,True,True,20.0,False,July,Mykonos
+Koumi Homes Mykonos,"FTELIA, Ftelia, 84600, Greece",,3137.3831775700933,9.3,27 ,True,False,False,True,True,False,44.0,False,July,Mykonos
+Senses Luxury Villas & Suites,"Elia, Elia Beach, 84600, Greece",,1972.098214285714,9.2,128 ,False,True,True,True,True,False,50.0,True,July,Mykonos
+Enigma Mykonos Hideaway Suites,"Aleomandra Glyfadi, Ornos, 84600, Greece",4.0,3537.760180995475,,,True,True,True,False,True,True,40.0,False,July,Mykonos
+Zelia B&B & Villa,"Tourlos, Mikonos, 84600, Greece",,2186.0,9.9,67 ,False,True,False,False,True,False,24.0,False,July,Mykonos
+Mykonos Supreme Comfort Suites & Villas,"Μυκόνου, Kalafatis, 84600, Greece",3.0,1584.0277777777778,9.4,155 ,True,False,False,True,True,False,50.0,False,July,Mykonos
+Sea Side Studios & Houses,"Kalo Livadi, Kalo Livadi, 84600, Greece",,2126.7441860465115,9.5,235 ,True,False,True,True,False,False,19.0,True,July,Mykonos
+Mykonos Bay Resort & Villas,"MEGALI AMMOS, Mikonos, 84600, Greece",,4282.242990654206,9.4,885 ,True,True,True,False,True,True,26.0,False,July,Mykonos
+Chill Out Studio,"Vougli, Mykonos, Mikonos, 84600, Greece",4.0,2040.0,9.4,619 ,True,True,True,True,True,False,30.0,False,July,Mykonos
+Casa Del Mar - Small Luxury Hotels of the World,"Aleomandra, Agios Ioannis Mykonos, 84600, Greece",4.0,11695.287203475458,8.9,119 ,True,True,True,False,True,False,85.0,True,July,Mykonos
+Ostraco Suites,"Drafaki, Mikonos, 84600, Greece",,5551.401869158878,9.4,391 ,True,True,True,True,True,True,27.0,True,July,Mykonos
+Ionic Suites,"Super Paradise Street, Super Paradise Beach, 84600, Greece",,3056.278280542986,9.7,172 ,True,True,False,False,True,False,36.0,False,July,Mykonos
+Mykonos Dream Villas,"Vathi Lagadi, Ftelia, 84600, Greece",,2760.7476635514017,8.9,86 ,True,True,False,True,True,False,30.0,True,July,Mykonos
+Sea Wind Villas and Suites,"Paradeisia N/A, Tourlos, 84600, Greece",4.0,3096.0,9.3,168 ,True,True,False,True,True,False,100.0,False,July,Mykonos
+Domna Hotel,"Petinaros, mykonos, Mikonos, 84600, Greece",2.0,1572.1045360349988,8.6,491 ,False,True,True,False,True,False,28.0,False,July,Mykonos
+Boheme Mykonos Town - Small Luxury Hotels of the World,"Mykonos City, Mikonos, 84600, Greece",5.0,5306.25,8.9,210 ,True,True,True,False,True,True,25.0,True,July,Mykonos
+Rochari Hotel,"Αγιου Ιωάννου 17, Mikonos, 84600, Greece",4.0,3477.7777777777774,9.1,315 ,False,True,True,False,False,False,30.0,True,July,Mykonos
+"Santa Marina, A Luxury Collection Resort, Mykonos","Main Street, Ornos, 84600, Greece",,21636.44859813084,9.3,60 ,True,True,False,False,False,True,49.0,False,July,Mykonos
+Christina Studios,"Meletopoulou 7, Mikonos, 84600, Greece",,1563.5514018691588,8.8,212 ,False,False,False,False,False,False,,False,July,Mykonos
+Nomia Sunset Suites Mykonos,"Pigados, Mykonos, Tagou, 84600, Greece",,4961.682242990654,,,True,True,True,False,True,False,30.0,True,July,Mykonos
+Portes Suites & Villas Mykonos,"Glastros Mykonos, Mikonos, 84600, Greece",,3840.1869158878503,9.0,237 ,True,True,False,True,True,False,44.0,False,July,Mykonos
+Atlantis Beach Residence,"Super Paradise Beach, Super Paradise Beach, 84600, Greece",4.0,2136.083022884513,9.1,193 ,True,True,False,True,True,False,32.0,False,July,Mykonos
+Sahas Suites,"Main Street, Mikonos, 84600, Greece",3.0,1828.7946428571427,9.5,440 ,True,False,False,False,True,False,36.0,False,July,Mykonos
+"Santa Marina, A Luxury Collection Resort, Mykonos","Main Street, Ornos, 84600, Greece",,21636.44859813084,9.3,60 ,True,True,False,False,False,True,49.0,False,July,Mykonos
+Christina Studios,"Meletopoulou 7, Mikonos, 84600, Greece",3.0,1562.5,8.8,212 ,False,False,False,False,False,False,,False,July,Mykonos
+Nomia Sunset Suites Mykonos,"Pigados, Mykonos, Tagou, 84600, Greece",5.0,4950.0,,,True,True,True,False,False,True,30.0,True,July,Mykonos
+Portes Suites & Villas Mykonos,"Glastros Mykonos, Mikonos, 84600, Greece",4.0,3857.6065098105373,9.0,237 ,True,True,False,True,True,False,45.0,False,July,Mykonos
+Senses Luxury Villas & Suites,"Elia, Elia Beach, 84600, Greece",,2202.6609898882384,9.2,128 ,False,True,True,True,True,False,50.0,True,July,Mykonos
+Atlantis Beach Residence,"Super Paradise Beach, Super Paradise Beach, 84600, Greece",,2145.7943925233644,9.1,193 ,True,True,False,True,True,False,31.0,False,July,Mykonos
+Sahas Suites,"Main Street, Mikonos, 84600, Greece",3.0,1820.9302325581396,9.5,440 ,True,False,False,False,True,False,36.0,False,July,Mykonos
+Nomad Mykonos,"Καλό Λιβάδι , Μύκονος, Kalo Livadi, 84600, Greece",,6928.03738317757,9.6,65 ,True,True,True,False,True,True,40.0,False,July,Mykonos
+Casa Cook Mykonos - Adults Only,"84600, Ornos, 84600, Greece",5.0,2784.429530201342,9.0,49 ,True,True,True,False,False,False,35.0,False,July,Mykonos
+The George Hotel Mykonos,"Platis Gialos Beach, Platis Gialos, 84600, Greece",4.0,2638.233939673037,9.0,501 ,True,False,True,True,True,False,25.0,False,July,Mykonos
+Chill Out Studio,"Vougli, Mykonos, Mikonos, 84600, Greece",,2044.859813084112,9.4,619 ,True,True,True,True,True,False,30.0,False,July,Mykonos
+Alana Mykonos,"Agios Antonios , Mikonos, 84600, Greece",,1948.5981308411215,9.6,40 ,True,False,False,False,False,False,23.0,False,July,Mykonos
+Amaris Mykonian Residence,"Unnamed Road, Ornos, 84600, Greece",4.0,2811.3839285714284,9.2,73 ,False,False,False,True,True,False,51.0,True,July,Mykonos
+She Mykonos Boutique Hotel,"Petasos, Mikonos, 84600, Greece",3.0,3013.888888888889,8.9,560 ,True,True,True,False,False,True,16.0,False,July,Mykonos
+Amarelo Villas,"Klouvas, Mykonos, Klouvas, 84600, Greece",,3507.4766355140187,9.5,54 ,True,False,False,True,True,False,157.0,False,July,Mykonos
+Granite Village Mykonos,"Mykonos Lia, Ano Mera, 84600, Greece",3.0,1822.0,9.3,73 ,True,True,False,True,True,False,30.0,True,July,Mykonos
+With-inn Mykonos Suites,"Gefiraki, Tourlos, 84600, Greece",4.0,2293.2419432419433,9.3,607 ,False,False,False,False,True,False,35.0,True,July,Mykonos
+"Mykonos Theoxenia, a member of Design Hotels","Kato Mili, P.Ο.Box 177, Mikonos, 84600, Greece",5.0,1109957.0093457943,9.1,112 ,True,True,False,False,False,False,22.0,False,July,Mykonos
+The Summit of Mykonos,"Kalo Livadi, Kalo Livadi, 84600, Greece",4.0,2037.3303167420813,9.0,226 ,True,True,True,True,True,False,30.0,True,July,Mykonos
+Boho Suites,"Mykonos Town, Mikonos, 84600, Greece",,4744.859813084112,9.3,239 ,True,False,False,True,False,False,26.0,True,July,Mykonos
+Bill & Coo Suites and Lounge -The Leading Hotels of the World,"Megali Ammos beach, Mikonos, 84600, Greece",5.0,7066.0714285714275,9.3,119 ,True,True,False,False,True,True,40.0,True,July,Mykonos
+Sunrise Hotel and Suites,"Main Street, Agrari, 84600, Greece",,1667.289719626168,7.3,263 ,True,True,False,False,True,True,30.0,False,July,Mykonos
+Hotel Madalena,"ΞΕΝΟΔΟΧΕΙΟ ΜΑΝΤΑΛΕΝΑ Τ.Θ. 94, Mikonos, 84600, Greece",3.0,2813.953488372093,9.1,830 ,True,True,True,True,True,False,24.0,False,July,Mykonos
+Epic Blue Mykonos,"Χουλάκια, Μύκονος, Houlakia, 84600, Greece",,3114.9532710280373,8.0, 92 ,True,True,True,False,True,True,30.0,True,July,Mykonos
+The TownHouse Mykonos,"Manto Square Cyclades, , 84600, Greece Mykonos Town - Chora, Mikonos, 84600, Greece",5.0,3562.4999999999995,9.5,310 ,True,False,True,False,False,False,18.0,False,July,Mykonos
+Ibiscus Boutique,"School Of Fine Arts Area, Mikonos, 84600, Greece",,1677.5700934579438,9.0,461 ,True,False,True,True,True,True,19.0,False,July,Mykonos
+Cavo Tagoo Mykonos,"Tagoo, Mikonos, 84600, Greece",5.0,11554.036143842066,8.7,420 ,True,True,True,False,True,True,45.0,True,July,Mykonos
+The Corfos Hills House,"mykonos, Ornos, 84600, Greece",3.0,1530.0,9.2,105 ,False,False,False,False,True,False,20.0,False,July,Mykonos
+Agrari Bo Suites,"Agrari Mykonos, Agrari, 84600, Greece",,3030.841121495327,9.0,191 ,True,True,False,True,True,False,44.0,True,July,Mykonos
+Gorgeous Studio In Cycladic Architecture Overlooking The Aegean,"Titanon, Houlakia, 84600, Greece",3.0,2295.138888888889,9.2,18 ,False,False,False,True,True,False,55.0,True,July,Mykonos
+Villa Margarita,"Megali Ammos, Mikonos, 84600, Greece",4.0,1825.0,9.7,252 ,True,False,True,True,True,False,45.0,True,July,Mykonos
+Rania Apartments Sea View,"Mponi 2, Mikonos, 84600, Greece",3.0,1791.651583710407,8.4, 447 ,False,False,False,True,True,False,20.0,True,July,Mykonos
+Colours of Mykonos Luxury Residences & Suites,"Psarou, Psarou, 84600, Greece",4.0,3615.972222222222,8.9,122 ,True,True,False,True,True,False,22.0,True,July,Mykonos
+Oniropetra Apartments Mykonos,"Plintri, Plintri, 84600, Greece",3.0,2763.2241813602013,8.8,86 ,True,False,False,True,True,False,48.0,False,July,Mykonos
+Crystal Suites,"Amygdalidi, Mikonos, 84600, Greece",,2092.5233644859813,9.0,215 ,True,True,False,True,True,False,27.0,False,July,Mykonos
+Feel Breeze,"Vrisi, Mikonos, 84600, Greece",3.0,2016.0,9.2,262 ,True,False,True,True,True,False,30.0,False,July,Mykonos
+Tagoo Black Mykonos,"Tagoo, Mikonos, 84600, Greece",,6518.436312737453,8.8,119 ,True,True,True,False,True,True,25.0,True,July,Mykonos
+Mykonian Iros Suites & Villas,"Kalafatis, Kalo Livadi, 84600, Greece",,1962.6168224299065,8.7,140 ,True,True,False,True,True,False,17.0,True,July,Mykonos
+M-Vibes Mykonos Suites,"Καλαφάτη, Greece, Kalafatis, 84600, Greece",,1627.1028037383176,9.6,149 ,True,True,False,True,True,False,14.0,False,July,Mykonos
+Apiro Mykonos,"Παραλια Μεγαλη Αμμος Μυκονος, Mikonos, 84600, Greece",,3714.018691588785,8.7,391 ,True,True,True,True,True,False,35.0,False,July,Mykonos
+Ftelia Breeze,"Klouvas 100 Klouvas, Klouvas, 84600, Greece",,1490.0,7.5,87 ,False,True,False,False,True,False,38.0,False,July,Mykonos
+Andronikos Hotel,"Main Street, Mikonos, 84600, Greece",,2985.9813084112147,9.5,221 ,True,True,True,False,True,True,22.0,True,July,Mykonos
+Belvedere Mykonos - Main Hotel,"School Of Fine Arts District, Mikonos, 84600, Greece",5.0,3728.608597285068,7.9,116 ,False,True,True,False,True,True,23.0,True,July,Mykonos
+Tagoo Bay,"Ταγκού, Tagou, 84600, Greece",,2165.4205607476633,8.4, 19 ,True,True,False,True,True,False,24.0,False,July,Mykonos
+Adama Mykonos Boutique Hotel,"Mykonos Airport, Mikonos, 84600, Greece",,2543.92523364486,9.2,309 ,True,True,True,False,True,True,23.0,False,July,Mykonos
+Livin Mykonos Hotel,"Drafaki, Mikonos, 84600, Greece",,2228.0,8.3, 112 ,True,True,True,False,True,True,19.0,True,July,Mykonos
+Kosmoplaz Beach Hotel,"Main Street, Platis Gialos, 84600, Greece",4.0,3279.0,8.6,392 ,True,True,True,False,True,False,20.0,False,July,Mykonos
+Portobello Boutique Hotel,"Kaminaki, Mikonos, 84600, Greece",4.0,4987.3474556758,9.4,158 ,False,False,True,True,True,False,32.0,False,July,Mykonos
+Mykonos Eight,"Αργύραινα, Mikonos, 84600, Greece",,1734.5794392523364,9.2,223 ,True,True,False,True,True,False,23.0,False,July,Mykonos
+Irene's Residence,"Argyraina, Mikonos, 84600, Greece",3.0,2376.7441860465115,9.0,213 ,False,True,False,True,True,False,24.0,False,July,Mykonos
+Adama Mykonos Boutique Hotel,"Mykonos Airport, Mikonos, 84600, Greece",4.0,2553.4883720930234,9.2,309 ,True,True,True,False,True,True,23.0,False,July,Mykonos
+Livin Mykonos Hotel,"Drafaki, Mikonos, 84600, Greece",,2231.775700934579,8.3, 112 ,True,True,True,False,True,True,19.0,True,July,Mykonos
+Kosmoplaz Beach Hotel,"Main Street, Platis Gialos, 84600, Greece",,2913.0841121495328,8.6,392 ,True,True,True,False,True,False,19.0,False,July,Mykonos
+Portobello Boutique Hotel,"Kaminaki, Mikonos, 84600, Greece",,4979.439252336449,9.4,158 ,False,False,True,True,True,False,31.0,False,July,Mykonos
+Mykonos Azure,"Άγιος Λάζαρος, Psarou, 84600, Greece",,1894.392523364486,9.0,135 ,False,False,False,False,True,False,34.0,False,July,Mykonos
+Mykonos Eight,"Αργύραινα, Mikonos, 84600, Greece",3.0,1830.0,9.2,223 ,True,True,False,True,True,False,23.0,False,July,Mykonos
+Irene's Residence,"Argyraina, Mikonos, 84600, Greece",3.0,2379.0,9.0,213 ,False,True,False,True,True,False,25.0,False,July,Mykonos
+Hotel Charissi,"Vrissi, Mikonos, 84600, Greece",3.0,1614.0624999999998,9.0,142 ,True,False,False,False,True,False,20.0,False,July,Mykonos
+Boheme Beach Houses,"Elia, Mykonos, Elia Beach, 84600, Greece",4.0,2811.8055555555557,9.1,53 ,True,False,True,False,True,False,45.0,False,July,Mykonos
+San Antonio Summerland,"ΑΜΥΓΔΑΛΙΔΙ, Mikonos, 84600, Greece",4.0,2718.0,8.8,582 ,True,True,True,False,True,True,28.0,True,July,Mykonos
+Eden View Suites & Villas,"Paradise Beach, Paradise Beach, 84600, Greece",,7935.514018691589,9.4,130 ,False,True,False,True,True,False,27.0,True,July,Mykonos
+NAMASTE BOUTIQUE APARTMENTS,"Μυκονος Τουρλος, Tourlos, 84600, Greece",3.0,3044.6710657868425,9.6,41 ,True,False,False,True,True,False,65.0,False,July,Mykonos
+Aether Boutique Stay,"Glastros, Glastros, 84600, Greece",,1769.8926881290408,9.5,122 ,False,False,True,True,True,False,21.0,False,July,Mykonos
+Tharroe of Mykonos Boutique Hotel,"Main Street, Mikonos, 84600, Greece",5.0,2472.916666666667,8.8,120 ,True,True,True,False,True,False,28.0,True,July,Mykonos
+Sea Wind Apartments,"Agios Stefanos Area, behind Alkistis hotel, Agios Stefanos, 84600, Greece",4.0,1920.0,9.4,174 ,True,False,False,True,True,False,26.0,False,July,Mykonos
+Marina Sunset View Mykonos,"Old port Tagoo Kaminaki, Mikonos, 84600, Greece",,2803.738317757009,10,2 ,True,True,False,True,True,False,19.0,True,July,Mykonos
+Petasos Beach Resort & Spa - Small Luxury Hotels of the World,"84600, Platis Gialos, 84600, Greece",4.0,3439.04282115869,8.9,204 ,True,True,False,False,True,True,25.0,False,July,Mykonos
+KLIDON Dreamy Living Suites,"Vrisi, Mikonos, 84600, Greece",,2273.8317757009345,9.8,114 ,True,False,False,False,True,False,35.0,False,July,Mykonos
+Mykonos Panormos Villas,"Panormos Mykonos, Mykonos, 84600, Greece",3.0,3793.24210852369,7.4,42 ,True,True,True,True,True,False,35.0,True,July,Mykonos
+Mykonos Moussa,"MYKONOS Moussa Suits Αγιος Ιωάννης Διακοφτης, Agios Ioannis Mykonos, 84600, Greece",4.0,3234.0,9.7,192 ,True,False,False,True,True,False,35.0,True,July,Mykonos
+Mazera Boutique Hotel,"Foumia 1, Mikonos, 84600, Greece",,1598.1308411214952,8.8,197 ,True,True,False,False,True,False,19.0,False,July,Mykonos
+Town Mansion,"Agiou Spiridonos, Mikonos, 84600, Greece",3.0,2586.0,9.6,29 ,False,False,False,True,False,False,30.0,False,July,Mykonos
+Nasta Villa & Suites Intentional Living Mykonos,"Panormos, Mykonos, Mikonos, 84600, Greece",,4470.0,10,9 ,True,True,True,False,True,False,32.0,False,July,Mykonos
+Calistus Mykonos,"Mykonos New Port, Mikonos, 84600, Greece",4.0,2912.183257918552,9.8,14 ,True,True,False,False,True,False,24.0,False,July,Mykonos
+Kalimera Appartament,"Mykonos, Mikonos, 84600, Greece",3.0,1568.6322471379906,7.3,81 ,True,False,False,True,True,False,35.0,True,July,Mykonos
+Ryous Mykonos,"Mattheou Andronikou 4, Mikonos, 84600, Greece",,2005.618876224755,9.2,78 ,True,False,False,False,False,False,28.0,False,July,Mykonos
+Myconian Utopia Relais & Chateaux,"Elia Beach , Elia Beach, 84600, Greece",,4029.9065420560746,9.1,120 ,True,True,True,False,True,False,24.0,True,July,Mykonos
+Rhenia Hotel,"P.O.Box 10, Tourlos, 84600, Greece",,2610.2803738317757,8.8,162 ,True,True,False,True,True,False,22.0,True,July,Mykonos
+Eleni's Village Suites,"Klouvas, Klouvas, 84600, Greece",3.0,1387.601809954751,8.5, 424 ,True,False,False,True,True,False,35.0,True,July,Mykonos
+Happy Apartments Mykonos,"Taxiarxis, Klouvas, 84600, Greece",,1869.3006357856493,8.6,171 ,True,False,False,False,True,False,20.0,False,July,Mykonos
+Paolas Τown Boutique Hotel,"Mykonos City, Mikonos, 84600, Greece",4.0,3512.790697674419,7.9,488 ,True,True,True,True,False,False,24.0,False,July,Mykonos
+Kouros Hotel & Suites,"Main Street, Mikonos, 84600, Greece",5.0,6480.0,8.3, 146 ,True,True,True,False,True,False,35.0,True,July,Mykonos
+Riva Suites,"Palio Limani Mykonou, Mikonos, 84600, Greece",4.0,3022.916666666667,9.2,129 ,True,False,False,False,True,False,25.0,False,July,Mykonos
+White Stone Mykonos,"Κορφος Μυκονος, Agios Ioannis Mykonos, 84600, Greece",,2435.5140186915887,9.5,2 ,True,True,False,True,True,True,30.0,True,July,Mykonos
+Magic View Suites Mykonos,"Kaminaki , Mikonos, 84600, Greece",4.0,1923.0,9.0,139 ,False,False,False,True,False,False,,False,July,Mykonos
+Sharm Hotel Mykonos,"Amygdalidi, Mikonos, 84600, Greece",4.0,2933.0,,,True,True,True,False,True,False,20.0,True,July,Mykonos
+Mykonos Secret Spot,"Argyrena, Mikonos, 84600, Greece",,1442.9906542056074,9.8,259 ,False,True,False,True,True,False,24.0,False,July,Mykonos
+Queen Boutique Suites,"Mykonos Airport, Mikonos, 84600, Greece",4.0,2459.606173496541,9.3,169 ,True,True,True,True,True,False,45.0,False,July,Mykonos
+"Mykonos Riviera Hotel & Spa, a member of Small Luxury Hotels of the World","Tourlos Tourlos, Tourlos, 84600, Greece",5.0,4647.837150127226,9.6,206 ,True,False,False,False,True,True,39.0,False,July,Mykonos
+Agia Anna on the beach,"Agia Anna, Paraga, 84600, Greece",,3007.4766355140187,9.0,86 ,True,False,False,False,True,True,17.0,False,July,Mykonos
+Octopus Blue,"Sotiros 12 Cho, Mikonos, 84600, Greece",,2165.4205607476633,9.6,56 ,False,False,False,False,True,False,24.0,False,July,Mykonos
+Le Ciel Suites & Villas,"Glastros, Mikonos, 84600, Greece",,30000.0,9.8,8 ,False,True,True,True,True,False,,False,July,Mykonos
+Anemones Sea View,"Αγιος Βασιλειος Μυκονος, Mikonos, 84600, Greece",,0.0,8.0, 149 ,True,False,False,False,False,False,,False,July,Mykonos
+Villa Evi Mykonos,"Mykonos City , Mikonos, 84600, Greece",,2435.5140186915887,9.2,101 ,True,True,False,False,True,False,24.0,False,July,Mykonos
+Mykonos Point Luxury Villas,"Ornos Mykonos, Mikonos, 84600, Greece",4.0,4582.730120642538,9.1,59 ,True,False,False,True,True,False,110.0,False,July,Mykonos
+Cavo Blue Villas,"Ελιά, Elia Beach, 84600, Greece",4.0,3330.1357466063346,8.8,37 ,True,True,False,True,True,False,40.0,False,July,Mykonos
+Giannoulaki Hotel,"Glastros, Mikonos, 84600, Greece",4.0,1464.485981308411,7.3,142 ,False,True,True,False,True,False,15.0,False,July,Mykonos
+Starlight Luxury Studios,"22, Xenias street, Mikonos, 84600, Greece",3.0,1856.2001064395956,8.9,112 ,True,False,False,True,True,False,25.0,False,July,Mykonos
+Royal Myconian - Leading Hotels of the World,"Main Street, Elia Beach, 84600, Greece",5.0,3409.586466165413,8.7,174 ,True,True,True,False,False,False,28.0,False,July,Mykonos
+Casa Philippi Suites,"Vasilika Mykonos, Mikonos, 84600, Greece",4.0,1726.5950226244343,10,1 ,True,False,False,True,True,False,30.0,False,July,Mykonos
+Fanari sea view studios,"Fanari - Mykonos, Faros Armenistis, Mikonos 846 00, Fanari, 84600, Greece",3.0,1380.0,8.0, 31 ,False,False,False,False,True,False,18.0,False,July,Mykonos
+Guru accommodations,"Goumenio sqr Mykonos town 1, Mikonos, 84600, Greece",,2104.6728971962616,8.9,79 ,True,False,False,False,False,False,20.0,False,July,Mykonos
+Crystal View Mykonos,"Unnamed Road, Mikonos, 84600, Greece",3.0,2245.8333333333335,9.7,173 ,True,False,True,True,True,False,35.0,True,July,Mykonos
+Koumi Homes Mykonos,"FTELIA, Ftelia, 84600, Greece",3.0,3117.667718122988,9.3,27 ,True,False,False,True,True,False,45.0,False,July,Mykonos
+Despotiko Hotel,"Mykonos Town, Mikonos, 84600, Greece",4.0,1788.0,8.7,550 ,False,True,True,False,False,False,20.0,False,July,Mykonos
+Yanna Luxury Suites (Asteri Suites),"Ornos, Ornos, 84600, Greece",,1485.981308411215,8.5, 115 ,True,True,False,False,True,False,24.0,False,July,Mykonos
+Lino Apartments,"Paradise Beach , Paradise Beach, 84600, Greece",4.0,2045.0,9.7,156 ,False,False,False,True,True,False,50.0,True,July,Mykonos
+Petinaros Hotel,"Mykonos city, Mikonos, 84600, Greece",,1940.1869158878503,8.8,573 ,True,True,False,True,False,False,24.0,True,July,Mykonos
+Sea View private resort,"Costa Ilios private resort, Mikonos, 84600, Greece",3.0,2743.0462813723234,9.0,2 ,False,True,False,False,True,False,50.0,True,July,Mykonos
+Mykonos Supreme Comfort Suites & Villas,"Μυκόνου, Kalafatis, 84600, Greece",3.0,1453.495475113122,9.4,155 ,True,False,False,True,True,False,50.0,False,July,Mykonos
+Akkadian Boutique Hotel,"Mýkonos City Main Street, Mikonos, 84400, Greece",,4271.028037383177,8.4, 180 ,True,True,True,False,True,True,19.0,True,July,Mykonos
+Happy Villas Mykonos,"Kalafatis, Kalafatis, 84600, Greece",4.0,6701.0,9.3,3 ,True,True,False,True,True,False,160.0,False,July,Mykonos
+THE VIEW OF MYKONOS,"ΧΩΡΑ ΜΥΚΟΝΟΥ, Mikonos, 84600, Greece",3.0,2049.309954751131,9.6,48 ,False,False,False,False,False,False,17.0,True,July,Mykonos
+Skypiea Room,"Αγια Αννα, Agia Anna, 84300, Greece",,976.8796992481202,,,False,False,False,True,True,False,,True,July,Mykonos
+Maison Central,"Mykonos Town, Mikonos, 84600, Greece",,3013.0841121495328,9.4,24 ,False,False,False,True,False,False,27.0,False,July,Mykonos
+Myconian Imperial - Leading Hotels of the World,"Beach, Elia Beach, 84600, Greece",5.0,3416.0,8.7,95 ,True,False,True,False,True,False,28.0,True,July,Mykonos
+Aeri Villas & Apartments,"Tourlos, Tourlos, 84600, Greece",4.0,2061290.6542056073,9.1,92 ,False,False,True,True,True,False,40.0,False,July,Mykonos
+Casa Grande Hotel,"Platis Yialos, Platis Gialos, 84600, Greece",4.0,2349.3055555555557,8.8,281 ,True,True,False,False,True,False,25.0,False,July,Mykonos
+Thalia Myconian Suites,"Lia Beach, Mykonos, Kalafatis, 84600, Greece",3.0,2454.863273983178,9.2,55 ,True,False,False,True,True,False,55.0,True,July,Mykonos
+Faro Sunset Suites,"Old port of Mykonos, Mikonos, 84600, Greece",3.0,2263.0,9.2,111 ,False,False,True,False,True,True,23.0,True,July,Mykonos
+Absolute Mykonos Suites & More,"Sotiraki Mykonos, Mikonos, 84600, Greece",5.0,4333.813032466037,8.7,350 ,True,True,False,False,True,False,30.0,False,July,Mykonos
+Villa Superview Chrysantina,"Houlakia, Houlakia, 84600, Greece",4.0,36140.22565047202,9.0,5 ,True,True,False,True,True,False,300.0,True,July,Mykonos
+Myconian Avaton - Design Hotels,"Elia Beach, Elia Beach, 84600, Greece",5.0,3130.2901220354593,9.0,188 ,True,True,True,False,False,False,25.0,True,July,Mykonos
+TerraNova,"Καλλιάρχη, Mikonos, 84600, Greece",3.0,2098.0,9.8,12 ,False,False,False,False,False,False,25.0,False,July,Mykonos
+Ethereal Apartments,"Agrari beach, Agrari, 84600, Greece",,2435.5140186915887,8.6,123 ,True,True,False,True,True,False,30.0,False,July,Mykonos
+AK Mykonos,"CHORA MYKONOU, Mikonos, 84600, Greece",,2946.7289719626165,9.4,133 ,True,False,False,True,False,False,23.0,False,July,Mykonos
+Bill & Coo Coast Suites -The Leading Hotels of the World,"Agios Ioannis, Agios Ioannis Mykonos, 84600, Greece",5.0,7201.807760141093,9.4,13 ,True,True,False,False,True,False,35.0,False,July,Mykonos
+Mr & Mrs White Mykonos,"Platis Yalos, Platis Gialos, 84600, Greece",,2353.271028037383,8.0, 99 ,True,True,True,True,True,False,24.0,False,July,Mykonos
+Sea Side Studios & Houses,"Kalo Livadi, Kalo Livadi, 84600, Greece",,2315.88785046729,9.5,235 ,True,False,True,True,False,False,19.0,True,July,Mykonos
+Petasos Chic Hotel,"Mykonos, Mikonos, 84600, Greece",3.0,2504.0258614943677,8.4, 167 ,False,False,False,False,False,False,25.0,False,July,Mykonos
+O Lofos Luxury Boutique Suites,"PO Box Tourlos 411, Agios Stefanos, 84600, Greece",,6479.439252336449,9.9,81 ,True,True,True,True,True,False,99.0,True,July,Mykonos
+Andromeda Private Infinity Pool Villa,"Armenistis, Fanari, 84600, Greece",4.0,16984.03406067057,9.0,3 ,True,True,False,True,True,False,350.0,True,July,Mykonos
+"Orania, heaven in Mykonos","Agios Sostis Beach, Agios Sostis Mykonos, 84600, Greece",4.0,2111.0,,,False,False,False,True,True,False,70.0,True,July,Mykonos
+Myconian O Hotel - Adults Only,"Ornos Mykonos, Ornos, 84600, Greece",5.0,5197.377892030848,9.5,69 ,True,True,True,False,True,False,33.0,False,July,Mykonos
+Casa Del Mar - Small Luxury Hotels of the World,"Aleomandra, Agios Ioannis Mykonos, 84600, Greece",4.0,11600.12443438914,8.9,119 ,True,True,True,False,True,False,85.0,True,July,Mykonos
+Myconian Villa Collection - Preferred Hotels & Resorts,"Elia beach, Elia Beach, 84600, Greece",,4249.532710280374,8.9,77 ,True,True,True,False,True,False,30.0,True,July,Mykonos
+Majestic Mykonos,"Κόρφος Μυκόνου Κόρφος, Ornos, 84600, Greece",3.0,319737.38317757007,8.7,35 ,False,False,False,False,True,False,17.0,True,July,Mykonos
+Myko Villa Private Heated Pool on beach,"Ornos, Ornos, 84600, Greece",5.0,21116.071428571428,9.9,8 ,True,True,True,False,True,False,320.0,True,July,Mykonos
+Whitelist Loft in Mykonos Town,"Ξενίας, Megali Ammos, 84600, Greece",4.0,4105.555555555556,8.5, 11 ,True,False,False,True,False,False,98.0,True,July,Mykonos
+Pelican Petra,"Καλλιάρχη, Mikonos, 84600, Greece",,2285.0467289719627,9.3,11 ,False,False,False,False,False,False,24.0,False,July,Mykonos
+Myconian Platinum Villas,"Kalafati main road, Kalafatis, 84600, Greece",4.0,4455.0,8.2, 21 ,True,False,False,True,True,False,110.0,False,July,Mykonos
+Villa Zanetti Mykonos,"Ano Diakoftis Mykonos, Agios Ioannis Mykonos, 84600, Greece",,9700.0,9.1,11 ,True,True,False,False,True,False,155.0,False,July,Mykonos
+Sea & Stone Residence Mykonos,"Mykonos Airport, Kakovouni, Platis Gialos, 84600, Greece",,2362.6168224299063,9.3,185 ,True,True,False,True,True,False,27.0,False,July,Mykonos
+White Sand Suites Mykonos,"33 Matogianni, Mikonos, 84600, Greece",,3881.308411214953,8.4, 19 ,False,False,False,False,False,False,40.0,True,July,Mykonos
+Whitelist Suite & Maisonette III in Mykonos Town,"Mykonos Town, Mikonos, 84600, Greece",3.0,1940.9722222222224,9.0,1 ,False,False,False,True,True,False,15.0,True,July,Mykonos
+Plan-B Holidays,"Kalo Livadi, Kalo Livadi, 84600, Greece",4.0,1862.0,9.2,27 ,True,False,False,True,True,False,25.0,True,July,Mykonos
+Elia Horizon Mykonos,"Ep.Od. Mikonou-Ano Merias, Elia Beach, 84600, Greece",,6495.327102803738,9.1,18 ,True,False,False,True,True,False,164.0,True,July,Mykonos
+Gelos House,"Ornos Korfos, Ornos, 84600, Greece",,4630.841121495327,9.3,111 ,True,True,False,True,True,False,60.0,True,July,Mykonos
+Chrysanthemo villas,"ΑΝΩ ΜΕΡΑ, ΜΥΚΟΝΟΣ , ΚΥΚΛΑΔΕΣ, Ano Mera, 84600, Greece",4.0,9313.194444444445,9.9,18 ,True,True,False,True,True,False,215.0,False,July,Mykonos
+Etesians Suites & Villas,"Super Paradise, Super Paradise Beach, 84600, Greece",4.0,4893.559801840056,8.6,92 ,True,True,False,True,True,False,36.0,False,July,Mykonos
+Diamond Of Mykonos,"Koukoulou, Ano Mera, 84600, Greece",,1769.4444444444446,8.8,6 ,False,True,False,True,True,False,46.0,False,July,Mykonos
+Bleland Mykonos II,"Ano Mera Mykonos Greece, Ano Mera, 84600, Greece",,1804.6728971962616,8.4, 14 ,False,False,False,True,True,False,49.0,False,July,Mykonos
+Noima Boutique Hotel Mykonos,"Agios Ioannis Diakoftis, Agios Ioannis Mykonos, 84600, Greece",5.0,6659.0,9.2,26 ,True,False,False,True,True,True,32.0,True,July,Mykonos
+Sea Wind Villas and Suites,"Paradeisia N/A, Tourlos, 84600, Greece",4.0,3103.3078880407124,9.3,168 ,True,True,False,True,True,False,100.0,False,July,Mykonos
+Yi Hotel Mykonos,"Livadakia- Elia, Elia Beach, 84600, Greece",4.0,3000.0,10,1 ,True,True,True,False,True,False,24.0,False,July,Mykonos
+Adikri Villas & Suites,"Tourlos, Mykonos, Tourlos, 84600, Greece",4.0,2760.0,8.6,61 ,False,True,False,True,True,False,50.0,False,July,Mykonos
+Le Coq Apartments,"Mykonos Town (center), Mikonos, 84600, Greece",3.0,2274.015837104072,5.9,54 ,True,False,False,True,False,False,55.0,False,July,Mykonos
+Myconian Kyma - Design Hotels,"Vryssi, Mikonos, 84600, Greece",,3356.07476635514,9.0,179 ,True,True,True,False,True,True,26.0,False,July,Mykonos
+Myconian Old Town Maisonette THE MIMIs PLACE,"Agias Kiriakis, Mikonos, 84600, Greece",,2297.196261682243,9.7,8 ,True,False,False,True,False,False,34.0,False,July,Mykonos
+Atlantis Beach Residence,"Super Paradise Beach, Super Paradise Beach, 84600, Greece",,2145.7943925233644,9.1,193 ,True,True,False,True,True,False,31.0,False,July,Mykonos
+Studios & Suites Rania,"Leontiou Boni 2, Mikonos, 84600, Greece",3.0,1605.8035714285713,8.3, 97 ,False,False,False,True,False,False,25.0,True,July,Mykonos
+Whitelist Studios in Mykonos Town,"Mykonos Town, Mikonos, 84600, Greece",,1924.2990654205607,,,False,False,False,False,False,False,14.0,True,July,Mykonos
+Elisseos Luxury Mykonos Villa with private pool & deluxe studios,"Agios Stefanos, Mikonos, Greece",4.0,3749.610757254069,9.9,8 ,True,True,True,True,True,False,65.0,True,July,Mykonos
+Nikoi Villas,"Aleomandra, Mikonos, 84600, Greece",4.0,6840.0,8.9,30 ,True,True,False,True,True,False,110.0,False,July,Mykonos
+Alessios Houses Mykonos Town,"P. Drakopoulou Street, Mikonos, 84600, Greece",3.0,4395.902075572113,8.1, 51 ,False,False,False,True,False,False,65.0,False,July,Mykonos
+The Mykonist Merchia Beach Villas & Suites,"Merchia beach, Mykonos, Μύκονος, Merchia Beach, 84600, Greece",4.0,2511.0,8.8,8 ,True,True,True,True,True,False,35.0,True,July,Mykonos
+Queen Deluxe by Schatz Luxury Collection,"Ornos Beach, Mikonos, 84600, Greece",4.0,1987.0,9.0,5 ,True,False,False,True,True,False,35.0,False,July,Mykonos
+Nephiria's Villa Danelina next to Ornos&Psarou beach!,"noname, Ornos, 84600, Greece",,15035.514018691589,9.7,3 ,True,True,False,True,True,False,189.0,False,July,Mykonos
+Haka Suites Mykonos Town,"Αγίου Λούκα, Mikonos, 84600, Greece",,1978.504672897196,8.1, 27 ,True,False,False,False,False,False,40.0,False,July,Mykonos
+Myconian Korali Relais & Chateaux,"Main Street, Mikonos, 84600, Greece",5.0,4715.277777777778,8.6,160 ,True,True,True,False,True,True,24.0,False,July,Mykonos
+Ria Mar Suites,"Choulakia, Mikonos, 84600, Greece",,2250.0,8.3, 15 ,False,True,False,False,True,False,,False,July,Mykonos
+Bella View Mykonos Town Suites,"Eparchiaki Odos Mikonou, Mikonos, 84600, Greece",,2208.4112149532707,7.9,68 ,False,False,False,True,False,False,37.0,False,July,Mykonos
+KK Mykonos Village,"Ano Mera, Mikonos, 84600, Greece",,2447.0,9.6,17 ,False,True,False,False,True,False,33.0,False,July,Mykonos
+Dorion Hotel,"Ornos Beach, Ornos, 84600, Greece",4.0,1922.9166666666667,9.1,157 ,False,True,True,True,False,False,22.0,True,July,Mykonos
+Anna's Apartments,"Αργυραινα -, Mikonos, 84600, Greece",3.0,1520.0,8.8,77 ,True,False,False,False,True,False,20.0,False,July,Mykonos
+Bill & Coo Suites and Lounge -The Leading Hotels of the World,"Megali Ammos beach, Mikonos, 84600, Greece",,7036.448598130841,9.3,119 ,True,True,False,False,True,True,40.0,True,July,Mykonos
+Carpe Diem Villas Mykonos,"Ornos, Ornos, 84600, Greece",,10901.869158878504,9.3,19 ,True,True,False,True,True,False,159.0,True,July,Mykonos
+White and Grey,"Chondros Gkremos, Mikonos, 84600, Greece",,2652.3364485981306,9.1,111 ,True,True,True,True,True,False,22.0,False,July,Mykonos
+Amarelo Villas,"Klouvas, Mykonos, Klouvas, 84600, Greece",,3507.4766355140187,9.5,54 ,True,False,False,True,True,False,157.0,False,July,Mykonos
+Epic Blue Mykonos,"Χουλάκια, Μύκονος, Houlakia, 84600, Greece",,3114.9532710280373,8.0, 92 ,True,True,True,False,True,True,30.0,True,July,Mykonos
+VILLA Η ΤΗΕΑ,"θεση καναλια μυκονος, Mikonos, 84600, Greece",,9442.056074766355,10,1 ,True,True,False,True,True,False,136.0,False,July,Mykonos
+Mykonos Aphrodite Superior Apartment & Studios with amazing sea view,"Άγιος Στέφανος, Agios Stefanos, 84600, Greece",3.0,3036.018099547511,8.6,5 ,True,False,False,True,True,False,60.0,True,July,Mykonos
+Mykonos Elegance 2-Bedroom Escape in Psarou,"unknown road, Platis Gialos, 84600, Greece",4.0,2683.74325134973,,,False,False,False,False,True,False,75.0,False,July,Mykonos
+Arcs Boutique Villa Hotel,"No name, Mikonos, 84600, Greece",,2530.841121495327,9.0,186 ,True,False,False,True,True,False,109.0,False,July,Mykonos
+Granite Village Mykonos,"Mykonos Lia, Ano Mera, 84600, Greece",3.0,1980.0,9.3,73 ,True,True,False,True,True,False,30.0,True,July,Mykonos
+Ozar Villas Mykonos,"Agios Lazaros , Mikonos, 84600, Greece",,13832.71028037383,8.3, 3 ,True,False,True,True,False,False,274.0,True,July,Mykonos
+Mykonos Saint John Luxury Villas,"Μυκονος κυκλαδες, Agios Ioannis Mykonos, 84600, Greece",,7209.722222222223,,,False,True,False,False,True,False,200.0,True,July,Mykonos
+Mumua Studios,"Fabrika Square, Mikonos, 84600, Greece",3.0,2455.580357142857,7.5,67 ,False,False,False,True,False,False,22.0,False,July,Mykonos
+Nireas Apartments Mykonos Downtown,"Agia Anna Mykonos, Mikonos, 84600, Greece",3.0,4490.739755188931,9.5,30 ,False,False,False,True,True,False,75.0,False,July,Mykonos
+CASA DI MYKONOS,"Δεξαμενές ΜΥΚΟΝΟΥ, Mikonos, 84600, Greece",,1982.638888888889,8.8,14 ,True,False,False,False,True,False,35.0,False,July,Mykonos
+Bebis House,"Vothonas, Klouvas, 84600, Greece",,1684.1121495327102,8.2, 76 ,True,True,True,False,True,False,24.0,True,July,Mykonos
+Mykonos Psarou Place,"Agios Lazaros , Psarou, 84600, Greece",4.0,6008.333333333334,8.8,18 ,True,False,False,True,True,False,125.0,False,July,Mykonos
+La Stella Stay,"Glastros 303, Glastros, 84600, Greece",,1829.0,9.6,49 ,True,True,True,True,True,False,,True,July,Mykonos
+Grace Villa Mykonos,"Korfos,Ornos Mykonos Villa, Mikonos, 84600, Greece",4.0,4494.0,,,False,True,False,True,True,False,138.0,False,July,Mykonos
+Amare Mykonos,"Tourlos, Tourlos, 84600, Greece",4.0,2245.3488372093025,9.7,38 ,False,True,False,True,True,True,30.0,False,July,Mykonos
+Brilliance of Mykonos,"Μύκονος, Glastros, 84600, Greece",,3247.663551401869,10,3 ,True,False,False,False,True,False,37.0,False,July,Mykonos
+Kouneni Apartments,"Tria Pigadia, Mikonos, 84600, Greece",,2405.607476635514,9.3,114 ,False,False,False,True,False,False,19.0,False,July,Mykonos
+Anius Apartments,"Kakovouni, Mikonos, 84600, Greece",3.0,1676.388888888889,9.0,192 ,False,False,False,True,True,False,22.0,False,July,Mykonos
+Kalesma Mykonos,"Ornos, Ornos, 84600, Greece",5.0,14165.116279069767,8.7,16 ,True,True,True,False,False,True,62.0,True,July,Mykonos
+Anius Apartments,"Kakovouni, Mikonos, 84600, Greece",3.0,1670.569451836083,9.0,192 ,False,False,False,True,True,False,22.0,False,July,Mykonos
+Kalesma Mykonos,"Ornos, Ornos, 84600, Greece",5.0,14155.535559554755,8.7,16 ,True,True,True,False,True,True,63.0,True,July,Mykonos
+Nalu Villa,"Ορνός, Ornos, 84600, Greece",,4329.906542056075,8.8,5 ,True,False,False,False,True,False,99.0,False,July,Mykonos
+Amarelo Villas,"Klouvas, Mykonos, Klouvas, 84600, Greece",4.0,4574.0,9.5,54 ,True,False,False,True,True,False,157.0,False,July,Mykonos
+Sofia's Bungalows Mykonos,"Ag. Ioannis Diakoftis, Mikonos, 84600, Greece",,2084.11214953271,9.6,77 ,False,True,True,True,True,False,23.0,False,July,Mykonos
+Bonzoe Suites & Villas,"Megali Ammos, Mikonos, 84600, Greece",4.0,7627.0,9.7,62 ,True,True,True,True,True,False,25.0,True,July,Mykonos
+Mileo,"Kalo Livadi 0 Kalo Livadi, Kalo Livadi, 84600, Greece",5.0,4542.361111111111,9.4,123 ,True,False,True,False,True,False,40.0,True,July,Mykonos
+Hotel Kastelakia Mykonos,"hotel kastelakia mykonos, Mikonos, 84600, Greece",,1543.574660633484,8.1, 117 ,False,False,False,True,True,False,20.0,False,July,Mykonos
+Myconian Ambassador Relais & Chateaux,"Main Street, Platis Gialos, 84600, Greece",5.0,5094.0,9.0,203 ,True,True,True,False,True,True,28.0,False,July,Mykonos
+Granite Village Mykonos,"Mykonos Lia, Ano Mera, 84600, Greece",3.0,1985.0467289719625,9.3,73 ,True,True,False,True,True,False,30.0,True,July,Mykonos
+Legendary Suites,"Chalara, Mykonos Cyclades, Mikonos, 84600, Greece",,3202.0,9.8,55 ,False,False,True,True,True,False,26.0,False,July,Mykonos
+Whitelist Apartment in Mykonos Town,"Mponi, Mikonos, 84600, Greece",3.0,2000.8062329985316,10,1 ,True,False,False,True,True,False,40.0,True,July,Mykonos
+Annez Villa with Private Pool Panoramic Sea View,"Tourlos, Mikonos, 84600, Greece",,8179.439252336448,10,1 ,True,True,True,False,True,False,150.0,False,July,Mykonos
+Leno Villas Mykonos,"Unnamed Road, Mikonos, 84600, Greece",,8645.794392523365,9.0,3 ,True,True,False,False,True,False,175.0,False,July,Mykonos
+Olive Tree Mykonos Town Home & Capari Suites with Pool!,"Παναχράντου Oasis Complex, Mikonos, 84600, Greece",,3969.158878504673,8.8,4 ,True,True,False,True,False,False,40.0,False,July,Mykonos
+Bo Houses,"Mikonou, Mikonos, 84600, Greece",,4600.934579439252,9.7,7 ,False,False,False,True,False,False,30.0,False,July,Mykonos
+"Myconian Panoptis Escape, a member of Small Luxury Hotels of the World","Elia beach, Elia Beach, 84600, Greece",5.0,9468.774142845727,9.4,11 ,True,True,True,False,True,False,46.0,True,July,Mykonos
+Aya,"DIMITRIOU IPSILANTOU 18 LIMNI, Mikonos, 84600, Greece",,3338.3177570093458,10,5 ,False,False,False,False,False,False,,True,July,Mykonos
+Villa Elia Mykonos,"Elia, Anomera, Mikonos, 84600, Greece",4.0,5872.8959276018095,9.6,5 ,True,True,False,False,True,False,130.0,False,July,Mykonos
+Gemini Suite One,"Agiou Georgiou, Mikonos, 84600, Greece",,2104.6728971962616,,,False,False,False,False,False,False,27.0,True,July,Mykonos
+Villa Ava Mykonos,"Mikonou Agios Lazaros 89, Mikonos, 84600, Greece",4.0,3809.0,10,2 ,True,True,False,True,True,False,30.0,False,July,Mykonos
+Pasithea Villas Mykonos,"Mykonos Tourlos, Tourlos, 84600, Greece",,8299.065420560748,8.6,68 ,True,True,False,True,True,False,125.0,True,July,Mykonos
+Villa Galaxy,"μυκονος, Ftelia, 84600, Greece",4.0,15012.0,10,1 ,True,True,False,True,True,False,350.0,True,July,Mykonos
+Ornos Beach House,"Ornos, Ornos, 84600, Greece",,3905.5555555555557,9.0,4 ,True,True,False,True,True,False,70.0,True,July,Mykonos
+Beachfront Mykonos Guest House,"Ornos, Ornos, 84600, Greece",,2886.9158878504672,9.4,43 ,False,False,False,False,True,False,22.0,False,July,Mykonos
+BLACK AND WHITE VILLAS FTELIA - MYKONOS,"Ftelia, Mikonos, 84600, Greece",3.0,6829.160834499767,7.7,10 ,True,True,False,False,True,False,135.0,False,July,Mykonos
+AGL Luxury Villas,"Agios Lazaros, Mikonos, 84600, Greece",4.0,14555.0,9.6,17 ,False,False,False,True,True,False,183.0,False,July,Mykonos
+Andromeda Mykonos Villas & Suites,"Kalo Livadi, Kalo Livadi, 84600, Greece",4.0,1934.9773755656108,8.4, 11 ,True,False,False,True,True,False,28.0,False,July,Mykonos
+Obsession Mykonos,"Agios Stefanos, Agios Stefanos, 84600, Greece",,6571.028037383177,8.6,26 ,True,False,False,True,True,False,120.0,True,July,Mykonos
+Domes Noruz Mykonos,"Mykonos, Agios Stefanos, Mikonos, 84600, Greece",,5517.757009345794,,,False,True,True,False,False,True,23.0,True,July,Mykonos
+"Thalassophile Deep Blue, Little Venice","4 Αγίων Αναργύρων, Mikonos, 84600, Greece",3.0,4982.0,10,2 ,False,False,False,False,False,False,55.0,False,July,Mykonos
+Lanero Villa C Elia Mykonos,"Elia 0, Elia 846 00, Greece, Ftelia, 84600, Greece",,9514.018691588784,8.5, 2 ,True,True,False,False,True,False,171.0,False,July,Mykonos
+Melangio Villa - A vibrant retreat with private pool - 5kms from town,"Ornos, Mikonos, 84600, Greece",,12178.504672897196,,,False,True,False,False,True,False,269.0,True,July,Mykonos
+Arion suites Mykonos,"Megali ammos mykonos ARION, Mikonos, 84600, Greece",3.0,2512.0,9.1,70 ,True,False,False,True,True,False,32.0,False,July,Mykonos
+My Oasis Studios Mykonos,"Μύκονος, Klouvas, 84600, Greece",3.0,1881.9444444444446,8.2, 100 ,True,True,False,True,True,False,,False,July,Mykonos
+Villa Nima,"Μύκονος Χώρα Μυκόνου, Klouvas, 84600, Greece",4.0,8273.611111111111,,,True,True,False,True,True,False,80.0,False,July,Mykonos
+Anasa Mykonos Villa,"mykonos, Mikonos, 84600, Greece",4.0,0.0,10,2 ,True,True,True,False,True,False,,True,July,Mykonos
+Cycladic Breeze Villa with Private Pool,"Agios Ioannis, Mikonos, 84600, Greece",,7340.18691588785,10,1 ,False,True,False,False,True,False,140.0,False,July,Mykonos
+Frankie’s Sunrise villa,"Καλαφατη, Agia Anna, 84600, Greece",4.0,6750.0,9.0,2 ,False,True,False,False,True,False,170.0,False,July,Mykonos
+Nur Mykonian Suites,"Elia, Παραλία Ελιά, Mikonos, 84600, Greece",3.0,3616.0,10,3 ,True,True,True,True,True,True,35.0,False,July,Mykonos
+Magical Mykonos,"Agias Paraskevis, Mikonos, 84600, Greece",,5299.305555555556,,,True,False,False,False,False,False,95.0,True,July,Mykonos
+Myconian Naia - Preferred Hotels & Resorts,"Vryssi, Mikonos, 84600, Greece",,4969.158878504672,8.5, 36 ,True,True,True,False,True,True,30.0,True,July,Mykonos
+Villa Petra Sea view of Mykonos,"Tigani 1, Mikonos 846 00, Greece, Merchia Beach, 84600, Greece",,7135.514018691589,7.0,1 ,True,True,False,False,True,False,233.0,False,July,Mykonos
+Lea Lodge 3 Mykonos,"mykonos 0, Merchia Beach, 84600, Greece",,1760.7476635514017,,,False,True,False,False,True,False,54.0,False,July,Mykonos
+Villa Dimitra,"Επαρχιακή Οδός Μυκόνου-'Ανω Μεριάς, Ano Mera, 84600, Greece",,7200.0,9.5,6 ,True,True,False,False,True,False,250.0,False,July,Mykonos
+MOOI Skylight,"Agia Moni Square, Mikonos, 84600, Greece",3.0,1987.7158646097168,10,3 ,True,False,False,False,False,False,22.0,False,July,Mykonos
+Villa Lea 2 Mykonos,"mykonos 0, Merchia Beach, 84600, Greece",4.0,3156826.168224299,,,False,True,False,False,True,False,140.0,False,July,Mykonos
+Beachfront Villa Amazing Views Mykonos,"Kalo Livadi beach ,Mykonos, Kalo Livadi, 84600, Greece",3.0,4510.280373831775,8.1, 8 ,True,False,False,True,True,True,75.0,True,July,Mykonos
+Panormos White Villa,"panormos, Mykonos, 84600, Greece",3.0,3394.0939597315437,7.7,4 ,False,True,True,True,True,False,50.0,True,July,Mykonos
+Mykonian Style Pool House 2,"Μύκονος Ορνός, Ornos, 84600, Greece",3.0,4190.0,8.6,10 ,True,True,False,False,True,False,55.0,True,July,Mykonos
+Cali Mykonos,"Kalafati, Kalafatis, 84600, Greece",5.0,7892.47483836566,6.0,2 ,True,True,True,False,True,True,65.0,True,July,Mykonos
+Beachside studio Ornos area,"Eparchiaki Odos Ormou Agiou Ioanni-Agiou Stefanou, Mikonos, 84600, Greece",3.0,2130.127307871759,8.8,6 ,False,False,False,False,True,False,35.0,False,July,Mykonos
+Villa Anemoni by Mykonian Kazarte,"δρόμος χωρίς όνομα, Kalafatis, 84600, Greece",,3505.1339285714284,10,2 ,True,False,False,True,True,False,75.0,False,July,Mykonos
+The Corfos Hills House,"mykonos, Ornos, 84600, Greece",3.0,1412.0535714285713,9.2,105 ,False,False,False,False,True,False,20.0,False,July,Mykonos
+Schatz Luxury Collection,"Kanalia Mykonos Kanalia 5, Mikonos, 84600, Greece",3.0,7800.0,7.5,21 ,True,True,False,True,True,False,245.0,True,July,Mykonos
+Gorgeous Studio Aqua Mare,"Dodekanese islands, Agios Ioannis Mykonos, 84600, Greece",,1489.8496240601503,,,False,False,False,False,False,False,30.0,False,July,Mykonos
+Whitelist Suite Paraportiani in MykonosTown,"Mykonos Town, Mikonos, 846 00, Greece",,1985.0467289719625,5.0,6 ,False,False,False,False,False,False,19.0,True,July,Mykonos
+"Thalassophile, Little Venice Mykonos","4 Αγίων Αναργύρων, Mikonos, 84600, Greece",3.0,4195.0,10,1 ,False,False,False,True,False,False,42.0,False,July,Mykonos
+windmills suite by opus,"Αγίου Ιωάννου, Megali Ammos, 84600, Greece",,2273.8317757009345,7.0,1 ,False,False,False,False,False,False,30.0,False,July,Mykonos
+Agrari Bo Suites,"Agrari Mykonos, Agrari, 84600, Greece",4.0,3028.472222222222,9.0,191 ,True,True,False,True,True,False,45.0,True,July,Mykonos
+Giannoulaki Resort,"Γλάστρος, Glastros, 84600, Greece",4.0,1823.3484162895927,7.1,12 ,True,True,False,True,True,True,30.0,False,July,Mykonos
+Villa Meli,"Ftelia, Mykonos, Mikonos, 84600, Greece",4.0,5911.0,10,2 ,True,False,False,True,True,False,80.0,False,July,Mykonos
+Ethereal Villa Mykonos,"Ano Mera, Merchia Beach, 84600, Greece",4.0,13010.476629058256,,,True,True,False,True,True,False,200.0,True,July,Mykonos
+Villa Anemos Petra Sea view of Mykonos,"Tigani 1, Mikonos 846 00, Greece, Merchia Beach, 84600, Greece",4.0,13492.793000230256,,,True,True,False,False,True,False,470.0,False,July,Mykonos
+Pearl Villa,"Eparchiaki Odos Mikonou-Ano Merias, Mykonos, 84600, Greece",,3909.345794392523,10,1 ,False,True,True,False,True,False,49.0,True,July,Mykonos
+Villa Azzuro II - Mykonianvilla,"kalafatis, Mikonos, 84600, Greece",,5782.43149896385,,,False,False,False,False,True,False,,False,July,Mykonos
+Amati Villa,"Mykonos , ornos, Mikonos, 84600, Greece",,7078.504672897196,10,4 ,False,False,False,True,True,False,115.0,False,July,Mykonos
+Cycladic Charming Studio in Mykonos,"unknown road, Kalafatis, 84600, Greece",,1119.5361990950225,,,False,False,False,False,True,False,15.0,False,July,Mykonos
+1Path Beach House Super Paradise Mykonos,"Super Paradise Street, Mikonos, 84600, Greece",3.0,1754.1666666666667,,,False,False,False,False,True,False,57.0,True,July,Mykonos
+Divers House,"Agrari beach Mykonos Xalara, Agrari, 84600, Greece",,1353.271028037383,8.7,57 ,False,False,False,True,True,False,35.0,True,July,Mykonos
+Great villa with stunning view !,"LINO mykonos, Mikonos, 84600, Greece",,0.0,,,False,True,False,False,True,False,,False,July,Mykonos
+Baos Pool Villas,"Agios Isidoros, Mikonos, 84600, Greece",,7781.308411214953,,,True,True,False,True,True,False,150.0,False,July,Mykonos
+sun studios,"Mikonou 2902 amugdalou, Mikonos, 84600, Greece",,1898.1308411214952,8.1, 84 ,True,False,False,True,True,False,41.0,False,July,Mykonos
+Villa Julian Sun with Jacuzzi & Sea view,"Ornos, Mykonos, Ornos, 84600, Greece",4.0,5760.0,,,False,False,True,True,True,False,150.0,False,July,Mykonos
+Villa Fos,"Φαναρι, Fanari, 84600, Greece",4.0,7809.0,,,False,True,False,True,True,False,175.0,True,July,Mykonos
+"Principality Villas, Sea View with Private Pool above Ftelia Beach","Eparchiaki Odos Mikonou-Ano Merias, Mikonos, 84600, Greece",4.0,7304.423076923076,,,False,True,False,True,False,False,112.0,False,July,Mykonos
+Mykonos Divino,"Agia Sofia, Tourlos, 84600, Greece",4.0,3860.4651162790697,9.7,33 ,True,False,False,True,True,False,60.0,True,July,Mykonos
+Myko villa 3bed heated private pool,"Eparchiaki Odos Mikonou-Ano Merias, Mikonos, 84600, Greece",4.0,9967.66917293233,,,True,True,True,False,True,False,210.0,True,July,Mykonos
+Colours of Mykonos Luxury Residences & Suites,"Psarou, Psarou, 84600, Greece",4.0,3606.4705882352937,8.9,122 ,True,True,False,True,True,False,22.0,True,July,Mykonos
+Sole Mykonos,"Posidonos, Mikonos, 84600, Greece",3.0,4806.944444444444,8.2, 5 ,False,False,False,True,False,False,85.0,False,July,Mykonos
+Whitelist Maisonette I and II in Mykonos Town,"Αγίου Ευθυμίου, Mikonos, 84600, Greece",,4109.345794392523,6.6,8 ,True,False,True,True,False,False,60.0,True,July,Mykonos
+Villa Apollo by Mykonos Luxury,"Elia 2, Elia Beach, 84600, Greece",4.0,29628.0,,,True,True,False,False,False,False,500.0,False,July,Mykonos
+Elia Sea View Luxury Villa,"7 Miroforou, Elia Beach, 14569, Greece",,9433.333333333334,10,2 ,True,True,False,True,True,False,280.0,False,July,Mykonos
+Villa Casa Dodo Mare,"elia elia mykonos, Elia Beach, 84600, Greece",,3007.4766355140187,9.4,5 ,True,False,False,True,True,False,799.0,True,July,Mykonos
+Oniropetra Apartments Mykonos,"Plintri, Plintri, 84600, Greece",3.0,2771.6904276985742,8.8,86 ,True,False,False,True,True,False,48.0,False,July,Mykonos
+Beyond Blue Mykonos,"Kalo Livadi Mykonos, Mikonos, 84600, Greece",,4763.551401869158,8.5, 8 ,False,True,False,True,True,False,115.0,False,July,Mykonos
+casa elena,"ELENA HOTEL ROCHARI STR MYKONOS POBOX 174, Aggelika, 84600, Greece",,2706.542056074766,8.8,4 ,True,False,False,False,True,False,78.0,False,July,Mykonos
+Villa Leda Mykonos,"Μυκονος, Mikonos, 84600, Greece",,14400.0,,,True,True,False,False,True,False,210.0,False,July,Mykonos
+Stunning Villa with Pool in Mykonos,"Ornos 846 00, Mykonos, Greece, Ornos, 84600, Greece",,9038.317757009345,5.0,1 ,True,True,False,False,False,False,250.0,False,July,Mykonos
+Periscope Suite with Outdoor Hot Tub,"Vrysi, Drafaki, 84600, Greece",3.0,2487.0,7.0,4 ,True,False,False,False,True,False,40.0,True,July,Mykonos
+White and Grey Chora,"Agiou Spiridonos, Mikonos, 84600, Greece",3.0,2047.9507253050886,7.5,13 ,True,False,False,False,False,False,22.0,False,July,Mykonos
+Panormos View,"Mykonos Panormos, Mykonos, 84600, Greece",,4811.214953271028,7.8,4 ,True,True,True,True,True,False,74.0,False,July,Mykonos
+The Form Exclusive Suite,"Agios Ioannis Diakoftis, Mikonos, 84600, Greece",3.0,3294.0741511493275,8.5, 4 ,True,False,False,False,True,False,100.0,False,July,Mykonos
+Black Cactus,"Eparchiaki Odos Agios Ioannis Diakoftis, Agios Ioannis Mykonos, 84600, Greece",,5564.0,5.8,11 ,True,True,False,True,True,False,120.0,False,July,Mykonos
+Love suite mykonos town,"23 Ματογιάννη 1, Mikonos, 84600, Greece",,3307.4766355140187,7.3,3 ,True,False,False,False,False,False,49.0,False,July,Mykonos
+Villa Garnet by Mykonos Estates,"Agios Ioannis Diakoftis, Mikonos, 84600, Greece",,9472.897196261682,,,True,True,False,True,True,False,299.0,False,July,Mykonos
+Sunset Hill Suites,"ΚΟΥΝΟΥΠΑΣ, Mikonos, 84600, Greece",4.0,2209.4731240021288,,,True,True,True,True,True,False,32.0,False,July,Mykonos
+Giannisasi Mykonos Apartment,"Άγιος Μάμας, Mikonos, 84600, Greece",3.0,1380.0,7.0,1 ,False,False,False,True,True,False,30.0,False,July,Mykonos
+Katikies Villas Mykonos - The Leading Hotels Of The World,"Elia Beach, Elia Beach, 84600, Greece",3.0,9117.047511312217,7.4,5 ,True,True,False,False,True,False,85.0,True,July,Mykonos
+Villa Aqua Marine by Mykonos Rocks,"Kalafatis Mykonos, Kalafatis, 84600, Greece",4.0,12580.03732586816,9.5,2 ,True,True,False,False,False,False,250.0,True,July,Mykonos
+Magical Ornos! Beach House!Beach 1' walk-Mykonos town 2km,"Ornos Mykonos, Mikonos, 84600, Greece",3.0,3935.752849430114,9.7,3 ,False,False,False,True,True,False,80.0,False,July,Mykonos
+whitehomes3,"Tourlos, Mikonos, 84600, Greece",3.0,1476.0,,,False,False,False,False,True,False,25.0,True,July,Mykonos
+Diana Villa Mykonos,"Άγιος Ιωάννης Διακοφτης, Agios Ioannis Mykonos, 84600, Greece",,12629.906542056075,9.3,7 ,True,True,True,True,True,False,209.0,True,July,Mykonos
+Colours of Mykonos Luxury Residences & Suites,"Psarou, Psarou, 84600, Greece",4.0,3608.458646616541,8.9,122 ,True,True,False,True,True,False,22.0,True,July,Mykonos
+Ammos Villas,"Faros, Fanari, 84600, Greece",4.0,12617.361111111111,10,2 ,True,True,False,True,True,True,71.0,True,July,Mykonos
+Abelos Mykonos,"Abelos Mykonos, Lino street, Mikonos, 84600, Greece",,2343.0555555555557,9.5,12 ,True,True,False,True,True,False,34.0,False,July,Mykonos
+Villa Amethyst by Mykonos Rocks,"Kounoupas hill Mykonos, Mikonos, 84600, Greece",,10103.738317757008,9.5,2 ,True,True,False,False,True,False,24.0,True,July,Mykonos
+Villa Anemos Sea view of Mykonos,"Tigani 1, Mikonos 846 00, Greece, Merchia Beach, 84600, Greece",4.0,7835.416666666667,1.0,1 ,True,True,False,False,True,False,237.0,False,July,Mykonos
+Hotel Anastasia Village,"Ano Mera Kalafatis, Kalafatis, 84600, Greece",,1731.7757009345794,4.0,8 ,True,True,False,False,True,True,,False,July,Mykonos
+Oniropetra Apartments Mykonos,"Plintri, Plintri, 84600, Greece",3.0,2775.6944444444443,8.8,86 ,True,False,False,True,True,False,48.0,False,July,Mykonos
+The Mykonist Panormos Exclusive Villas & Suites,"Panormos, Mykonos, Mykonos, 84600, Greece",,4118.055555555556,,,False,True,True,True,True,True,40.0,False,July,Mykonos
+VILLA MYKONOS 10 - Beautiful Stay on the Sea Side,"Ornos, Greece, Mikonos, 84600, Greece",4.0,5322.0,10,1 ,False,True,False,False,True,False,150.0,False,July,Mykonos
+VILLA POSEIDON- PRIVATE POOL,"MYKONOS FAROS ARMENISTIS, Mikonos, 84600, Greece",4.0,12840.17857142857,8.0, 4 ,True,True,False,True,True,False,300.0,False,July,Mykonos
+Ambiente Villas Mykonos,"Elia Mykonos, Mikonos, 84600, Greece",,6495.327102803738,10,4 ,True,True,False,True,True,False,120.0,False,July,Mykonos
+MykonoSerendipity Villa,"Platis Gialos, Platis Gialos, 84600, Greece",,5413.084112149532,,,False,False,False,True,True,False,150.0,False,July,Mykonos
+Tohu Villas Mykonos,"kanalia, Ornos, 84600, Greece",,16352.33644859813,9.7,11 ,True,True,False,True,True,False,239.0,False,July,Mykonos
+Revel Mykonos 6,"Ornos, Mykonos , Cyclades, Mikonos, 84600, Greece",,4482.242990654206,8.9,14 ,False,False,False,False,True,False,140.0,True,July,Mykonos
+Villa Faros,"Μύκονο Χουλάκια, Fanari, 84600, Greece",,18944.859813084113,,,True,True,True,False,True,False,500.0,True,July,Mykonos
+Ria Mar Lion,"Choulakia mykonos, Mikonos, 84600, Greece",,9600.0,3.0,1 ,False,True,False,False,True,False,,False,July,Mykonos
+Villa Olivine by Mykonos Rocks,"Kanalia Mykonos, Glastros, 84600, Greece",,9472.897196261682,8.0, 1 ,True,True,False,False,True,False,219.0,True,July,Mykonos
+Megusta Mykonos,"Καντούνια, Tourlos, 84600, Greece",3.0,1526.92839051347,9.7,25 ,True,False,True,True,True,False,34.0,True,July,Mykonos
+Natural Stone Villas,"Κανάλια, Ορνός, Ornos, 84600, Greece",,10842.067695141608,,,False,True,False,True,True,False,140.0,False,July,Mykonos
+Panorea Complex - Mykonos,"Ano Mera Profitis Elias Ano Mera Profitis Elias, Ano Mera, 84600, Greece",,1442.9906542056074,8.4, 14 ,False,True,False,False,True,False,24.0,False,July,Mykonos
+Villa Alba Mykonos,"Agios Sostis Mykonos, Agios Sostis Mykonos, 84600, Greece",,3715.277777777778,9.7,3 ,False,True,False,True,True,False,127.0,True,July,Mykonos
+Sunset Villa,"Fanari, Houlakia, 84600, Greece",4.0,7484.566258648218,,,False,True,False,False,True,False,138.0,True,July,Mykonos
+Mykonos Teatro Suites and Villa,"Πλιντρί, Μυκονοσ, Plintri, 84600, Greece",4.0,2694.465141032464,,,True,True,False,True,True,False,40.0,True,July,Mykonos
+Villa Costa by Whitelist Mykonos,"Unnamed Road, Ftelia, 84600, Greece",4.0,8382.756785524216,,,False,True,False,True,True,False,130.0,True,July,Mykonos
+Panormos Villa,"Panormos Mykonos, Mykonos, 84600, Greece",,4510.280373831775,10,1 ,False,True,True,False,True,False,79.0,True,July,Mykonos
+Oniropetra Apartments Mykonos,"Plintri, Plintri, 84600, Greece",3.0,2780.580357142857,8.8,86 ,True,False,False,True,True,False,48.0,False,July,Mykonos
+Mykonian Dianthus,"Unnamed Road Ελιά 846 00, Elia Beach, 84600, Greece",,5532.710280373832,9.5,4 ,False,True,False,True,True,False,85.0,False,July,Mykonos
+Revel Mykonos,"Ornos , Mykonos , Greece, Mikonos, 84600, Greece",3.0,1570.7058588282343,9.1,8 ,False,False,False,False,True,False,25.0,True,July,Mykonos
+Lights Of Mykonos Star Light Villa,"Fanari, Fanari, 84600, Greece",4.0,13492.35551462123,8.0, 2 ,False,True,False,False,True,False,300.0,True,July,Mykonos
+"Elegant 8 person pool villa, spectacular views","Agios Lazaros, Mikonos, 84600, Greece",4.0,9226.561354395788,7.0,1 ,False,True,False,False,True,False,135.0,False,July,Mykonos
+Villa Camelie - Mykonos,"mykonos, Agrari, 84600, Greece",,15035.514018691589,,,False,True,False,False,True,False,,False,July,Mykonos
+Crystal Suites,"Amygdalidi, Mikonos, 84600, Greece",4.0,2094.763092269327,9.0,215 ,True,True,False,True,True,False,28.0,False,July,Mykonos
+SONOKYM BEACH HOUSE,"ΠΑΡΑΛΙΑ ΚΑΛΟ ΛΙΒΑΔΙ, Kalo Livadi, 84600, Greece",,15035.514018691589,,,False,True,False,False,True,False,170.0,True,July,Mykonos
+VILLA AGNES MYKONOS,"Houlakia, Mikonos, 84600, Greece",4.0,6816.0,9.3,3 ,True,True,False,False,True,False,170.0,False,July,Mykonos
+Little Villa amid Super Paradise-JackieO' Mykonos,"Plindri, Super Paradise Beach, 84600, Greece",,6314.953271028037,8.3, 3 ,False,True,False,True,True,False,69.0,True,July,Mykonos
+Villa Capiz,"Villa Capiz , Ayio Lazaros, Mikonos, Greece",,150000.0,,,False,True,False,False,True,False,1000.0,False,July,Mykonos
+Anemos Villa Elia in Mykonos,"Elia 0, Greece, Elia Beach, 84600, Greece",4.0,9297.99107142857,,,True,True,False,False,True,False,155.0,True,July,Mykonos
+Villa Elmina in Mykonos,"Mikonos, Mikonos, 846 00, Greece",4.0,20310.46511627907,10,1 ,False,False,False,False,True,False,1000.0,False,July,Mykonos
+"Villa Roselani, Elia, Mykonos","Ελιά, Elia Beach, 84600, Greece",,8280.0,,,True,False,False,False,True,False,150.0,True,July,Mykonos
+Mykonos AG Villas,"Ftelia, Ftelia, 84600, Greece",,5292.523364485981,10,5 ,True,True,False,False,True,False,109.0,True,July,Mykonos
+Villa Agate by Mykonos Rocks,"Kalafatis Mykonos, Kalafatis, 84600, Greece",4.0,12630.279898218829,,,True,True,False,False,True,False,220.0,True,July,Mykonos
+Paraga Villa1 Jaccuzi 7 mins walk to beach by Calypso sunsetvillas,"Paraga beach, Paradise Beach, 86400, Greece",4.0,20090.0,,,False,True,False,False,True,False,100.0,True,July,Mykonos
+Myko Villa with private heated pool,"Μύκονος, Glastros, 84600, Greece",,17080.3738317757,,,True,True,True,False,True,False,361.0,True,July,Mykonos
+Manolia Luxury Private house by Mykonian Kazarte,"Επαρχιακή Οδός Μυκόνου-'Ανω Μεριάς, Kalo Livadi, 84600, Greece",,3105.0,9.7,3 ,False,False,False,False,True,False,102.0,False,July,Mykonos
+Starling Suite - Cozy Nest,"Σκαρδανά, Mikonos, 84600, Greece",3.0,1667.0588235294117,,,False,False,False,False,False,False,35.0,False,July,Mykonos
+Mykonos Private pool villa - Aether Villa,"Kato, Ag. Ioannis Diakoftis 846 00, Grecia, Mikonos, 84600, Greece",,19469.106178764247,,,True,True,False,False,True,False,200.0,True,July,Mykonos
+Sealine Villas,"Tourlos, Villa 1, Tourlos, 84600, Greece",3.0,10064.033859894687,7.7,10 ,True,True,False,True,True,False,150.0,False,July,Mykonos
+Villa Delight in Ornos area By Mykonos Luxury,"Ornos, Mykonos, Mikonos, 84600, Greece",,28868.22429906542,,,True,True,True,True,True,False,719.0,False,July,Mykonos
+Villa Nerovino by Whitelist Mykonos,"Unnamed road, Ornos, 846 00, Greece",,32957.943925233645,,,True,True,False,True,True,False,519.0,True,July,Mykonos
+Tagoo Bay,"Ταγκού, Tagou, 84600, Greece",,2165.4205607476633,8.4, 19 ,True,True,False,True,True,False,24.0,False,July,Mykonos
+Villa Elia by Mykonian Kazarte,"Επαρχιακή Οδός Μυκόνου-'Ανω Μεριάς, Kalafatis, 84600, Greece",,13633.901011176158,,,False,True,False,True,True,False,150.0,False,July,Mykonos
+Crystal Light Pool Villa Mykonos,"Φάρος Αρμενιστής 0, Fanari, 84600, Greece",,6766.355140186915,,,False,True,False,False,True,False,200.0,False,July,Mykonos
+Villa Surfland,"Μύκονος - Ρήνεια, Ftelia, 86400, Greece",4.0,7038.0,,,True,True,False,False,True,False,150.0,False,July,Mykonos
+Villa Moonstone by Mykonos Rocks,"Kounoupas Mykonos, Plintri, 84600, Greece",5.0,17664.583333333336,10,1 ,True,True,False,False,True,False,500.0,True,July,Mykonos
+Mykonos High Villa,"Mykonos, Mikonos, 84600, Greece",4.0,11951.03645937479,,,True,False,True,True,True,False,250.0,True,July,Mykonos
+Mykonos Eight,"Αργύραινα, Mikonos, 84600, Greece",3.0,1835.7142857142856,9.2,223 ,True,True,False,True,True,False,23.0,False,July,Mykonos
+Villa Ammolite by Mykonos Rocks,"Kounoupas Mykonos, Plintri, 84600, Greece",4.0,10064.033859894687,,,True,True,False,False,True,False,150.0,True,July,Mykonos
+Panormos Panorama,"Panormos, Mykonos, Mikonos, 84600, Greece",,11908.41121495327,,,False,True,False,True,True,False,608.0,True,July,Mykonos
+Villa Goddess by Whitelist Mykonos,"pouli, Agios Ioannis Mykonos, 846 00, Greece",,36085.98130841121,,,True,True,False,True,True,False,599.0,True,July,Mykonos
+Tranquil Villas by Whitelist Mykonos,"Unnamed Road Mykonos Provincial Road from Ano Mera to Kalafatis, Mikonos, 84600, Greece",2.0,6488.888888888889,6.0,7 ,True,True,False,True,True,False,160.0,True,July,Mykonos
+Villa Azallea by Mykonian Kazarte,"no name, Kalafatis, 84600, Greece",,2570.93023255814,,,False,False,False,True,True,False,90.0,False,July,Mykonos
+Oasis & Horizon Villas Mykonos,"Καλαφατη, Kalafatis, 84600, Greece",,0.0,,,True,False,False,True,True,False,,False,July,Mykonos
+Exquisite Mykonos Villa Villa Superior 4 Bedroom Private Pool Sea View Houlakia,"Houlakia, Mikonos, 846 00, Greece",4.0,15351.034929483665,,,False,True,False,True,False,False,250.0,True,July,Mykonos
+Exquisite Mykonos Villa Villa Exclusive 3 Bedroom Private Pool Sea View Houlakia,"Houlakia, Mikonos, 846 00, Greece",4.0,14576.559981579554,,,False,True,False,True,False,False,200.0,True,July,Mykonos
+Villa Alessandra with Massive Pool by Diles Villas,"Saint John Mykonos, Mikonos, 84600, Greece",,21247.663551401867,,,True,True,False,True,True,False,459.0,False,July,Mykonos
+Villa Sunset Aura - Amazing Sea & Sunset View,"Pouli, Klouvas, 84600, Greece",4.0,8015.277777777778,10,1 ,True,True,False,False,True,False,160.0,False,July,Mykonos
+Villa Azurite with heated pool by Diles Villas,"St. Lazarus, Psarou, 84600, Greece",,10826.168224299065,,,True,True,False,False,True,False,187.0,True,July,Mykonos
+Villa Frederica in Mykonos,"Super Paradise, Mikonos, 84600, Greece",4.0,28103.488372093023,,,True,True,False,False,True,False,256.0,False,July,Mykonos
+Sea Esta Private House With Jacuzzi - Mykonos,"μυκονος, Elia Beach, 84600, Greece",4.0,4306.0,10,2 ,True,False,False,True,True,False,90.0,True,July,Mykonos
+7 bedrooms villa at Platis Gialos 800 m away from the beach with sea view private pool and enclosed garden,"Villa Eve , Paradise Beach, 84600, Greece",4.0,26060.777009047368,,,False,True,False,False,True,False,200.0,True,July,Mykonos
+6 bedrooms villa at Platis Gialos 800 m away from the beach with sea view private pool and enclosed garden,"Villa Adam , Paradise Beach, 84600, Greece",4.0,23386.466165413534,,,False,True,False,False,True,False,200.0,True,July,Mykonos
+Villa Aqua Blue by Whitelist Mykonos,"Saint Lazarus, Mykonos, Mikonos, 84600, Greece",,19270.0,,,True,True,False,True,True,False,250.0,True,July,Mykonos
+Beautiful Myconian Villa Exclusive Guestroom 1 Bedroom Private Outdoor Jacuzzi Lovely Sea Views Elia Beach,"Elia Beach P.O Box 64 1, Elia Beach, 84600, Greece",3.0,8233.201357466063,,,False,False,False,False,False,False,45.0,False,July,Mykonos
+Diamond Sunset Villa,"Καναλια, Agios Ioannis Mykonos, 84600, Greece",4.0,12136.805555555557,,,True,True,True,True,True,False,400.0,True,July,Mykonos
+Tagoo Bay,"Ταγκού, Tagou, 84600, Greece",3.0,2348.8372093023254,8.4, 19 ,True,True,False,True,True,False,24.0,False,July,Mykonos
+"Zegna Pool Villa, Six Bedrooms","Αγίων Αδάμ καί Εύας, Mikonos, 84600, Greece",,15036.44859813084,,,True,True,False,False,True,False,230.0,True,July,Mykonos
+Nomade Villa 4BD in Psarou,"Agios Lazaros, Psarou, Mikonos, 84600, Greece",4.0,13680.0,,,False,True,False,True,True,False,170.0,True,July,Mykonos
+Unique Myconian Villa 6 Bedrooms Super Paradis Villa Unbelievable Sea Mountain Views Elia Beach,"Elia Beach P.O Box 64 1, Elia Beach, 84600, Greece",,87291.58878504673,,,False,True,False,False,True,False,500.0,False,July,Mykonos
+Villa Nefeli,"Aleomandra, Mikonos, 84600, Greece",,16865.438636886945,9.0,1 ,False,True,False,True,True,False,250.0,False,July,Mykonos
+Amazing Deep Blue Villa Mykonos,"Kalo Livadi, Mikonos, 84600, Greece",,21050.467289719625,,,False,True,False,True,True,False,30.0,False,July,Mykonos
+Mykonos Eight,"Αργύραινα, Mikonos, 84600, Greece",3.0,1996.7418834906746,9.2,223 ,True,True,False,True,True,False,23.0,False,July,Mykonos
+My Evilia Villa,"Lia, Mikonos, 84600, Greece",4.0,5286.111111111111,10,1 ,True,True,False,True,True,False,100.0,True,July,Mykonos
+Villa Poppy Mykonos,"Ano Mera, Mikonos, 84600, Greece",,4925.0,,,True,True,False,True,True,False,240.0,False,July,Mykonos
+HORIZON Traditional beach house,"Agios Sostis beach, Mikonos, 84600, Greece",,4844.584382871536,,,False,False,False,False,True,False,100.0,True,July,Mykonos
+Villa Iakinthos by Mykonian Kazarte,"no name, Mikonos, 18600, Greece",,13832.71028037383,1.0,1 ,False,True,False,False,True,False,150.0,False,July,Mykonos
+Stylish Myconian Villa Seaview Guest Room A 1 Bedroom Beautiful Sea View Private Balcony Elia Beach,"Elia Beach P.O Box 64 1, Elia Beach, 84600, Greece",3.0,5478.0,,,False,False,False,False,False,False,35.0,False,July,Mykonos
+Elia Spirit Villas by Live&Travel,"Elia, Elia Beach, 84600, Greece",4.0,8417.500865950813,,,True,False,False,True,True,False,200.0,True,July,Mykonos
+Artvie Villa,"Panormos, Mikonos, 84600, Greece",,30485.04672897196,,,True,True,True,True,True,False,799.0,True,July,Mykonos
+Cave villa with amazing view,"Άνω Διακόφτης, Agios Ioannis Mykonos, 84600, Greece",4.0,4866.666666666667,,,False,True,False,True,True,False,165.0,False,July,Mykonos
+Nefeli Residence & Suite Ftelia beach Mykonos,"Ftelia beach, Mykonos, Ftelia, 84600, Greece",4.0,2214.955357142857,,,True,False,False,True,True,False,25.0,True,July,Mykonos
+Stone House Suite - Psarou,"agios lazaros, Mikonos, 84600, Greece",,2104.6728971962616,,,True,False,True,False,True,False,54.0,True,July,Mykonos
+Elit Villa Psarou,"Agios Lazaros, Psarou, 84600, Greece",4.0,21870.0,,,True,True,False,True,True,False,300.0,False,July,Mykonos
+Zinas Villas,"Kastro, Fanari, 84600, Greece",5.0,13920.0,,,True,True,False,False,True,False,300.0,True,July,Mykonos
+Villa Cataleya 3 PRIVATE POOL,"Φανάρι Μυκόνου, Fanari, 84600, Greece",,10740.0,,,False,True,False,False,True,False,150.0,False,July,Mykonos
+Wonderful Myconian Villa Prestige Guestroom Seaview Guest Room B Amazing Sea Views Private Jacuzzi Elia Beach,"Elia Beach P.O Box 64 1, Elia Beach, 84600, Greece",3.0,6445.3007518796985,,,False,False,False,False,False,False,40.0,False,July,Mykonos
+AG VILLAS,"Psarou Mykonos, Mikonos, 84600, Greece",,5947.916666666667,9.6,8 ,False,True,False,False,True,False,120.0,True,July,Mykonos
+Luxury Villa Artemis by Mykonos Luxury,"Elia 1, Elia Beach, 84600, Greece",,32705.607476635512,,,True,True,False,True,True,False,35.0,False,July,Mykonos
+White Serenity Villa,"Mykonos, Glastros, 84600, Greece",,60142.990654205605,,,False,True,False,True,True,False,1500.0,True,July,Mykonos
+Luxurious Villa Anemos,"Faros armenistis, Mikonos, 84600, Greece",,19759.81308411215,,,False,True,False,False,True,False,400.0,True,July,Mykonos
+Irene's Residence,"Argyraina, Mikonos, 84600, Greece",,2191.588785046729,9.0,213 ,False,True,False,True,True,False,24.0,False,July,Mykonos
+Villa Almi in Mykonos,"Paradisia Area 0, Tourlos 84600, Greece, Tourlos, 84600, Greece",4.0,17426.38888888889,,,True,True,False,False,True,False,200.0,False,July,Mykonos
+Villa Poeme de la Mer,"Kalo Livadi, Mikonos, 84600, Greece",,17023.364485981307,10,3 ,True,True,False,True,True,False,290.0,True,July,Mykonos
+Enastron Villa Mykonos,"Kalafatis Mýkonos, Kikladhes, Greece, Mikonos, 84600, Greece",,8100.0,9.2,4 ,False,True,False,False,True,False,,False,July,Mykonos
+Villa Sunstone by Mykonos Rocks,"Kounoupas Mykonos, Plintri, 84600, Greece",,18944.859813084113,,,True,True,False,False,True,False,500.0,True,July,Mykonos
+Wonderful Mykonos Villa Exclusive Guestroom Sea View 1 Bedroom Beautiful Sea Views Intimate Interior Elia Beach,"Elia Beach P.O Box 64 1, Elia Beach, 84600, Greece",3.0,7668.22429906542,,,False,False,False,False,False,False,45.0,False,July,Mykonos
+Boheme Beach Houses,"Elia, Mykonos, Elia Beach, 84600, Greece",4.0,2586.0,9.1,53 ,True,False,True,False,True,False,45.0,False,July,Mykonos
+Elegant Mykonos Villa Air Private Pool 4 Bedrooms Sea View Panormos,"Panormos, Mykonos Island 1, Mykonos, 84600, Greece",,16371.028037383177,,,False,True,False,False,True,False,250.0,False,July,Mykonos
+Exquisite Mykonos Villa Villa Ammos 4 Bedroom Private Pool Sea View Houlakia,"Houlakia, Mikonos, 846 00, Greece",,14889.719626168224,,,False,True,False,True,False,False,299.0,True,July,Mykonos
+Presidential Mykonos Villa Villa Poseidonia 5 Bedrooms Stunning Sea Views Psarrou,"Psarrou, Mikonos, 84600, Greece",,35774.766355140186,,,False,True,False,True,False,False,299.0,False,July,Mykonos
+Excellent Mykonos Villa Villa Elpida 3 Bedrooms Stunning Sea Views Psarrou,"Psarrou, Mikonos, 84600, Greece",,18843.92523364486,,,False,True,False,True,False,False,200.0,False,July,Mykonos
+Excellent Mykonos Villa Villa Eirene 4 Bedrooms Stunning Sea Views Psarrou,"Psarrou, Mikonos, 84600, Greece",,19985.04672897196,,,False,True,False,False,False,False,250.0,False,July,Mykonos
+Excellent Mykonos Villa Villa Daphne 3 Bedrooms Stunning Sea Views Psarrou,"Psarrou, Mikonos, 84600, Greece",4.0,20241.666666666668,,,False,True,False,True,False,False,200.0,False,July,Mykonos
+Excellent Mykonos Villa Villa Aphrodite 5 Bedrooms Stunning Sea Views Psarrou,"Psarrou, Mikonos, 84600, Greece",,25500.0,,,False,True,False,True,False,False,299.0,False,July,Mykonos
+Excellent Mykonos Villa Villa Ambrosia 5 Bedrooms Stunning Sea Views Psarrou,"Psarrou, Mikonos, 84600, Greece",,27787.850467289718,,,False,True,False,True,False,False,299.0,False,July,Mykonos
+Villa Seven,"84600, Agios Ioannis Mykonos, 84600, Greece",,10124.305555555557,,,True,True,False,True,True,False,220.0,True,July,Mykonos
+Villa Euphoria Merchia Mykonos,"Merchia beach, Mikonos, 84600, Greece",4.0,7184.227492516694,,,False,True,False,True,True,False,180.0,False,July,Mykonos
+Roca Bonita villa,"ΕΛΙΑ ΜΥΚΟΝΟΥ, Elia Beach, 84600, Greece",4.0,10842.067695141608,,,False,True,False,False,True,False,205.0,False,July,Mykonos
+Luxury Villa Agavi Breakfast & security Included,"Kalafatis, Mykonos, Mikonos, 84600, Greece",4.0,26784.0,,,True,True,True,True,True,False,410.0,False,July,Mykonos
+"Newly built spectacular Sunset villa at St. John, Mykonos","Villa St John, Mikonos, 84600, Greece",4.0,30210.0,,,False,True,False,False,True,False,450.0,False,July,Mykonos
+Luxury Mykonos Villa Villa Mykonos Luxurious Private Pool Kastro,"Kastro, Mikonos, 846 00, Greece",,23682.242990654206,,,False,False,False,False,False,False,299.0,True,July,Mykonos
+Tatiana Villa & Apartments,"Klouvas, Klouvas, 84600, Greece",4.0,7200.0,,,True,False,False,False,True,False,130.0,True,July,Mykonos
+VILLA KARKOS,"Mykonos, Kalolivadi, Mikonos, Greece",,27064.48598130841,,,False,True,True,True,True,False,650.0,False,July,Mykonos
+Mykonos Esti Luxury Villas,"Μύκονος, Agios Ioannis Mykonos, 84600, Greece",4.0,14600.0,,,True,False,False,False,True,False,215.0,False,July,Mykonos
+Villa Esencia,"Kanalia Mykonos, Agios Ioannis Mykonos, 84600, Greece",,6563.551401869158,,,False,True,False,False,True,False,,False,July,Mykonos
+Mykonos Moussa,"MYKONOS Moussa Suits Αγιος Ιωάννης Διακοφτης, Agios Ioannis Mykonos, 84600, Greece",,3242.056074766355,9.7,192 ,True,False,False,True,True,False,35.0,True,July,Mykonos
+"Elegant 8 person pool villa, spectacular views","Agios Lazaros, Mikonos, 84600, Greece",,9263.55140186916,7.0,1 ,False,True,False,False,True,False,134.0,False,July,Mykonos
+Paraga Villa2 7mins walk to beach by Calypso Sunset Villas,"Paraga Beach, Platis Gialos, 86400, Greece",,20512.14953271028,,,False,True,False,False,False,False,99.0,True,July,Mykonos
+Aleomandra Luxury Villas by Whitelist Mykonos,"Villa Mega, Aleomandra, Mikonos, 84600, Greece",,11427.102803738317,5.0,1 ,True,True,True,True,True,False,159.0,True,July,Mykonos
+Luxury Suites Poseidon,"Agios Giannis, Agios Ioannis Mykonos, 84600, Greece",4.0,4880.555555555556,,,True,True,False,False,True,False,60.0,True,July,Mykonos
+Ria Mar Maria,"Choulakia, Mikonos, 84600, Greece",,19426.168224299065,,,False,True,False,False,True,False,,False,July,Mykonos
+Town Mansion,"Agiou Spiridonos, Mikonos, 84600, Greece",,2589.7196261682243,9.6,29 ,False,False,False,True,False,False,30.0,False,July,Mykonos
+Calma Beach House,"Elia beach, Ftelia, 84600, Greece",,7462.276785714285,,,False,False,False,False,True,False,200.0,False,July,Mykonos
+Beautiful Villa at Panormos Mykonos,"unknown road, Mykonos, 84600, Greece",,4481.308411214953,,,False,False,False,False,True,False,159.0,False,July,Mykonos
+Nice & Cosy Mykonos studios,"46 Αγίου Ευθυμίου, Megali Ammos, 84600, Greece",,1813.0841121495325,,,False,False,False,False,False,False,36.0,False,July,Mykonos
+Villa Mykonos luxurious with Pool,"Επαρχιακή Οδός Μυκόνου-'Ανω Μεριάς, Aggelika, 84600, Greece",,8215.887850467288,,,True,True,True,True,True,False,409.0,True,July,Mykonos
+Secret Khora,"Ag. Kyriakis Mykonos, Mikonos, 84600, Greece",,5768.055555555556,,,True,False,False,True,False,False,58.0,True,July,Mykonos
+Azure Cozy Home,"Ornos, Mikonos, 84600, Greece",,2484.883720930233,,,False,False,False,True,True,False,46.0,False,July,Mykonos
+Bougainvillea Sea View Residence,"Mykonos 0, Kalafatis, 84600, Greece",,3402.8037383177566,,,False,False,False,False,True,False,219.0,False,July,Mykonos
+Mykonos lovely apartment,"Mykonos, Mikonos, 84600, Greece",3.0,1633.2997987927565,,,True,False,True,False,True,False,25.0,True,July,Mykonos
+Seabed Luxury Suite 1 Mykonos Town,"MIAOULI MYKONOS, Mikonos, 84600, Greece",3.0,0.0,,,False,False,False,False,False,False,,True,July,Mykonos
+"Paraga Villa1 ""7min WALK TO BEACH"" by Calypso Sunset Villas","Paraga Beach, Mikonos, 84600, Greece",,18240.0,,,False,True,False,False,True,False,,True,July,Mykonos
+Biancasetta - 1BD Myk Town by Live&Travel,"Mykonos Town, Mikonos, 84600, Greece",3.0,2617.843098047057,,,True,False,False,False,False,False,40.0,True,July,Mykonos
+Villa Ca'Faccanon,"kalafatis mykonos, Mikonos, 84600, Greece",,3870.093457943925,,,False,False,False,False,True,False,14.0,False,July,Mykonos
+Sunset Fabrica town,"Eparchiaki Odos Mikonou, Mikonos, 84600, Greece",3.0,1653.834841628959,7.4,37 ,True,False,False,True,True,False,,False,July,Mykonos
+Villa Alitis by Mykonos Rocks,"Tourlos, Mikonos, 84600, Greece",,7577.570093457944,,,True,True,False,True,True,False,340.0,False,July,Mykonos
+Ubud Mykonos,"Mikonos, Agios Ioannis Mykonos, 84600, Greece",,2295.3271028037384,8.5, 181 ,True,True,True,False,False,True,27.0,True,July,Mykonos
+Adel Private Suites,"Evagelistraki Mykonou - New Peripheral Road Nea Eparchiaki Odos Ormou Agiou  Ioanni - Agiou Stefanou, Mikonos, 84600, Greece",,3966.355140186916,8.5, 112 ,True,True,True,False,True,True,35.0,True,July,Mykonos

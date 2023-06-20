@@ -1,0 +1,684 @@
+name,location,stars,amount_conv,Rating,NumReviews,Airport,Pool,Breakfast,Family_Rooms,Parking,Restaurant,size_m2,Pets,Month,Location
+Romantza Mare,"Koskinou, Kallithea Rhodes, 85100, Greece",,355.14018691588785,7.5,346 ,False,False,True,True,True,True,24.0,False,August,Rhodes
+Lardos Bay,"Lardos Beach, Lartos, 85109, Greece",3.0,575.0,8.2," 1,069 ",True,False,True,True,True,True,21.0,False,August,Rhodes
+Attiki Hotel,"Theofiliskou, Rhodes Town, 85100, Greece",3.0,705.0,9.4,585 ,True,False,False,False,False,False,15.0,True,August,Rhodes
+"Happy Days Hotel, Adults Only","Rodou -Kamirou, Theologos, 85106, Greece",3.0,312.8463476070529,7.8,157 ,False,True,True,False,True,True,20.0,False,August,Rhodes
+Paul's Garden Studios,"Haraki Malonas, Haraki, 85102, Greece",,564.4859813084112,9.4,68 ,False,False,False,True,True,False,27.0,False,August,Rhodes
+STAY Rhodes Hotel,"10 Plateia Gavriil Charitou, Rhodes Town, 85100, Greece",3.0,438.0,8.5, 903 ,False,False,True,True,True,True,22.0,False,August,Rhodes
+Ataviros Hotel,"Embonas, Émbonas, 85108, Greece",,345.7943925233645,8.8,465 ,True,True,True,True,True,True,23.0,False,August,Rhodes
+Rhodian Sun Hotel,"Main Street, Paradisi, 85106, Greece",,340.18691588785043,8.2, 255 ,True,True,True,True,True,True,27.0,True,August,Rhodes
+Dias Studios & Suites,"Main Street, Faliraki, 85105, Greece",,381.30841121495325,8.7,599 ,False,True,False,True,True,True,24.0,False,August,Rhodes
+Haraki Beach,"Haraki, Haraki, 85102, Greece",,350.46728971962614,9.1,156 ,True,False,False,True,True,False,22.0,False,August,Rhodes
+BLUE EYES APARTMENTS,"ΤΡΙΟΠΑ 1, ΙΑΛΥΣΟΣ, Ixia, 85101, Greece",3.0,539.6616541353383,9.0,267 ,False,False,False,True,False,False,38.0,False,August,Rhodes
+Villas Duc - Rhodes,"Ialyssos, Ialysos, 85101, Greece",3.0,576.7441860465117,8.6,212 ,False,True,True,True,True,True,24.0,False,August,Rhodes
+Golden View Studios,"Vlicha Beach, Lindos, 85107, Greece",3.0,97475.70093457944,8.6,233 ,False,True,False,False,True,False,40.0,False,August,Rhodes
+White Villa,"Maritsa, Rhodes, Pastida, 85106, Greece",,245.79439252336448,9.4,58 ,True,False,False,True,True,False,45.0,True,August,Rhodes
+Meliton Hotel,"Theologos (Rhodes), Theologos, 85106, Greece",,576.6355140186915,8.2, 177 ,True,False,True,True,True,True,19.0,False,August,Rhodes
+The Perfect Spot Apartments,"31 Θεοδωράκη, Rhodes Town, 85131, Greece",3.0,1153.4722222222222,9.3,7 ,False,False,False,True,False,False,33.0,False,August,Rhodes
+Paradise Garden,"Eucalyptus Street, Kolymbia, 85102, Greece",3.0,559.0604026845638,7.9,37 ,False,True,False,True,True,False,40.0,False,August,Rhodes
+Nirvana Beach Hotel,"Theologos, Theologos, 85106, Greece",3.0,521.0,8.1, 80 ,False,True,False,False,True,True,21.0,False,August,Rhodes
+Athena Hotel,"27 G. Leon Str., Rhodes Town, 85100, Greece",,463.55140186915884,8.4, 560 ,False,True,True,True,False,True,19.0,False,August,Rhodes
+Minos Pension,"5, Omirou str., Old Town, Rhodes Town, 85100, Greece",3.0,550.6944444444445,8.6,412 ,False,False,True,True,True,True,32.0,False,August,Rhodes
+Esperia City Hotel,"7, G.Griva str., Rhodes Town, 85100, Greece",3.0,682.0,8.0, 571 ,False,True,False,False,True,True,17.0,True,August,Rhodes
+Oasis Hotel Bungalows Rhodes- All Inclusive,"Afantou, Afantou, 85103, Greece",,575.7009345794393,8.3, 38 ,True,True,True,True,True,True,20.0,True,August,Rhodes
+Knights Of Old Town,"Simiou 9, Rhodes Town, 85100, Greece",3.0,480.2325581395349,7.7,569 ,False,False,False,True,False,False,40.0,False,August,Rhodes
+Oktober Downtown Boutique Hotel,"15, 28th Octovriou, Rhodes Town, 85100, Greece",,686.9158878504672,8.3, 649 ,True,True,True,False,False,True,19.0,False,August,Rhodes
+Knights Of Old Town,"Simiou 9, Rhodes Town, 85100, Greece",,431.7757009345794,7.7,569 ,False,False,False,True,False,False,40.0,False,August,Rhodes
+Oktober Downtown Boutique Hotel,"15, 28th Octovriou, Rhodes Town, 85100, Greece",,686.9158878504672,8.3, 649 ,True,True,True,False,False,True,19.0,False,August,Rhodes
+Rodian Gallery Hotel Apartments,"4, Kastelorizou str., Rhodes Town, 85100, Greece",3.0,620.0,9.0,461 ,False,False,False,True,True,False,37.0,False,August,Rhodes
+George Beach Studios,"Pefki, Pefki, 85107, Greece",3.0,691.1535739561217,9.1,590 ,True,False,True,True,True,False,28.0,False,August,Rhodes
+Dias Studios & Suites,"Main Street, Faliraki, 85105, Greece",,381.30841121495325,8.7,599 ,False,True,False,True,True,True,24.0,False,August,Rhodes
+Sokrates Studios,"Afandou Beach, Afantou, 85103, Greece",,491.58878504672896,9.0,70 ,True,False,True,True,True,False,22.0,False,August,Rhodes
+Sun Beach Lindos,"Lothiarika Lardos, Lartos, 85109, Greece",,726.1682242990654,7.2,270 ,False,True,False,True,True,True,18.0,False,August,Rhodes
+Manousos City Hotel,"G.Leontos 25, Rhodes Town, 85 100, Greece",3.0,456.3775510204082,7.9,"1,885 ",False,True,False,False,False,False,22.0,False,August,Rhodes
+Stegna Sea & Sun,"Stegna Beach, Archangelos, 85100, Greece",3.0,360.74766355140184,9.6,152 ,False,False,False,False,True,False,25.0,False,August,Rhodes
+Stavris Studios & Pool Suites,"13klm Rhodes-Lindos ave., Faliraki, 85105, Greece",3.0,921.5277777777778,8.8,313 ,False,False,True,True,True,False,30.0,False,August,Rhodes
+Haraki Beach,"Haraki, Haraki, 85102, Greece",3.0,350.0,9.1,156 ,True,False,False,True,True,False,22.0,False,August,Rhodes
+Red Hibiscus Stegna,"ΣΤΕΓΝΑ, Archangelos, 85102, Greece",3.0,495.83333333333337,9.6,104 ,False,False,False,False,True,False,23.0,False,August,Rhodes
+Stella View Studios,"Pefki, Pefki, 85107, Greece",3.0,353.12499999999994,8.9,256 ,False,True,False,True,True,True,25.0,False,August,Rhodes
+Zoes Hotel & Suites,"Ladiko, Faliraki, 85103, Greece",3.0,1087.7824435112977,8.9,285 ,False,False,True,True,True,True,30.0,False,August,Rhodes
+Lindos Del Mar Suites - Adults Only,"Reception area of Lindos, Lindos, 85107, Greece",,809.3457943925233,8.9,132 ,True,False,False,False,True,False,44.0,False,August,Rhodes
+Lindos Portes Suites - Adults Only,"Krana, Lindos, 85107, Greece",3.0,620.8333333333334,8.4, 131 ,True,False,False,False,True,False,35.0,False,August,Rhodes
+Kellys Luxury Apartments,"Faliraki, Faliraki, 85100, Greece",,1253.271028037383,9.5,27 ,False,True,False,True,True,False,37.0,False,August,Rhodes
+Rodos Star Hotel,"Lepini Hill, Afantou, 85103, Greece",3.0,805.2369077306734,8.4, 256 ,False,True,False,True,True,True,35.0,False,August,Rhodes
+Artemis Comfort&Pleasure,"13th km of Rhodes - Lindos road, Faliraki, 85100, Greece",,375.7009345794392,9.3,112 ,False,True,True,False,True,True,24.0,False,August,Rhodes
+Saint George Resort,"Archangelos, Archangelos, 85102, Greece",3.0,395.0,8.9,80 ,True,True,False,False,True,True,26.0,False,August,Rhodes
+Maria Studios and Apartments,"Haraki, Haraki, 85102, Greece",3.0,269.44444444444446,8.9,86 ,False,False,False,True,True,False,19.0,False,August,Rhodes
+Sunrise Luxury Apartments Rhodes,"16 Akti Miaouli, Rhodes Town, 85100, Greece",,1128.03738317757,8.9,291 ,True,False,False,True,False,False,44.0,False,August,Rhodes
+Lydia Hotel,"31, 25th March str., Rhodes Town, 85 100, Greece",3.0,713.0,8.4, 765 ,False,False,False,True,True,True,17.0,False,August,Rhodes
+Ladiko Inn Hotel Faliraki -Anthony Quinn Bay,"Ladiko Bay, Faliraki area, Faliraki, 85100, Greece",,651.4018691588784,8.9,194 ,False,False,False,False,True,False,22.0,False,August,Rhodes
+Argiro Village,"National Road Rhodes-Lindos, Afantou, 85103, Greece",3.0,406.0,8.1, 96 ,True,True,True,True,True,True,28.0,False,August,Rhodes
+M&E APARTMENTS,"Επαρχιακή Οδός Μασάρων, Haraki, 85102, Greece",3.0,268.1243505368895,10,2 ,False,False,False,True,True,False,25.0,False,August,Rhodes
+Vergina Sun,"Faliraki, Faliraki, 85100, Greece",3.0,354.6511627906977,8.5, 155 ,False,True,False,True,True,False,24.0,False,August,Rhodes
+Old House,"Eleftherias 4, Paradisi, 85106, Greece",3.0,350.0,8.6,321 ,False,False,False,True,True,False,60.0,False,August,Rhodes
+Studio with sea view in Fanes,"Rhodes-Kamirou, Fánai, 85106, Greece",,315.8878504672897,8.3, 131 ,True,False,False,False,True,False,19.0,True,August,Rhodes
+Ataviros Hotel,"Embonas, Émbonas, 85108, Greece",3.0,337.0,8.8,465 ,True,True,True,True,True,True,23.0,False,August,Rhodes
+Thomas Hotel,"Monolithos, Monólithos, 85108, Greece",3.0,302.0,8.8,288 ,False,False,False,True,True,False,28.0,True,August,Rhodes
+Sea View,"Theologos Beach, Theologos, 85106  , Greece",3.0,412.5974805038992,8.3, 92 ,False,True,True,True,True,True,25.0,False,August,Rhodes
+Golden View Studios,"Vlicha Beach, Lindos, 85107, Greece",3.0,405.23690773067335,8.6,233 ,False,True,False,False,True,False,40.0,False,August,Rhodes
+Agnanti Beach Apartments,"Stegna Beach, Archangelos, 85102, Greece",3.0,406.94444444444446,9.2,115 ,True,False,False,True,True,False,20.0,True,August,Rhodes
+Xenones Lindos,"near Police station, Lindos, 85107, Greece",3.0,561.0752935758692,8.4, 250 ,True,False,False,True,True,False,25.0,True,August,Rhodes
+Argiro Village,"National Road Rhodes-Lindos, Afantou, 85103, Greece",,407.47663551401865,8.1, 96 ,True,True,True,True,True,True,27.0,False,August,Rhodes
+Vassos Apartments,"Lindos, Lindos, 85107, Greece",3.0,413.46153846153845,9.0,183 ,False,False,False,True,False,False,30.0,False,August,Rhodes
+Sunday Hotel,"Diogeni 3, Ialysos, 85101, Greece",,455.1401869158878,9.0,238 ,True,True,True,False,True,True,19.0,False,August,Rhodes
+White Villa,"Maritsa, Rhodes, Pastida, 85106, Greece",3.0,238.0,9.4,58 ,True,False,False,True,True,False,46.0,True,August,Rhodes
+Lambis Studios & Apartments,"Krana, Lindos, 85107, Greece",3.0,725.0,8.7,78 ,False,True,False,True,True,False,40.0,True,August,Rhodes
+mascot traditional guest house,"48 28ης Οκτωβρίου, Rhodes Town, 85100, Greece",3.0,401.33928571428567,8.4, 50 ,True,False,False,False,False,False,20.0,False,August,Rhodes
+Angela Downtown Hotel,"7, 28th Octovriou str., Rhodes Town, 85100, Greece",3.0,718.790793084157,7.9,835 ,True,True,True,True,False,False,20.0,False,August,Rhodes
+Alpha Stegna Sun,"Stegna Beach, Archangelos, 85102, Greece",3.0,349.37195300636705,9.7,70 ,True,False,False,False,True,False,19.0,False,August,Rhodes
+Maris Lindos Suites & Apartments,"Lindos , Lindos, 85107, Greece",3.0,578.0,8.7,195 ,True,False,False,True,False,False,20.0,False,August,Rhodes
+Casa De La Sera,"38, Thiseos str., Old Town, Rhodes Town, 85100, Greece",3.0,625.4464285714286,9.1,348 ,True,False,False,True,True,False,18.0,False,August,Rhodes
+FRESH HOTEL FALIRAKI,"ΔΑΝΑΩΝ ΦΑΛΗΡΑΚΙ 0, Faliraki, 85105, Greece",,446.7289719626168,10,4 ,False,True,True,True,True,True,19.0,False,August,Rhodes
+Johannes Boutique Apartments & Suites,"135, Lindos-Rodos Avenue, Afantou, 85103, Greece",,541.1214953271028,9.5,122 ,False,True,True,True,True,False,30.0,False,August,Rhodes
+ISKAS EVILION,"9 Κωνσταντινίδη, Rhodes Town, 85100, Greece",3.0,347.0,8.1, 237 ,False,False,False,True,True,False,27.0,False,August,Rhodes
+Maritina Apartments,"Sotiros Street 56 Ialyssos Rhodes, Ixia, 85101, Greece",3.0,510.4166666666667,8.8,232 ,True,True,False,True,True,False,45.0,False,August,Rhodes
+Meliton Hotel,"Theologos (Rhodes), Theologos, 85106, Greece",3.0,537.0,8.2, 177 ,True,False,True,True,True,True,20.0,False,August,Rhodes
+Akalli Luxury Studios,"44 Apolloniou Rodou, Ixia, 85101, Greece",3.0,519.1176470588235,9.4,34 ,False,True,False,True,True,False,32.0,False,August,Rhodes
+Eleni Rooms,"Perikleous 26, Rhodes Town, 85100, Greece",3.0,400.69444444444446,8.8,394 ,False,False,True,True,False,False,,True,August,Rhodes
+Artemis Studios - Pool and garden,"Eparchiaki Odos Koskinou, Koskinou, 85100, Greece",,300.93457943925233,8.9,101 ,False,True,False,True,True,False,19.0,True,August,Rhodes
+Pefkos Village Resort,"Main Street, Pefki, 85107, Greece",3.0,580.5555555555555,8.5, 65 ,True,False,False,True,True,True,28.0,False,August,Rhodes
+Golden View Studios,"Vlicha Beach, Lindos, 85107, Greece",3.0,414.2857142857143,8.6,233 ,False,True,False,False,True,False,40.0,False,August,Rhodes
+Hillside Studios & Apartments,"Faliraki, Faliraki, 85105, Greece",3.0,228.33710407239818,7.9,196 ,True,True,True,True,True,True,27.0,True,August,Rhodes
+Makedonia Studios at Harbour of Kamiros Skala,"Eparchiaki Odos Kalavardas-Empona, Kamiros, 85108, Greece",3.0,225.0,9.0,148 ,True,False,False,True,True,False,25.0,False,August,Rhodes
+Artemis Studios,"13th km of Rhodes - Lindos road, Faliraki, 85100, Greece",3.0,244.0,8.7,114 ,False,True,True,True,True,False,20.0,False,August,Rhodes
+Matina Pefkos Aparthotel,"Main Street, Pefki, 85107, Greece",,491.58878504672896,8.3, 120 ,True,False,False,True,True,True,30.0,False,August,Rhodes
+Callas Residence,"76 Side road Sotiros, Ialysos, 85101, Greece",3.0,359.28685470995214,9.8,20 ,False,False,False,False,True,False,24.0,False,August,Rhodes
+White Villa,"Maritsa, Rhodes, Pastida, 85106, Greece",3.0,226.11607142857142,9.4,58 ,True,False,False,True,True,False,46.0,True,August,Rhodes
+Villa Mare by Delfinia Resort,"Kolymbia, Kolymbia, 85103, Greece",3.0,1051.0822012433803,7.9,109 ,True,True,False,False,True,False,21.0,False,August,Rhodes
+Soultana studios,"lindos rhodes 85107, Lindos, 85107, Greece",3.0,348.64557250170725,8.9,42 ,False,False,False,False,False,False,15.0,True,August,Rhodes
+Bella Vista Stegna,"Stegna Beach, Archangelos, 85102, Greece",3.0,360.4166666666667,8.9,206 ,True,False,True,True,True,False,17.0,True,August,Rhodes
+Delfini Beach Hotel & Suites,"Stegna, Archangelos, 82102, Greece",,556.0747663551401,8.2, 151 ,False,False,True,True,True,False,30.0,True,August,Rhodes
+Pals Studios Pefkos,"St Thomas beach rd pefkos Rhodes, Pefki, 85107, Greece",3.0,468.60465116279073,8.4, 84 ,False,True,False,True,True,False,20.0,False,August,Rhodes
+Sotirakis quadruple room,"EO Rodou Lindou 12, Faliraki, 85105, Greece",,747.6635514018691,,,False,True,False,False,True,False,49.0,False,August,Rhodes
+Tinas Plus Hotel,"Faliraki, Faliraki, 85105, Greece",3.0,591.0,8.7,261 ,True,True,True,True,True,False,20.0,True,August,Rhodes
+M&E APARTMENTS,"Επαρχιακή Οδός Μασάρων, Haraki, 85102, Greece",3.0,292.0349263480637,10,2 ,False,False,False,True,True,False,25.0,False,August,Rhodes
+Vergina Sun,"Faliraki, Faliraki, 85100, Greece",,383.1775700934579,8.5, 155 ,False,True,False,True,True,False,24.0,False,August,Rhodes
+Old House,"Eleftherias 4, Paradisi, 85106, Greece",3.0,351.35850794381764,8.6,321 ,False,False,False,True,True,False,60.0,False,August,Rhodes
+Studio with sea view in Fanes,"Rhodes-Kamirou, Fánai, 85106, Greece",3.0,290.0,8.3, 131 ,True,False,False,False,True,False,20.0,True,August,Rhodes
+Thomas Hotel,"Monolithos, Monólithos, 85108, Greece",,326.1682242990654,8.8,288 ,False,False,False,True,True,False,27.0,True,August,Rhodes
+Sea View,"Theologos Beach, Theologos, 85106  , Greece",3.0,359.30232558139534,8.3, 92 ,False,True,True,True,True,True,24.0,False,August,Rhodes
+Naria Medieval House,"Antiothiou 3, Rhodes Town, 85100, Greece",,1042.056074766355,9.7,52 ,False,False,False,False,False,False,24.0,False,August,Rhodes
+Studio with sea view in Fanes,"Rhodes-Kamirou, Fánai, 85106, Greece",3.0,315.071283095723,8.3, 131 ,True,False,False,False,True,False,20.0,True,August,Rhodes
+Thomas Hotel,"Monolithos, Monólithos, 85108, Greece",3.0,302.0,8.8,288 ,False,False,False,True,True,False,28.0,True,August,Rhodes
+Sea View,"Theologos Beach, Theologos, 85106  , Greece",3.0,446.1734693877551,8.3, 92 ,False,True,True,True,True,True,25.0,False,August,Rhodes
+Naria Medieval House,"Antiothiou 3, Rhodes Town, 85100, Greece",,1042.056074766355,9.7,52 ,False,False,False,False,False,False,24.0,False,August,Rhodes
+Maris Lindos Suites & Apartments,"Lindos , Lindos, 85107, Greece",3.0,545.3842564820369,8.7,195 ,True,False,False,True,False,False,20.0,False,August,Rhodes
+Casa terrazzo,"Kleovoulou 6, Paradisi, 85106, Greece",3.0,556.7580013815335,9.8,49 ,False,False,False,False,False,False,35.0,False,August,Rhodes
+Agnanti Beach Apartments,"Stegna Beach, Archangelos, 85102, Greece",3.0,352.55102040816325,9.2,115 ,True,False,False,True,True,False,20.0,True,August,Rhodes
+Lindia Thalassa,"Pefki Rhodes, Pefki, 85107, Greece",,1223.3644859813082,8.6,91 ,True,False,True,True,True,True,54.0,False,August,Rhodes
+Xenones Lindos,"near Police station, Lindos, 85107, Greece",3.0,514.0,8.4, 250 ,True,False,False,True,True,False,25.0,True,August,Rhodes
+Vassos Apartments,"Lindos, Lindos, 85107, Greece",3.0,453.0,9.0,183 ,False,False,False,True,False,False,30.0,False,August,Rhodes
+Maritina Apartments,"Sotiros Street 56 Ialyssos Rhodes, Ixia, 85101, Greece",,459.8130841121495,8.8,232 ,True,True,False,True,True,False,44.0,False,August,Rhodes
+Sunday Hotel,"Diogeni 3, Ialysos, 85101, Greece",3.0,454.1666666666667,9.0,238 ,True,True,True,False,True,True,20.0,False,August,Rhodes
+Lambis Studios & Apartments,"Krana, Lindos, 85107, Greece",3.0,722.99095263438,8.7,78 ,False,True,False,True,True,False,40.0,True,August,Rhodes
+Hotel Ikaros,"Archaggelos Rhodes, Archangelos, 85102, Greece",,240.18691588785046,8.8,40 ,False,True,True,True,True,False,18.0,False,August,Rhodes
+Summer Days,"Mesovouno, Faliraki, Faliraki, 85105, Greece",,293.4579439252336,9.1,74 ,False,True,True,True,True,True,31.0,False,August,Rhodes
+mascot traditional guest house,"48 28ης Οκτωβρίου, Rhodes Town, 85100, Greece",3.0,400.0,8.4, 50 ,True,False,False,False,False,False,20.0,False,August,Rhodes
+Alpha Stegna Sun,"Stegna Beach, Archangelos, 85102, Greece",,350.46728971962614,9.7,70 ,True,False,False,False,True,False,19.0,False,August,Rhodes
+Casa De La Sera,"38, Thiseos str., Old Town, Rhodes Town, 85100, Greece",,676.6355140186915,9.1,348 ,True,False,False,True,True,False,18.0,False,August,Rhodes
+FRESH HOTEL FALIRAKI,"ΔΑΝΑΩΝ ΦΑΛΗΡΑΚΙ 0, Faliraki, 85105, Greece",3.0,388.75558221688993,10,4 ,False,True,True,True,True,True,20.0,False,August,Rhodes
+Johannes Boutique Apartments & Suites,"135, Lindos-Rodos Avenue, Afantou, 85103, Greece",,541.1214953271028,9.5,122 ,False,True,True,True,True,False,30.0,False,August,Rhodes
+ISKAS EVILION,"9 Κωνσταντινίδη, Rhodes Town, 85100, Greece",3.0,385.4166666666667,8.1, 237 ,False,False,False,True,True,False,27.0,False,August,Rhodes
+River's Apartments,"Eparchiaki Odos Rodou - Kamirou, Rhodes Town, 85106, Greece",,319.626168224299,8.8,141 ,True,True,False,True,True,False,35.0,True,August,Rhodes
+Villa Kiki,"Lachania, Lachania, 85109, Greece",3.0,546.5116279069767,9.0,5 ,True,False,False,True,True,False,99.0,False,August,Rhodes
+Sam's Studios,"Faliraki, Faliraki, 85105, Greece",3.0,417.4418604651163,8.4, 104 ,False,True,False,True,True,False,19.0,False,August,Rhodes
+Malibu Boutique Studios & Bungalows,"Main Street, Faliraki, 85105, Greece",,577.5700934579439,8.8,223 ,False,True,True,True,True,True,19.0,False,August,Rhodes
+John Mary,"Agisadrou, Faliraki, 85100, Greece",,434.57943925233644,9.7,211 ,False,True,True,True,True,False,20.0,False,August,Rhodes
+Rose Central Master Bedroom Apartment,"26, Amerikis street, Rhodes Town, 851 00, Greece",3.0,1265.0,9.7,36 ,False,False,False,True,False,False,70.0,False,August,Rhodes
+Omiros,"Faliraki Main Square, Faliraki, 85105, Greece",3.0,327.31900452488685,9.2,98 ,False,False,False,False,True,False,16.0,True,August,Rhodes
+CrossRhodes Villas,"Pefki, Pefki, 85107, Greece",3.0,600.6944444444445,8.4, 13 ,True,True,False,True,True,False,37.0,True,August,Rhodes
+The Perfect Spot Apartments,"31 Θεοδωράκη, Rhodes Town, 85131, Greece",,1155.1401869158879,9.3,7 ,False,False,False,True,False,False,32.0,False,August,Rhodes
+Stegna Bay Apartment,"Stegna Beach, Archangelos, 85102, Greece",,420.56074766355135,9.3,74 ,True,False,False,True,True,False,35.0,False,August,Rhodes
+Caravel Hotel Apartments,"Iraklidon 101, Ixia, 85101, Greece",3.0,471.68367346938777,8.7,224 ,True,True,True,True,False,True,40.0,False,August,Rhodes
+International Hotel,"I. Kazouli, Rhodes Town, 85100, Greece",3.0,358.0,8.6,168 ,False,False,False,False,False,False,,False,August,Rhodes
+Camelot Traditional & Classic Hotel,"Themistokleous 18 str. Old Town, Rhodes Town, 85100, Greece",,801.8691588785047,8.8,52 ,True,False,True,False,True,True,19.0,False,August,Rhodes
+Pension Annoula,"Archangelos, Archangelos, 85102, Greece",3.0,225.0,9.2,42 ,False,False,True,False,True,False,,False,August,Rhodes
+Paradise Garden,"Eucalyptus Street, Kolymbia, 85102, Greece",3.0,717.7872438406631,7.9,37 ,False,True,False,True,True,False,40.0,False,August,Rhodes
+Casa Kariki - Traditional House in Psinthos,"Psinthos, Psinthos, 85100, Greece",3.0,293.13838360580246,9.3,18 ,False,False,False,False,True,False,45.0,False,August,Rhodes
+Nymph,"Salakos, Sálakos, 85106, Greece",3.0,243.02325581395348,8.8,84 ,False,False,True,False,True,False,,False,August,Rhodes
+Eleftheria Lindian Studios I,"Líndos, Lindos, 85107, Greece",3.0,413.0,9.1,82 ,True,False,False,True,True,False,25.0,False,August,Rhodes
+Amira Hotel Rhodes,"3 klm Rhodes-Kallithea Avenue, Rhodes Town, 85100, Greece",,563.5514018691589,6.9,151 ,False,True,False,True,True,True,23.0,True,August,Rhodes
+Endless BLUE Lahania,"Paralia Lahania, Lachania, 85109, Greece",,716.822429906542,9.5,38 ,False,False,False,False,True,False,65.0,False,August,Rhodes
+Tsampika Hotel Faliraki,"1 Agisandrou str., Faliraki, 85105, Greece",3.0,709.0,8.5, 115 ,False,True,False,False,True,True,20.0,False,August,Rhodes
+Patricia Studios,"National Road Rodos-Lindos, Faliraki, 85105, Greece",3.0,289.120423670274,8.6,106 ,True,False,False,False,True,False,20.0,False,August,Rhodes
+Heritage Luxury Suites,"Lindos Heritage 1883, Lartos, 85107, Greece",3.0,1651.2755102040817,8.2, 10 ,True,False,False,True,False,False,70.0,False,August,Rhodes
+Iliana Apartment,"rodou lindou 208, Afantou, 85103, Greece",3.0,400.0,9.6,34 ,True,True,False,True,True,False,50.0,False,August,Rhodes
+Anthi Maria Beach Apartments,"Pefkos, Pefki, 85107, Greece",3.0,351.1958825310324,7.9,128 ,True,False,False,True,True,False,21.0,False,August,Rhodes
+Kassandra Hotel,"Rimini 1, Ialysos, 85101, Greece",,220.56074766355138,7.9,106 ,False,True,True,True,True,True,35.0,False,August,Rhodes
+Emmanuel Apartments,"37 Kennedy Str., Rhodes Town, 85100, Greece",3.0,361.39765139304626,9.0,138 ,False,False,False,True,True,False,40.0,True,August,Rhodes
+Kristina´s rooms,"Klisthenous 8p, Rhodes Town, 85100, Greece",3.0,484.53865336658356,9.0,221 ,False,False,True,True,True,True,25.0,False,August,Rhodes
+Villa Stegna,"Stegna, Archangelos, 85102, Greece",3.0,355.7603686635945,9.1,68 ,False,False,False,True,True,False,20.0,False,August,Rhodes
+Iatridis Studios Faliraki,"Faliraki, Faliraki, 85100, Greece",3.0,396.53465346534654,9.1,106 ,False,False,False,False,True,False,25.0,False,August,Rhodes
+Kallias House,"Περιγιαλλενής, Kremasti, 85104, Greece",3.0,331.0,10,2 ,False,False,False,False,True,False,51.0,False,August,Rhodes
+Kiotari Beach Apartments,"Kiotari (Rhodes), Kiotari, 85109, Greece",3.0,295.0,7.7,141 ,False,False,False,True,True,False,16.0,True,August,Rhodes
+Alia Apartments,"16 Κίτσου Τζαβέλα, Rhodes Town, 85100, Greece",,977.5700934579438,9.5,16 ,True,False,False,True,True,False,79.0,False,August,Rhodes
+Rodian Gallery Hotel Apartments,"4, Kastelorizou str., Rhodes Town, 85100, Greece",,667.2897196261682,9.0,461 ,False,False,False,True,True,False,36.0,False,August,Rhodes
+Stavros Pension,"32, Ippodamou str., Old Town, Rhodes Town, 85100, Greece",,400.93457943925233,8.6,141 ,True,False,True,False,True,False,19.0,False,August,Rhodes
+Christiana Hotel Apartments,"Gennadi, Gennadi, 85109, Greece",3.0,336.7126574685063,8.6,155 ,False,False,True,True,True,False,28.0,False,August,Rhodes
+Cosy apartment for couples!,"40 Παύλου Μελά, Rhodes Town, 85100, Greece",,405.607476635514,10,4 ,False,False,False,True,True,False,40.0,True,August,Rhodes
+Faliraki Dream Studios & Apartments,"Panaetiou Street Faliraki Rhodes, Faliraki, 85105, Greece",,326.1682242990654,8.2, 127 ,True,False,False,True,True,False,24.0,False,August,Rhodes
+Aphrodite White Studios Lindos,"Lindos, Lindos, 85107, Greece",3.0,444.2978071052456,7.4,78 ,True,False,False,True,True,False,25.0,False,August,Rhodes
+George Beach Studios,"Pefki, Pefki, 85107, Greece",,654.2056074766355,9.1,590 ,True,False,True,True,True,False,27.0,False,August,Rhodes
+Villa Aphrodite,"Lindos, Lindos, 85107, Greece",3.0,1172.093023255814,9.6,13 ,False,False,False,False,True,False,99.0,False,August,Rhodes
+Toulas Studios & Apts No2,"Ethniki Odos Rodou Lindou 407, Faliraki, 85100, Greece",3.0,448.2142857142857,8.9,79 ,True,True,False,True,True,False,45.0,False,August,Rhodes
+Casa Stavris,"faliraki Rhodes lindos avenue, Faliraki, 85105, Greece",,922.4299065420561,9.1,104 ,False,False,True,False,True,False,30.0,False,August,Rhodes
+SunnySun Studios,"15 klm Rodou Lindou Avenue, Faliraki, 85105, Greece",,290.6542056074766,9.2,340 ,False,True,False,False,True,False,19.0,False,August,Rhodes
+"Anastasia Studios, Apartments & Suites","Stegna Beach, Archangelos, 85102, Greece",3.0,336.061684460261,7.5,131 ,True,False,True,True,True,True,25.0,False,August,Rhodes
+Haraki Bay Hotel Apartments,"Χαράκι Μαλώνας, Haraki, 85102, Greece",3.0,629.6719457013575,8.8,18 ,True,False,True,True,True,True,38.0,False,August,Rhodes
+The Olive Garden House,"Xaraki, Haraki, 85102, Greece",3.0,368.0,9.0,3 ,True,False,False,True,True,False,45.0,False,August,Rhodes
+Saint Michel,"68 Perikleous str., Old Town, Rhodes Town, 85100, Greece",3.0,787.0,9.1,291 ,True,False,True,True,False,True,18.0,False,August,Rhodes
+White Palace Studios,"Agisandrou, Faliraki, 85100, Greece",,523.3644859813083,9.1,115 ,True,True,True,False,True,False,27.0,False,August,Rhodes
+Inconceptual apartment,"Αμερικής, Paradisi, 85106, Greece",,426.1682242990654,9.7,44 ,False,False,False,False,True,False,40.0,False,August,Rhodes
+Ammos Luxury Suites,"Iras, Faliraki, Faliraki, 85105, Greece",3.0,532.0,8.5, 21 ,False,True,False,False,True,False,40.0,False,August,Rhodes
+Haraki Aqua Blue,"Haraki Village, Haraki, 85102, Greece",,651.4018691588784,9.2,24 ,False,False,False,True,True,False,35.0,True,August,Rhodes
+Marnin Apartments,"Amarandou 20 & Mandilara, Rhodes Town, 85100, Greece",3.0,360.82949308755764,7.4,97 ,True,False,True,False,False,True,25.0,False,August,Rhodes
+Dorothea Apartments - Self-Catering Accommodation,"Georgiou Bardou Dorothea Apartments, Koskinou, 85100, Greece",3.0,295.0,8.2, 6 ,False,False,False,False,True,False,30.0,False,August,Rhodes
+Haraki Aqua Blue,"Haraki Village, Haraki, 85102, Greece",3.0,144326.16822429906,9.2,24 ,False,False,False,True,True,False,35.0,True,August,Rhodes
+Marnin Apartments,"Amarandou 20 & Mandilara, Rhodes Town, 85100, Greece",3.0,365.0,7.4,97 ,True,False,True,False,False,True,25.0,False,August,Rhodes
+Dorothea Apartments - Self-Catering Accommodation,"Georgiou Bardou Dorothea Apartments, Koskinou, 85100, Greece",,321.49532710280374,8.2, 6 ,False,False,False,False,True,False,30.0,False,August,Rhodes
+George Beach Studios,"Pefki, Pefki, 85107, Greece",,654.2056074766355,9.1,590 ,True,False,True,True,True,False,27.0,False,August,Rhodes
+Olympia Sun Hotel,"Faliraki Faliraki, Faliraki, 85100, Greece",3.0,484.18367346938777,7.1,201 ,False,False,False,True,True,False,25.0,False,August,Rhodes
+Skizenas Waterfront Apartments,"Haraki, Haraki, 85102, Greece",,801.8691588785047,9.6,31 ,False,False,False,True,True,False,40.0,False,August,Rhodes
+Pefkos Filoxenia,"Pefki, Pefki, 85107, Greece",3.0,333.7365591397849,9.3,34 ,False,True,False,True,True,False,25.0,False,August,Rhodes
+Cozy apartment in Paradisi,"Dimitriou stergarou 8, Paradisi, 85106, Greece",3.0,332.1428571428571,9.6,20 ,True,False,False,True,True,False,90.0,True,August,Rhodes
+"Filmar Hotel, Ixia, Rhodes","Iraklidon Avenue, Ixia, 85101, Greece",3.0,481.74097664543524,7.4,125 ,False,False,True,True,True,False,25.0,False,August,Rhodes
+Sokrates Studios,"Afandou Beach, Afantou, 85103, Greece",3.0,451.0,9.0,70 ,True,False,True,True,True,False,22.0,False,August,Rhodes
+Fatma Hanoum boutique hotel,"Omirou, Rhodes Town, 85100, Greece",,551.4018691588785,8.0, 45 ,True,False,False,True,False,False,60.0,False,August,Rhodes
+GOJI Vegan Hotel,"Mykinon, Ialysos, 85101, Greece",,681.3084112149533,9.2,4 ,False,True,False,True,True,False,24.0,True,August,Rhodes
+Katina Studios,"Lindou, Rhodes Town, 85100, Greece",,189.7196261682243,,,False,True,False,False,False,False,34.0,False,August,Rhodes
+A&E Elpida Rooms,"Augustinos Hatziioannou A&E Elpida Rooms, Láerma, 85109, Greece",3.0,290.1486369392788,9.5,16 ,False,False,False,False,False,True,24.0,True,August,Rhodes
+Ma Maison Bleue,"22 Λεωφόρος Ελευθερίας Floor 1, Kremasti, 85104, Greece",,465.4205607476635,10,2 ,False,False,False,True,True,False,52.0,False,August,Rhodes
+Christos studios and family apartments,"Stegna Archagelos Κτήριο 2οροφο, Rhodes Town, 85102, Greece",3.0,308.0,8.8,46 ,False,False,False,True,True,False,25.0,False,August,Rhodes
+Vasilina,"Dimitras, Faliraki, 85105, Greece",,285.9813084112149,8.9,55 ,False,False,False,False,True,False,22.0,False,August,Rhodes
+Maroula Studios,"Panaetiou Str., Faliraki, 85105, Greece",3.0,334.0,8.2, 107 ,False,True,False,False,True,False,28.0,False,August,Rhodes
+Vickys Studios Faliraki,"Asklipiou Street, Faliraki, 85105, Greece",3.0,286.0,7.8,71 ,False,True,True,False,True,False,22.0,False,August,Rhodes
+Paraskevi Luxury Apartments,"Kattavia, Κατταβιά, Kattavía, 85109, Greece",3.0,743.0513897220555,9.2,13 ,True,False,False,True,True,False,40.0,False,August,Rhodes
+Afroditi Pension,"Archangelos, Archangelos, 85102, Greece",3.0,158.11650932535113,8.2, 25 ,True,False,False,True,True,False,25.0,True,August,Rhodes
+Afandou Square Apartment,"Ηρακλέους 2 , Αφάντου, Afantou, 85103, Greece",3.0,291.0,10,1 ,False,False,False,False,False,False,35.0,False,August,Rhodes
+Eleonas Apartments,"Pirras 6, Ialissos, Ialysos, 85101, Greece",,300.93457943925233,8.1, 83 ,False,True,False,True,True,False,23.0,True,August,Rhodes
+Europa Hotel,"94, 28th October str, Rhodes Town, 85100, Greece",,473.83177570093454,7.6,387 ,False,True,True,False,False,True,24.0,False,August,Rhodes
+SOLYMAR PRIVE,"Στεγνα, Archangelos, 85102, Greece",3.0,311.0,9.8,17 ,False,False,False,True,True,False,25.0,False,August,Rhodes
+Peters Studio,"Stegna, Archangelos, 85102, Greece",3.0,637.0535714285713,9.5,15 ,False,False,False,False,True,False,30.0,False,August,Rhodes
+Peace & Seaview Haraki,"Haraki, Haraki, 85102, Greece",,350.46728971962614,,,True,False,False,False,True,False,14.0,False,August,Rhodes
+Stavris Studios & Pool Suites,"13klm Rhodes-Lindos ave., Faliraki, 85105, Greece",3.0,923.5781717706654,8.8,313 ,False,False,True,True,True,False,30.0,False,August,Rhodes
+Miva Sea View,"Apollonos, Faliraki, 85100, Greece",,1210.2803738317757,9.4,113 ,False,False,True,True,True,False,79.0,False,August,Rhodes
+Sofia Pension,"27, Aristofanous str. & Symonοidou str., Old Town, Rhodes Town, 85100, Greece",,426.1682242990654,8.9,167 ,False,False,True,False,False,False,19.0,False,August,Rhodes
+Ey Sofias Suites,"21 Ταυρίσκου, Rhodes Town, 85131, Greece",3.0,664.4869215291751,9.5,33 ,True,False,False,False,False,False,25.0,False,August,Rhodes
+Kristina´s Apartments,"Pythagoras street 107 rhodes greece, Rhodes Town, 85100, Greece",3.0,600.6944444444445,9.2,80 ,True,False,True,True,False,False,30.0,False,August,Rhodes
+Mediterraneo Apartments,"Stegna Beach, Archangelos, 85102, Greece",3.0,518.0,8.8,79 ,True,False,False,True,True,False,32.0,True,August,Rhodes
+Stella View Studios,"Pefki, Pefki, 85107, Greece",3.0,352.3255813953488,8.9,256 ,False,True,False,True,True,True,24.0,False,August,Rhodes
+Astron Hotel Rhodes,"I. Kazouli 10, Rhodes Town, 85100, Greece",,715.8878504672897,7.9,206 ,True,True,True,False,True,False,15.0,False,August,Rhodes
+Lilly Apartment,"FALIRAKI, Faliraki, 85100, Greece",,300.93457943925233,8.4, 13 ,False,True,False,False,False,False,,False,August,Rhodes
+Mary Christina,"Iras Street, Faliraki, 85105, Greece",3.0,175.0,8.0, 61 ,False,False,False,True,True,False,30.0,False,August,Rhodes
+Astronomy Studios,"Profitis Amos, Faliraki, 85100, Greece",,471.02803738317755,9.7,75 ,False,False,False,False,True,False,31.0,False,August,Rhodes
+Archangelos House,"Archangelos 1534, Archangelos, 85102, Greece",3.0,450.5365593547957,9.8,13 ,False,False,False,True,True,False,100.0,True,August,Rhodes
+Seaside Studios Kirania,"Kiotari, Kiotari, 85109, Greece",3.0,375.69444444444446,9.1,79 ,False,False,False,True,True,False,28.0,True,August,Rhodes
+Rosie's Bellezza,"asklipiou faliraki, greece, Faliraki, 85100, Greece",,475.7009345794392,8.9,14 ,False,True,False,False,True,False,27.0,False,August,Rhodes
+The Dragon of Rodos,"Αλκαίου, Rhodes Town, 85100, Greece",,812.1495327102804,8.0, 1 ,True,False,False,True,False,False,30.0,False,August,Rhodes
+Lindos Boutique - Adults Only,"Lindos, Lindos, 85107, Greece",,475.7009345794392,7.6,81 ,True,False,False,False,True,False,30.0,True,August,Rhodes
+Princeps De Cura (Rhodes 2),"Eleftheriou Venizelou 17, Ialysos, 85101, Greece",3.0,915.0,9.3,34 ,True,False,False,False,True,False,45.0,False,August,Rhodes
+Venus Aegean view villa,"Επαρχιακή Οδός Κοσκινού, Kalithies, 85105, Greece",3.0,386.5837104072398,8.8,40 ,True,False,False,False,True,False,75.0,True,August,Rhodes
+Hotel Nathalie,"65, Sotiros str., Ixia, 85100, Greece",3.0,505.0,8.8,56 ,False,True,True,True,True,False,16.0,False,August,Rhodes
+Stegna Star Apartments,"Stegna Beach Archangelos, Archangelos, 85102, Greece",,496.2616822429906,8.2, 33 ,False,False,False,True,True,True,30.0,False,August,Rhodes
+Retas apartment up,"Αγιας Παρασκευής 12, Kremasti, 85104, Greece",,901.8691588785047,9.2,9 ,True,False,False,True,True,False,49.0,False,August,Rhodes
+Kyriakos Studios,"Χελιδόνια Παραλία Αφάντου, Afantou, 85103, Greece",3.0,239.47731982500576,9.1,59 ,False,False,False,True,True,False,33.0,False,August,Rhodes
+Rhodes Island Elli Beach Apartments,"15 Ko, Rhodes Town, 85100, Greece",,1152.3364485981308,10,5 ,False,False,False,True,False,False,40.0,False,August,Rhodes
+Island Dreams Rooms & Suites,"Lochagou Fanouraki 25, Rhodes Town, 85100, Greece",,426.1682242990654,8.7,197 ,False,False,False,True,False,False,15.0,False,August,Rhodes
+Tsatos Luxury Residence,"Αθανασίου Διάκου, Kremasti, 85104, Greece",3.0,698.8372093023256,9.5,2 ,False,False,False,True,False,False,79.0,False,August,Rhodes
+Lindos Del Mar Suites - Adults Only,"Reception area of Lindos, Lindos, 85107, Greece",,809.3457943925233,8.9,132 ,True,False,False,False,True,False,44.0,False,August,Rhodes
+Lilian's Seaview & Barstreet Studios,"45 Orfanidou 2nd floor, Rhodes Town, 85100, Greece",3.0,398.0,7.4,28 ,False,False,False,False,False,False,25.0,False,August,Rhodes
+Carpe Diem Studios,"Rimini 15, Ialysos, 85101, Greece",,360.74766355140184,8.9,51 ,False,False,False,True,True,False,35.0,False,August,Rhodes
+Pitropos Garden,"Στεγνα, Archangelos, 85102, Greece",,791.588785046729,8.7,18 ,True,False,False,True,True,False,79.0,True,August,Rhodes
+Luxury Loft in the center,"35 Ηρακλείου, Rhodes Town, 85100, Greece",3.0,539.9553571428571,8.3, 4 ,False,False,False,False,True,False,50.0,False,August,Rhodes
+Villa Maroula,"ΕΚΚΛΗΣΙΑ ΑΓΙΟΣ ΑΝΔΡΕΑΣ ΑΦΑΝΤΟΥ 85103, Afantou, 85103, Greece",3.0,497.9166666666667,9.7,63 ,False,False,False,True,True,False,27.0,False,August,Rhodes
+Lindos Portes Suites - Adults Only,"Krana, Lindos, 85107, Greece",,621.4953271028037,8.4, 131 ,True,False,False,False,True,False,35.0,False,August,Rhodes
+Sea & Sun cozy studio,"28 Νηρηίδων, Kremasti, 85104, Greece",3.0,410.0,9.5,17 ,False,False,False,False,True,False,37.0,False,August,Rhodes
+Pylea Beach Hotel,"Episkopi Kuprou, Ialysos, 85104, Greece",3.0,495.83333333333337,8.4, 121 ,True,True,True,False,True,True,25.0,False,August,Rhodes
+Mando Living -Faliraki,"Platanos area Faliraki Rhodes 85100, Faliraki, 85100, Greece",3.0,362.7906976744186,9.0,37 ,True,True,False,True,True,False,24.0,False,August,Rhodes
+Filerimos House,"Vounara 19, Ialysos, 85101, Greece",,585.981308411215,9.2,23 ,False,False,False,True,True,False,79.0,True,August,Rhodes
+Electra Village House,"Eparchiaki Odos Ialisou-Katavias, Apolakkiá, 85109, Greece",3.0,500.69444444444446,8.5, 8 ,False,False,False,True,True,False,120.0,False,August,Rhodes
+Praxitelous 9 Old Town,"PRAXITELOUS 9, Rhodes Town, 85100, Greece",3.0,946.8513853904282,8.8,19 ,False,False,False,True,False,False,,True,August,Rhodes
+Melita Apartment Seaside,"Haraki, Rhodes, Haraki, 85102, Greece",,701.8691588785047,9.6,18 ,False,False,False,False,False,False,60.0,False,August,Rhodes
+Blue Bay Villas,"Παραλία Στεγνά, Archangelos, 85102, Greece",,901.8691588785047,9.8,47 ,False,False,False,True,True,False,79.0,False,August,Rhodes
+Galazio Beach,"Φαληρακι Απωλωνιων ροδιων 4, Faliraki, 85105, Greece",3.0,690.0,8.9,232 ,False,False,False,False,True,True,45.0,False,August,Rhodes
+La Casa Di Silvia,"Apolakkia, Apolakkiá, 85109, Greece",3.0,300.69444444444446,,,False,False,False,False,True,False,35.0,True,August,Rhodes
+City Center Elite Suite,"Ίωνος Δραγούμη 23, Rhodes Town, 85100, Greece",3.0,1216.7006109979634,9.6,18 ,True,False,False,True,True,False,75.0,False,August,Rhodes
+Megusta Suites,"MeGusta Music Bar, Θεολόγος 851 06, Theologos, 85106, Greece",,1002.8037383177569,9.5,8 ,True,False,True,True,True,False,27.0,False,August,Rhodes
+Déjà Blue,"Stegna Beach, Archangelos, 85102, Greece",3.0,728.1954887218045,,,False,False,False,True,True,False,120.0,False,August,Rhodes
+Electi Apartments Charaki,"Χαράκι Ροδος, Haraki, 85102, Greece",,452.3364485981308,9.4,23 ,False,False,False,True,True,False,31.0,False,August,Rhodes
+Achousa Hotel,"Rhodes-Lindos Avenue, Faliraki Area, Faliraki, 85100, Greece",3.0,231.0,7.9,92 ,True,True,False,False,True,False,23.0,False,August,Rhodes
+Oleander hotel Faliraki View,"Faliraki-Kalithies Village avenue, Faliraki, 85103, Greece",,411.21495327102804,8.1, 59 ,True,True,False,False,True,True,24.0,False,August,Rhodes
+Mosaic Gardens,"17 klm. Rhodou Lindou, Faliraki, 85100, Greece",,320.5607476635514,9.0,30 ,True,False,False,True,True,False,30.0,True,August,Rhodes
+Maria Studios and Apartments,"Haraki, Haraki, 85102, Greece",,293.4579439252336,8.9,86 ,False,False,False,True,True,False,19.0,False,August,Rhodes
+Sun Maris,"Faliraki, opposite to St. Nektarios Church, Faliraki, 85105, Greece",3.0,513.8888888888889,9.9,41 ,False,False,False,True,True,False,25.0,False,August,Rhodes
+Alexia Apartments & Studios,"172A, Eleftherias Avenue, Kremasti, 85104, Greece",,285.9813084112149,9.0,165 ,False,False,False,True,True,False,35.0,False,August,Rhodes
+comfy center rodos - blue,"Λεωφόρος Καλλιθέας, Asgourou, 85100, Greece",,451.40186915887847,9.5,13 ,False,False,False,True,False,False,40.0,False,August,Rhodes
+Alkyonides Hotel,"Niriidon 17, Kremasti, 85104, Greece",3.0,205.55555555555557,7.8,185 ,False,False,True,True,True,True,30.0,True,August,Rhodes
+Knights' Castle Studios,"Stegna,Archangelos, Archangelos, 85102, Greece",3.0,369.19642857142856,9.7,33 ,False,False,True,True,True,False,26.0,False,August,Rhodes
+Argiro Village,"National Road Rhodes-Lindos, Afantou, 85103, Greece",3.0,406.94444444444446,8.1, 96 ,True,True,True,True,True,True,28.0,False,August,Rhodes
+Kostas Studios,"Faliraki, Faliraki, 85100, Greece",,350.46728971962614,8.8,125 ,False,False,False,True,True,False,24.0,False,August,Rhodes
+Apollonio Suites & Rooms Faliraki Rhodes,"Iras, Faliraki, 85100, Greece",3.0,520.9302325581396,9.4,16 ,False,False,False,True,True,False,35.0,False,August,Rhodes
+Ble Azzure,"Gennadi, Gennadi, 85109, Greece",3.0,460.0,8.1, 19 ,True,False,False,True,True,False,38.0,False,August,Rhodes
+12 senses faliraki sea view,"ΤΙΜΟΚΡΕΟΝΤΑ 1, Faliraki, 85105, Greece",,541.1214953271028,8.8,17 ,False,False,True,False,True,False,19.0,False,August,Rhodes
+Kiotari Stone House,"Ρόδος, Νότια Ρόδος, Κιοτάρι, Gennadi, 85109, Greece",3.0,625.5813953488372,9.4,7 ,False,False,False,False,True,False,99.0,True,August,Rhodes
+RODINI PARK APARTMENT,"Ethniki Odos Rodou Lindou, Rhodes Town, 85100, Greece",3.0,523.9932126696832,9.1,11 ,False,False,False,True,True,False,80.0,False,August,Rhodes
+"Jaana & Akis Holiday Home 1&2, Haraki","85102, Haraki, 85102, Greece",3.0,310.0904977375565,9.3,16 ,False,False,False,True,True,False,45.0,True,August,Rhodes
+Stelia Luxury apartments,"Επαρχιακή Οδός Καλαβάρδας-Έμπονα, Kalavárda, 85101, Greece",3.0,414.0,9.8,13 ,False,False,False,True,True,False,45.0,False,August,Rhodes
+Anastasia's Holiday Home,"ACROPOLEOS & VOUNARA 17, IALYSOS, Ialysos, 85101, Greece",,429.9065420560747,9.6,33 ,False,False,False,True,True,False,35.0,False,August,Rhodes
+Christina's Studio Suite,"28ης Οκτωβρίου 37, Koskinou, 85100, Greece",,424.29906542056074,9.3,11 ,False,False,False,False,False,False,30.0,False,August,Rhodes
+Cosmos Old Town,"Sokratous, Rhodes Town, 85100, Greece",,751.4018691588784,8.2, 12 ,True,False,False,True,False,False,60.0,False,August,Rhodes
+Serendipity,"14 Arkadiou, Rhodes Town, 85100, Greece",3.0,469.0,10,1 ,False,False,False,False,False,False,33.0,False,August,Rhodes
+Arocaria - Faliraki peaceful apartments,"faliraki, Faliraki, 85100, Greece",,315.8878504672897,10,3 ,False,False,False,True,True,False,24.0,False,August,Rhodes
+Niki Hotel Apartments,"7 Pyrras str., Ialyssos, Ialysos, 85101, Greece",,350.46728971962614,8.4, 68 ,False,True,False,True,True,False,109.0,False,August,Rhodes
+Cosmos Old Town,"Sokratous, Rhodes Town, 85100, Greece",,751.4018691588784,8.2, 12 ,True,False,False,True,False,False,60.0,False,August,Rhodes
+Serendipity,"14 Arkadiou, Rhodes Town, 85100, Greece",,511.214953271028,10,1 ,False,False,False,False,False,False,32.0,False,August,Rhodes
+Arocaria - Faliraki peaceful apartments,"faliraki, Faliraki, 85100, Greece",3.0,311.0,10,3 ,False,False,False,True,True,False,25.0,False,August,Rhodes
+Niki Hotel Apartments,"7 Pyrras str., Ialyssos, Ialysos, 85101, Greece",3.0,358.92857142857144,8.4, 68 ,False,True,False,True,True,False,110.0,False,August,Rhodes
+Maria Studios and Apartments,"Haraki, Haraki, 85102, Greece",3.0,293.0,8.9,86 ,False,False,False,True,True,False,19.0,False,August,Rhodes
+Rhodian Rose Hotel,"Athinodorou str., Faliraki, 85100, Greece",,740.1869158878504,8.8,135 ,True,False,True,True,True,True,27.0,False,August,Rhodes
+Evi Apartments And Studios,"19km Rodos-Kamiros Nat.Road, Tholaros beach, Theologos, 85106, Greece",3.0,536.046511627907,8.7,70 ,False,False,False,True,True,False,30.0,False,August,Rhodes
+FantaSea Apartments,"Χαράκι, Haraki, 85102, Greece",3.0,580.0,9.6,45 ,False,False,False,True,True,False,40.0,False,August,Rhodes
+Classical Villa Archontiko D&M,"Ρόδου Α Νικολάου, Rhodes Town, 85100, Greece",,782.2429906542055,9.3,9 ,True,False,False,True,False,False,208.0,True,August,Rhodes
+Tommy's Rooms,"Main Street , Haraki, 85102, Greece",3.0,400.69444444444446,8.2, 47 ,False,False,False,True,True,True,35.0,False,August,Rhodes
+Argiro Village,"National Road Rhodes-Lindos, Afantou, 85103, Greece",3.0,406.94444444444446,8.1, 96 ,True,True,True,True,True,True,28.0,False,August,Rhodes
+Hotel Ziakis,"Main Street, Pefki, 85107, Greece",3.0,300.8142361111111,8.1, 23 ,False,True,False,True,True,False,24.0,False,August,Rhodes
+Villa Olive Grove,"Paraskopi, Afantou, 85100, Greece",3.0,255.0,8.7,53 ,True,False,False,True,True,False,20.0,False,August,Rhodes
+Georgias Apartments,"Haraki, Haraki, 85102, Greece",3.0,513.9236111111111,9.3,28 ,True,False,False,True,True,False,80.0,False,August,Rhodes
+Flora Studios,"Lindos Village, Lindos, 85107, Greece",,441.12149532710276,7.4,39 ,True,False,False,False,True,False,18.0,False,August,Rhodes
+Paradis Studios,"Stegna Archangelos, Archangelos, 85102, Greece",3.0,325.0,8.8,67 ,True,False,False,True,True,False,29.0,False,August,Rhodes
+Sivila Hotel,"Afandou Beach, Afantou, 85103, Greece",3.0,467.4418604651163,5.8,49 ,False,True,True,True,True,True,24.0,False,August,Rhodes
+Sotiris rooms,"Leoforos Kallitheas 68, Faliraki, 85105, Greece",3.0,600.0,8.7,35 ,False,False,False,False,True,True,24.0,False,August,Rhodes
+Gemani Apartments Rhodes city,"67 Κωνσταντινου Παλαιολόγου, Rhodes Town, 85100, Greece",,451.40186915887847,9.6,102 ,True,False,False,False,True,False,35.0,False,August,Rhodes
+Muses-Old Town,"Perikleous & Tavriskou 26, Rhodes Town, 85100, Greece",,423.3644859813084,7.6,161 ,True,False,False,True,False,False,24.0,False,August,Rhodes
+Sabina Hotel,"Main Street, Theologos, 85106, Greece",3.0,606.70814479638,7.9,67 ,False,True,True,False,True,True,20.0,False,August,Rhodes
+Villa Mariza 1920,"Απολλωνίου Ροδίου 35, Rhodes Town, 85100, Greece",,451.40186915887847,8.9,72 ,True,False,False,True,True,False,44.0,False,August,Rhodes
+Ammos stegna,"Stegna Beach, Archangelos, 85102, Greece",3.0,600.6944444444445,9.6,48 ,True,False,False,True,True,False,41.0,False,August,Rhodes
+Karmik Concept Apartments,"National Street Rodos Lindos 181, Afantou, 85100, Greece",3.0,465.27777777777777,,,False,False,True,True,True,False,18.0,False,August,Rhodes
+M&M Small House,"90 Αγίου Ιωάννη, Rhodes Town, 85100, Greece",3.0,373.0,8.0, 1 ,True,False,False,False,False,False,35.0,False,August,Rhodes
+FANES HOUSE,"FANES RHODES, Fánai, 85106, Greece",3.0,379.1666666666667,,,False,False,False,False,True,False,40.0,False,August,Rhodes
+Avi Suites 1,"Iras Street Faliraki, Faliraki, 85100, Greece",3.0,657.5892857142857,9.4,23 ,True,False,False,True,True,False,57.0,False,August,Rhodes
+Thalassa Studios,"Faliraki, Faliraki, 85101, Greece",,371.9626168224299,8.3, 123 ,False,False,False,False,True,False,18.0,True,August,Rhodes
+Billy's Studios,"Faliraki, Faliraki, 85105, Greece",3.0,407.30478589420653,8.9,401 ,True,True,False,False,True,True,24.0,False,August,Rhodes
+Casa di Flora in Afandou,"Lipini, Afantou, 85103, Greece",,500.93457943925233,9.3,11 ,True,False,False,True,True,False,60.0,False,August,Rhodes
+MARIALENAS HOUSE,"Αρχαγγελος, Archangelos, 85102, Greece",,432.7102803738318,9.5,16 ,False,False,False,True,True,False,120.0,True,August,Rhodes
+Aegean Living,"Averof, Mantraki, Rhodes Town, 85100, Greece",3.0,413.46153846153845,8.0, 2 ,False,False,False,True,False,False,36.0,False,August,Rhodes
+MaΜa's Studio & Apartment,"Charaki,rhodes, Haraki, 85102, Greece",,626.1682242990654,,,True,False,False,False,True,False,20.0,True,August,Rhodes
+Grandmother's house,"Psinthos, Psinthos, 85100, Greece",3.0,350.0,9.2,18 ,True,False,False,False,True,False,74.0,True,August,Rhodes
+Kappa Apartments,"Ερμού 20, Faliraki, 85105, Greece",,268.22429906542055,8.6,151 ,True,False,False,False,False,False,15.0,False,August,Rhodes
+Planet View,"Rhodes, Faliraki P.O.Box 372 Rooms are on the 1st floor, Faliraki, 85100, Greece",,275.70093457943926,9.1,25 ,False,False,False,False,True,False,27.0,False,August,Rhodes
+Zografos Apartment's - Old Town,"Tauriskou 25, Rhodes Town, 85100, Greece",,684.1121495327102,8.5, 140 ,True,False,False,True,False,False,30.0,False,August,Rhodes
+Panorama Studios,"Ladiko, Faliraki, 85100, Greece",3.0,238.0,8.4, 27 ,False,True,False,True,True,True,35.0,False,August,Rhodes
+Jack Daniel Friends,"agisandrou 1 , faliraki, Faliraki, 85105, Greece",,300.93457943925233,9.0,67 ,False,False,False,True,True,True,27.0,False,August,Rhodes
+Santa Helena Hotel,"Ialyssos, Ialysos, 85101, Greece",3.0,371.0,9.2,142 ,False,True,True,True,True,False,35.0,False,August,Rhodes
+SOFI'S house,"32 Μίνωος, Rhodes Town, 85100, Greece",3.0,692.1874999999999,10,7 ,True,False,False,True,True,False,49.0,False,August,Rhodes
+Antifanous Apartments,"5 Antifanous, Rhodes Town, 85100, Greece",,375.7009345794392,8.3, 87 ,False,False,False,True,False,False,19.0,False,August,Rhodes
+Flame Lily Studios & Apartments,"Kallithion-Faliraki Ave., Faliraki, 85100, Greece",3.0,292.0,9.2,52 ,False,False,True,False,True,False,28.0,False,August,Rhodes
+St Paul's Studios Chrysanthi,"Lindos Rhodes, Lindos, 85107, Greece",,460.74766355140184,8.3, 53 ,False,False,False,False,True,False,,False,August,Rhodes
+Travel Magic Rhodes,"Omirou, Rhodes Town, 85100, Greece",3.0,789.0,9.3,75 ,False,False,False,True,True,False,80.0,True,August,Rhodes
+Diagoras Hotel All Inclusive,"FALIRAKI, Faliraki, 85105, Greece",,486.91588785046724,7.5,90 ,False,True,True,True,True,True,24.0,False,August,Rhodes
+Ariadni Apartment 1,"Riga Fereou ΡΗΓΑ ΦΕΡΡΑΙΟΥ 8, Rhodes Town, 85100, Greece",3.0,741.9172932330827,10,2 ,False,False,False,True,True,False,70.0,False,August,Rhodes
+Seva Monolithos house,"Επαρχιακή Οδός Μονολίνθου-Φρούριο Μονολίνθου, Monólithos, 85108, Greece",,563.5514018691589,,,True,False,False,True,True,False,134.0,True,August,Rhodes
+Sunwaves Beach studio I,"8 Πρωτογενή, Ialysos, 85101, Greece",3.0,545.8333333333334,9.5,2 ,False,False,False,True,True,True,22.0,False,August,Rhodes
+Margaret Hotel Rhodes,"Demokratias Str.- Kremasti Village, Rhodes Town, 85101, Greece",3.0,566.1070757296342,7.6,17 ,True,False,True,True,False,False,18.0,False,August,Rhodes
+Marina View Rooms,"114 Afstralias, Rhodes Town, 85100, Greece",3.0,500.69444444444446,9.0,10 ,True,False,False,True,True,False,55.0,True,August,Rhodes
+Mango Rooms,"Dorieos Square 3 1st floor, Rhodes Town, 85100, Greece",,330.84112149532706,8.0, 172 ,False,False,False,False,False,True,15.0,False,August,Rhodes
+Mannashouse,"Embonas, Émbonas, 85100, Greece",3.0,576.0,9.8,6 ,False,False,False,True,True,False,58.0,True,August,Rhodes
+Marvinas Seaside Apartment,"Agias Paraskevis 61A, Kremasti, 85104, Greece",3.0,348.0,9.9,14 ,False,False,False,True,True,False,30.0,False,August,Rhodes
+Coloma Apartments Pefkos,"Pefkos-Rhodes, Pefki, 85107, Greece",3.0,350.5632206891955,8.8,6 ,False,False,False,False,True,False,42.0,False,August,Rhodes
+Summer Knights,"Dosiadou 3, Rhodes Town, 85100, Greece",,601.8691588785047,9.7,23 ,False,False,False,True,True,False,65.0,False,August,Rhodes
+3 Charites Old Town,"Fidiou 17, Rhodes Town, 85100, Greece",3.0,759.5022624434389,8.4, 130 ,True,False,False,True,False,False,30.0,False,August,Rhodes
+Villa Soultana,"Lindos, Lindos, 85107, Greece",3.0,1144.4196428571427,9.7,9 ,False,False,False,False,False,False,100.0,False,August,Rhodes
+Petasos Apartments,"Gennadi , Gennadi, 85109, Greece",,360.74766355140184,9.3,27 ,False,True,False,True,True,False,31.0,False,August,Rhodes
+Fedra Apartments,"Lindos, Lindos, 85107, Greece",3.0,364.524886877828,8.4, 73 ,False,False,False,False,False,False,,False,August,Rhodes
+Family House Faliraki Studios Apartments,"Faliraki, Faliraki, 85105, Greece",3.0,589.2857142857142,8.9,51 ,True,True,False,True,True,False,65.0,False,August,Rhodes
+Casa Nikolou Stegna,"Stegna, Archangelos, 85102, Greece",,874.7663551401869,8.5, 6 ,True,False,False,True,True,False,69.0,False,August,Rhodes
+Serafi Cozy Rooms,"Θεμιστοκλέους Πάροδος Θεμιστοκλέους, Archangelos, 85102, Greece",3.0,210.0,8.6,14 ,False,False,False,False,True,False,25.0,False,August,Rhodes
+KAMARA traditional house,"Ρόδου- Καμείρου, Soroni, 85101, Greece",3.0,404.0,9.5,4 ,False,False,False,True,True,False,105.0,True,August,Rhodes
+Cosima Luxury Appartement,"70 Lindou, Rhodes Town, 85100, Greece",3.0,349.4360902255639,10,1 ,False,False,False,False,True,False,60.0,False,August,Rhodes
+Cute & sweet home,"- 1, Archangelos, 85102, Greece",,275.70093457943926,,,False,False,False,False,True,False,44.0,False,August,Rhodes
+Georgia Old Town Apartments,"Alexandridou 8, Rhodes Town, 85100, Greece",3.0,376.45636656688924,8.8,132 ,True,False,False,False,False,False,20.0,False,August,Rhodes
+Melody Studios Faliraki,"Faliraki, Faliraki, 85105, Greece",,478.50467289719626,7.5,82 ,False,True,False,True,True,False,49.0,False,August,Rhodes
+Sweet Home Kremasti,"Αγροτών, Kremasti, 85104, Greece",3.0,574.8993288590603,9.7,18 ,True,False,False,True,True,False,65.0,True,August,Rhodes
+White Palace Pavlos apartment1,"Agisandrou 1, 1st floor , Faliraki, 85105, Greece",3.0,352.0,8.5, 4 ,True,False,False,True,True,False,26.0,False,August,Rhodes
+House with garden in city of Rhodes,"Γαριβαλδι, Rhodes Town, 85100, Greece",,338.31775700934577,9.3,10 ,True,False,False,True,True,False,39.0,False,August,Rhodes
+Evani Apartments,"Φερενίκης, Ialysos, 85101, Greece",,383.1775700934579,8.9,57 ,False,False,False,True,True,False,35.0,False,August,Rhodes
+Panorama Hotel Apartments,"30, Kameirou str., Rhodes Town, 85100, Greece",3.0,350.69444444444446,7.1,114 ,False,False,False,True,False,False,30.0,False,August,Rhodes
+Naya pool & garden view bungalow,"Επαρχιακή Οδός Κοσκινού, Koskinou, 85100, Greece",,1988.7850467289718,9.7,3 ,False,True,False,True,True,False,91.0,False,August,Rhodes
+House with garden in city of Rhodes,"Γαριβαλδι, Rhodes Town, 85100, Greece",3.0,336.24245472837026,9.3,10 ,True,False,False,True,True,False,39.0,False,August,Rhodes
+Evani Apartments,"Φερενίκης, Ialysos, 85101, Greece",3.0,353.6246786632391,8.9,57 ,False,False,False,True,True,False,35.0,False,August,Rhodes
+Panorama Hotel Apartments,"30, Kameirou str., Rhodes Town, 85100, Greece",3.0,358.0,7.1,114 ,False,False,False,True,False,False,30.0,False,August,Rhodes
+Naya pool & garden view bungalow,"Επαρχιακή Οδός Κοσκινού, Koskinou, 85100, Greece",3.0,1552.0,9.7,3 ,False,True,False,True,True,False,92.0,False,August,Rhodes
+Marvinas Seaside Apartment,"Agias Paraskevis 61A, Kremasti, 85104, Greece",3.0,378.0,9.9,14 ,False,False,False,True,True,False,30.0,False,August,Rhodes
+Kathopouli Apartment,"Kathopouli 58, Rhodes Town, 85100, Greece",3.0,411.0,8.8,22 ,False,False,False,True,False,False,25.0,False,August,Rhodes
+Plastiras Sea View Apartments,"Stegna, Archangelos, 85102, Greece",3.0,276.0,8.4, 7 ,False,False,False,False,True,False,18.0,False,August,Rhodes
+Naya Ixia Rhodes Apartment,"8 Ελευθερίου Βενιζέλου, Ixia, 85101, Greece",3.0,583.0,9.8,5 ,False,False,False,True,True,False,80.0,False,August,Rhodes
+Bay View,"Lito Area, Poseidonas street, Faliraki, 85105, Greece",3.0,460.4166666666667,9.4,124 ,False,False,False,True,True,False,35.0,False,August,Rhodes
+Danae Luxury Apartment - Rhodes,"45 Ethnarchou Makariou, Rhodes Town, 85100, Greece",3.0,750.6944444444445,,,False,False,False,False,False,False,50.0,False,August,Rhodes
+Fedra Apartments,"Lindos, Lindos, 85107, Greece",3.0,366.4172231176606,8.4, 73 ,False,False,False,False,False,False,,False,August,Rhodes
+Pension Zoi,"Kolimbia, Kolymbia, 85103, Greece",3.0,259.4387755102041,8.8,45 ,False,False,False,True,True,False,30.0,True,August,Rhodes
+Scala Rhodes Apartments,"33 Profiti Ilia Str., Afantou, 85103, Greece",3.0,440.27777777777777,9.7,32 ,False,False,False,True,True,False,25.0,True,August,Rhodes
+Stelios,"Archagelos  rodos beach stegna Stegna Beach rodos, Archangelos, 85102, Greece",,440.18691588785043,9.2,45 ,True,False,False,True,True,False,30.0,False,August,Rhodes
+Lana's House,"Terpsihoris 51 Isogio, Rhodes Town, 85100, Greece",3.0,802.0618556701031,9.4,8 ,False,False,False,False,True,False,70.0,False,August,Rhodes
+Sunset apartment,"2 Ερμουπόλεως Όροφος 2ος, Rhodes Town, 85100, Greece",,396.2616822429906,10,1 ,False,False,False,True,True,False,79.0,False,August,Rhodes
+Kostas Village House,"Psinthos, Psinthos, 85100, Greece",3.0,202.0,,,False,False,False,False,True,False,55.0,False,August,Rhodes
+"Hill House Koskinou, Rhodes","Επαρχιακή Οδός Κοσκινού Κοσκινου Περιοχή Μάρμαρα Τ.θ. 438, Ρόδος, Koskinou, 85100, Greece",3.0,685.0,8.5, 13 ,False,False,False,False,True,False,70.0,False,August,Rhodes
+Escape Rooms,"109 Εθνάρχου Μακαρίου, Afantou, 85103, Greece",3.0,370.1530612244898,9.8,25 ,False,False,False,False,True,False,35.0,False,August,Rhodes
+Villa Mika Near Ialysos Beach,"Ακουσηλαού, Ialysos, 85101, Greece",,922.4299065420561,9.6,9 ,False,False,False,True,True,False,209.0,True,August,Rhodes
+Errik Luxury House,"https://www.google.com/maps/d/viewer?msa=0&mid=13vS2Rph8kYKyCnmKLmj9lx_X_Xc&ll=36.34144262684477%2C28.19924499561224&z=18#:~:text=FALIRAKI%20MESONOS%20Post%20box%20214, Faliraki, 85100, Greece",3.0,595.0,9.3,18 ,False,False,False,False,True,False,59.0,False,August,Rhodes
+Al Mare Apartments,"Afandou Beach, Afantou, 85100, Greece",,551.4018691588785,8.9,50 ,False,False,False,True,True,True,24.0,False,August,Rhodes
+Dimitris studios & apartments,"Eparchiaki Odos Kalithion-Falirakiou 420, Faliraki, 85100, Greece",3.0,275.0,8.7,53 ,True,False,False,True,True,False,20.0,False,August,Rhodes
+Sevastos Studios,"Main Street, Faliraki, 85105, Greece",3.0,321.3411389036722,8.1, 10 ,False,False,False,False,True,True,20.0,False,August,Rhodes
+Embonas Village,"Embonas, Émbonas, 85108, Greece",3.0,367.5226244343891,9.5,4 ,False,False,False,True,True,False,104.0,False,August,Rhodes
+Antouan Matina,"Stegna, Archangelos, 85102, Greece",,333.6448598130841,8.8,72 ,True,False,False,True,True,False,40.0,False,August,Rhodes
+Blue Roses,"Hatziantoniou 14, Ixia, 85101, Greece",3.0,417.36111111111114,8.5, 96 ,True,False,False,True,True,False,30.0,False,August,Rhodes
+Elarin studios & apartments,"Agisandou Str., Faliraki, 85105, Greece",,526.1682242990654,9.5,39 ,False,True,True,True,True,False,23.0,False,August,Rhodes
+Mandorla Apartments,"Thoukididou 4, Rhodes Town, 85100, Greece",3.0,588.0,9.0,1 ,False,False,False,True,False,False,22.0,False,August,Rhodes
+Milena suites,"National road, Faliraki, 85105, Greece",,999.9999999999999,9.0,5 ,False,True,False,False,True,False,40.0,False,August,Rhodes
+Aurora Luxury Studio,"31 Εθνάρχου Μακαρίου, Rhodes Town, 85100, Greece",,733.644859813084,9.7,33 ,True,False,False,True,True,False,40.0,False,August,Rhodes
+Iskas apartments,"6 Agias Paraskevis, Ialysos, 85101, Greece",3.0,369.19642857142856,8.8,36 ,False,False,False,True,True,False,33.0,True,August,Rhodes
+Marth House,"Ρόδου, Kremasti, 85104, Greece",3.0,322.0,9.4,13 ,False,False,False,True,True,False,75.0,False,August,Rhodes
+Hotel Kalithea,"6 km Rhodes - Kallitheas, Kallithea Rhodes, 85100, Greece",3.0,500.69444444444446,8.2, 51 ,False,True,True,False,True,False,22.0,True,August,Rhodes
+Raffaello Beach,"Ermoi Φαληράκι, Faliraki, 85100, Greece",3.0,822.0,8.9,262 ,False,True,False,False,True,False,,False,August,Rhodes
+Haraki House,"Haraki, Haraki, 85102, Greece",3.0,602.3370941745337,8.9,8 ,True,False,False,False,True,False,32.0,False,August,Rhodes
+Greenview Maisonnette,"Eparchiaki Odos Apollona, Apóllona, 85106, Greece",3.0,570.1388888888889,10,3 ,False,False,False,False,True,False,65.0,False,August,Rhodes
+Depie Christo Apartments in Pastida Rhodes,"Επαρχιακή Οδός Παστίδας, Pastida, 85101, Greece",3.0,414.0,9.3,6 ,False,False,False,False,True,False,70.0,False,August,Rhodes
+Megiston House in Old Town Rhodes,"Αγίου Φανουρίου 92 Διώροφη μονοκατοικία, Rhodes Town, 85100, Greece",3.0,1058.0,8.1, 9 ,False,False,False,False,False,False,200.0,False,August,Rhodes
+Parko Studios,"12 Emmanouil Charalampous, Rhodes Town, 85100, Greece",,626.1682242990654,,,True,False,False,False,True,False,24.0,True,August,Rhodes
+Lotza Traditional House Salakos,"salakos, Sálakos, 85106, Greece",3.0,345.0,9.4,5 ,False,False,False,False,True,False,50.0,False,August,Rhodes
+Nikos Studios Meltemi,"Stegna Beach, Stegna Archangelos, Archangelos, 85102, Greece",3.0,402.3255813953488,9.8,15 ,True,False,False,True,True,True,27.0,True,August,Rhodes
+Kellas traditional house,"Archangelos, Archangelos, 85102, Greece",,375.7009345794392,8.7,9 ,False,False,False,False,True,False,73.0,True,August,Rhodes
+Annie's Apartment,"60 9ης Μαΐου 1, Ialysos, 85101, Greece",3.0,552.0,9.8,5 ,False,False,False,True,False,False,51.0,False,August,Rhodes
+Summer Memories Aparthotel,"Main Street, Pefki, 85109, Greece",,447.66355140186914,8.3, 31 ,False,False,True,True,True,False,30.0,False,August,Rhodes
+Hermes Studios,"Faliraki, Faliraki, 85105, Greece",3.0,301.16279069767444,8.9,24 ,False,False,True,True,True,False,28.0,False,August,Rhodes
+Yiannis Apartments,"Kerkyras 12, Rhodes Town, 85100, Greece",,320.5607476635514,7.6,34 ,False,False,False,True,True,False,39.0,False,August,Rhodes
+The White House of Rhodes,"Fidiou 17, Rhodes Town, 85100, Greece",,445.7943925233645,8.3, 3 ,True,False,False,True,False,False,30.0,False,August,Rhodes
+Kalithies apartment,"Kolokotroni 10, Kalithies, 85105, Greece",3.0,332.1428571428571,10,1 ,True,False,False,False,True,False,45.0,False,August,Rhodes
+Kitesurf Paradise Studios,"20th Klm Rhodes - Kamiros str, Theologos, 85106, Greece",,275.70093457943926,7.4,23 ,False,False,False,True,True,False,30.0,False,August,Rhodes
+Blue Eye Studios,"Lindos, Lindos, 85107, Greece",3.0,506.0,8.7,89 ,False,False,False,False,False,False,25.0,False,August,Rhodes
+S&A Amazing Sea View Apartment,"Moschas 6, Rhodes Town, 85100, Greece",,751.4018691588784,8.5, 26 ,False,False,False,True,True,False,90.0,False,August,Rhodes
+Aesthisis Sensational Accommodation,"Eucalyptus Street, Kolymbia, 85102, Greece",,692.5233644859812,9.8,19 ,False,False,False,True,True,False,44.0,False,August,Rhodes
+Golden Sand,"Αλεξανδρου Παπάγου 10 ιαλυσος, Ialysos, 85100, Greece",3.0,131003.738317757,9.8,10 ,False,False,False,True,True,False,60.0,False,August,Rhodes
+Faliraki Blue Villas,"Faliraki-Kallithea Avenue, Faliraki Area, Faliraki, 85100, Greece",3.0,1304.1353383458645,9.5,42 ,False,False,False,True,True,True,45.0,True,August,Rhodes
+Dimitris Apartment,"Ferenikis parodos ferenikis 1, Ialysos, 85101, Greece",3.0,588.8888888888889,9.7,3 ,False,False,False,True,True,False,49.0,False,August,Rhodes
+Great Living,"23 Κρήτης, Rhodes Town, 85100, Greece",3.0,632.5581395348837,,,False,False,False,True,False,False,73.0,False,August,Rhodes
+Yiotas House,"Πυλώνας, vlicha, 85109, Greece",,1128.03738317757,,,False,False,False,False,True,False,91.0,True,August,Rhodes
+Prasonisi Club,"Katavia, Kattavía, 85-109, Greece",,400.93457943925233,8.7,17 ,True,False,False,True,True,False,14.0,True,August,Rhodes
+Kampus living,"Λεωφόρος Ρόδου Λίνδου ΦΑΛΗΡΆΚΙ (δίπλα στο γυμναστήριοG.K.FITNESS) ΦΑΛΗΡΑΚΙ(Λεωφορος Ρόδου-Λινδου Κτίριο μαζί μεG.K.FITNESS ), Faliraki, 85105, Greece",3.0,459.5982142857142,9.1,27 ,False,False,False,True,True,False,30.0,True,August,Rhodes
+Green Garden Studios,"Digeni 12, Koskinou, 85100, Greece",,225.23364485981307,8.5, 41 ,False,False,False,False,False,False,22.0,False,August,Rhodes
+Antonis Barstreet Studio-Central,"45 Ορφανίδου, Rhodes Town, 85100, Greece",,428.9719626168224,,,False,False,False,False,False,False,30.0,False,August,Rhodes
+Stam's Studio Apartment with yard,"Lindos, Lindos, 85107, Greece",3.0,455.9488102379524,,,True,False,False,False,True,False,20.0,False,August,Rhodes
+Klm House,"72 Πέλλας, Rhodes Town, 85100, Greece",3.0,556.0509554140127,9.8,17 ,False,False,False,True,True,False,50.0,False,August,Rhodes
+Apartments in the center marasia,"8 Βασιλείου Βουλγαροκτόνου, Rhodes Town, 85100, Greece",,451.40186915887847,9.0,36 ,False,False,False,True,False,False,35.0,False,August,Rhodes
+Niki's Pension,"39, Sofokleous Str.  (Old Town), Rhodes Town, 85100, Greece",3.0,348.0,8.4, 34 ,False,False,False,False,False,False,,False,August,Rhodes
+Agathi Paradise Studios,"Eparchiaki Odos Malona, Haraki, 85102, Greece",3.0,285.0,8.8,35 ,False,False,False,False,True,False,20.0,False,August,Rhodes
+Olympia's Cozy Guesthouse,"Psinthos, Psinthos, 85100, Greece",3.0,349.0,,,False,False,False,True,True,False,80.0,False,August,Rhodes
+House of dreams,"77 Πυθαγόρα, Rhodes Town, 85100, Greece",,426.1682242990654,,,False,False,False,True,False,False,71.0,False,August,Rhodes
+comfy center rodos - green,"Λεωφόρος Καλλιθέας, Asgourou, 85100, Greece",3.0,436.4253393665158,9.0,16 ,False,False,False,False,False,False,41.0,False,August,Rhodes
+San Marco Guesthouse,"Ρόδος, Κατταβια, Kattavía, 85109, Greece",3.0,270.1388888888889,7.7,25 ,False,False,False,True,True,False,25.0,True,August,Rhodes
+Venus Island Studios,"Κράνα, Lindos, 85107, Greece",,609.3457943925233,9.9,27 ,False,False,False,False,False,False,24.0,False,August,Rhodes
+Cleomenes Old Town Studios,"22 Μενεκλεους, Rhodes Town, 85100, Greece",3.0,646.0,7.5,8 ,False,False,False,False,False,False,35.0,False,August,Rhodes
+comfy center rodos - green,"Λεωφόρος Καλλιθέας, Asgourou, 85100, Greece",,475.7009345794392,9.0,16 ,False,False,False,False,False,False,40.0,False,August,Rhodes
+San Marco Guesthouse,"Ρόδος, Κατταβια, Kattavía, 85109, Greece",3.0,269.6493212669683,7.7,25 ,False,False,False,True,True,False,25.0,True,August,Rhodes
+Venus Island Studios,"Κράνα, Lindos, 85107, Greece",3.0,559.0,9.9,27 ,False,False,False,False,False,False,25.0,False,August,Rhodes
+Cleomenes Old Town Studios,"22 Μενεκλεους, Rhodes Town, 85100, Greece",3.0,694.0092165898618,7.5,8 ,False,False,False,False,False,False,35.0,False,August,Rhodes
+Anastasia Studios Lindos,"Lindos, Lindos, 85107, Greece",,551.4018691588785,9.1,156 ,False,False,False,False,True,False,24.0,False,August,Rhodes
+Danae's House,"14 Αθανασίου Διάκου, Koskinou, 85100, Greece",3.0,592.0,,,False,False,False,True,True,False,63.0,False,August,Rhodes
+Paradise Studios,"Kathara Beach, Faliraki, 85105, Greece",3.0,396.0,8.6,62 ,False,False,True,True,True,True,32.0,True,August,Rhodes
+Barvas studios Lindos,"Lindos-Rhodes, Lindos, 85107, Greece",,311.21495327102804,6.8,16 ,False,False,False,False,True,False,35.0,False,August,Rhodes
+Villa Sakura,"ΛΙΝΔΟΣ   Αρ 363, Lindos, 85107, Greece",3.0,1335.4638009049772,8.6,7 ,False,False,False,False,False,False,74.0,True,August,Rhodes
+City Heart Luxury Studios,"31 Ethnarchou Makariou, Rhodes Town, 85100, Greece",3.0,673.2885906040268,9.5,20 ,True,False,False,True,True,False,45.0,False,August,Rhodes
+Mariette Rhodes Urban Suites,"30 Sofouli str., Rhodes Town, 85100, Greece",3.0,632.0,9.3,142 ,False,True,True,True,True,False,22.0,False,August,Rhodes
+Traditional Villa Sofia,"25IS MARTIOU 86, Koskinou, 85100, Greece",3.0,851.3888888888889,,,False,False,False,False,False,False,100.0,False,August,Rhodes
+ARIADNI APARTMENT 2,"8 Riga Fereou, Rhodes Town, 85100, Greece",3.0,1085.0,,,False,False,False,True,True,False,80.0,False,August,Rhodes
+Ellia Hotel,"Main Street, Pefki, 85107, Greece",3.0,611.6279069767442,7.0,1 ,False,False,True,True,True,True,35.0,False,August,Rhodes
+Rodos mini resort,"Γεωργίου Βιζυηνού 3, Asgourou, 85100, Greece",3.0,225.88072760764447,5.6,16 ,True,True,True,False,True,False,18.0,True,August,Rhodes
+Aetheria traditional house,"Καραϊσκάκη 20 Κοσκινού, Koskinou, 85100, Greece",3.0,1012.0,9.5,4 ,True,False,False,False,False,False,17.0,False,August,Rhodes
+Alion House,"46 Διαγοριδών, Rhodes Town, 85100, Greece",3.0,748.8102379524095,9.6,9 ,False,False,False,True,True,False,105.0,False,August,Rhodes
+Echo Traditional House - Ηχώ Παραδοσιακό Σπίτι,"Emponas, Émbonas, 85106, Greece",,417.75700934579436,8.8,26 ,False,False,False,True,True,True,79.0,True,August,Rhodes
+Mama'sEvdokia Apartment,"35 Φειδίου, Rhodes Town, 85100, Greece",3.0,922.9910714285713,9.3,18 ,True,False,False,True,False,False,70.0,False,August,Rhodes
+Nikos BnB,"Dimitras str., Faliraki, 85105, Greece",3.0,297.0,8.7,48 ,True,False,True,False,True,False,20.0,False,August,Rhodes
+Gre Apartments,"Ασκληπιειό, Ρόδος, Asklipiḯon, 85109, Greece",,563.5514018691589,9.0,3 ,False,False,False,True,True,False,69.0,True,August,Rhodes
+Esmeralda Hotel,"l.Elefterias 30, Kremasti, 85104, Greece",,182.24299065420558,7.9,46 ,False,True,True,True,True,True,35.0,False,August,Rhodes
+New Lindos Studio 45,"Λινδος Ροδος, Lindos, 85107, Greece",,1020.5607476635513,8.1, 16 ,True,False,False,True,False,False,40.0,False,August,Rhodes
+Rodia Apartments,"Ethniki Odos Rodou Lindou 181, Afantou, 85103, Greece",,375.7009345794392,9.2,5 ,False,False,False,True,True,False,24.0,False,August,Rhodes
+Luxury 1 bedroom apartment in Ialysos,"PARODOS FERENIKIS, Ialysos, 85101, Greece",3.0,536.4485981308411,9.0,1 ,False,False,False,True,True,False,49.0,False,August,Rhodes
+Serene Ocean Haraki,"haraki - rhodes, Haraki, 85102, Greece",3.0,349.2815327301756,8.0, 5 ,True,False,False,False,True,True,20.0,True,August,Rhodes
+Cozy House near the Old Town,"Kourvouazie 15, Rhodes Town, 85132, Greece",,496.2616822429906,,,False,False,False,True,False,False,79.0,False,August,Rhodes
+Salt n Mellow,"Timokreonta, Faliraki, 85100, Greece",,902.8037383177569,9.2,22 ,False,False,False,False,True,False,44.0,False,August,Rhodes
+My holiday home,"8 Μαραθώνος, Rhodes Town, 85100, Greece",3.0,638.0,,,False,False,False,True,True,False,60.0,True,August,Rhodes
+The old town Neighbourhood,"Fidiou 17, Rhodes Town, 85100, Greece",3.0,755.8139534883721,8.2, 251 ,True,False,False,True,False,False,44.0,False,August,Rhodes
+Toula's Grand Apartment with Sea View,"6 Παπαφλέσσα, Ialysos, 85101, Greece",,403.7383177570093,,,False,False,False,True,True,False,90.0,False,August,Rhodes
+House Marigo Suites,"Vasileos Pavlou 22, Koskinou, 85100, Greece",3.0,801.3888888888889,8.1, 11 ,True,False,False,True,True,False,40.0,False,August,Rhodes
+Armonia Apartments,"Archangelos, Archangelos, 85102, Greece",3.0,224.18136020151132,,,False,False,False,False,True,False,35.0,False,August,Rhodes
+Pantheon Deluxe Apartments,"Archangelos, Archangelos, 85102, Greece",,400.93457943925233,9.5,26 ,False,False,True,True,True,False,40.0,False,August,Rhodes
+Aesthisis Sensational Accommodation,"Eucalyptus Street, Kolymbia, 85102, Greece",,692.5233644859812,9.8,19 ,False,False,False,True,True,False,44.0,False,August,Rhodes
+Serenity Studio Beach Home,"Afandou Beach, Mesa Vastaos, Afantou, 85103, Greece",3.0,619.7445449707292,,,False,False,False,True,True,False,60.0,False,August,Rhodes
+Holiday Nest & parking,"2 Kallipatiras 1st floor, Ialysos, 85101, Greece",3.0,500.0,9.5,8 ,True,False,False,False,True,False,60.0,True,August,Rhodes
+Basiliki's Apartments,"Perikleous, Archangelos, 85102, Greece",3.0,441.17647058823525,,,False,False,False,True,True,False,70.0,False,August,Rhodes
+Old Town Roloi House,"Emanouil Koti 8, Rhodes Town, 85100, Greece",,1042.056074766355,8.2, 34 ,True,False,False,False,False,False,69.0,False,August,Rhodes
+Marenia's sea echo downtown apt,"Ανθούλα Ζερβού 6, Rhodes Town, 85131, Greece",3.0,918.0947312400214,,,False,False,False,False,True,False,125.0,True,August,Rhodes
+Charaki Villa Sea View,"Charaki, Haraki,, Haraki, 85102, Greece",,579.4392523364486,8.9,12 ,False,False,False,True,True,False,79.0,False,August,Rhodes
+Olympos Pension,"56, Fanouriou Str., Rhodes Town, 85100, Greece",3.0,375.69444444444446,8.0, 84 ,False,False,True,True,True,False,15.0,True,August,Rhodes
+Haraki Elegant View,"Haraki-Rhodes, Haraki, 85102, Greece",3.0,600.0,9.5,2 ,True,False,False,False,True,True,35.0,False,August,Rhodes
+Nefelis Home,"52 Διγενή, Koskinou, 85100, Greece",3.0,411.80555555555554,9.4,14 ,False,False,False,False,True,False,45.0,True,August,Rhodes
+Rodini Sun Apartment,"SMYRNIS 60 Β1, Rhodes Town, 85100, Greece",3.0,883.0,9.7,16 ,False,False,False,True,True,False,90.0,False,August,Rhodes
+On Top Village,"Kalithies, Kalithies, 85105, Greece",3.0,460.0,9.5,6 ,False,False,False,True,True,False,25.0,False,August,Rhodes
+Arionos Rooms,"28 Menekleous, Rhodes Town, 85100, Greece",,432.7102803738318,8.1, 64 ,False,False,False,False,False,False,14.0,False,August,Rhodes
+Oasis Luxury House,"13 Parodos Dorieos, Rhodes Town, 85100, Greece",,1202.803738317757,,,False,False,False,False,False,False,79.0,True,August,Rhodes
+New Luxurious apartment - 1 minute from Elli Beach,"15 Georgiou Papanikolaou 3, Rhodes Town, 85100, Greece",3.0,1838.3720930232557,8.9,7 ,False,False,False,False,False,False,98.0,False,August,Rhodes
+Charming cottage on the sea turtle beach,"https://maps.app.goo.gl/Tn9P6qmJ7stcFoCH7, Apolakkiá, Greece",3.0,852.5773195876288,10,5 ,False,False,False,True,True,False,55.0,True,August,Rhodes
+Large comfortable house near old town-free bikes,"104 Themistocleous Sofoulis, Rhodes Town, 85100, Greece",3.0,753.0746967578291,8.6,8 ,False,False,False,False,True,False,137.0,True,August,Rhodes
+Elladas Villas with Pool at Kolympia!,"Παρισίων, Kolymbia, 85102, Greece",3.0,1221.5277777777778,,,True,True,False,True,True,False,100.0,False,August,Rhodes
+Alexandra Homestay,"Epano Dromos, Kalavárda, 85106, Greece",3.0,476.55860349127187,9.4,17 ,True,True,False,True,True,False,65.0,True,August,Rhodes
+Villa Sofia,"Akropoleos str., Ialysos, 85101, Greece",3.0,350.69444444444446,7.9,48 ,False,True,True,True,True,True,35.0,False,August,Rhodes
+Christos studios and family apartments,"Stegna Archagelos Κτήριο 2οροφο, Rhodes Town, 85102, Greece",,335.5140186915888,8.8,46 ,False,False,False,True,True,False,24.0,False,August,Rhodes
+Dimitra Faliraki Center Apartments,"Next to Iras Street Faliraki, Faliraki, 85100, Greece",,574.7663551401869,9.4,32 ,True,False,False,True,True,False,20.0,False,August,Rhodes
+Muses Hotel,"Faliraki, Faliraki, 85100, Greece",3.0,532.0,7.8,6 ,False,True,True,False,False,True,22.0,False,August,Rhodes
+Reginas Apartments,"91 Σωτήρος, Ixia, 85101, Greece",3.0,495.83333333333337,9.2,30 ,False,False,False,True,True,False,35.0,False,August,Rhodes
+Sunset Apartments,"ΑΡΧΑΓΓΕΛΟΣ ΡΟΔΟΥ Αρχαγγελος, Archangelos, 85102, Greece",,440.18691588785043,9.4,125 ,False,False,False,True,True,False,44.0,False,August,Rhodes
+Anemos Traditional Villa,"Central Street, Archangelos, 85102, Greece",,350.46728971962614,9.5,15 ,False,False,False,True,True,True,71.0,False,August,Rhodes
+RHODIAN TREASJURE Spiridione Studios,"Φαληράκι (οπισθεν εκκλησίας Αγίου Νεκταρίου ) Ρόδου - Λίνδου επαρχιακή οδός, Faliraki, 85100, Greece",3.0,750.6944444444445,8.8,15 ,False,False,False,True,True,False,30.0,True,August,Rhodes
+Apollon Apartments H-3 H-4,"Diagoridon 28, Rhodes Town, 85100, Greece",3.0,440.27777777777777,8.6,18 ,True,False,False,True,True,False,60.0,False,August,Rhodes
+Vicinia guest house,"6 Ευαγόρα Παληκαρίδη, Rhodes Town, 85100, Greece",3.0,1129.3806124798527,8.7,3 ,True,False,False,True,True,False,70.0,False,August,Rhodes
+Casa D' Irene Rhodes,"Lachania, Lachania, 85109, Greece",,1222.429906542056,,,False,False,False,False,True,False,99.0,False,August,Rhodes
+Bliss Luxury Suites,"Bliss Luxury Residences, Λίνδος 851 07, Lindos, 85107, Greece",,857.0093457943925,7.7,13 ,True,False,False,False,False,False,35.0,False,August,Rhodes
+Summer Dream,"Main Street, Theologos, 85106, Greece",,791.588785046729,7.3,67 ,False,True,True,True,True,True,15.0,False,August,Rhodes
+AB City Centre Stylish Studios,"86 Αλεξάνδρου Διάκου, Rhodes Town, 85100, Greece",3.0,744.1860465116279,8.3, 3 ,False,False,False,False,False,False,40.0,False,August,Rhodes
+Limanaki Apartments,"Kathara Bay, Faliraki, 85105, Greece",3.0,808.0,9.1,15 ,True,False,False,True,True,False,50.0,False,August,Rhodes
+Rhodes Archaggelos Retreat-Nest Among Garden,"Unnamed Road, Archangelos, 851 02, Greece",3.0,357.6388888888889,8.3, 3 ,False,False,False,False,True,False,35.0,False,August,Rhodes
+Vintage Style House and Garden,"5 Κώ, Rhodes Town, 85100, Greece",3.0,563.1944444444445,7.0,4 ,False,False,False,False,False,False,60.0,False,August,Rhodes
+Fina's traditional house,"Archangelos, Archangelos, 85102, Greece",3.0,551.2782805429864,,,False,False,False,False,True,False,195.0,False,August,Rhodes
+Venthos Apartments,"Athinon Street, Kolymbia, 85102, Greece",3.0,717.0918367346939,,,False,False,False,True,True,False,33.0,False,August,Rhodes
+Lemon tree house,"Eparchiaki Odos Malona 6, Malona Village, 85102, Greece",3.0,506.0,,,False,False,False,True,True,False,75.0,False,August,Rhodes
+"Mountain view Holiday in Salakos, Rhodes","Salakos, Sálakos, 85106, Greece",3.0,583.9285714285713,8.0, 2 ,False,False,False,False,True,False,100.0,True,August,Rhodes
+Rhodes Heart Apartments close to the old town,"23 Stefanou Kazouli, Rhodes Town, 85100, Greece",3.0,460.0,8.1, 11 ,True,False,False,False,True,False,21.0,False,August,Rhodes
+Lyristis Apartments Plus,"Faliraki, Kallithea Rhodes, 85100, Greece",3.0,486.8055555555556,,,False,True,False,True,False,False,22.0,False,August,Rhodes
+Palm Square Appart,"Makri, Ialysos, 85101, Greece",,400.93457943925233,,,False,False,False,False,True,False,41.0,False,August,Rhodes
+Atheneon Rhodes,"Eparchiaki Odos Ialisou - Katavias, Theologos, 85100, Greece",,275.70093457943926,8.7,25 ,False,False,False,False,True,False,30.0,True,August,Rhodes
+Sunwaves Beach studio II,"8 Πρωτογενή, Ialysos, 85101, Greece",3.0,544.5488721804511,,,False,False,False,False,True,False,22.0,False,August,Rhodes
+Anna's Traditional House,"Επαρχιακή Οδός Μασάρων, Haraki, 85102, Greece",,345.7943925233645,8.6,5 ,False,False,False,False,True,False,49.0,True,August,Rhodes
+Haraki Endless Blue Luxury Apartments,"Haraki, Haraki, 85102, Greece",,576.6355140186915,9.4,16 ,True,False,False,True,True,False,44.0,False,August,Rhodes
+Nitsas studio's,"KREMASTI 25ης Μαρτίου, Rhodes Town, 85104, Greece",3.0,207.0,9.1,56 ,False,False,False,True,True,False,23.0,False,August,Rhodes
+Xenia's Independent Studio Near OLD TOWN of Rodos.,"23 Πίνδου, Rhodes Town, 85100, Greece",3.0,497.0,8.3, 3 ,False,False,False,False,True,False,18.0,False,August,Rhodes
+Moscha Hotel,"Apollonos street, Faliraki, 85100, Greece",,473.83177570093454,8.9,360 ,False,True,False,True,True,False,22.0,False,August,Rhodes
+Seascape Suite TwoBedroom,"Αθανασίου Διάκου 25, Kremasti, 85104, Greece",3.0,666.131221719457,,,False,False,False,True,True,False,62.0,False,August,Rhodes
+Lungo Mare,"205 Eparchiaki Odos Pilonas-Katavias, Gennadi, 85109, Greece",,498.1308411214953,9.3,14 ,True,False,False,True,True,False,34.0,False,August,Rhodes
+Mayas House Greece Rhodes Kremasti,"Rhodes Kremasti, Kremasti, 85104, Greece",,432.7102803738318,,,False,False,False,True,True,False,82.0,True,August,Rhodes
+Kima Stegna,"Παραλία Στεγνά, Archangelos, 85102, Greece",3.0,597.6744186046511,9.6,28 ,False,False,False,False,True,False,49.0,False,August,Rhodes
+OLD TOWN TALES apartments,"14 Ταυρίσκου, Rhodes Town, 85100, Greece",,451.40186915887847,8.3, 39 ,True,False,False,False,False,False,30.0,False,August,Rhodes
+F.D.STUDIOS,"Λάρδος, Lartos, 85109, Greece",3.0,311.0,7.4,5 ,False,False,False,False,True,False,23.0,False,August,Rhodes
+Yianna Apartments,"Ηρας, Faliraki, 85100, Greece",3.0,376.70964770895694,,,False,False,False,False,True,False,25.0,False,August,Rhodes
+Katakos Zeus Deluxe Grey Apartment with Spectacular Sea & Mountain View,"Επαρχιακή Οδός Κοσκινού 1ος οροφος, Koskinou, 85100, Greece",3.0,543.9906226632445,9.0,1 ,False,False,False,True,True,False,52.0,False,August,Rhodes
+ORFANOS STUDIOS,"FALIRAKI RODOS, Faliraki, 85100, Greece",,400.93457943925233,8.5, 4 ,False,False,False,True,True,False,49.0,False,August,Rhodes
+G.S Ialysos Holiday Apartment,"Οικονομίδη, Ialysos, 85101, Greece",3.0,486.8055555555556,,,False,False,False,False,False,False,72.0,False,August,Rhodes
+iriada house,"56 Ξενοφωντοσ, Rhodes Town, 85100, Greece",,1128.03738317757,,,True,False,False,True,False,False,95.0,False,August,Rhodes
+Treditto House - 1st Floor residence,"Περιοχή Τσαϊρι - Ρόδος, Τ.Θ. 608, Αγία Βαρβάρα, Koskinou, 85100, Greece",3.0,534.0,10,4 ,False,False,False,True,True,False,92.0,False,August,Rhodes
+Sable Blanc Apartments,"Απολλώνιων 30, Ixia, 85100, Greece",3.0,347.0,9.3,9 ,False,False,False,False,True,False,35.0,True,August,Rhodes
+Manos House,"Monolithos Rodos, Monólithos, 85108, Greece",3.0,339.0,10,1 ,False,False,False,True,True,True,75.0,True,August,Rhodes
+Sapphire home,"Λεωφόρος Ηρακλειδών, Ixia, 85101, Greece",,657.0093457943925,,,True,False,False,False,True,False,44.0,False,August,Rhodes
+Emerald Hotel,"Kerkyras 10, Kremasti, 85104, Greece",3.0,649.1515837104072,7.0,72 ,False,False,True,True,True,True,25.0,False,August,Rhodes
+Hotel Ziakis,"Main Street, Pefki, 85107, Greece",,298.13084112149534,8.1, 23 ,False,True,False,True,True,False,23.0,False,August,Rhodes
+Dora's House,"Ίστριος Μπαλασκάς Μιχάλης, Ístrios, 85109, Greece",3.0,367.5226244343891,9.7,12 ,False,False,False,True,True,False,55.0,False,August,Rhodes
+Nautilus City Studios,"72 Apostolou Papaioannou, Rhodes Town, 85100, Greece",3.0,293.64494588993784,9.5,52 ,False,False,False,False,False,False,21.0,False,August,Rhodes
+Amaradios,"43 Amarantou, Rhodes Town, 85100, Greece",3.0,368.75,9.0,20 ,False,False,False,False,False,False,40.0,False,August,Rhodes
+Omorfo House,"Ασκληπειό 85109, Asklipiḯon, 85109, Greece",3.0,386.0,10,2 ,False,False,False,False,False,False,65.0,False,August,Rhodes
+Kipos Suites & Apartments,"Eparchiaki Odos Genadiou, Gennadi, 85109, Greece",3.0,698.8935546224088,8.5, 14 ,True,True,False,False,True,False,33.0,True,August,Rhodes
+Arch Villa,"Fanes, Fánai, 85106, Greece",,1002.8037383177569,9.4,5 ,False,False,False,True,True,False,74.0,False,August,Rhodes
+Villa Kleovoulini in Lindos,"Lindos, Rhodes, Greece, Lindos, 85107, Greece",,1754.2056074766354,,,False,False,False,True,True,False,103.0,False,August,Rhodes
+Johnhara Studios & Apartments,"Ferenikis, Ialyssos, Ialysos, 85101, Greece",3.0,367.4418604651163,9.3,141 ,False,False,False,True,True,False,26.0,False,August,Rhodes
+Philoxenia traditional house,"Maritsa, Pastida, 85106, Greece",3.0,876.3888888888889,9.9,17 ,False,False,False,False,False,False,70.0,False,August,Rhodes
+Casa di Vati,"Βατί, 851 09, Vátion, 85109, Greece",3.0,626.0,10,3 ,True,False,False,False,True,False,83.0,False,August,Rhodes
+Casa Sym Faliraki,"Ποσειδώνος, Faliraki, 85105, Greece",3.0,154872.89719626168,10,2 ,False,False,False,False,True,False,32.0,False,August,Rhodes
+Papenas Cozy Home,"Unnamed Road Φαληρακι, Faliraki, 85100, Greece",3.0,650.6944444444445,7.8,13 ,True,False,False,True,True,False,80.0,False,August,Rhodes
+Filia Bungalow,"Αρχάγγελος Παραλία Στεγνά, Archangelos, 85102, Greece",3.0,730.0,9.4,8 ,False,True,True,False,True,False,32.0,False,August,Rhodes
+The three story old town house,"ΑΛΕΞΑΝΔΡΙΔΟΥ 1Α, Rhodes Town, 85131, Greece",3.0,662.0,,,False,False,False,True,False,False,91.0,False,August,Rhodes
+Elli Down Town Studios,"10 Georgiou Papanikolaou, Rhodes Town, 85100, Greece",3.0,1035.0,,,True,False,False,False,True,False,30.0,False,August,Rhodes
+gym apartments,"Θεμιστοκλή Σοφούλη, Afantou, 85103, Greece",,295.3271028037383,7.0,4 ,False,False,False,False,False,False,30.0,False,August,Rhodes
+Orfanos Apartments,"Ποσειδώνος, Faliraki, 85105, Greece",3.0,400.69444444444446,8.4, 5 ,False,False,False,True,True,False,50.0,False,August,Rhodes
+Poseidon Apartment,"Stegna Archangelos Poseidon Apartment, Archangelos, 85102, Greece",3.0,302.0,8.0, 25 ,True,False,False,True,True,False,35.0,True,August,Rhodes
+Ioanna Studio Διαμέρισμα κοντά στη θάλασσα.,"Αθηνών-Κολύμπια, Kolymbia, 85103, Greece",,676.6355140186915,9.6,5 ,True,False,False,False,True,True,35.0,False,August,Rhodes
+M&M STONE-Village House-Family-Vintage,"ΜΑΣΑΡΙ, Lindos, 85102, Greece",,496.2616822429906,8.7,3 ,False,False,False,True,True,False,90.0,True,August,Rhodes
+Anastasia's Home,"Émbonas Village, Émbonas, 85108, Greece",3.0,689.5833333333334,10,3 ,False,False,False,True,True,False,70.0,False,August,Rhodes
+Pyrgos Apartments,"Βενιζέλου, Kremasti, 85104, Greece",3.0,438.19444444444446,6.7,3 ,False,False,False,False,False,False,50.0,False,August,Rhodes
+Rhodes Archangelos Traditional village house in with private yard,"Rhodes Archangelos, Archangelos, 85102, Greece",,372.8971962616822,9.7,6 ,False,False,False,True,True,False,64.0,False,August,Rhodes
+el greco apartment,"36 Θεοτοκόπουλου, Rhodes Town, 85100, Greece",,496.2616822429906,,,False,False,False,False,False,False,64.0,False,August,Rhodes
+Aialion studios & apartments - Steve Apartments,"6, Ionos Dragoumi str., Rhodes Town, 85100, Greece",3.0,478.0,9.7,30 ,False,False,False,True,True,False,40.0,False,August,Rhodes
+Asterias Bay-Theologos,"Theologos, Theologos, 85106, Greece",,466.35514018691583,6.5,11 ,True,True,True,True,True,True,19.0,False,August,Rhodes
+Nautilus City Studios,"72 Apostolou Papaioannou, Rhodes Town, 85100, Greece",,293.4579439252336,9.5,52 ,False,False,False,False,False,False,20.0,False,August,Rhodes
+Seascape Village,"40 28is Oktovriou, Kalithies, 85105, Greece",3.0,921.4953271028037,10,11 ,False,False,False,True,True,False,130.0,True,August,Rhodes
+Kolymbia Cottage,"Efkalipton, Kolymbia, 85103, Greece",3.0,248.46880036840895,,,False,False,False,False,True,False,50.0,False,August,Rhodes
+Tivoli Hotel,"12th klm Rhodes - Lindos Ave, Faliraki, 85105, Greece",3.0,493.45088161209065,7.6,42 ,False,True,True,True,True,True,18.0,False,August,Rhodes
+Greek House,"Monolithos Village, Monólithos, 85108, Greece",,585.981308411215,8.8,4 ,True,False,False,True,True,True,78.0,True,August,Rhodes
+Areti's Traditional house,"Apollona, Apóllona, 85106, Greece",,491.58878504672896,9.0,7 ,False,False,False,False,True,False,60.0,False,August,Rhodes
+Johnhara Studios & Apartments,"Ferenikis, Ialyssos, Ialysos, 85101, Greece",,432.7102803738318,9.3,141 ,False,False,False,True,True,False,26.0,False,August,Rhodes
+Kiparissia villa rhodes,"Φάνες, Fánai, 85106, Greece",3.0,684.7222222222223,10,4 ,False,False,False,True,True,False,80.0,True,August,Rhodes
+''Hier is HET'' Apartment,"Andrea Karkavitsa, Rhodes Town, 85100, Greece",,428.9719626168224,10,2 ,False,False,False,True,True,False,19.0,False,August,Rhodes
+Aggeli Village House in Asklipio,"Asklipiḯon, Asklipiḯon, 85109, Greece",,0.0,10,1 ,False,False,False,True,True,False,,True,August,Rhodes
+Casa Charma,"Έμπωνας, Ρόδος, Émbonas, 85108, Greece",3.0,675.6944444444445,10,2 ,False,False,False,True,True,False,42.0,False,August,Rhodes
+"Cozy Violetas apartment,ideally located.","Kallipatiras, Ialysos, 85101, Greece",3.0,736.0,9.7,7 ,False,False,False,True,True,False,85.0,False,August,Rhodes
+Epic View Haraki,"haraki - rhodes, Haraki, 85102, Greece",,601.8691588785047,8.7,3 ,True,False,False,False,True,True,27.0,False,August,Rhodes
+Amvonas traditional house.,"ΕΜΠΩΝΑΣ, Émbonas, 85108, Greece",3.0,711.371059121509,9.5,2 ,True,False,False,False,True,False,40.0,False,August,Rhodes
+Dolphin Apartments,"Main Street , Faliraki, 85105, Greece",,326.1682242990654,7.8,107 ,False,True,False,False,True,True,27.0,False,August,Rhodes
+Sunflower house,"Φάνες Ρόδος, Fánai, 85100, Greece",3.0,482.5581395348837,,,False,False,False,True,True,False,99.0,True,August,Rhodes
+A fully equipped house nearby the beach,"pilonas-rodos, vlicha, 85109, Greece",3.0,600.0,6.0,1 ,False,False,False,False,True,False,95.0,True,August,Rhodes
+Rodos DownTown Luxury,"67 Χειμάρρας, Rhodes Town, 85100, Greece",,601.8691588785047,,,False,False,False,False,True,False,61.0,False,August,Rhodes
+Cigi Apartment,"58 Kapodistriou, Afantou, 85103, Greece",3.0,408.6748270356573,9.5,4 ,False,False,False,False,True,False,29.0,False,August,Rhodes
+Herb & Flower homes in Eco village of Laerma,"Eparchiaki Odos Alaerma, Láerma, 85109, Greece",3.0,436.08302288451307,9.2,5 ,False,False,False,True,True,False,90.0,False,August,Rhodes
+RHODES ART HOUSE,"Πάτμου, Afantou, 85103, Greece",3.0,647.5603621730382,9.6,9 ,False,False,False,True,False,False,123.0,False,August,Rhodes
+"Asteri Suite near Old Town: Top Views, 2 balconies","17 Lefkosias, Rhodes Town, 85100, Greece",3.0,1091.860465116279,,,True,False,False,True,False,False,57.0,False,August,Rhodes
+Deluca Kiotari Studios,"Asklipio 0, Gennadi, 85109, Greece",,475.7009345794392,8.3, 6 ,False,False,False,False,True,False,35.0,True,August,Rhodes
+Taxiarchis House,"Εθνική Οδός Ρόδου Λίνδου, Archangelos, 85102, Greece",3.0,353.47222222222223,9.0,2 ,True,False,False,False,True,False,40.0,False,August,Rhodes
+Kalathos Sea View House,"Kalathos, Kalathos, 85102, Greece",3.0,990.0,9.8,12 ,False,False,False,True,True,False,102.0,False,August,Rhodes
+Matina Pefkos Aparthotel,"Main Street, Pefki, 85107, Greece",3.0,458.0,8.3, 120 ,True,False,False,True,True,True,30.0,False,August,Rhodes
+Peanut's House,"Ρόδος, Kremasti, 85104, Greece",,0.0,,,False,False,False,True,True,False,,True,August,Rhodes
+Haraki View,"Haraki, Haraki, 85102, Greece",3.0,394.0,8.7,30 ,True,False,False,True,True,False,30.0,False,August,Rhodes
+Yiannis Village house,"Επαρχιακή Οδός Ασκληπείου, Asklipiḯon, 85109, Greece",,452.3364485981308,9.7,3 ,False,False,False,True,True,False,99.0,False,August,Rhodes
+Casa Faros,"Palma Magiorka, Rhodes Town, 85100, Greece",,526.1682242990654,10,3 ,False,False,False,False,True,False,49.0,False,August,Rhodes
+30 Senses Luxury Apartment Insight,"Γεωργίου Παπανδρέου, Ialysos, 85101, Greece",3.0,1350.0,10,3 ,True,False,False,True,True,False,65.0,False,August,Rhodes
+Callas Residence,"76 Side road Sotiros, Ialysos, 85101, Greece",3.0,360.4166666666667,9.8,20 ,False,False,False,False,True,False,24.0,False,August,Rhodes
+Maria Christina 16,"Faliraki Mesonos 214, Faliraki, 85100, Greece",3.0,568.0555555555555,,,False,False,False,False,True,False,18.0,False,August,Rhodes
+Seascape Apartment,"Ethniki Odos Rodou Lindou 311, Faliraki, 85100, Greece",3.0,406.91964285714283,9.2,28 ,False,False,False,False,True,False,60.0,True,August,Rhodes
+Anixis Hotel,"34 Iraklidon Street, Ialysos, 85101, Greece",3.0,621.5277777777778,8.6,24 ,False,True,True,True,True,False,24.0,True,August,Rhodes
+F.D. Apartment,"ΕΠΙ ΑΓΠΟΤΕΜΑΧΙΟΥ ΛΟΘΙΑΡΙΚΑ 0, Lartos, 85109, Greece",3.0,406.0,,,False,False,False,True,True,False,60.0,False,August,Rhodes
+Salakos Elysium,"Salakos, Sálakos, 85106, Greece",3.0,256.9767441860465,,,False,False,False,True,True,False,54.0,False,August,Rhodes
+Light Blue Haraki,"Haraki, Haraki, Greece",3.0,350.69444444444446,,,True,False,False,False,True,True,20.0,True,August,Rhodes
+George's & Amalia's appartments 2,"K.PALAIOLOGOU AFANDOU, 21B, Afantou, 85103, Greece",,0.0,9.8,9 ,False,False,False,True,False,False,,False,August,Rhodes
+Anna's House Theologos,"Θεολόγος Ροδος, Theologos, 85106, Greece",,724.2990654205607,9.9,7 ,False,False,False,False,False,False,74.0,False,August,Rhodes
+Villa Kavalino,"Epar.Od.Kolymbion - Archipolis, Kolymbia, 85102, Greece",,348.5981308411215,,,True,False,False,False,True,False,44.0,True,August,Rhodes
+Villa Pavlina,"Ηλιάδων, Ixia, 85101, Greece",3.0,919.0526875997872,9.4,12 ,True,False,False,True,False,False,60.0,False,August,Rhodes
+A fully equipped house nearby the beach !!!,"Pilonas 851 09, Greece, vlicha, 85109, Greece",3.0,936.0,9.0,1 ,False,False,False,False,True,False,75.0,True,August,Rhodes
+Marianthi Studios & Apartments,"Pefkos Village, Rhodes, Pefki, 85109, Greece",3.0,428.0,7.0,11 ,False,False,False,True,True,True,30.0,False,August,Rhodes
+Seascape Suite OneBedroom,"Athanasiou Diakou 25, Kremasti, 85104, Greece",3.0,600.6944444444445,,,False,False,False,True,True,False,49.0,False,August,Rhodes
+Sunny mountain view apartment with free parking,"32 Απολλωνίου Ροδίου, Rhodes Town, 85101, Greece",3.0,267.0,9.0,1 ,False,False,False,False,True,False,40.0,True,August,Rhodes
+Greek memories boutique studio,"Οδος Αγιου Νεκταριου, Faliraki, 85100, Greece",3.0,371.0,10,1 ,True,False,False,False,True,False,35.0,False,August,Rhodes
+Garden Studios,"Archaggelos, Archangelos, 85102, Greece",3.0,267.0,,,False,False,False,True,True,False,20.0,False,August,Rhodes
+Rafaela's House,"Eparxiaki Rodou-Koskinou, Koskinou, 85100, Greece",3.0,714.5833333333334,,,False,True,False,False,True,False,45.0,True,August,Rhodes
+Artemis Studios,"13th km of Rhodes - Lindos road, Faliraki, 85100, Greece",3.0,244.44444444444446,8.7,114 ,False,True,True,True,True,False,20.0,False,August,Rhodes
+Old Town Luxury Velvet Apartment,"60 Agiou Fanouriou, Rhodes Town, 85100, Greece",3.0,780.0,,,False,False,False,True,False,False,60.0,False,August,Rhodes
+John's and Joanna's House,"Θεόδωρου Κολοκοτρώνη, Kalithies, 85105, Greece",3.0,475.5813953488372,,,True,False,False,True,True,False,52.0,False,August,Rhodes
+Ikaros Luxury Apartment,"Eparchiaki Odos Koskinou, Koskinou, 85100, Greece",3.0,1066.979865771812,,,False,False,False,False,True,False,59.0,False,August,Rhodes
+MC Apartments,"90 Δημοκρατίας 1ος όροφος, Ialysos, 85101, Greece",3.0,448.1703659268146,10,2 ,False,False,False,True,True,False,34.0,False,August,Rhodes
+Nefeli's House in Paradisi,"Ευριπίδου, Paradisi, 85106, Greece",,489.7196261682243,8.4, 5 ,False,False,False,False,True,False,99.0,False,August,Rhodes
+Matina Pefkos Aparthotel,"Main Street, Pefki, 85107, Greece",3.0,458.13953488372096,8.3, 120 ,True,False,False,True,True,True,30.0,False,August,Rhodes
+Naelia,"Επαρχιακή Οδός Παστίδας, Pastida, 85106, Greece",3.0,753.6523929471032,10,1 ,False,False,False,False,True,False,120.0,False,August,Rhodes
+Leventis Studios 2,"FALIRAKI RHODES, Faliraki, 85100, Greece",,300.93457943925233,,,False,False,False,False,True,False,35.0,False,August,Rhodes
+Kalithies Studios CDK in Rhodes,"Ermou, Kalithies, 85105, Greece",3.0,237.0,8.4, 8 ,False,False,False,False,False,False,25.0,False,August,Rhodes
+margarita village luxury apartement,"5 Aristotelous 1 st  floor, Kalithies, 85105, Greece",3.0,497.0,,,False,False,False,True,False,False,85.0,False,August,Rhodes
+Grey Pearl,"18 Δωριέα, Ialysos, 85101, Greece",,1253.271028037383,,,True,False,False,False,True,False,49.0,False,August,Rhodes
+Sotirakis standard room 12,"EO Rodou Lindou 12, Faliraki, 85105, Greece",3.0,456.0,,,False,True,False,False,True,False,25.0,False,August,Rhodes
+Sotirakis standard room 13,"EO Rodou Lindou 12, Faliraki, 85105, Greece",3.0,454.1666666666667,,,False,True,False,False,True,False,25.0,False,August,Rhodes
+Sotirakis standard room 10,"EO Rodou Lindou 12, Faliraki, 85105, Greece",3.0,455.8139534883721,,,False,True,False,False,True,False,24.0,False,August,Rhodes
+Sotirakis standard room 11,"EO Rodou Lindou 12, Faliraki, 85105, Greece",3.0,454.1666666666667,,,False,True,False,False,True,False,25.0,False,August,Rhodes
+Sotirakis standard room 9,"EO Rodou Lindou 12, Faliraki, 85105, Greece",,455.1401869158878,,,False,True,False,False,True,False,24.0,False,August,Rhodes
+Sotirakis standard room 1,"EO Rodou Lindou 12, Faliraki, 85105, Greece",3.0,455.8139534883721,,,False,True,False,False,True,False,24.0,False,August,Rhodes
+Sotirakis standard room 2,"EO Rodou Lindou 12, Faliraki, 85105, Greece",3.0,453.7471600872177,,,False,True,False,False,True,False,25.0,False,August,Rhodes
+Sotirakis standard room 3,"EO Rodou Lindou 12, Faliraki, 85105, Greece",3.0,465.3061224489796,,,False,True,False,False,True,False,25.0,False,August,Rhodes
+Sotirakis standard room 4,"EO Rodou Lindou 12, Faliraki, 85105, Greece",3.0,455.1122194513716,,,False,True,False,False,True,False,25.0,False,August,Rhodes
+Sotirakis standard room 8,"EO Rodou Lindou 12, Faliraki, 85105, Greece",3.0,453.5641547861507,,,False,True,False,False,True,False,25.0,False,August,Rhodes
+Sotirakis triple room,"EO Rodou Lindou 12, Faliraki, 85105, Greece",,694.3925233644859,,,False,True,False,False,True,False,30.0,False,August,Rhodes
+Acapulco 6,"Afantou, Afantou, 85103, Greece",3.0,587.422155019161,,,False,False,False,False,True,False,30.0,False,August,Rhodes
+Acapulco 8,"Afantou, Afantou, 85103, Greece",,568.2242990654205,,,False,False,False,False,True,False,30.0,False,August,Rhodes
+Tinas Plus Hotel,"Faliraki, Faliraki, 85105, Greece",3.0,591.0,8.7,261 ,True,True,True,True,True,False,20.0,True,August,Rhodes
+Acapulco 7,"Afantou, Afantou, 85103, Greece",3.0,566.3348416289592,,,False,False,False,False,True,False,30.0,False,August,Rhodes
+30 Senses apartments,"18 Γεωργίου Παπανδρέου, Ialysos, 85101, Greece",3.0,787.0,10,2 ,True,False,False,False,True,False,25.0,False,August,Rhodes
+GianAngelo deluxe Villa,"Λ.Ελευθεριας 15Α, Kremasti, 85104, Greece",3.0,2209.0720699976973,,,False,False,False,True,True,False,270.0,False,August,Rhodes
+"Greek Style Up Floor Apart,BBq, Garden & Parking","Eparchiaki Odos Pastidas-Mesanagrou, Ialysos, 85101, Greece",3.0,476.0,,,True,False,False,False,True,False,95.0,False,August,Rhodes
+Old Windmill Studios,"15th km Rodos Lindos Ave, Faliraki, 85105, Greece",3.0,262.0,5.9,27 ,False,False,False,False,True,True,20.0,False,August,Rhodes
+M&E APARTMENTS,"Επαρχιακή Οδός Μασάρων, Haraki, 85102, Greece",3.0,300.0,10,2 ,False,False,False,True,True,False,25.0,False,August,Rhodes
+Helios Rhodos Apartments,"Leoforos Kallitheas, Koskinou, 85100, Greece",3.0,269.0,9.5,2 ,False,False,False,False,True,False,34.0,True,August,Rhodes
+Cozy Rhodes Central,"5 Λέοντος, Rhodes Town, 85100, Greece",,360.74766355140184,8.5, 2 ,False,False,False,False,False,False,30.0,False,August,Rhodes
+"Beautiful studio for 2 #3 - Archaggelos, Rhodes","Ακροπόλεως, Archangelos, 85102, Greece",3.0,341.29856306546037,,,False,False,False,False,True,False,30.0,False,August,Rhodes
+"Beautiful studio for 2 #1 - Archaggelos, Rhodes","Ακροπόλεως, Archangelos, 85102, Greece",,342.9906542056075,,,False,False,False,False,True,False,30.0,False,August,Rhodes
+Elektra Apartment-Kallithea,"Ethniki Odos Rodou Lindou, Kallithea Rhodes, 85100, Greece",,801.8691588785047,,,False,False,False,False,True,False,125.0,False,August,Rhodes
+Villa Bella Montagna,"Καπί, 851 06, Kapíon, 85106, Greece",3.0,751.0,10,2 ,True,False,False,False,True,False,58.0,False,August,Rhodes
+Acapulco 5,"Afantou, Afantou, 85103, Greece",,568.2242990654205,,,False,False,False,False,True,False,23.0,False,August,Rhodes
+Helios Houses - Ialysos,"14 Agias Ekaterinis Ισόγειο, Ialysos, 85101, Greece",3.0,500.0,,,True,False,False,True,True,False,60.0,True,August,Rhodes
+Bellavista House in Monolithos,"Monolithos, Monólithos, 85108, Greece",3.0,505.33936651583707,,,False,False,False,False,True,False,90.0,False,August,Rhodes
+Casa dei Fagioli,"Ψίνθος, Psinthos, 85100, Greece",3.0,357.0,,,False,False,False,False,False,False,80.0,False,August,Rhodes
+Pavlos Studio,"Kira Tis Ro 13, Rhodes Town, 85132, Greece",3.0,875.5102040816327,,,False,False,False,False,True,False,34.0,False,August,Rhodes
+Katakos Zeus Deluxe Grey Apartment with Spectacular Sea & Mountain View,"Επαρχιακή Οδός Κοσκινού 1ος οροφος, Koskinou, 85100, Greece",,541.1214953271028,9.0,1 ,False,False,False,True,True,False,52.0,False,August,Rhodes
+Villa Nikolaos,"Fanes , Fánai, 85106, Greece",3.0,772.8971962616822,,,False,False,False,False,True,False,86.0,False,August,Rhodes
+Villa Nikolaos 2,"Fanes, Fánai, 85106, Greece",3.0,957.6388888888889,,,False,False,False,False,True,False,100.0,False,August,Rhodes
+"'Core' Modern living apartment, Rhodes Center","Ιωάννου Καζούλη 13, Rhodes Town, 85100, Greece",,952.3364485981308,,,False,False,True,False,True,False,52.0,False,August,Rhodes
+Xenios Zeus Maisonettes Old Town Rhodes,"Fidiou, Rhodes Town, 85100, Greece",,853.2710280373831,8.0, 1 ,True,False,False,False,False,False,40.0,False,August,Rhodes
+Anthi Apartment,"42 Kourvouazier, Rhodes Town, 85100, Greece",,940.1869158878504,,,True,False,False,False,True,False,54.0,False,August,Rhodes
+Oleana City Center,"10 Λάρνακας, Rhodes Town, 85100, Greece",3.0,936.2669683257918,10,1 ,False,False,False,False,False,False,25.0,False,August,Rhodes
+Bella Vista Stegna,"Stegna Beach, Archangelos, 85102, Greece",3.0,360.4166666666667,8.9,206 ,True,False,True,True,True,False,17.0,True,August,Rhodes
+Evaggelia's House in Fanes,"Fanes, Fánai, 85106, Greece",3.0,580.0,,,False,False,False,False,True,False,200.0,False,August,Rhodes
+ASTORIA lindos,"85107, Lindos, 85107, Greece",,576.6355140186915,,,False,False,False,True,False,False,27.0,False,August,Rhodes
+Lux City Apartment,"Rhodes town, Rhodes Town, 85100, Greece",3.0,1148.1770312604147,,,True,False,False,False,True,False,70.0,False,August,Rhodes
+Arch Villa,"Fanes, Fánai, 85106, Greece",3.0,1003.2418952618455,9.4,5 ,False,False,False,True,True,False,75.0,False,August,Rhodes
+helios-rhodos-apartments,"Leoforos Kallitheas, Rhodes Town, 85100, Greece",3.0,325.0053850296176,9.3,6 ,False,False,False,False,True,False,34.0,True,August,Rhodes
+Pals Studios Pefkos,"St Thomas beach rd pefkos Rhodes, Pefki, 85107, Greece",,511.214953271028,8.4, 84 ,False,True,False,True,True,False,20.0,False,August,Rhodes
+Stella Luxury Apartment Kalathos,"Stella Luxury Apartment, Kalathos, 85102, Greece",3.0,541.0184629740719,,,False,False,False,True,True,False,70.0,False,August,Rhodes
+CASA DI RODINI,"108 Λίνδου, Rhodes Town, 85133, Greece",,523.3644859813083,,,False,False,False,True,True,False,90.0,False,August,Rhodes
+Stone Arch,"Επαρχιακή Οδός Μαλώνας, Malona Village, 85102, Greece",3.0,450.69444444444446,,,True,False,False,False,True,False,75.0,False,August,Rhodes
+ΤΟ ΔΙΑΜΕΡΙΣΜΑ ΤΗΣ ΜΑΙΡΗΣ or MARY'S APARTMENT,"Ζερβού Ανθούλας 38, Paradisi, 85106, Greece",,496.2616822429906,10,1 ,False,False,False,False,True,False,86.0,False,August,Rhodes
+Fay's Suites,"7 Dimokratias, Ialysos, 85101, Greece",3.0,300.0,,,False,False,False,True,True,False,30.0,False,August,Rhodes
+Maria's House Gennadi,"Gennadi, Gennadi, 85109, Greece",3.0,481.25216487703494,,,False,False,False,True,False,False,30.0,True,August,Rhodes
+Palma Apartment,"Odos Agioy Nektarioy, Faliraki, 85100, Greece",,500.93457943925233,,,False,False,False,False,True,False,48.0,False,August,Rhodes
+Laurel LK Houses in Kritinia Rhodes,"Kritinia, Kritinía, 85108, Greece",3.0,650.6944444444445,,,False,False,False,False,True,False,48.0,False,August,Rhodes
+casa di vini,"Eleftherias, Kalithies, 85105, Greece",,767.2897196261682,,,False,False,False,False,True,False,79.0,False,August,Rhodes
+Mannas House,"Embonas, Émbonas, 85108, Greece",3.0,663.0,,,False,False,False,False,True,False,58.0,True,August,Rhodes
+Lefteris Apartments in Ialysos Rhodes,"Μυκηνών, Ialysos, 85101, Greece",,396.2616822429906,7.8,13 ,False,False,False,False,True,False,23.0,False,August,Rhodes
+Vivi's holidays home at Stegna,"Stegna, Archangelos, 85102, Greece",,901.8691588785047,,,True,False,False,True,True,False,74.0,True,August,Rhodes
+Amalia's Traditional Home in Paradisi,"1 Zervou, Paradisi, 85106, Greece",,445.7943925233645,10,1 ,False,False,False,False,True,False,73.0,True,August,Rhodes
+Lindos Villa Euphoria,"Λίνδος, Lindos, 85107, Greece",,1280.3738317757009,,,False,False,False,True,False,False,95.0,False,August,Rhodes
+Traditional Thea Home,"Βάτι, Vátion, 85109, Greece",3.0,559.7222222222223,,,False,False,True,True,True,False,40.0,False,August,Rhodes
+VILLA VICTORIA OLD TOWN,"18 Δημοσθενους ΚΤΗΡΙΟ, Rhodes Town, 85100, Greece",,1804.6728971962616,,,False,False,False,True,False,False,162.0,True,August,Rhodes
+La Christine,"Soroni, Soroni, 85106, Greece",3.0,746.0,,,False,False,False,False,True,False,50.0,True,August,Rhodes
+Areti's Traditional house,"Apollona, Apóllona, 85106, Greece",3.0,450.0,9.0,7 ,False,False,False,False,True,False,60.0,False,August,Rhodes
+Pals Studios Pefkos,"St Thomas beach rd pefkos Rhodes, Pefki, 85107, Greece",,511.214953271028,8.4, 84 ,False,True,False,True,True,False,20.0,False,August,Rhodes
+Athinas Art House,"Kolympia, Kolymbia, 85102, Greece",,1190.6542056074766,7.0,1 ,True,True,False,False,True,False,69.0,False,August,Rhodes
+Piazza Masari,"Επαρχιακή Οδός Μασάρων, Haraki, 85102, Greece",,536.4485981308411,8.5, 2 ,False,False,False,True,True,False,60.0,False,August,Rhodes
+Beaver's Nest,"Profilia, Profília, 85109, Greece",3.0,625.6944444444445,,,True,False,False,False,False,False,62.0,False,August,Rhodes
+Exquisite 4-Bedroom Prestige Apartment,"65 Agias Lavras, Rhodes Town, 85100, Greece",3.0,1019.7674418604652,,,True,False,False,True,True,False,140.0,False,August,Rhodes
+Charavgi apartment 2,"1 Νηρηίδων, Kremasti, 85104, Greece",3.0,442.0,,,False,False,False,True,True,False,40.0,False,August,Rhodes
+Sotirakis quadruple room,"EO Rodou Lindou 12, Faliraki, 85105, Greece",3.0,748.8646684831971,,,False,True,False,False,True,False,50.0,False,August,Rhodes
+Charavgi apartment 1,"1 Νηρηίδων, Kremasti, 85104, Greece",3.0,452.8061224489796,,,False,False,False,True,True,False,40.0,False,August,Rhodes
+Alchadef Park Apartment,"4 Solomou Alchadef, Rhodes Town, 85100, Greece",,1042.056074766355,,,True,False,False,False,True,False,49.0,False,August,Rhodes
+(Stoa escape) traditional home,"Ρόδος Αρχάγγελος, Archangelos, 85102, Greece",,526.1682242990654,,,False,False,False,True,True,False,79.0,False,August,Rhodes
+Kremasti Nest,"2 Καναρη, Kremasti, 85104, Greece",,400.93457943925233,9.8,10 ,False,False,False,False,True,False,30.0,False,August,Rhodes
+Auberge 32 Old Town,"Timokreontos 32, Rhodes Town, 85100, Greece",3.0,456.9767441860465,8.5, 250 ,False,False,False,False,False,False,19.0,False,August,Rhodes
+Steve's Beach,"Ermou, Faliraki, 85105, Greece",3.0,496.926087957633,8.0, 137 ,False,False,False,True,True,False,22.0,False,August,Rhodes
+Electra,"Lindos, Lindos, 85109, Greece",3.0,391.0,8.2, 473 ,False,False,False,True,True,False,27.0,False,August,Rhodes

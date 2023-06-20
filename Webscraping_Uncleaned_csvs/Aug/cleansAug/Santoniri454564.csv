@@ -1,0 +1,26 @@
+name,location,stars,amount_conv,Rating,NumReviews,Airport,Pool,Breakfast,Family_Rooms,Parking,Restaurant,size_m2,Pets,Month,Location
+Argonaftes,"Firostefani, Firostefani, 84700, Greece",3.0,556.25,9.6,485 ,True,False,False,False,True,False,18.0,False,August,Santoniri
+Kykladonisia Traditional Settlement,"Fira, Fira, 84700, Greece",3.0,763.0,8.3, 838 ,True,True,False,True,False,False,15.0,False,August,Santoniri
+Arlene Boutique,"Messaria, Mesaria, 84700, Greece",4.0,849.1071428571428,8.9,745 ,True,True,False,False,True,False,25.0,False,August,Santoniri
+Santorini Camping & Hostel,"Firá, Fira, 84700, Greece",,215.8878504672897,6.6,"2,333 ",False,True,True,False,False,True,19.0,False,August,Santoniri
+Aeron Suites,"Vothon, Éxo Goniá, 84700, Greece",,932.7102803738317,9.1,297 ,True,False,True,True,True,False,37.0,True,August,Santoniri
+Zacharo Rooms Thirasia,"Thirasia, Therasia, 84702, Greece",3.0,289.5348837209302,8.2, 186 ,False,False,False,True,True,False,27.0,False,August,Santoniri
+Artemis Village,"Beach, Karterados, 84700, Greece",,626.1682242990654,8.9,990 ,True,True,False,True,True,False,24.0,False,August,Santoniri
+Villa Margarita,"Karterados, Karterados, 84700, Greece",3.0,579.2410714285713,8.7,227 ,True,True,False,True,False,False,25.0,False,August,Santoniri
+Santorini Villatzio Suites,"Messaria, Mesaria, 84700, Greece",3.0,946.5277777777778,8.9,47 ,True,True,False,True,True,False,30.0,False,August,Santoniri
+Emmantina,"messaria, Mesaria, 84700, Greece",,901.8691588785047,9.2,121 ,True,False,False,True,False,False,85.0,False,August,Santoniri
+Aigli Villa,"25 Martiou, Fira, 84700, Greece",3.0,894.0,9.2,216 ,True,False,False,True,False,False,20.0,False,August,Santoniri
+Cal Day Rooms Santorini,"Perissa Santorini, Perissa, 84700, Greece",3.0,640.0,9.4,132 ,True,False,False,False,True,False,18.0,False,August,Santoniri
+Atrium Villa,"Fira, Fira, 84700, Greece",,947.6635514018691,9.9,162 ,True,False,False,True,True,False,35.0,False,August,Santoniri
+Villa Nektaria,"Perissa, Perissa, 84703, Greece",,518.6915887850467,9.4,130 ,True,False,False,False,False,False,18.0,True,August,Santoniri
+Petra Aqua Villa,"santorini perissa 84703, Perissa, 84703, Greece",4.0,801.1904761904763,9.6,101 ,True,True,True,True,True,False,30.0,False,August,Santoniri
+Sagma Beach Rooms,"Perissa Beach, Perissa, 84700, Greece",3.0,718.0,7.8,276 ,True,False,True,True,True,False,15.0,False,August,Santoniri
+Santorini Garden Homes,"Μεσαριά, Mesaria, 84700, Greece",3.0,991.6666666666667,9.1,19 ,True,True,False,True,True,False,30.0,False,August,Santoniri
+Agrilia secluded cave house,"Επαρχιακή Οδός Θηρασιάς-Αγριλια Αγριλια, Therasia, 84702, Greece",,893.4579439252336,9.9,15 ,False,False,False,False,False,False,69.0,True,August,Santoniri
+Mandilaria Studios,"Perivolos, Perivolos, 84700, Greece",3.0,785.0,9.3,175 ,True,False,False,False,True,False,20.0,False,August,Santoniri
+Pension St.George Rooms & Studios,"Perivolos-Perissa Beach Road, Perivolos, 84703, Greece",,345.7943925233645,5.5,95 ,True,False,False,False,True,False,18.0,False,August,Santoniri
+Evelina Pension!,"Perissa, Perissa, 84703, Greece",,742.0560747663551,8.6,254 ,True,False,False,True,False,False,19.0,False,August,Santoniri
+The Fisherman's House Santorini,"Akrotiri, Akrotiri, 84700, Greece",4.0,763.0,9.3,280 ,True,True,True,False,True,False,30.0,False,August,Santoniri
+Buganvillas House,"Πύργος Καλλίστη Θήρας Τ.Θ. 2048, Pyrgos, 84700, Greece",,812.1495327102804,9.8,5 ,False,False,False,True,False,False,35.0,False,August,Santoniri
+Divelia Hotel,"Perissa, Perissa, 84700, Greece",,994.3925233644859,8.7,425 ,True,True,True,True,True,False,15.0,False,August,Santoniri
+Grande Murano,"25 Martiou, Fira, 84700, Greece",3.0,670.0,6.3,435 ,True,True,False,True,True,True,20.0,False,August,Santoniri
